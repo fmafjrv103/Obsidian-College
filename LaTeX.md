@@ -151,6 +151,22 @@ $\sum_{\mathclap{1\le i\le j\le n}} x_{ij}$
 | $\ker$    | `\ker`    | $\lg$     | `\lg`     | $\lim$    | `\lim`    | $\liminf$ | `\liminf` |
 | $\limsup$ | `\limsup` | $\ln$     | `\ln`     | $\log$    | `\log`    | $\max$    | `\max`    |
 | $\min$    | `\min`    | $\Pr$     | `\Pr`     | $\sec$    | `\sec`    | $\sin$    | `\sin`    |
-| $\sinh$   | `\sinh`   | $\sup$    | `\sup`    | $\tan$    | `\tan`    |           | `\tanh`   |
+| $\sinh$   | `\sinh`   | $\sup$    | `\sup`    | $\tan$    | `\tan`    | $\tanh$   | `\tanh`   |
+#### Function names should be in roman font, not italics, for example:
+
+|            |                 |                     |                 |
+| ---------- | --------------- | ------------------- | --------------- |
+| Correct:   | `\tan(at-n\pi)` | →→                  | $\tan(at-n\pi)$ |
+| Incorrect: | `tan(at-n\pi)`  | `katex:\rightarrow` | $tan(at-n\pi)$  |
+# Logic And Set Theory 
+|            |            |     |               |     |                   |     |                   |
+| ---------- | ---------- | --- | ------------- | --- | ----------------- | --- | ----------------- |
+| $\forall$  | `\forall`  |     | `\complement` |     | `\therefore`      |     | `\emptyset`       |
+| $\exists$  | `\exists`  |     | `\subset`     |     | `\because`        |     | `\empty`          |
+| $\exist$   | `\exist`   |     | `\supset`     |     | `\mapsto`         |     | `\varnothing`     |
+| $\nexists$ | `\nexists` |     | `\mid`        |     | `\to`             |     | `\implies`        |
+| $\$        | `\in`      |     | `\land`       |     | `\gets`           |     | `\impliedby`      |
+|            | `\isin`    |     | `\lor`        |     | `\leftrightarrow` |     | `\iff`            |
+|            | `\notin`   |     | `\ni`         |     | `\notni`          |     | `\neg` or `\lnot` |
 
 ---
