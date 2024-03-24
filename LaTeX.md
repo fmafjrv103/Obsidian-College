@@ -134,11 +134,13 @@ $\sum_{\mathclap{1\le i\le j\le n}} x_{ij}$
 | $⟦ ⟧$                  | `⟦ ⟧`                       |                    |                     |
 # Variable Size Symbols
 
-| preview | method    | preview | method  | preview | method      | preview | method       | preview | method      |     |
-| ------- | --------- | ------- | ------- | ------- | ----------- | ------- | ------------ | ------- | ----------- | --- |
-| $\sum$  | `\sum`    | ∫∫      | `\int`  | ⨄⨄      | `\biguplus` | ⨁⨁      | `\bigoplus`  | ⋁⋁      | `\bigvee`   |     |
-|         | `\prod`   | ∮∮      | `\oint` | ⋂⋂      | `\bigcap`   | ⨂⨂      | `\bigotimes` | ⋀⋀      | `\bigwedge` |     |
-| ∐∐      | `\coprod` | ∬∬      | `\iint` | ⋃⋃      | `\bigcup`   | ⨀⨀      | `\bigodot`   | ⨀⨀      | `\bigodot`  |     |
+| preview     | method      | preview      | method       | preview    | method     |
+| ----------- | ----------- | ------------ | ------------ | ---------- | ---------- |
+| $\biguplus$ | `\biguplus` | $\sum$       | `\sum`       | $\int$     | `\int`     |
+| $\bigcap$   | `\bigcap`   | $\prod$      | `\prod`      | $\oint$    | `\oint`    |
+| $\bigcup$   | `\bigcup`   | $\coprod$    | `\coprod`    | $\iint$    | `\iint`    |
+| $\bigvee$   | `\bigvee`   | $\bigoplus$  | `\bigoplus`  | $\bigodot$ | `\bigodot` |
+| $\bigwedge$ | `\bigwedge` | $\bigotimes$ | `\bigotimes` |            |            |
 
 
 ---
