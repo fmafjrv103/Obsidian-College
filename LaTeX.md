@@ -159,17 +159,17 @@ $\sum_{\mathclap{1\le i\le j\le n}} x_{ij}$
 | Correct:   | `\tan(at-n\pi)` | →→                  | $\tan(at-n\pi)$ |
 | Incorrect: | `tan(at-n\pi)`  | `katex:\rightarrow` | $tan(at-n\pi)$  |
 # Logic And Set Theory 
-|            |            |               |               |                   |                   |                   |                   |
-| ---------- | ---------- | ------------- | ------------- | ----------------- | ----------------- | ----------------- | ----------------- |
-| $\forall$  | `\forall`  | $\complement$ | `\complement` | $\therefore$      | `\therefore`      | $\emptyset$       | `\emptyset`       |
-| $\exists$  | `\exists`  | $\subset$     | `\subset`     | $\because$        | `\because`        |                   |                   |
-|            |            | $\supset$     | `\supset`     | $\mapsto$         | `\mapsto`         | $\varnothing$     | `\varnothing`     |
-| $\nexists$ | `\nexists` | $\mid$        | `\mid`        | $\to$             | `\to`             | $\implies$        | `\implies`        |
-| $\in$      | `\in`      | $\land$       | `\land`       | $\gets$           | `\gets`           | $\impliedby$      | `\impliedby`      |
-|            |            | $\lor$        | `\lor`        | $\leftrightarrow$ | `\leftrightarrow` | $\iff$            | `\iff`            |
-| $\notin$   | `\notin`   | $\ni$         | `\ni`         |                   |                   | $\neg$ or $\lnot$ | `\neg` or `\lnot` |
-|            |            |               |               |                   |                   |                   |                   |
-|            |            |               |               |                   |                   |                   |                   |
-|            |            |               |               |                   |                   |                   |                   |
+|               |                          |                  |               |                   |                   |
+| ------------- | ------------------------ | ---------------- | ------------- | ----------------- | ----------------- |
+| $\forall$     | `\forall`                | $\complement$    | `\complement` | $\therefore$      | `\therefore`      |
+| $\exists$     | `\exists`                | $\subset$        | `\subset`     | $\because$        | `\because`        |
+| $\nexists$    | `\nexists`               | $\supset$        | `\supset`     | $\mapsto$         | `\mapsto`         |
+| $\in$         | `\in`                    | $\mid$           | `\mid`        | $\to$             | `\to`             |
+| $\notin$      | `\notin`                 | $\land$          | `\land`       | $\gets$           | `\gets`           |
+| $\ni$         | `\ni`                    | $\lor$           | `\lor`        | $\leftrightarrow$ | `\leftrightarrow` |
+| $\emptyset$   | `\emptyset`              | $\implies$       | `\implies`    | $\iff$            | `\iff`            |
+| $\varnothing$ | `\varnothing`            | $\impliedby$     | `\impliedby`  | $\neg$ or $\lnot$ | `\neg` or `\lnot` |
+|               |                          |                  |               |                   |                   |
+| {x​x<21​}     | \Set{ x \| x<\frac 1 2 } | { �∥�<5 }{x∥x<5} | \set{x\|x<5}  |                   |                   |
 
 ---
