@@ -116,7 +116,16 @@ $\sum_{\mathclap{1\le i\le j\le n}} x_{ij}$
 | $f'$               | `f'`              | $\underline{abc}$ | `\underline{abc}` | $\overleftarrow{abc}$  | `\overleftarrow{abc}`  |
 | $\sqrt{abc}$       | `\sqrt{abc}`      | $\widehat{abc}$   | `\widehat{abc}`   | $\overbrace{abc}$      | `\overbrace{abc}`      |
 | $\sqrt[n]{abc}$    | `\sqrt[n]{abc}`   | $\widetilde{abc}$ | `\widetilde{abc}` | $\underbrace{abc}$     | `\underbrace{abc}`     |
-
-
+# Delimiter
+| preview                   | method            | preview | method              | preview | method   | preview | method                      | preview                 | method            |                |
+| ------------------------- | ----------------- | ------- | ------------------- | ------- | -------- | ------- | --------------------------- | ----------------------- | ----------------- | -------------- |
+| $( )$                     | `()`              | ()()    | `\lparen` `\rparen` | ⌈⌉⌈⌉    | `⌈ ⌉`    | ⌈⌉⌈⌉    | `\lceil` `\rceil`           | ↑↑                      | `\uparrow`        |                |
+| $[ ]$                     | `[]`              | [][]    | `\lbrack` `\rbrack` | ⌊⌋⌊⌋    | `⌊ ⌋`    | ⌊⌋⌊⌋    | `\lfloor` `\rfloor`         | ↓↓                      | `\downarrow`      |                |
+| ${ }$                     | `{}`              | {}{}    | `\lbrace` `\rbrace` | ⎰⎱⎰⎱    | `⎰⎱`     | ⎰⎱⎰⎱    | `\lmoustache` `\rmoustache` | ↕↕                      | `\updownarrow`    |                |
+| $⟨⟩$                      | `⟨⟩`              | ⟨⟩⟨⟩    | `\langle` `\rangle` | ⟮⟯⟮⟯    | `⟮ ⟯`    | ⟮⟯⟮⟯    | `\lgroup` `\rgroup`         | ⇑⇑                      | `\Uparrow`        |                |
+| $'\\$                     | `\\               | `       | ∣∣                  | `\vert` | ┌┐┌┐     | `┌ ┐`   | ┌┐                          | `\ulcorner` `\urcorner` | ⇓⇓                | `\Downarrow`   |
+| ∥∥ _(MD syntax conflict)_ | `\\               | `       | ∥∥                  | `\Vert` | └┘└┘     | `└ ┘`   | └┘                          | `\llcorner` `\lrcorner` | ⇕⇕                | `\Updownarrow` |
+| $\lvert{}\rvert$          | `\lvert` `\rvert` | ∥∥∥∥    | `\lVert` `\rVert`   |         | `\left.` |         | `\right.`                   | \\                      | `\backslash`      |                |
+| $\lang{\rang$             | `\lang` `\rang`   | <><>    | `\lt \gt`           | ⟦⟧[[]]  | `⟦ ⟧`    | ⟦⟧[[]]  | `\llbracket` `\rrbracket`   | ⦃⦄{[]}                  | `\lBrace \rBrace` |                |
 
 ---
