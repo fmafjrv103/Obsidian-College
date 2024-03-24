@@ -27,21 +27,19 @@ Example: `KaTeX:\int_0^\infty x^2 dx`
 Example based on KaTeX showing in one line: $\int_0^\infty x^2 dx$ 
 # Supported Functions
 ## Accents
-| $a'$`a'`                           | $\tilde{a}$`\tilde{a}`                               |
-| ---------------------------------- | ---------------------------------------------------- |
-| $a''$`a''`                         | $\widetilde{ac}$`\widetilde{ac}`                     |
-| $a^{\prime}$`a^{\prime}`           | $\mathring{g}$`\mathring{g}`                         |
-| $\acute{a}$`\acute{a}`             | $\vec{F}$`\vec{F}`                                   |
-| $\bar{y}$​`\bar{y}`                | $\overleftarrow{AB}$`\overleftarrow{AB}`             |
-| $\breve{a}$`\breve{a}`             | $\underleftarrow{AB}$`\underleftarrow{AB}`           |
-| $\check{a}$`\check{a}`             | $\overrightarrow{AB}$`\overrightarrow{AB}`           |
-| $\dot{a}$`\dot{a}`                 | $\underrightarrow{AB}$`\underrightarrow{AB}`         |
-| $\ddot{a}$`\ddot{a}`               | $\overleftrightarrow{AB}$`\overleftrightarrow{AB}`   |
-| $\grave{a}$`\grave{a}`             | $\underleftrightarrow{AB}$`\underleftrightarrow{AB}` |
-| $\hat{\theta}$`\hat{\theta}`       | $\overline{AB}$`\overline{AB}`                       |
-| $\widehat{ac}$`\widehat{ac}`       | $\underline{AB}$`\underline{AB}`                     |
-| $\overbrace{AB}$`\overbrace{AB}`   |                                                      |
-| $\underbrace{AB}$`\underbrace{AB}` |                                                      |
+| $a'$`a'`                     | $\tilde{a}$`\tilde{a}`                               |
+| ---------------------------- | ---------------------------------------------------- |
+| $a''$`a''`                   | $\widetilde{ac}$`\widetilde{ac}`                     |
+| $a^{\prime}$`a^{\prime}`     | $\mathring{g}$`\mathring{g}`                         |
+| $\acute{a}$`\acute{a}`       | $\vec{F}$`\vec{F}`                                   |
+| $\bar{y}$​`\bar{y}`          | $\overleftarrow{AB}$`\overleftarrow{AB}`             |
+| $\breve{a}$`\breve{a}`       | $\underleftarrow{AB}$`\underleftarrow{AB}`           |
+| $\check{a}$`\check{a}`       | $\overrightarrow{AB}$`\overrightarrow{AB}`           |
+| $\dot{a}$`\dot{a}`           | $\underrightarrow{AB}$`\underrightarrow{AB}`         |
+| $\ddot{a}$`\ddot{a}`         | $\overleftrightarrow{AB}$`\overleftrightarrow{AB}`   |
+| $\grave{a}$`\grave{a}`       | $\underleftrightarrow{AB}$`\underleftrightarrow{AB}` |
+| $\hat{\theta}$`\hat{\theta}` | $\overline{AB}$`\overline{AB}`                       |
+| $\widehat{ac}$`\widehat{ac}` | $\underline{AB}$`\underline{AB}`                     |
 
 ## Delimiter Sizing
 | $\left(\LARGE{AB}\right)$     | `\left(\LARGE{AB}\right)`     |
@@ -55,23 +53,19 @@ Example based on KaTeX showing in one line: $\int_0^\infty x^2 dx$
 | `\right`  | `\bigg` | `\biggl` | `\biggm` | `\biggr` |
 | `\`       | `\Bigg` | `\Biggl` | `\Biggm` | `\Biggr` |
 ## Greek and Hebrew Letters
-| `\alpha`   | $\kappa$  | `\kappa`  | $\psi$     | `\psi`     | $\digamma$    | `\digamma`    |
-| ---------- | --------- | --------- | ---------- | ---------- | ------------- | ------------- |
-| `\beta`    | $\lambda$ | `\lambda` | $\rho$     | `\rho`     | $\varepsilon$ | `\varepsilon` |
-| `\chi`     | $\mu$     | `\mu`     | $\sigma$   | `\sigma`   | $\varkappa$   | `\varkappa`   |
-| `\delta`   | $\nu$     | `\nu`     | $\tau$     | `\tau`     | $\varphi$     | `\varphi`     |
-| `\epsilon` | $o$       | `o`       | $\theta$   | `\theta`   | $\varpi$      | `\varpi`      |
-| `\eta`     | $\omega$  | `\omega`  | $\upsilon$ | `\upsilon` | $\varrho$     | `\varrho`     |
-| `\gamma`   | $\phi$    | `\phi`    | $\xi$      | `\xi`      | $\varsigma$   | `\varsigma`   |
-| `\iota`    | $\pi$     | `\pi`     | $\zeta$    | `\zeta`    | $\vartheta$   | `\vartheta`   |
-|            |           |           |            |            |               |               |
-|            |           |           |            |            |               |               |
-|            |           |           |            |            |               |               |
-|            |           |           |            |            |               |               |
-|            |           |           |            |            |               |               |
-|            |           |           |            |            |               |               |
-|            |           |           |            |            |               |               |
-|            |           |           |            |            |               |               |
+|  $\alpha$  | `\alpha`   | $\kappa$   | `\kappa`   | $\psi$     | `\psi`     | $\digamma$    | `\digamma`    |
+|:----------:| ---------- | ---------- | ---------- | ---------- | ---------- | ------------- | ------------- |
+|  $\beta$   | `\beta`    | $\lambda$  | `\lambda`  | $\rho$     | `\rho`     | $\varepsilon$ | `\varepsilon` |
+|   $\chi$   | `\chi`     | $\mu$      | `\mu`      | $\sigma$   | `\sigma`   | $\varkappa$   | `\varkappa`   |
+|  $\delta$  | `\delta`   | $\nu$      | `\nu`      | $\tau$     | `\tau`     | $\varphi$     | `\varphi`     |
+| $\epsilon$ | `\epsilon` | $o$        | `o`        | $\theta$   | `\theta`   | $\varpi$      | `\varpi`      |
+|   $\eta$   | `\eta`     | $\omega$   | `\omega`   | $\upsilon$ | `\upsilon` | $\varrho$     | `\varrho`     |
+|  $\gamma$  | `\gamma`   | $\phi$     | `\phi`     | $\xi$      | `\xi`      | $\varsigma$   | `\varsigma`   |
+|  $\iota$   | `\iota`    | $\pi$      | `\pi`      | $\zeta$    | `\zeta`    | $\vartheta$   | `\vartheta`   |
+|  $\Delta$  | `\Delta`   | $\Theta$   | `\Theta`   | $\Phi$     | `\Phi`     | $\aleph$      | `\aleph`      |
+|  $\Gamma$  | `\Gamma`   | $\Upsilon$ | `\Upsilon` | $\Pi$      | `\Pi`      | $\beth$       | `\beth`       |
+| $\lambda$  | `\Lambda`  | $\Xi$      | `\Xi`      | $\Psi$     | `\Psi`     | $\daleth$     | `\daleth`     |
+|  $\Omega$  | `\Omega`   | $\gimel$   | `\gimel`   | $\Sigma$   | `\Sigma`   |               |               |
 
 ### Other letters
 
