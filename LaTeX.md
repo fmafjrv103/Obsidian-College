@@ -159,14 +159,17 @@ $\sum_{\mathclap{1\le i\le j\le n}} x_{ij}$
 | Correct:   | `\tan(at-n\pi)` | →→                  | $\tan(at-n\pi)$ |
 | Incorrect: | `tan(at-n\pi)`  | `katex:\rightarrow` | $tan(at-n\pi)$  |
 # Logic And Set Theory 
-|            |            |     |               |     |                   |     |                   |
-| ---------- | ---------- | --- | ------------- | --- | ----------------- | --- | ----------------- |
-| $\forall$  | `\forall`  |     | `\complement` |     | `\therefore`      |     | `\emptyset`       |
-| $\exists$  | `\exists`  |     | `\subset`     |     | `\because`        |     | `\empty`          |
-| $\exist$   | `\exist`   |     | `\supset`     |     | `\mapsto`         |     | `\varnothing`     |
-| $\nexists$ | `\nexists` |     | `\mid`        |     | `\to`             |     | `\implies`        |
-| $\$        | `\in`      |     | `\land`       |     | `\gets`           |     | `\impliedby`      |
-|            | `\isin`    |     | `\lor`        |     | `\leftrightarrow` |     | `\iff`            |
-|            | `\notin`   |     | `\ni`         |     | `\notni`          |     | `\neg` or `\lnot` |
+|            |            |               |               |                   |                   |                   |                   |
+| ---------- | ---------- | ------------- | ------------- | ----------------- | ----------------- | ----------------- | ----------------- |
+| $\forall$  | `\forall`  | $\complement$ | `\complement` | $\therefore$      | `\therefore`      | $\emptyset$       | `\emptyset`       |
+| $\exists$  | `\exists`  | $\subset$     | `\subset`     | $\because$        | `\because`        |                   |                   |
+|            |            | $\supset$     | `\supset`     | $\mapsto$         | `\mapsto`         | $\varnothing$     | `\varnothing`     |
+| $\nexists$ | `\nexists` | $\mid$        | `\mid`        | $\to$             | `\to`             | $\implies$        | `\implies`        |
+| $\in$      | `\in`      | $\land$       | `\land`       | $\gets$           | `\gets`           | $\impliedby$      | `\impliedby`      |
+|            |            | $\lor$        | `\lor`        | $\leftrightarrow$ | `\leftrightarrow` | $\iff$            | `\iff`            |
+| $\notin$   | `\notin`   | $\ni$         | `\ni`         |                   |                   | $\neg$ or $\lnot$ | `\neg` or `\lnot` |
+|            |            |               |               |                   |                   |                   |                   |
+|            |            |               |               |                   |                   |                   |                   |
+|            |            |               |               |                   |                   |                   |                   |
 
 ---
