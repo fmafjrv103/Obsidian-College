@@ -179,20 +179,21 @@ $\sum_{\mathclap{1\le i\le j\le n}} x_{ij}$
 | $\bra{\phi}$ | `\bra{\phi}` | $\ket{\psi}$ | `\ket{\psi}` | $\braket{\phi\\\|\psi}$                    | `\braket{\phi\\\|\psi}`                    |
 | $\Bra{\phi}$ | `\Bra{\phi}` | $\Ket{\psi}$ | `\Ket{\psi}` | $\Braket{ ϕ \\\|\frac{∂^2}{∂ t^2} \\\|ψ }$ | `\Braket{ ϕ \\\|\frac{∂^2}{∂ t^2} \\\|ψ }` |
 # Mathematical operator
-|           |           |           |           |            |            |     |                     |
-| --------- | --------- | --------- | --------- | ---------- | ---------- | --- | ------------------- |
-| $\arcsin$ | `\arcsin` |           |           | $\deg$     | `\deg`     |     | `\sec`              |
-| $\arccos$ | `\arccos` | $\cosh$   | `\cosh`   | $\dim$     | `\dim`     |     | `\sin`              |
-| $\arctan$ | `\arctan` | $\cot$    | `\cot`    | $\exp$     | `\exp`     |     | `\sinh`             |
-|           |           |           |           | $\hom$     | `\hom`     |     | `\sh`               |
-|           |           | $\coth$   | `\coth`   | $\ker$     | `\ker`     |     | `\tan`              |
-| $\arg$    | `\arg`    | $\csc$    | `\csc`    | $\lg$      | `\lg`      |     | `\tanh`             |
-|           |           |           |           | $\ln$      | `\ln`      |     | `\tg`               |
-| $\cos$    | `\cos`    |           |           | $\log$     | `\log`     |     | `\th`               |
-|           |           | $\injlim$ | `\injlim` | $\min$     | `\min`     |     | `\varinjlim`        |
-|           |           | $\lim$    | `\lim`    | $\plim$    | `\plim`    |     | `\varliminf`        |
-| $\det$    | `\det`    | $\liminf$ | `\liminf` | $\Pr$      | `\Pr`      |     | `\varlimsup`        |
-| $\gcd$    | `\gcd`    | $\limsup$ | `\limsup` | $\projlim$ | `\projlim` |     | `\varprojlim`       |
-| $\inf$    | `\inf`    | $\max$    | `\max`    | $\$        | `\sup`     |     | `\operatorname*{f}` |
+|           |           |           |           |                     |                     |
+| --------- | --------- | --------- | --------- | ------------------- | ------------------- |
+| $\arcsin$ | `\arcsin` | $\injlim$ | `\injlim` | $\min$              | `\min`              |
+| $\arccos$ | `\arccos` | $\lim$    | `\lim`    | $\Pr$               | `\Pr`               |
+| $\arctan$ | `\arctan` | $\liminf$ | `\liminf` | $\projlim$          | `\projlim`          |
+| $\cosh$   | `\cosh`   | $\limsup$ | `\limsup` | $\sup$              | `\sup`              |
+| $\cot$    | `\cot`    | $\max$    | `\max`    | $\sec$              | `\sec`              |
+| $\arg$    | `\arg`    | $\deg$    | `\deg`    | $\sin$              | `\sin`              |
+| $\tan$    | `\tan`    | $\dim$    | `\dim`    | $\sinh$             | `\sinh`             |
+| $\cos$    | `\cos`    | $\exp$    | `\exp`    | $\tanh$             | `\tanh`             |
+| $\coth$   | `\coth`   | $\hom$    | `\hom`    | $\varinjlim$        | `\varinjlim`        |
+| $\csc$    | `\csc`    | $\ker$    | `\ker`    | $\varliminf$        | `\varliminf`        |
+| $\det$    | `\det`    | $\lg$     | `\lg`     | $\varlimsup$        | `\varlimsup`        |
+| $\gcd$    | `\gcd`    | $\ln$     | `\ln`     | $\varprojlim$       | `\varprojlim`       |
+| $\inf$    | `\inf`    | $\log$    | `\log`    | $\operatorname*{f}$ | `\operatorname*{f}` |
+
 
 ---
