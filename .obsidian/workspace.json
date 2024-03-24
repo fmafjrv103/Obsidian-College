@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -246,7 +245,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "142679d088274289",
+  "active": "f7426e4777903a91",
   "lastOpenFiles": [
     "Media/GitHub Desktop.app/Contents/Resources/app/git/share/git-core/templates/info/exclude",
     "Media/GitHub Desktop.app/Contents/Resources/app/git/share/git-core/templates/hooks/update.sample",
