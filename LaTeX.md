@@ -198,12 +198,12 @@ $\sum_{\mathclap{1\le i\le j\le n}} x_{ij}$
 - Example 1 Array
 	```latex
 \def\arraystretch{1.5}
-	   \begin{array}{c:c:c}
-	   a & b & c \\ \hline
-	   d & e & f \\
-	   \hdashline
-	   g & h & i
-	\end{array}
+   \begin{array}{c:c:c}
+   a & b & c \\ \hline
+   d & e & f \\
+   \hdashline
+   g & h & i
+\end{array}
 	```
 $$\def\arraystretch{1.5}
    \begin{array}{c:c:c}
@@ -221,5 +221,12 @@ $$
 \end{bmatrix}
 
 ```
+$$
+\begin{bmatrix}
+   a & b \\
+   c & d
+\end{bmatrix}
+$$
+
 
 ---
