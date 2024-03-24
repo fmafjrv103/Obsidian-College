@@ -1,0 +1,12 @@
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Media",
+  "newFileLocation": "current",
+  "livePreview": true,
+  "promptDelete": false,
+  "vimMode": false,
+  "showLineNumber": false,
+  "foldHeading": false,
+  "foldIndent": false,
+  "showUnsupportedFiles": true
+}
