@@ -15,10 +15,10 @@ $\LaTeX$ – A TEX-Based typesetting system suitable for producing scientific, m
 And KaTeX handles only a smaller subset of LaTeX’s mathematical notation for display on the web.
 # Example
 $$
-f(x)=\int_{-\infty}^{\infty}f\hat\xi\,e^{s\pi i \xi x}\,d\xi
+f(x)=\displaystyle\int_{-\infty}^{\infty}f\hat\xi\,e^{s\pi i \xi x}\,d\xi
 $$
 ```latex
-f(x)=\int_{-\infty}^{\infty}f\hat\xi\,e^{s\pi i \xi x}\,d\xi
+f(x)=\displaystyle\int_{-\infty}^{\infty}f\hat\xi\,e^{s\pi i \xi x}\,d\xi
 ```
 # Inline
 Based on KaTeX in one line 
