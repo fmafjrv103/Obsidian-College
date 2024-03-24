@@ -6,6 +6,8 @@ tags:
 Links: [[Obsidian MOC]]
 
 ---
-# Bi-d
+# Bi-Directional linking
+# Benefits to using Obsidian
+- 
 
 ---
