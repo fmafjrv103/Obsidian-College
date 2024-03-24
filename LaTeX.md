@@ -15,7 +15,7 @@ $\LaTeX$ – A TEX-Based typesetting system suitable for producing scientific, m
 And KaTeX handles only a smaller subset of LaTeX’s mathematical notation for display on the web.
 # Example
 $$
-f(x)=\displaystyle\int_{-\infty}^{\infty}f\hat\xi\,e^{s\pi i \xi x}\,d\xi
+f(x)=\large\displaystyle\int_{\large-\infty}^{\large\infty}\large f\hat\xi\,e^{\Large s\pi i \xi x}\,\large d\xi
 $$
 ```latex
 f(x)=\displaystyle\int_{-\infty}^{\infty}f\hat\xi\,e^{s\pi i \xi x}\,d\xi
@@ -194,6 +194,8 @@ $\sum_{\mathclap{1\le i\le j\le n}} x_{ij}$
 | $\det$    | `\det`    | $\lg$     | `\lg`     | $\varlimsup$        | `\varlimsup`        |
 | $\gcd$    | `\gcd`    | $\ln$     | `\ln`     | $\varprojlim$       | `\varprojlim`       |
 | $\inf$    | `\inf`    | $\log$    | `\log`    | $\operatorname*{f}$ | `\operatorname*{f}` |
-
+# Examples
+- Example 1
+	- $$$$
 
 ---
