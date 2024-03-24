@@ -134,4 +134,11 @@ $\sum_{\mathclap{1\le i\le j\le n}} x_{ij}$
 | $⟦ ⟧$                  | `⟦ ⟧`                       |                    |                     |
 # Variable Size Symbols
 
+| preview | method    | preview | method  | preview | method      | preview | method       | preview | method      |     |
+| ------- | --------- | ------- | ------- | ------- | ----------- | ------- | ------------ | ------- | ----------- | --- |
+| $\sum$  | `\sum`    | ∫∫      | `\int`  | ⨄⨄      | `\biguplus` | ⨁⨁      | `\bigoplus`  | ⋁⋁      | `\bigvee`   |     |
+|         | `\prod`   | ∮∮      | `\oint` | ⋂⋂      | `\bigcap`   | ⨂⨂      | `\bigotimes` | ⋀⋀      | `\bigwedge` |     |
+| ∐∐      | `\coprod` | ∬∬      | `\iint` | ⋃⋃      | `\bigcup`   | ⨀⨀      | `\bigodot`   | ⨀⨀      | `\bigodot`  |     |
+
+
 ---
