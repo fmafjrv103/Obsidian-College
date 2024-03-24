@@ -72,16 +72,16 @@ Example based on KaTeX showing in one line: $\int_0^\infty x^2 dx$
 
 ### Other letters
 
-| $\imath$   | `\imath`   | $\nabla$   | `\nabla`   | $\Im$      | `\Im`      | $\Reals$     | `\Reals`     | $\text{\OE}$ | `\text{\OE}` |
-| ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ------------ | ------------ | ------------ | ------------ |
-| $\jmath$   | `\jmath`   | $\partial$ | `\partial` | $\image$   | `\image`   | $\wp$        | `\wp`        | $\text{\o}$  | `\text{\o}`  |
-| $\aleph$   | `\aleph`   | $\Game$    | `\Game`    | $\Bbbk$    | `\Bbbk`    | $\weierp$    | `\weierp`    | $\text{\O}$  | `\text{\O}`  |
-| $\alef$    | `\alef`    | $\Finv$    | `\Finv`    | $\N$       | `\N`       | $\Z$         | `\Z`         | $\text{\ss}$ | `\text{\ss}` |
-| $\alefsym$ | `\alefsym` | $\cnums$   | `\cnums`   | $\natnums$ | `\natnums` | $\text{\aa}$ | `\text{\aa}` | $\text{\i}$  | `\text{\i}`  |
-| $\beth$    | `\beth`    | $\Complex$ | `\Complex` | $\R$       | `\R`       | $\text{\AA}$ | `\text{\AA}` | $\text{\j}$  | `\text{\j}`  |
-| $\gimel$   | `\gimel`   | $\ell$     | `\ell`     | $\Re$      | `\Re`      | $\text{\ae}$ | `\text{\ae}` |              |              |
-| $\deleth$  | `\daleth`  | $\hbar$    | `\hbar`    | $\real$    | `\real`    | $\text{\AE}$ | `\text{\AE}` |              |              |
-| $\eth$     | `\eth`     | $\hslash$  | `\hslash`  | $\reals$   | `\reals`   | $\text{\oe}$ | `\text{\oe}` |              |              |
+| $\imath$   | `\imath`   | $\Im$     | `\Im`     |
+| ---------- | ---------- | --------- | --------- |
+| $\jmath$   | `\jmath`   | $\wp$     | `\wp`     |
+| $\aleph$   | `\aleph`   | $\Bbbk$   | `\Bbbk`   |
+| $\nabla$   | `\nabla`   | $\Finv$   | `\Finv`   |
+| $\partial$ | `\partial` | $\Re$     | `\Re`     |
+| $\beth$    | `\beth`    | $\ell$    | `\ell`    |
+| $\gimel$   | `\gimel`   | $\hbar$   | `\hbar`   |
+| $\Game$    | `\Game`    | $\hslash$ | `\hslash` |
+| $\eth$     | `\eth`     |           |           |
 ## Annotation
 |                     |                     |                                    |                                    |
 | ------------------- | ------------------- | ---------------------------------- | ---------------------------------- |
@@ -96,12 +96,12 @@ $\tag{hi} x+y^{2x}$
 `\tag*{hi} x+y^{2x}`
 $\tag*{hi} x+y^{2x}$
 # Vertical Layout
-|                                  |                                  |                   |                   |                                                         |                                                       |
-| -------------------------------- | -------------------------------- | ----------------- | ----------------- | ------------------------------------------------------- | ----------------------------------------------------- |
-| $x_n$​                           | `x_n`                            | $\stackel{!}{=}$  | `\stackrel{!}{=}` | $a\atop b$                                              | `a \atop b`                                           |
-| $e^x$                            | `e^x`                            | $\overset{!}{=}$  | `\overset{!}{=}`  | $a\raisebox{0.25em}{\$b\$}c$                            | `a\raisebox{0.25em}{$b$}c`                            |
-| $_u^o$                           | `_u^o`                           | $\underset{!}{=}$ | `\underset{!}{=}` | $a+\left(\vcenter{\hbox{\$\frac{\frac a b}c\$}}\right)$ | `a+\left(\vcenter{\hbox{$\frac{\frac a b}c$}}\right)` |
-| $\sum_{\substack{0<i<m\\0<j<n}}$ | `\sum_{\substack{0<i<m\\0<j<n}}` |                   |                   |                                                         |                                                       |
+|                                  |                                  |                   |                   |            |                                                       |
+| -------------------------------- | -------------------------------- | ----------------- | ----------------- | ---------- | ----------------------------------------------------- |
+| $x_n$​                           | `x_n`                            |                   | `\stackrel{!}{=}` | $a\atop b$ | `a \atop b`                                           |
+| $e^x$                            | `e^x`                            | $\overset{!}{=}$  | `\overset{!}{=}`  |            | `a\raisebox{0.25em}{$b$}c`                            |
+| $_u^o$                           | `_u^o`                           | $\underset{!}{=}$ | `\underset{!}{=}` |            | `a+\left(\vcenter{\hbox{$\frac{\frac a b}c$}}\right)` |
+| $\sum_{\substack{0<i<m\\0<j<n}}$ | `\sum_{\substack{0<i<m\\0<j<n}}` |                   |                   |            |                                                       |
 # Overlap and Spacing
 |                                     |                              |                            |
 | ----------------------------------- | ---------------------------- | -------------------------- |
