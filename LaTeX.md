@@ -112,15 +112,22 @@ $\sum_{\mathclap{1\le i\le j\le n}} x_{ij}$
 | $\sqrt{abc}$       | `\sqrt{abc}`      | $\widehat{abc}$   | `\widehat{abc}`   | $\overbrace{abc}$      | `\overbrace{abc}`      |
 | $\sqrt[n]{abc}$    | `\sqrt[n]{abc}`   | $\widetilde{abc}$ | `\widetilde{abc}` | $\underbrace{abc}$     | `\underbrace{abc}`     |
 # Delimiter
-| preview          | method                                                                                                                                                                 | method              | preview | method | preview                | method                      | preview        | method            |     |
-| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------- | ------ | ---------------------- | --------------------------- | -------------- | ----------------- | --- |
-| $( )$            | `()`                                                                                                                                                                   | `\lparen` `\rparen` | $⌈ ⌉$   | `⌈ ⌉`  | ⌈⌉⌈⌉                   | `\lceil` `\rceil`           | $\uparrow$     | `\uparrow`        |     |
-| $[ ]$            | `[]`                                                                                                                                                                   | `\lbrack` `\rbrack` | $⌊ ⌋$   | `⌊ ⌋`  | ⌊⌋⌊⌋                   | `\lfloor` `\rfloor`         | $\downarrow$   | `\downarrow`      |     |
-| $\{ \}$          | `{}`                                                                                                                                                                   | `\lbrace` `\rbrace` | $⎰⎱$    | `⎰⎱`   | ⎰⎱⎰⎱                   | `\lmoustache` `\rmoustache` | $\updownarrow$ | `\updownarrow`    |     |
-| $⟨⟩$             | `⟨⟩`                                                                                                                                                                   | `\langle` `\rangle` | $⟮ ⟯$   | `⟮ ⟯`  | ⟮⟯⟮⟯                   | `\lgroup` `\rgroup`         | $\Uparrow$     | `\Uparrow`        |     |
-| $'\\$            | `\\               | $∣∣$               | ∣∣                  | $┌┐$    | ┌┐┌┐   | $\ulcorner{}\urcorner$ | `\ulcorner` `\urcorner`     | ⇓⇓             | `\Downarrow` |                     |         |        |                        |                             |                |                   |     |
-|                  |                                                                                                                                                                        | ∥∥                  | $└┘$    | └┘└┘   | $\llcorner{}\lrcorner$ | `\llcorner` `\lrcorner`     | ⇕⇕             | `\Updownarrow`    |     |
-| $\lvert{}\rvert$ | `\lvert` `\rvert`                                                                                                                                                      | `\lVert` `\rVert`   |         |        |                        |                             | \\             | `\backslash`      |     |
-| $< >$            | `\lang` `\rang`                                                                                                                                                        | `\lt \gt`           | ⟦⟧[[]]  | `⟦ ⟧`  |                        |                             | ⦃⦄{[]}         | `\lBrace \rBrace` |     |
+| preview                | method                      | preview            | method              | preview | method |
+| ---------------------- | --------------------------- | ------------------ | ------------------- | ------- | ------ |
+| $( )$                  | `()`                        | $\lparen{}\rparen$ | `\lparen` `\rparen` | $⌈ ⌉$   | `⌈ ⌉`  |
+| $[ ]$                  | `[]`                        | $\lbrack{}\rbrack$ | `\lbrack` `\rbrack` | $⌊ ⌋$   | `⌊ ⌋`  |
+| $\{ \}$                | `{}`                        | $\lbrace{}\rbrace$ | `\lbrace` `\rbrace` | $⎰⎱$    | `⎰⎱`   |
+| $⟨⟩$                   | `⟨⟩`                        | $\langle{}\rangle$ | `\langle` `\rangle` | $⟮ ⟯$   | `⟮ ⟯`  |
+| $'\\$                  | `\\                         | $∣∣$               | ∣∣                  | $┌┐$    | ┌┐┌┐   |
+| $\lvert{}\rvert$       | `\lvert` `\rvert`           | $∥∥$               | ∥∥                  | $└┘$    | └┘└┘   |
+| $< >$                  | `\lang` `\rang`             | $\lVert{}\rVert$   | `\lVert` `\rVert`   |         |        |
+| ⌈⌉⌈⌉                   | `\lceil` `\rceil`           | $\lt{} \gt$        | `\lt \gt`           | ⟦⟧[[]]  | `⟦ ⟧`  |
+| ⌊⌋⌊⌋                   | `\lfloor` `\rfloor`         | $\uparrow$         | `\uparrow`          |         |        |
+| ⎰⎱⎰⎱                   | `\lmoustache` `\rmoustache` | $\downarrow$       | `\downarrow`        |         |        |
+| ⟮⟯⟮⟯                   | `\lgroup` `\rgroup`         | $\updownarrow$     | `\updownarrow`      |         |        |
+| $\ulcorner{}\urcorner$ | `\ulcorner` `\urcorner`     | $\Updownarrow$     | `\Updownarrow`      |         |        |
+| $\llcorner{}\lrcorner$ | `\llcorner` `\lrcorner`     | $\backslash$       | `\backslash`        |         |        |
+| $\Uparrow$             | `\Uparrow`                  |                    |                     |         |        |
+| $\Downarrow$           | `\Downarrow`                |                    |                     |         |        |
 
 ---
