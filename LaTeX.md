@@ -142,15 +142,15 @@ $\sum_{\mathclap{1\le i\le j\le n}} x_{ij}$
 | $\bigvee$   | `\bigvee`   | $\bigoplus$  | `\bigoplus`  | $\bigodot$ | `\bigodot` |
 | $\bigwedge$ | `\bigwedge` | $\bigotimes$ | `\bigotimes` |            |            |
 # Standard Function Names
-| preview   | method    | preview   | method    | preview   | method    | preview | method    |
-| --------- | --------- | --------- | --------- | --------- | --------- | ------- | --------- |
-| $\arccos$ | `\arccos` | $\arcsin$ | `\arcsin` | $\arcsin$ | `\arcsin` |         | `\arg`    |
-| $\cos$    | `\cos`    | $\cosh$   | `\cosh`   | $\cot$    | `\cot`    |         | `\coth`   |
-| $\csc$    | `\csc`    | $\deg$    | `\deg`    | $\$       | `\det`    |         | `\dim`    |
-| $\exp$    | `\exp`    | $\gcd$    | `\gcd`    |           | `\hom`    |         | `\inf`    |
-| $\ker$    | `\ker`    | $\lg$     | `\lg`     |           | `\lim`    |         | `\liminf` |
-| $\limsup$ | `\limsup` | $\ln$     | `\ln`     |           | `\log`    |         | `\max`    |
-| $\min$    | `\min`    | $\Pr$     | `\Pr`     |           | `\sec`    |         | `\sin`    |
-| $\sinh$   | `\sinh`   | $\sup$    | `\sup`    |           | `\tan`    |         | `\tanh`   |
+| preview   | method    | preview   | method    | preview   | method    | preview   | method    |
+| --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| $\arccos$ | `\arccos` | $\arcsin$ | `\arcsin` | $\arcsin$ | `\arcsin` | $\arg$    | `\arg`    |
+| $\cos$    | `\cos`    | $\cosh$   | `\cosh`   | $\cot$    | `\cot`    | $\coth$   | `\coth`   |
+| $\csc$    | `\csc`    | $\deg$    | `\deg`    | $\det$    | `\det`    | $\dim$    | `\dim`    |
+| $\exp$    | `\exp`    | $\gcd$    | `\gcd`    | $\hom$    | `\hom`    | $\inf$    | `\inf`    |
+| $\ker$    | `\ker`    | $\lg$     | `\lg`     | $\lim$    | `\lim`    | $\liminf$ | `\liminf` |
+| $\limsup$ | `\limsup` | $\ln$     | `\ln`     | $\log$    | `\log`    | $\max$    | `\max`    |
+| $\min$    | `\min`    | $\Pr$     | `\Pr`     | $\sec$    | `\sec`    | $\sin$    | `\sin`    |
+| $\sinh$   | `\sinh`   | $\sup$    | `\sup`    | $\tan$    | `\tan`    |           | `\tanh`   |
 
 ---
