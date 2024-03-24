@@ -6,6 +6,6 @@ tags:
 Links: [[Obsidian MOC]]
 
 ---
-
+# Bi-d
 
 ---
