@@ -242,13 +242,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "excel:Create Excel File": false
     }
   },
   "active": "142679d088274289",
   "lastOpenFiles": [
-    "2024-03-24.md",
     "LaTeX.md",
+    "2024-03-24.md",
     "Obsidian MOC.md",
     "Mastering  Obsidian.md",
     "The Art of War Other Classics of Eastern Philosophy - Sun Tzu Lao-Tzu Confucius Mencius.md",

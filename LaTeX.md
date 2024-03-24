@@ -10,8 +10,8 @@ Links: [[Math MOC]]
 ---
 # Getting Started
 $\LaTeX$ – A TEX-Based typesetting system suitable for producing scientific, mathematical, and physical documents of high print quality.
-- [LaTeX official website](latex-project.org)
-- [KaTeX official website](katex.org)
+- [LaTeX official website](https://latex-project.org)
+- [KaTeX official website](https://katex.org)
 And KaTeX handles only a smaller subset of LaTeX’s mathematical notation for display on the web.
 # Example
 $$
@@ -178,5 +178,16 @@ $\sum_{\mathclap{1\le i\le j\le n}} x_{ij}$
 | ------------ | ------------ | ------------ | ------------ | ------------------------------------------ | ------------------------------------------ |
 | $\bra{\phi}$ | `\bra{\phi}` | $\ket{\psi}$ | `\ket{\psi}` | $\braket{\phi\\\|\psi}$                    | `\braket{\phi\\\|\psi}`                    |
 | $\Bra{\phi}$ | `\Bra{\phi}` | $\Ket{\psi}$ | `\Ket{\psi}` | $\Braket{ ϕ \\\|\frac{∂^2}{∂ t^2} \\\|ψ }$ | `\Braket{ ϕ \\\|\frac{∂^2}{∂ t^2} \\\|ψ }` |
+# Mathematical operator
+|   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|
+|arcsin|`\arcsin`|cosec⁡cosec|`\cosec`|deg⁡deg|`\deg`|sec⁡sec|`\sec`|
+|arccos⁡arccos|`\arccos`|cosh⁡cosh|`\cosh`|dim⁡dim|`\dim`|sin⁡sin|`\sin`|
+|arctan⁡arctan|`\arctan`|cot⁡cot|`\cot`|exp⁡exp|`\exp`|sinh⁡sinh|`\sinh`|
+|arctg⁡arctg|`\arctg`|cotg⁡cotg|`\cotg`|hom⁡hom|`\hom`|sh⁡sh|`\sh`|
+|arcctg⁡arcctg|`\arcctg`|coth⁡coth|`\coth`|ker⁡ker|`\ker`|tan⁡tan|`\tan`|
+|arg⁡arg|`\arg`|csc⁡csc|`\csc`|lg⁡lg|`\lg`|tanh⁡tanh|`\tanh`|
+|ch⁡ch|`\ch`|ctg⁡ctg|`\ctg`|ln⁡ln|`\ln`|tg⁡tg|`\tg`|
+|cos⁡cos|`\cos`|cth⁡cth|`\cth`|log⁡log|`\log`|th⁡th|`\th`|
 
 ---
