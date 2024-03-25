@@ -418,45 +418,45 @@ $$
 | $\colorbox{aqua}{F=ma}$       | `\colorbox{aqua}{$F=ma$}`       |
 | $\fcolorbox{red}{aqua}{F=ma}$ | `\fcolorbox{red}{aqua}{$F=ma$}` |
 # Symbols and Punctuation
-|             |                             |         |                        |             |                         |
-| ----------- | --------------------------- | ------- | ---------------------- | ----------- | ----------------------- |
-| `% comment` | ……                          | `\dots` | KaTeXKATE​X            | `\KaTeX`    |                         |
-| %%          | `\%`                        | ⋯⋯      | `\cdots`               | LaTeXLATE​X | `\LaTeX`                |
-| ##          | `\#`                        | ⋱⋱      | `\ddots`               | TeXTE​X     | `\TeX`                  |
-| &&          | `\&`                        | ……      | `\ldots`               | ∇∇          | `\nabla`                |
-| __          | `\_`                        | ⋮       | `\vdots`               | ∞∞          | `\infty`                |
-| __          | `\text{\textunderscore}`    | ⋯⋯      | `\dotsb`               | ∞∞          | `\infin`                |
-| ––          | `\text{--}`                 | ……      | `\dotsc`               | ✓✓          | `\checkmark`            |
-| ––          | `\text{\textendash}`        | ⁣⋯⋯     | `\dotsi`               | ††          | `\dag`                  |
-| ——          | `\text{---}`                | ⋯⋯      | `\dotsm`               | ††          | `\dagger`               |
-| ——          | `\text{\textemdash}`        | ……      | `\dotso`               | ††          | `\text{\textdagger}`    |
-| ~~          | `\text{\textasciitilde}`    | ⋅⋅      | `\sdot`                | ‡‡          | `\ddag`                 |
-| ^^          | `\text{\textasciicircum}`   | ……      | `\mathellipsis`        | ‡‡          | `\ddagger`              |
-| ‘‘          | `                           | ……      | `\text{\textellipsis}` | ‡‡          | `\text{\textdaggerdbl}` |
-| ‘‘          | `text{\textquoteleft}`      | □□      | `\Box`                 | ‡‡          | `\Dagger`               |
-| ‘‘          | `\lq`                       | □□      | `\square`              | ∠∠          | `\angle`                |
-| ’’          | `\text{\textquoteright}`    | ■■      | `\blacksquare`         | ∡∡          | `\measuredangle`        |
-| ′′          | `\rq`                       | △△      | `\triangle`            | ∢∢          | `\sphericalangle`       |
-| ““          | `\text{\textquotedblleft}`  | ▽▽      | `\triangledown`        | ⊤⊤          | `\top`                  |
-| ""          | `"`                         | ◃◃      | `\triangleleft`        | ⊥⊥          | `\bot`                  |
-| ””          | `\text{\textquotedblright}` | ▹▹      | `\triangleright`       | $$          | `\$`                    |
-| ⁣::         | `\colon`                    | ▽▽      | `\bigtriangledown`     | $$          | `\text{\textdollar}`    |
-| ‵‵          | `\backprime`                | △△      | `\bigtriangleup`       | ££          | `\pounds`               |
-| ′′          | `\prime`                    | ▲▲      | `\blacktriangle`       | ££          | `\mathsterling`         |
-| <<          | `\text{\textless}`          | ▼▼      | `\blacktriangledown`   | ££          | `\text{\textsterling}`  |
-| >>          | `\text{\textgreater}`       | ◀◀      | `\blacktriangleleft`   | ¥¥          | `\yen`                  |
-| \|          | `\text{\textbar}`           | ▶▶      | `\blacktriangleright`  | √√          | `\surd`                 |
-| ∥∥          | `\text{\textbardbl}`        | ⋄⋄      | `\diamond`             | °°          | `\degree`               |
-| {{          | `\text{\textbraceleft}`     | ◊◊      | `\Diamond`             | °°          | `\text{\textdegree}`    |
-| }}          | `\text{\textbraceright}`    | ◊◊      | `\lozenge`             | ℧℧          | `\mho`                  |
-| \\          | `\text{\textbackslash}`     | ⧫⧫      | `\blacklozenge`        | ╲╲          | `\diagdown`             |
-| ¶¶          | `\text{\P}` or `\P`         | ⋆⋆      | `\star`                | ╱╱          | `\diagup`               |
-| §§          | `\text{\S}` or `\S`         | ★★      | `\bigstar`             | ♭♭          | `\flat`                 |
-| §§          | `\text{\sect}`              | ♣♣      | `\clubsuit`            | ♮♮          | `\natural`              |
-| ©c◯         | `\copyright`                | ♣♣      | `\clubs`               | ♯♯          | `\sharp`                |
-| ®®          | `\circledR`                 | ♢♢      | `\diamondsuit`         | ♡♡          | `\heartsuit`            |
-| ®R◯         | `\text{\textregistered}`    | ♢♢      | `\diamonds`            | ♡♡          | `\hearts`               |
-| ⓈⓈ          | `\circledS`                 | ♠♠      | `\spadesuit`           | ♠♠          | `\spades`               |
-| a◯a◯        | `\text{\textcircled a}`     | ✠✠      | `\maltese`             | ∘−          | `\minuso`               |
+|                          |                             |     |                        |     |                         |
+| ------------------------ | --------------------------- | --- | ---------------------- | --- | ----------------------- |
+|                          | `% comment`                 |     | `\dots`                |     | `\KaTeX`                |
+| $\%$                     | `\%`                        |     | `\cdots`               |     | `\LaTeX`                |
+| $\#$                     | `\#`                        |     | `\ddots`               |     | `\TeX`                  |
+| $\&$                     | `\&`                        |     | `\ldots`               |     | `\nabla`                |
+| $\_$                     | `\_`                        |     | `\vdots`               |     | `\infty`                |
+| $\text{\textunderscore}$ | `\text{\textunderscore}`    |     | `\dotsb`               |     | `\infin`                |
+|                          | `\text{--}`                 |     | `\dotsc`               |     | `\checkmark`            |
+|                          | `\text{\textendash}`        |     | `\dotsi`               |     | `\dag`                  |
+|                          | `\text{---}`                |     | `\dotsm`               |     | `\dagger`               |
+|                          | `\text{\textemdash}`        |     | `\dotso`               |     | `\text{\textdagger}`    |
+|                          | `\text{\textasciitilde}`    |     | `\sdot`                |     | `\ddag`                 |
+|                          | `\text{\textasciicircum}`   |     | `\mathellipsis`        |     | `\ddagger`              |
+|                          | `                           |     | `\text{\textellipsis}` |     | `\text{\textdaggerdbl}` |
+|                          | `text{\textquoteleft}`      |     | `\Box`                 |     | `\Dagger`               |
+|                          | `\lq`                       |     | `\square`              |     | `\angle`                |
+|                          | `\text{\textquoteright}`    |     | `\blacksquare`         |     | `\measuredangle`        |
+|                          | `\rq`                       |     | `\triangle`            |     | `\sphericalangle`       |
+|                          | `\text{\textquotedblleft}`  |     | `\triangledown`        |     | `\top`                  |
+|                          | `"`                         |     | `\triangleleft`        |     | `\bot`                  |
+|                          | `\text{\textquotedblright}` |     | `\triangleright`       |     | `\$`                    |
+|                          | `\colon`                    |     | `\bigtriangledown`     |     | `\text{\textdollar}`    |
+|                          | `\backprime`                |     | `\bigtriangleup`       |     | `\pounds`               |
+|                          | `\prime`                    |     | `\blacktriangle`       |     | `\mathsterling`         |
+|                          | `\text{\textless}`          |     | `\blacktriangledown`   |     | `\text{\textsterling}`  |
+|                          | `\text{\textgreater}`       |     | `\blacktriangleleft`   |     | `\yen`                  |
+|                          | `\text{\textbar}`           |     | `\blacktriangleright`  |     | `\surd`                 |
+|                          | `\text{\textbardbl}`        |     | `\diamond`             |     | `\degree`               |
+|                          | `\text{\textbraceleft}`     |     | `\Diamond`             |     | `\text{\textdegree}`    |
+|                          | `\text{\textbraceright}`    |     | `\lozenge`             |     | `\mho`                  |
+|                          | `\text{\textbackslash}`     |     | `\blacklozenge`        |     | `\diagdown`             |
+|                          | `\text{\P}` or `\P`         |     | `\star`                |     | `\diagup`               |
+|                          | `\text{\S}` or `\S`         |     | `\bigstar`             |     | `\flat`                 |
+|                          | `\text{\sect}`              |     | `\clubsuit`            |     | `\natural`              |
+|                          | `\copyright`                |     | `\clubs`               |     | `\sharp`                |
+|                          | `\circledR`                 |     | `\diamondsuit`         |     | `\heartsuit`            |
+|                          | `\text{\textregistered}`    |     | `\diamonds`            |     | `\hearts`               |
+|                          | `\circledS`                 |     | `\spadesuit`           |     | `\spades`               |
+|                          | `\text{\textcircled a}`     |     | `\maltese`             |     | `\minuso`               |
 
 ---
