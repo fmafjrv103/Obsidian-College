@@ -448,15 +448,15 @@ $$
 | $\textbar$         | `\text{\textbar}`           | $\blacktriangleleft$ | `\blacktriangleleft`   | $\surd$           | `\surd`                 |
 | $\textbardbl$      | `\text{\textbardbl}`        | $\diamond$           | `\diamond`             | $\degree$         | `\degree`               |
 | $\textbraceleft$   | `\text{\textbraceleft}`     | $\Diamond$           | `\Diamond`             | $\textdegree$     | `\text{\textdegree}`    |
-| $\textbraceright$  | `\text{\textbraceright}`    | $\lozenge$           | `\lozenge`             |                   | `\mho`                  |
-| $\textbackslash$   | `\text{\textbackslash}`     |                      | `\blacklozenge`        |                   | `\diagdown`             |
-|                    |                             |                      | `\star`                |                   | `\diagup`               |
-| $\text{\S}$        | `\text{\S}` or `\S`         |                      | `\bigstar`             |                   | `\flat`                 |
-|                    |                             |                      | `\clubsuit`            |                   | `\natural`              |
-|                    |                             |                      | `\clubs`               |                   | `\sharp`                |
-| $\circledR$        | `\circledR`                 |                      | `\diamondsuit`         |                   | `\heartsuit`            |
-| $\textregistered$  | `\text{\textregistered}`    |                      | `\diamonds`            |                   | `\hearts`               |
-| $\circledS$        | `\circledS`                 |                      | `\spadesuit`           |                   | `\spades`               |
-|                    |                             |                      | `\maltese`             |                   | `\minuso`               |
+| $\textbraceright$  | `\text{\textbraceright}`    | $\lozenge$           | `\lozenge`             | $\mho$            | `\mho`                  |
+| $\textbackslash$   | `\text{\textbackslash}`     | $\blacklozenge$      | `\blacklozenge`        | $\diagdown$       | `\diagdown`             |
+|                    |                             | $\star$              | `\star`                | $\diagup$         | `\diagup`               |
+| $\text{\S}$        | `\text{\S}` or `\S`         | $\bigstar$           | `\bigstar`             | $\flat$           | `\flat`                 |
+|                    |                             | $\clubsuit$          | `\clubsuit`            | $\natural$        | `\natural`              |
+|                    |                             |                      |                        | $\sharp$          | `\sharp`                |
+| $\circledR$        | `\circledR`                 | $\diamondsuit$       | `\diamondsuit`         | $\heartsuit$      | `\heartsuit`            |
+| $\textregistered$  | `\text{\textregistered}`    |                      |                        | $\hearts$         | `\hearts`               |
+| $\circledS$        | `\circledS`                 | $\spadesuit$         | `\spadesuit`           | $\spades$         | `\spades`               |
+|                    |                             | $\maltese$           | `\maltese`             | $\$               | `\minuso`               |
 
 ---
