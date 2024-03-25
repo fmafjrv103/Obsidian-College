@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20240321121231 Math Notes 6.md",
+                "file": "2024-03-25.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20240321121231 Math Notes 6.md",
+                "file": "2024-03-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20240321121231 Math Notes 6.md",
+                "file": "2024-03-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20240321121231 Math Notes 6.md"
+                "file": "2024-03-25.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20240321121231 Math Notes 6.md",
+                "file": "2024-03-25.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -257,15 +257,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "periodic-notes:Open today": false,
-      "excel:Create Excel File": false
+      "excel:Create Excel File": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "de4f42d263fa176a",
   "lastOpenFiles": [
+    "20240321121231 Math Notes 6.md",
+    "2024-03-25.md",
     "Math MOC.md",
     "LaTeX.md",
-    "20240321121231 Math Notes 6.md",
     "Math Notes 1.md",
     "Math Notes 2.md",
     "Math Notes 3.md",
@@ -308,7 +309,6 @@
     "Media/GitHub Desktop.app/Contents/Resources/app/emoji/unicode/2b06.png",
     "Media/GitHub Desktop.app/Contents/Resources/app/static/pretext-draft.md",
     "Media/GitHub Desktop.app/Contents/Resources/app/static/LICENSE.choosealicense.md",
-    "040 Interests MOC.md",
     "Untitled.canvas"
   ]
 }
