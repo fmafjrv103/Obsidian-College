@@ -214,12 +214,34 @@ $$\def\arraystretch{1.5}
 \end{array}
 $$
 - Example 2 Matrix
-	```latex
+```latex
+\begin{matrix}
+   a & b \\
+   c & d
+\end{matrix}
+```
+$$\begin{matrix}
+   a & b \\
+   c & d
+\end{matrix}
+$$
+```latex
+\begin{array}{cc}
+   a & b \\
+   c & d
+\end{array}
+```
+$$\begin{array}{cc}
+   a & b \\
+   c & d
+\end{array}
+$$
+
+```latex
 \begin{bmatrix}
    a & b \\
    c & d
 \end{bmatrix}
-
 ```
 $$
 \begin{bmatrix}
@@ -232,7 +254,6 @@ $$
    a & b \\
    c & d
 \end{vmatrix}
-
 ```
 $$\begin{vmatrix}
    a & b \\
@@ -244,12 +265,23 @@ $$
    a & b \\
    c & d
 \end{Vmatrix}
-
 ```
 $$\begin{Vmatrix}
    a & b \\
    c & d
 \end{Vmatrix}
+$$
+- Example 3 Cases
+```latex
+x = \begin{cases}
+   a &\text{if } b \\
+   c &\text{if } d
+\end{cases}
+```
+$$x = \begin{cases}
+   a &\text{if } b \\
+   c &\text{if } d
+\end{cases}
 $$
 
 ---
