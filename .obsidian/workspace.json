@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cc94bdffa139f439",
+        "id": "fc06aa9c5a312d8f",
         "type": "tabs",
         "children": [
           {
-            "id": "142679d088274289",
+            "id": "de4f42d263fa176a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LaTeX.md",
+                "file": "000 Home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LaTeX.md",
+                "file": "000 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LaTeX.md",
+                "file": "000 Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LaTeX.md"
+                "file": "000 Home.md"
               }
             }
           },
@@ -172,7 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "LaTeX.md",
+                "file": "000 Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -246,10 +246,10 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "142679d088274289",
+  "active": "de4f42d263fa176a",
   "lastOpenFiles": [
-    "Untitled 2.md",
     "LaTeX.md",
+    "Untitled 2.md",
     "Untitled 1.md",
     "Untitled.md",
     "2024-03-24.md",

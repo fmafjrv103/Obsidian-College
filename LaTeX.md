@@ -472,38 +472,37 @@ $$
 | $\xtofrom{abc}$            | `\xtofrom{abc}`            | $\xmapsto{abc}$             | `\xmapsto{abc}`             |
 | $\xlongequal{abc}$         | `\xlongequal{abc}`         |                             |                             |
 # Arrows
-|                     |                     |                        |                        |     |     |
-| ------------------- | ------------------- | ---------------------- | ---------------------- | --- | --- |
-| $\circlearrowleft$  | `\circlearrowleft`  | $\leftharpoonup$       | `\leftharpoonup`       |     |     |
-| $\circlearrowright$ | `\circlearrowright` | $\leftleftarrows$      | `\leftleftarrows`      |     |     |
-| $\curvearrowleft$   | `\curvearrowleft`   | $\leftrightarrow$      | `\leftrightarrow`      |     |     |
-| $\curvearrowright$  | `\curvearrowright`  | $\Leftrightarrow$      | `\Leftrightarrow`      |     |     |
-| $\dashleftarrow$    | `\dashleftarrow`    | $\leftrightarrows$     | `\leftrightarrows`     |     |     |
-| $\dashrightarrow$   | `\dashrightarrow`   | $\leftrightharpoons$   | `\leftrightharpoons`   |     |     |
-| $\downarrow$        | `\downarrow`        | $\leftrightsquigarrow$ | `\leftrightsquigarrow` |     |     |
-| $\Downarrow$        | `\Downarrow`        | $\Lleftarrow$          | `\Lleftarrow`          |     |     |
-| $\downdownarrows$   | `\downdownarrows`   | $\longleftarrow$       | `\longleftarrow`       |     |     |
-| $\downharpoonleft$  | `\downharpoonleft`  | $\Longleftarrow$       | `\Longleftarrow`       |     |     |
-| $\downharpoonright$ | `\downharpoonright` | $\longleftrightarrow$  | `\longleftrightarrow`  |     |     |
-| $\gets$             | `\gets`             | $\Longleftrightarrow$  | `\Longleftrightarrow`  |     |     |
-| $\hookleftarrow$    | `\hookleftarrow`    | $\longmapsto$          | `\longmapsto`          |     |     |
-| $\hookrightarrow$   | `\hookrightarrow`   | $\longrightarrow$      | `\longrightarrow`      |     |     |
-| $\iff$              | `\iff`              | $\Longrightarrow$      | `\Longrightarrow`      |     |     |
-| $\impliedby$        | `\impliedby`        | $\looparrowleft$       | `\looparrowleft`       |     |     |
-| $\implies$          | `\implies`          | $\looparrowright$      | `\looparrowright`      |     |     |
-| $\leadsto$          | `\leadsto`          | $\Lsh$                 | `\Lsh`                 |     |     |
-| $\leftarrow$        | `\leftarrow`        | $\mapsto$              | `\mapsto`              |     |     |
-| $\Leftarrow$        | `\Leftarrow`        | $\nearrow$             | `\nearrow`             |     |     |
-| $\leftarrowtail$    | `\leftarrowtail`    | $\nleftarrow$          | `\nleftarrow`          |     |     |
-| $\leftharpoondown$  | `\leftharpoondown`  | $\nLeftarrow$          | `\nLeftarrow`          |     |     |
-| $\uparrow$          | `\uparrow`          | $\nleftrightarrow$     | `\nleftrightarrow`     |     |     |
-| $\Uparrow$          | `\Uparrow`          | $\nLeftrightarrow$     | `\nLeftrightarrow`     |     |     |
-| $\updownarrow$      | `\updownarrow`      | $\nrightarrow$         | `\nrightarrow`         |     |     |
-| $\Updownarrow$      | `\Updownarrow`      | $\nRightarrow$         | `\nRightarrow`         |     |     |
-| $\upharpoonleft$    | `\upharpoonleft`    | $\nwarrow$             | `\nwarrow`             |     |     |
-| $\upharpoonright$   | `\upharpoonright`   | $\restriction$         | `\restriction`         |     |     |
-| $\upuparrows$       | `\upuparrows`       | $\rightarrow$          | `\rightarrow`          |     |     |
-|                     |                     |                        |                        |     |     |
-|                     |                     |                        |                        |     |     |
+|                     |                     |                        |                        |                      |                      |
+| ------------------- | ------------------- | ---------------------- | ---------------------- | -------------------- | -------------------- |
+| $\circlearrowleft$  | `\circlearrowleft`  | $\leftharpoonup$       | `\leftharpoonup`       | $\Rightarrow$        | `\Rightarrow`        |
+| $\circlearrowright$ | `\circlearrowright` | $\leftleftarrows$      | `\leftleftarrows`      | $\rightarrowtail$    | `\rightarrowtail`    |
+| $\curvearrowleft$   | `\curvearrowleft`   | $\leftrightarrow$      | `\leftrightarrow`      | $\rightharpoondown$  | `\rightharpoondown`  |
+| $\curvearrowright$  | `\curvearrowright`  | $\Leftrightarrow$      | `\Leftrightarrow`      | $\rightharpoonup$    | `\rightharpoonup`    |
+| $\dashleftarrow$    | `\dashleftarrow`    | $\leftrightarrows$     | `\leftrightarrows`     | $\rightleftarrows$   | `\rightleftarrows`   |
+| $\dashrightarrow$   | `\dashrightarrow`   | $\leftrightharpoons$   | `\leftrightharpoons`   | $\rightleftharpoons$ | `\rightleftharpoons` |
+| $\downarrow$        | `\downarrow`        | $\leftrightsquigarrow$ | `\leftrightsquigarrow` | $\rightrightarrows$  | `\rightrightarrows`  |
+| $\Downarrow$        | `\Downarrow`        | $\Lleftarrow$          | `\Lleftarrow`          | $\rightsquigarrow$   | `\rightsquigarrow`   |
+| $\downdownarrows$   | `\downdownarrows`   | $\longleftarrow$       | `\longleftarrow`       | $\Rightarrow$        | `\Rrightarrow`       |
+| $\downharpoonleft$  | `\downharpoonleft`  | $\Longleftarrow$       | `\Longleftarrow`       | $\Rsh$               | `\Rsh`               |
+| $\downharpoonright$ | `\downharpoonright` | $\longleftrightarrow$  | `\longleftrightarrow`  | $\searrow$           | `\searrow`           |
+| $\gets$             | `\gets`             | $\Longleftrightarrow$  | `\Longleftrightarrow`  | $\swarrow$           | `\swarrow`           |
+| $\hookleftarrow$    | `\hookleftarrow`    | $\longmapsto$          | `\longmapsto`          | $\to$                | `\to`                |
+| $\hookrightarrow$   | `\hookrightarrow`   | $\longrightarrow$      | `\longrightarrow`      | $\twoheadleftarrow$  | `\twoheadleftarrow`  |
+| $\iff$              | `\iff`              | $\Longrightarrow$      | `\Longrightarrow`      | $\twoheadrightarrow$ | `\twoheadrightarrow` |
+| $\impliedby$        | `\impliedby`        | $\looparrowleft$       | `\looparrowleft`       |                      |                      |
+| $\implies$          | `\implies`          | $\looparrowright$      | `\looparrowright`      |                      |                      |
+| $\leadsto$          | `\leadsto`          | $\Lsh$                 | `\Lsh`                 |                      |                      |
+| $\leftarrow$        | `\leftarrow`        | $\mapsto$              | `\mapsto`              |                      |                      |
+| $\Leftarrow$        | `\Leftarrow`        | $\nearrow$             | `\nearrow`             |                      |                      |
+| $\leftarrowtail$    | `\leftarrowtail`    | $\nleftarrow$          | `\nleftarrow`          |                      |                      |
+| $\leftharpoondown$  | `\leftharpoondown`  | $\nLeftarrow$          | `\nLeftarrow`          |                      |                      |
+| $\uparrow$          | `\uparrow`          | $\nleftrightarrow$     | `\nleftrightarrow`     |                      |                      |
+| $\Uparrow$          | `\Uparrow`          | $\nLeftrightarrow$     | `\nLeftrightarrow`     |                      |                      |
+| $\updownarrow$      | `\updownarrow`      | $\nrightarrow$         | `\nrightarrow`         |                      |                      |
+| $\Updownarrow$      | `\Updownarrow`      | $\nRightarrow$         | `\nRightarrow`         |                      |                      |
+| $\upharpoonleft$    | `\upharpoonleft`    | $\nwarrow$             | `\nwarrow`             |                      |                      |
+| $\upharpoonright$   | `\upharpoonright`   | $\restriction$         | `\restriction`         |                      |                      |
+| $\upuparrows$       | `\upuparrows`       | $\rightarrow$          | `\rightarrow`          |                      |                      |
+
 
 ---
