@@ -227,6 +227,29 @@ $$
    c & d
 \end{bmatrix}
 $$
+```latex
+\begin{vmatrix}
+   a & b \\
+   c & d
+\end{vmatrix}
 
+```
+$$\begin{vmatrix}
+   a & b \\
+   c & d
+\end{vmatrix}
+$$
+```latex
+\begin{Vmatrix}
+   a & b \\
+   c & d
+\end{Vmatrix}
+
+```
+$$\begin{Vmatrix}
+   a & b \\
+   c & d
+\end{Vmatrix}
+$$
 
 ---
