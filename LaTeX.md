@@ -426,13 +426,13 @@ $$
 | $\&$         | `\&`                        | $\ldots$ | `\ldots`               |          | `\nabla`                |
 | $\_$         | `\_`                        | $\vdots$ | `\vdots`               |          | `\infty`                |
 | $\text{\_}$  | `\text{\textunderscore}`    | $\dotsb$ | `\dotsb`               |          | `\infin`                |
-| $\text{--}$  | `\text{--}`                 |          | `\dotsc`               |          | `\checkmark`            |
-| $\text{}$    | `\text{\textendash}`        |          | `\dotsi`               |          | `\dag`                  |
-| $\text{---}$ | `\text{---}`                |          | `\dotsm`               |          | `\dagger`               |
-|              | `\text{\textemdash}`        |          | `\dotso`               |          | `\text{\textdagger}`    |
-|              | `\text{\textasciitilde}`    |          | `\sdot`                |          | `\ddag`                 |
+| $\text{--}$  | `\text{--}`                 | $\dotsc$ | `\dotsc`               |          | `\checkmark`            |
+| $\text{}$    | `\text{\textendash}`        | $\dotsi$ | `\dotsi`               |          | `\dag`                  |
+| $\text{---}$ | `\text{---}`                | $\dotsm$ | `\dotsm`               |          | `\dagger`               |
+| $\text{}$    | `\text{\textemdash}`        | $\dotso$ | `\dotso`               |          | `\text{\textdagger}`    |
+|              | `\text{\textasciitilde}`    | $\sdot$  | `\sdot`                |          | `\ddag`                 |
 |              | `\text{\textasciicircum}`   |          | `\mathellipsis`        |          | `\ddagger`              |
-|              | `                           |          | `\text{\textellipsis}` |          | `\text{\textdaggerdbl}` |
+| $`$          | `                           |          | `\text{\textellipsis}` |          | `\text{\textdaggerdbl}` |
 |              | `text{\textquoteleft}`      |          | `\Box`                 |          | `\Dagger`               |
 |              | `\lq`                       |          | `\square`              |          | `\angle`                |
 |              | `\text{\textquoteright}`    |          | `\blacksquare`         |          | `\measuredangle`        |
