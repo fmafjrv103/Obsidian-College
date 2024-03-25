@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-20 Notes to Add.md",
+                "file": "Math MOC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-20 Notes to Add.md",
+                "file": "Math MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-20 Notes to Add.md",
+                "file": "Math MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-20 Notes to Add.md"
+                "file": "Math MOC.md"
               }
             }
           },
@@ -172,7 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024-03-20 Notes to Add.md",
+                "file": "Math MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,6 +248,7 @@
   },
   "active": "de4f42d263fa176a",
   "lastOpenFiles": [
+    "2024-03-20 Notes to Add.md",
     "010 Notes MOC.md",
     "000 Home.md",
     "LaTeX.md",
@@ -293,7 +294,6 @@
     "020 School MOC.md",
     "Drug.md",
     "Marie Curie.md",
-    "030 People MOC.md",
     "Untitled.canvas"
   ]
 }
