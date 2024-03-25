@@ -458,6 +458,18 @@ $$
 | $\textregistered$  | `\textregistered`    |                      |                      |                   |                   |
 | $\circledS$        | `\circledS`          | $\spadesuit$         | `\spadesuit`         |                   |                   |
 |                    |                      | $\maltese$           | `\maltese`           |                   |                   |
-
+# Expandable Arrows
+|                            |                            |     |                             |
+| -------------------------- | -------------------------- | --- | --------------------------- |
+| $\xleftarrow{abc}$         | `\xleftarrow{abc}`         |     | `\xrightarrow[under]{over}` |
+| $\xLeftarrow{abc}$         | `\xLeftarrow{abc}`         |     | `\xRightarrow{abc}`         |
+| $\xleftrightarrow{abc}$    | `\xleftrightarrow{abc}`    |     | `\xLeftrightarrow{abc}`     |
+| $\xhookleftarrow{abc}$     | `\xhookleftarrow{abc}`     |     | `\xhookrightarrow{abc}`     |
+| $\xtwoheadleftarrow{abc}$  | `\xtwoheadleftarrow{abc}`  |     | `\xtwoheadrightarrow{abc}`  |
+| $\xleftharpoonup{abc}$     | `\xleftharpoonup{abc}`     |     | `\xrightharpoonup{abc}`     |
+| $\xleftharpoondown{abc}$   | `\xleftharpoondown{abc}`   |     | `\xrightharpoondown{abc}`   |
+| $\xleftrightharpoons{abc}$ | `\xleftrightharpoons{abc}` |     | `\xrightleftharpoons{abc}`  |
+| $\xtofrom{abc}$            | `\xtofrom{abc}`            |     | `\xmapsto{abc}`             |
+| $\xlongequal{abc}$         | `\xlongequal{abc}`         |     |                             |
 
 ---
