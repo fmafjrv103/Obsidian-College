@@ -18,6 +18,6 @@ $(h,k)=(2,8)$
 
 $\begin{align}A&=2(8-2(2)) \\ &=2(8-4) \\ &=2(4) \\ &=\boxed{8 sq/mi}\end{align}$
 ![[Pasted image 20240325150524.png|560]]
-
+![[Pasted image 20240325153649.png]]
 
 ---
