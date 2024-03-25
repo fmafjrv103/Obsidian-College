@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math MOC.md",
+                "file": "Pomodoro technique.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,7 +80,7 @@
       {
         "id": "ac02129fafbaf757",
         "type": "tabs",
-        "dimension": 50.70281124497992,
+        "dimension": 16.991869918699187,
         "children": [
           {
             "id": "bb6946b2a7144698",
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math MOC.md",
+                "file": "Pomodoro technique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math MOC.md",
+                "file": "Pomodoro technique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math MOC.md"
+                "file": "Pomodoro technique.md"
               }
             }
           },
@@ -149,6 +149,22 @@
             }
           },
           {
+            "id": "8e39810e2781050e",
+            "type": "leaf",
+            "state": {
+              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "8c22712198f3ed9f",
+        "type": "tabs",
+        "dimension": 43.00813008130081,
+        "children": [
+          {
             "id": "dcf885419fbbb3f7",
             "type": "leaf",
             "pinned": true,
@@ -158,13 +174,12 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "63346feb323c3112",
         "type": "tabs",
-        "dimension": 49.29718875502008,
+        "dimension": 40,
         "children": [
           {
             "id": "eb49dceec3166315",
@@ -172,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Math MOC.md",
+                "file": "Pomodoro technique.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -227,7 +242,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 779.5
+    "width": 917.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,9 +263,10 @@
   },
   "active": "de4f42d263fa176a",
   "lastOpenFiles": [
-    "2024-03-20 Notes to Add.md",
     "010 Notes MOC.md",
     "000 Home.md",
+    "Math MOC.md",
+    "2024-03-20 Notes to Add.md",
     "LaTeX.md",
     "Untitled 2.md",
     "Untitled 1.md",
@@ -293,7 +309,6 @@
     "College MOC.md",
     "020 School MOC.md",
     "Drug.md",
-    "Marie Curie.md",
     "Untitled.canvas"
   ]
 }
