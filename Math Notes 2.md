@@ -44,8 +44,7 @@ To find slope: $m=\frac{y_2-y_1}{x_2-x_1}$
 Point form = $y-y_1=m(x-x_1)$
 
 $m=\frac{3-(-1)}{1-(-1)}=-\frac{4}{4}=1$
-$y-(-1)=1(x-(-3))$
-$y+1=x+3 \y&=x+2 \end{align}$
+$\begin{align}y-(-1)&=1(x-(-3)) \\ y+1&=x+3 \\ y&=x+2 \end{align}$
 $\boxed{f(x)=x+2}$
 ![[Pasted image 20240316161955.png|560]]
 
@@ -54,11 +53,8 @@ Ex: (3,4), (-2, -5)
 
 $m=\frac{-5-4}{-2-3}=\frac{-9}{-5}=-\frac{9}{5}$
 
-$y-4=-\frac{9}{5}(x-3)$
-$y-4=-\frac{9}{5}x(-\frac{9}{5})(\frac{3}{1})$
-$y-4=-\frac{9}{5}x-\frac{27}{5}$
-$y=-\frac{9}{5}-\frac{27}{5}+\frac{20}{5}$
-$\boxed{f(x)=-\frac{9}{5}x-\frac{7}{5}}$
+$\begin{align}y-4&=-\frac{9}{5}(x-3) \\ y-4&=-\frac{9}{5}x(-\frac{9}{5})(\frac{3}{1}) \\ y-4&=-\frac{9}{5}x-\frac{27}{5} \\ y&=-\frac{9}{5}-\frac{27}{5}+\frac{20}{5}\end{align}$
+$\boxed{f(x)&=-\frac{9}{5}x-\frac{7}{5}}\end{align}$
 ![[Pasted image 20240316162922.png|560]]
 
 ---
