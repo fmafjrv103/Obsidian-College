@@ -340,6 +340,7 @@ $$
    0<j<n
 \end{subarray}}
 $$
+# Equation
 ```latex
 \begin{equation}
 \begin{split}  a &=b+c\\
@@ -354,5 +355,52 @@ $$
 \end{split}
 \end{equation}
 $$
+# Alignment
+```latex
+\begin{align}
+   a&=b+c \\
+   d+e&=f
+\end{align}
+```
+$$
+\begin{align}
+   a&=b+c \\
+   d+e&=f
+\end{align}
+$$
+# Gather
+```latex
+\begin{gather}
+   a=b \\
+   e=b+c
+\end{gather}
+```
+$$
+\begin{gather}
+   a=b \\
+   e=b+c
+\end{gather}
+$$
+# Alignat
+```latex
+\begin{alignat}{2}
+   10&x+&3&y=2\\
+   3&x+&13&y=4
+\end{alignat}
+```
+$$
+\begin{alignat}{2}
+   10&x+&3&y=2\\
+   3&x+&13&y=4
+\end{alignat}
+$$
+# CD
+```latex
+\begin{CD}
+   A @>a>> B \\
+@VbVV @AAcA \\
+   C @= D
+\end{CD}
+```
 
 ---
