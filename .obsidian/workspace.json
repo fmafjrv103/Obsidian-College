@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pomodoro technique.md",
+                "file": "LaTeX.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pomodoro technique.md",
+                "file": "LaTeX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pomodoro technique.md",
+                "file": "LaTeX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pomodoro technique.md"
+                "file": "LaTeX.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pomodoro technique.md",
+                "file": "LaTeX.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -263,9 +263,12 @@
   },
   "active": "de4f42d263fa176a",
   "lastOpenFiles": [
-    "010 Notes MOC.md",
-    "000 Home.md",
     "Math MOC.md",
+    "Math Notes 5.md",
+    "010 Notes MOC.md",
+    "202403200202 Time Management.md",
+    "Pomodoro technique.md",
+    "000 Home.md",
     "2024-03-20 Notes to Add.md",
     "LaTeX.md",
     "Untitled 2.md",
@@ -302,13 +305,10 @@
     "Media/GitHub Desktop.app/Contents/Resources/app/static/LICENSE.choosealicense.md",
     "040 Interests MOC.md",
     "20240323120034 Note-Taking.md",
-    "202403200202 Time Management.md",
     "20240323120018 Psych Notes 2.md",
     "Psychology MOC.md",
     "2024032161809.md",
     "College MOC.md",
-    "020 School MOC.md",
-    "Drug.md",
     "Untitled.canvas"
   ]
 }
