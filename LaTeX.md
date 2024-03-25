@@ -205,7 +205,8 @@ $\sum_{\mathclap{1\le i\le j\le n}} x_{ij}$
    g & h & i
 \end{array}
 	```
-$$\def\arraystretch{1.5}
+$$
+\def\arraystretch{1.5}
    \begin{array}{c:c:c}
    a & b & c \\ \hline
    d & e & f \\
@@ -220,7 +221,8 @@ $$
    c & d
 \end{matrix}
 ```
-$$\begin{matrix}
+$$
+\begin{matrix}
    a & b \\
    c & d
 \end{matrix}
@@ -231,12 +233,24 @@ $$
    c & d
 \end{array}
 ```
-$$\begin{array}{cc}
+$$
+\begin{array}{cc}
    a & b \\
    c & d
 \end{array}
 $$
-
+```latex
+\begin{pmatrix}
+   a & b \\
+   c & d
+\end{pmatrix}
+```
+$$
+\begin{pmatrix}
+   a & b \\
+   c & d
+\end{pmatrix}
+$$
 ```latex
 \begin{bmatrix}
    a & b \\
@@ -255,7 +269,8 @@ $$
    c & d
 \end{vmatrix}
 ```
-$$\begin{vmatrix}
+$$
+\begin{vmatrix}
    a & b \\
    c & d
 \end{vmatrix}
@@ -266,7 +281,8 @@ $$
    c & d
 \end{Vmatrix}
 ```
-$$\begin{Vmatrix}
+$$
+\begin{Vmatrix}
    a & b \\
    c & d
 \end{Vmatrix}
@@ -278,10 +294,51 @@ x = \begin{cases}
    c &\text{if } d
 \end{cases}
 ```
-$$x = \begin{cases}
+$$
+x = \begin{cases}
    a &\text{if } b \\
    c &\text{if } d
 \end{cases}
+$$
+```latex
+\begin{rcases}
+   a &\text{if } b \\
+   c &\text{if } d
+\end{rcases}⇒…
+```
+$$
+\begin{rcases}
+   a &\text{if } b \\
+   c &\text{if } d
+\end{rcases}⇒…
+$$
+# Small Array
+```latex
+\begin{smallmatrix}
+   a & b \\
+   c & d
+\end{smallmatrix}
+```
+$$
+\begin{smallmatrix}
+   a & b \\
+   c & d
+\end{smallmatrix}
+$$
+# Subarray
+```latex
+\sum_{
+\begin{subarray}{l}
+   i\in\Lambda\\
+   0<j<n
+\end{subarray}}
+```
+$$
+\sum_{
+\begin{subarray}{l}
+   i\in\Lambda\\
+   0<j<n
+\end{subarray}}
 $$
 
 ---
