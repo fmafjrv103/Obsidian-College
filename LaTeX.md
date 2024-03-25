@@ -410,12 +410,12 @@ $$
 \end{CD}
 $$
 # Color
-|                             |                                 |
-| --------------------------- | ------------------------------- |
-| $\color{blue} F=ma$         | `\color{blue} F=ma`             |
-| $\textcolor{blue}{F=ma}$    | `\textcolor{blue}{F=ma}`        |
-| $\textcolor{#228B22}{F=ma}$ | `\textcolor{#228B22}{F=ma}`     |
-| $\colorbox{aqua}{$$         | `\colorbox{aqua}{$F=ma$}`       |
-| �=��F=ma​                   | `\fcolorbox{red}{aqua}{$F=ma$}` |
+|                               |                                 |
+| ----------------------------- | ------------------------------- |
+| $\color{blue} F=ma$           | `\color{blue} F=ma`             |
+| $\textcolor{blue}{F=ma}$      | `\textcolor{blue}{F=ma}`        |
+| $\textcolor{#228B22}{F=ma}$   | `\textcolor{#228B22}{F=ma}`     |
+| $\colorbox{aqua}{F=ma}$       | `\colorbox{aqua}{$F=ma$}`       |
+| $\fcolorbox{red}{aqua}{F=ma}$ | `\fcolorbox{red}{aqua}{$F=ma$}` |
 
 ---
