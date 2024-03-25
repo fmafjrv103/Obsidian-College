@@ -30,6 +30,6 @@ $\begin{align}A&=2(8-2(2)) \\ &=2(8-4) \\ &=2(4) \\ &=\boxed{8 sq/mi}\end{align}
 	$\begin{align}0&=x^2-x-12 \\ 0&=(x-4)(x+3)\end{align}$
 	$\begin{matrix}x=4 & x=-3\end{matrix}$
 	
-	$\begin{align}x=\frac{-(-1)±\sqrt{-1^2-4(1)(12)}}{2(1)} \\ $
+	$\begin{align}x=\frac{-(-1)±\sqrt{-1^2-4(1)(12)}}{2(1)} \\ x=\frac{1±\sqrt{4}}$
 
 ---
