@@ -24,7 +24,10 @@ $\begin{align}A&=2(8-2(2)) \\ &=2(8-4) \\ &=2(4) \\ &=\boxed{8 sq/mi}\end{align}
 - Graph  the following function
 	$f(x)=x^2-x-12$
 	$h=\frac{-1(-1)}{2(1)}=\frac{1}{2}$
+	
 	$K=\frac{1}{2}^2-\frac{1}{2}-12=-12.25$
-
+	
+	$\begin{align}0&=x^2-x-12 \\ 0&=(x-4)(x+3)\end{align}$
+	$\begin{matrix}x=$
 
 ---
