@@ -30,7 +30,9 @@ $\begin{align}A&=2(8-2(2)) \\ &=2(8-4) \\ &=2(4) \\ &=\boxed{8 sq/mi}\end{align}
 	$\begin{align}0&=x^2-x-12 \\ 0&=(x-4)(x+3)\end{align}$
 	$\begin{matrix}x=4 & x=-3\end{matrix}$
 	
-	$\begin{align}x&=\frac{-(-1)±\sqrt{-1^2-4(1)(12)}}{2(1)}\\ x&=\frac{1±\sqrt{49}}{2}\end{align}$
-	$\begin{matrix}\begin{align}x&=\frac{1+\sqrt{7}}{2} & x&=\frac{1-\sqrt{7}}{2} \\ x&=4 & x&=-3\end{align}\end{matrix}$
-
+	$\begin{align}x&=\frac{-(-1)±\sqrt{-1^2-4(1)(12)}}{2(1)}\\ x&=\frac{1±\sqrt{47}}{2}\end{align}$
+	$\begin{matrix}\begin{align}x&=\frac{1+7}{2} & x&=\frac{1-7}{2} \\ x&=\frac{8}{2}=4 & x&=\frac{-6}{2}=-3\end{align}\end{matrix}$
+	
+	$$
+	
 ---
