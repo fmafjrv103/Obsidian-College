@@ -340,5 +340,19 @@ $$
    0<j<n
 \end{subarray}}
 $$
+```latex
+\begin{equation}
+\begin{split}  a &=b+c\\
+      &=e+f
+\end{split}
+\end{equation}
+```
+$$
+\begin{equation}
+\begin{split}  a &=b+c\\
+      &=e+f
+\end{split}
+\end{equation}
+$$
 
 ---
