@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math Notes 5.md",
+                "file": "Math Notes 2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math Notes 5.md",
+                "file": "Math Notes 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math Notes 5.md",
+                "file": "Math Notes 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math Notes 5.md"
+                "file": "Math Notes 2.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Math Notes 5.md",
+                "file": "Math Notes 2.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -264,10 +264,10 @@
   "active": "de4f42d263fa176a",
   "lastOpenFiles": [
     "Math MOC.md",
-    "LaTeX.md",
-    "Math Notes 5.md",
     "Math Notes 3.md",
     "Math Notes 4.md",
+    "Math Notes 5.md",
+    "LaTeX.md",
     "010 Notes MOC.md",
     "202403200202 Time Management.md",
     "Pomodoro technique.md",

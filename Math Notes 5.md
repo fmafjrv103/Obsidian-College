@@ -31,11 +31,7 @@ $h=\frac{-4}{2(-2)}=\frac{-4}{-4}=1$
 Find $k$
 $f(h)=k$
 
-$\begin{equation}f(1)=-2(1)^2+4(1)+5\\=-2+4+5 \\ 
-=7 
-\end{equation}$$
- 7=k
-
+$\begin{align} f(1)&=-2(1)^2+4(1)+5 \\ &=-2+4+5 \\ &=7 \\ 7&=k \end{align}$
 ### Step 5
 Plug into Standard Form
 

@@ -15,9 +15,9 @@ links: [[Math MOC]]
 ---
 $f(x)=mx+b$ : Standard function
 ![[Pasted image 20240316145337.png|560]]
-Ex: $f(x)=3x-2$
-	$f(x)=-5x+4$
-	$f(x)=10x$
+Ex: 
+$\begin{align} f(x)&=3x-2 \\ f(x)&=-5x+4 \\ f(x)&=10x \end{align}$
+
 ---
 $f(x)=3x-2$
 Slope = $\frac{3}1$
@@ -45,8 +45,7 @@ Point form = $y-y_1=m(x-x_1)$
 
 $m=\frac{3-(-1)}{1-(-1)}=-\frac{4}{4}=1$
 $y-(-1)=1(x-(-3))$
-$y+1=x+3$
-$y=x+2$
+$y+1=x+3 \y&=x+2 \end{align}$
 $\boxed{f(x)=x+2}$
 ![[Pasted image 20240316161955.png|560]]
 
