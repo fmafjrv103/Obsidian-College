@@ -53,8 +53,8 @@ Ex: (3,4), (-2, -5)
 
 $m=\frac{-5-4}{-2-3}=\frac{-9}{-5}=-\frac{9}{5}$
 
-$\begin{align}y-4&=-\frac{9}{5}(x-3) \\ y-4&=-\frac{9}{5}x(-\frac{9}{5})(\frac{3}{1}) \\ y-4&=-\frac{9}{5}x-\frac{27}{5} \\ y&=-\frac{9}{5}-\frac{27}{5}+\frac{20}{5}\end{align}$
-$\boxed{f(x)&=-\frac{9}{5}x-\frac{7}{5}}\end{align}$
+$\begin{align}y-4&=-\frac{9}{5}(x-3) \\ y-4&=-\frac{9}{5}x(-\frac{9}{5})(\frac{3}{1}) \\ y-4&=-\frac{9}{5}x-\frac{27}{5} \\ y&=-\frac{9}{5}-\frac{27}{5}+\frac{20}{5} \\ f(x)&=-\frac{9}{5}x-\frac{7}{5}\end{align}$
+$\boxed{f(x)=-\frac{9}{5}x-\frac{7}{5}}$
 ![[Pasted image 20240316162922.png|560]]
 
 ---

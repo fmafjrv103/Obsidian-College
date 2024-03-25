@@ -44,9 +44,7 @@ $f(x)=\frac{3}{5}x-\frac{7}{5}$
 $y-(-2)=\frac{3}{5}(x-(-1))$
 $y+2=\frac{3}{5}x+\frac{3}{5}$
 
-$\frac{3}{5}-\frac{2}{1}=\frac{3}{5}-\frac{10}{5}$
-       $=-\frac{7}{5}$
-$y=\frac{3}{5}x-\frac{7}{5}$
+$\frac{3}{5}-\frac{2}{1}=\frac{3}{5}-\frac{10}{5}\\&=-\frac{7}{5} \\ y&=\frac{3}{5}x-\frac{7}{5}\end{align}$
 ![[Pasted image 20240315173532.png|560]]
 
 ---
