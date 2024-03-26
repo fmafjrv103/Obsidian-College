@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202403160242 Creating a Good MOC.md",
+                "file": "Computer MOC.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13a9bf8fa0a46a41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College Packing List.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202403160242 Creating a Good MOC.md",
+                "file": "College Packing List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202403160242 Creating a Good MOC.md",
+                "file": "College Packing List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202403160242 Creating a Good MOC.md"
+                "file": "College Packing List.md"
               }
             }
           },
@@ -214,7 +227,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "202403160242 Creating a Good MOC.md",
+                "file": "College Packing List.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -288,9 +301,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b29b430ce67e1622",
+  "active": "13a9bf8fa0a46a41",
   "lastOpenFiles": [
     "Computer MOC.md",
+    "College Packing List.md",
+    "202403160242 Creating a Good MOC.md",
     "040 Interests MOC.md",
     "000 Home.md",
     "2024-05-02 TODOS.md",
@@ -326,8 +341,6 @@
     "Media/GitHub Desktop.app/Contents/Resources/app/git/share/git-core/templates/hooks/pre-merge-commit.sample",
     "Media/GitHub Desktop.app/Contents/Resources/app/git/share/git-core/templates/hooks/pre-commit.sample",
     "Media/GitHub Desktop.app/Contents/Resources/app/git/share/git-core/templates/hooks/pre-applypatch.sample",
-    "Media/GitHub Desktop.app/Contents/Resources/app/static/gitignore/Global/README.md",
-    "Media/GitHub Desktop.app/Contents/Resources/app/static/gitignore/README.md",
     "Media/GitHub Desktop.app/Contents/Resources/app/emoji/unicode/3299.png",
     "Media/GitHub Desktop.app/Contents/Resources/app/emoji/unicode/3297.png",
     "Media/GitHub Desktop.app/Contents/Resources/app/emoji/unicode/303d.png",
