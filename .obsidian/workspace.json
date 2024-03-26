@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-26.md",
+                "file": "Learning Conceptually.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-26.md",
+                "file": "Learning Conceptually.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-26.md",
+                "file": "Learning Conceptually.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-26.md"
+                "file": "Learning Conceptually.md"
               }
             }
           },
@@ -240,7 +240,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024-03-26.md",
+                "file": "Learning Conceptually.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -316,8 +316,8 @@
   },
   "active": "1aa6507fed02a970",
   "lastOpenFiles": [
-    "Learning Conceptually.md",
     "2024-03-26.md",
+    "Learning Conceptually.md",
     "Youtube MOC.md",
     "040 Interests MOC.md",
     "000 Home.md",
