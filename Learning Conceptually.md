@@ -6,7 +6,7 @@ tags:
   - pkm
   - active
 ---
-Links: 
+Links: [[090 PKM MOC|PKM MOC]]
 
 ---
 ![youtube](https://youtu.be/yG7z8XtZGMk?si=slMhXGrBO8qLamVP)
