@@ -16,10 +16,14 @@ what does that mean? It means to give things time to settle, you’re not going 
 	- Once you figure out those its easier to learn the harder parts
 	- If it seem to hard move on and once you gather more information, go back to it and more than likely will be easier.
 	>_”Learning the easier things will make the hard things click”_ – Cajun Koi Academy
+- [[Kistune Club]]
 # Learn Like a Hunter
 Become curious about the topic, make yourself fascinated with the working of the topics and get interested about learning them. By getting interested, you’re using the best thing about humans to help you, curiosity. When you’re curious about a topic of interest, you will naturally want to learn more. So, by using curiosity, you will be the “hunter” of knowledge about the topic, learning almost everything there is about that particular topic or idea. But the main question is, how do become more interested in a topic that doesn’t interest me? Some ways are:
 - Relating it to something that is interesting to us
 - Relating it to the real world and the “bigger picture”
-- Treat finding the answers to this topic like a game,
+- Treat finding the answers to this topic like a game, or something fun
+- [[Tora Club]]
+# Learn Like an Athlete
+By persevering through learning and doing so even if it seems boring, that is learning like an athlete. Things get boring but if you show determination to get through that boredom, you can lear
 
 ---
