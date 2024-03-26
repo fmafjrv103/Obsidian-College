@@ -36,3 +36,4 @@ By persevering through learning and doing so even if it seems boring, that is le
 	- What is the reality of the situation?
 - [[Kuma Club]]
 ---
+Links: [[Match Day Trials]]

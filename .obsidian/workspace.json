@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books List.md",
+                "file": "Learning Conceptually.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books List.md",
+                "file": "Learning Conceptually.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books List.md",
+                "file": "Learning Conceptually.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books List.md"
+                "file": "Learning Conceptually.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Books List.md",
+                "file": "Learning Conceptually.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -263,14 +263,15 @@
   },
   "active": "5bb9b0cc1e0f228c",
   "lastOpenFiles": [
+    "000 Home.md",
     "Books MOC.md",
+    "Books List.md",
     "Lines.md",
     "Elementary Math.md",
     "Math MOC.md",
     "090 PKM MOC.md",
     "Math Notes 5.md",
     "040 Interests MOC.md",
-    "000 Home.md",
     "Learning Conceptually.md",
     "Kuma Club.md",
     "Tora Club.md",
@@ -293,7 +294,6 @@
     "Computer MOC.md",
     "202403160242 Creating a Good MOC.md",
     "2024-05-02 TODOS.md",
-    "Quiz 8.md",
     "Media/Pasted image 20240325153649.png",
     "Media/Pasted image 20240325150524.png",
     "Media/GitHub Desktop.app/Contents/Resources/app/git/share/git-core/templates/info/exclude",
