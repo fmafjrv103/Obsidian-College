@@ -1,11 +1,13 @@
 ---
 date: 2024-03-26 14:48:22
 tags:
-  - newNotes
+  - pkm
+  - concepts
+  - brain
 ---
-Links: 
+Links: [[Learning Conceptually]]
 
 ---
-
+![Link](https://youtu.be/P1nEyXQ-468?si=nom_2PpzpNJjOu7h)
 
 ---
