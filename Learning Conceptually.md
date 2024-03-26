@@ -26,6 +26,10 @@ Become curious about the topic, make yourself fascinated with the working of the
 # Learn Like an Athlete
 By persevering through learning and doing so even if it seems boring, that is learning like an athlete. Things get boring but if you show determination to get through that boredom, you can learn. Self reflect and get the self discipline to get through the difficult tasks in the topics no matter how boring or hard it can be. But, how do you gain the motivation to learn like an athlete? By:
 - Just Do It
-	Getting the motivation to do something takes action, so by just doing it, it will give you the motivation you need t
-
+	Getting the motivation to do something takes action, so by just doing it, it will give you the motivation you need to get things done. You don’t get that motivation by sitting and waiting.
+- Persevere
+	Once you get the initial motivation, keep going, because progress make us want to do more.
+- Do it even if you don’t want to
+	By giving ourselves no way out of the task, we will do more then when we do. Don’t give yourself the choice of doing it later, get it done, the sooner its done the sooner you will not have to do it anymore.
+- Lo
 ---
