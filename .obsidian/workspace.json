@@ -84,9 +84,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5bb9b0cc1e0f228c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hamlet Project.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -154,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Match Day Trials.md",
+                "file": "Hamlet Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Match Day Trials.md",
+                "file": "Hamlet Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Match Day Trials.md"
+                "file": "Hamlet Project.md"
               }
             }
           },
@@ -253,7 +266,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Match Day Trials.md",
+                "file": "Hamlet Project.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -327,10 +340,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "56f6b1af7fec1ed0",
+  "active": "5bb9b0cc1e0f228c",
   "lastOpenFiles": [
-    "Learning Conceptually.md",
     "Match Day Trials.md",
+    "Hamlet Project.md",
+    "Learning Conceptually.md",
     "Youtube MOC.md",
     "040 Interests MOC.md",
     "000 Home.md",
@@ -356,7 +370,6 @@
     "Math Notes 5.md",
     "202403200202 Time Management.md",
     "Pomodoro technique.md",
-    "2024-03-20 Notes to Add.md",
     "Media/GitHub Desktop.app/Contents/Resources/app/git/share/git-core/templates/info/exclude",
     "Media/GitHub Desktop.app/Contents/Resources/app/git/share/git-core/templates/hooks/update.sample",
     "Media/GitHub Desktop.app/Contents/Resources/app/git/share/git-core/templates/hooks/push-to-checkout.sample",
