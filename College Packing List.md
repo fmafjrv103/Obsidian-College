@@ -17,7 +17,7 @@ Links:
 - Computer/ computer accessories
 	- Charger
 	- USB Hub
-	- Headphones(including JBLs, AirPods, and AirPods Pros)
+	- Headphones(including JBLs, AirPods, and AirPods Pros, with wired headphones)
 - Small TV(optional)
 - iMac /w accessories
 	- Keyboards(including MIDI )
@@ -26,6 +26,6 @@ Links:
 	- Desk(optional if have space)
 	- Chair(the one in the dorm sucks)
 	- Phone(hopefully new/asl hopefully Samsung S23 Ultra)
-	
+- 
 
 ---

@@ -128,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College Packing List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College Packing List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +165,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "College Packing List.md"
-              }
+              "state": {}
             }
           },
           {
@@ -227,7 +223,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "College Packing List.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -301,10 +296,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "13a9bf8fa0a46a41",
+  "active": "dcf885419fbbb3f7",
   "lastOpenFiles": [
-    "Computer MOC.md",
     "College Packing List.md",
+    "Computer MOC.md",
     "202403160242 Creating a Good MOC.md",
     "040 Interests MOC.md",
     "000 Home.md",
