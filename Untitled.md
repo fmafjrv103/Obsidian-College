@@ -33,5 +33,8 @@ $\textcolor{red}{f(x)=3^{x}}$
 $\textcolor{green}{f(x)=5^{x}}$
 - The larger the base, the faster the graph grows
 - When dealing with fractional exponents $\frac{1}{x}$, take the $n$’th root of that $x$
-- When dealing with fractional exponents 
+- When dealing with fractional exponents when the numerator isn’t 1:
+	- Find the $n$’th root of the denominator
+	- Find the $n$’th power of the numerator
+	- Ex: $8^{\frac{2}{3}}=()$
 ---
