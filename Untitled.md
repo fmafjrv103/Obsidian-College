@@ -36,5 +36,6 @@ $\textcolor{green}{f(x)=5^{x}}$
 - When dealing with fractional exponents when the numerator isn’t 1:
 	- Find the $n$’th root of the denominator
 	- Find the $n$’th power of the numerator
-	- Ex: $8^{\frac{2}{3}}=()$
+	- Ex: $8^{\frac{2}{3}}=(\sqrt[3]{8})^{2}$
+
 ---
