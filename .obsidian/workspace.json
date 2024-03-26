@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hamlet Project.md",
+                "file": "000 Home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hamlet Project.md",
+                "file": "000 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hamlet Project.md",
+                "file": "000 Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hamlet Project.md"
+                "file": "000 Home.md"
               }
             }
           },
@@ -266,7 +266,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Hamlet Project.md",
+                "file": "000 Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -342,8 +342,8 @@
   },
   "active": "5bb9b0cc1e0f228c",
   "lastOpenFiles": [
-    "Match Day Trials.md",
     "Hamlet Project.md",
+    "Match Day Trials.md",
     "Learning Conceptually.md",
     "Youtube MOC.md",
     "040 Interests MOC.md",
