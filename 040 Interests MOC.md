@@ -22,6 +22,7 @@ Despite some criticisms of the Dewey Decimal System, it's actually an excellent,
 - **500s - Natural Sciences (math, astronomy, chemistry, geology, plants, animals)**
 	- [[Math MOC]]
 - **600s - Tech & Applied Sciences (technology, engineering, medicine, agriculture)**
+	- [[Computer MOC]]
 	- [[Engineering MOC]]
 	- [[Obsidian MOC]]
 - **700s - Fine Arts & Recreation (Architecture, Painting, Photos, Music, Sports, Film & TV, songs, leisure)**

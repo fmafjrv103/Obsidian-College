@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quiz 8.md",
+                "file": "040 Interests MOC.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b29b430ce67e1622",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer MOC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quiz 8.md",
+                "file": "Computer MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quiz 8.md",
+                "file": "Computer MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quiz 8.md"
+                "file": "Computer MOC.md"
               }
             }
           },
@@ -201,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Quiz 8.md",
+                "file": "Computer MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -275,12 +288,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c99c7042f6a9a3d3",
+  "active": "b29b430ce67e1622",
   "lastOpenFiles": [
+    "040 Interests MOC.md",
+    "Computer MOC.md",
+    "000 Home.md",
+    "2024-05-02 TODOS.md",
+    "Quiz 8.md",
     "Media/Pasted image 20240325153649.png",
     "Media/Pasted image 20240325150524.png",
     "20240321121231 Math Notes 6.md",
-    "Quiz 8.md",
     "2024-03-25.md",
     "Math MOC.md",
     "LaTeX.md",
@@ -292,7 +309,6 @@
     "010 Notes MOC.md",
     "202403200202 Time Management.md",
     "Pomodoro technique.md",
-    "000 Home.md",
     "2024-03-20 Notes to Add.md",
     "Untitled 2.md",
     "Untitled 1.md",
@@ -312,7 +328,6 @@
     "Media/GitHub Desktop.app/Contents/Resources/app/git/share/git-core/templates/hooks/pre-applypatch.sample",
     "Media/GitHub Desktop.app/Contents/Resources/app/static/gitignore/Global/README.md",
     "Media/GitHub Desktop.app/Contents/Resources/app/static/gitignore/README.md",
-    "Media/GitHub Desktop.app/Contents/Resources/app/static/gitignore/CONTRIBUTING.md",
     "Media/GitHub Desktop.app/Contents/Resources/app/emoji/unicode/3299.png",
     "Media/GitHub Desktop.app/Contents/Resources/app/emoji/unicode/3297.png",
     "Media/GitHub Desktop.app/Contents/Resources/app/emoji/unicode/303d.png",
@@ -321,8 +336,6 @@
     "Media/GitHub Desktop.app/Contents/Resources/app/emoji/unicode/2b50.png",
     "Media/GitHub Desktop.app/Contents/Resources/app/emoji/unicode/2b1c.png",
     "Media/GitHub Desktop.app/Contents/Resources/app/emoji/unicode/2b1b.png",
-    "Media/GitHub Desktop.app/Contents/Resources/app/emoji/unicode/2b07.png",
-    "Media/GitHub Desktop.app/Contents/Resources/app/static/pretext-draft.md",
     "Untitled.canvas"
   ]
 }
