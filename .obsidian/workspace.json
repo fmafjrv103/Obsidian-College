@@ -11,8 +11,13 @@
             "id": "5bb9b0cc1e0f228c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Learning Conceptually.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -83,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learning Conceptually.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Learning Conceptually.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Learning Conceptually.md"
+              }
             }
           },
           {
@@ -178,6 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Learning Conceptually.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -253,6 +263,9 @@
   },
   "active": "5bb9b0cc1e0f228c",
   "lastOpenFiles": [
+    "090 PKM MOC.md",
+    "000 Home.md",
+    "2024-03-26.md",
     "Tora Club.md",
     "The Art of War Other Classics of Eastern Philosophy - Sun Tzu Lao-Tzu Confucius Mencius.md",
     "Quiz 8.md",
@@ -271,20 +284,17 @@
     "Computer MOC.md",
     "College Packing List.md",
     "Media/GitHubDesktop-x64.zip",
-    "000 Home.md",
     "Books MOC.md",
     "Books List.md",
     "Lines.md",
     "Elementary Math.md",
     "Math MOC.md",
-    "090 PKM MOC.md",
     "Math Notes 5.md",
     "040 Interests MOC.md",
     "Untitled.md",
     "Untitled 1.md",
     "Youtube MOC.md",
     "TV MOC.md",
-    "2024-03-26.md",
     "010 Notes MOC.md",
     "085 Finances MOC.md",
     "Media/GitHub Desktop.app/Contents/Resources/app/git/share/git-core/templates/info/exclude",
