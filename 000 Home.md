@@ -8,7 +8,7 @@ links: [[000 Home|Home]]
 ---
 >_“Intelligence can seem confusing, but in time you will see its worth”_
 
->_”Maybe you’ll come up with something new, maybe you’ll become the next Da Vinci and people will be taking notes on you”_ — Chris Pomeroy
+>_” Maybe you’ll come up with something new, maybe you’ll become the next Da Vinci and people will be taking notes on you”_ — Chris Pomeroy
 # Home Categories
 - 000s - [[000 Home|Home]], [[005 Active MOC|Active Notes]], and the following Maps of Content (MOCs):
 - 010s - [[010 Notes MOC|Notes]]
