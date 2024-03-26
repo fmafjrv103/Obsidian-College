@@ -15,14 +15,16 @@ Links:
 - Mattress padding 
 - Book bag
 - Computer/ computer accessories
+	- Charger
+	- 
 - Small TV(optional)
 - iMac /w accessories
-	- Keyboards
+	- Keyboards(including MIDI )
 	- Mice(magic mouse & G502 Hero)
 	- Surround sound system
 	- Desk(optional if have space)
 	- Chair(the one in the dorm sucks)
-	- Phone(hopefully new/asl hopefully Samsung S23 Ul)
-	- 
+	- Phone(hopefully new/asl hopefully Samsung S23 Ultra)
+	
 
 ---
