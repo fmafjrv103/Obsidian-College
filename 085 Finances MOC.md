@@ -8,6 +8,7 @@ Links: [[000 Home|Home]]
 
 ---
 # College
+Meal Plan: 15 Weekly $2150
 
 
 ---
