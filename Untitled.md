@@ -27,6 +27,8 @@ What will happen to $C(t)$ as $t\frac{\rightarrow}{approaches}\infty$?
 # Exponential Function
 $f(x)=2^{x}$
 ![[Pasted image 20240326130428.png|560]]
-
+![[Pasted image 20240326131135.png|560]]
+$\textcolor{red}f(x)=3^{x}$
+- The larger the base, the faster the graph grows
 
 ---
