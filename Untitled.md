@@ -20,6 +20,12 @@ f(0)=+
 f(4)=+
 f(-3)=-
 
+# Example
+$C(t)=\frac{t}{t^{2}+1}$
+What will happen to $C(t)$ as $t\frac{\rightarrow}{approaches}\infty$?
+
+# Exponential Function
+$f(x)=2^{x}$
 
 
 ---
