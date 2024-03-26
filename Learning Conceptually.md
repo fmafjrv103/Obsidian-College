@@ -13,6 +13,9 @@ Links:
 # Learn Like A Painter
 what does that mean? It means to give things time to settle, you’re not going to learn everything right away. This is where your notes come in, by adding onto notes that you took your first time learning your problem, you can see how the knowledge grew about the topic. Like a painter, you’re not painting the full picture right away, you’re adding strokes of paint to bring in the whole picture. Treat your notes as a painting, by not getting everything right away, add as you learn, then you get the full picture, and then you finally learn. Learning in layers.
 - Go to easier concepts
-	- Once you figure 
+	- Once you figure out those its easier to learn the harder parts
+	- If it seem to hard move on and once you gather more information, go back to it and more than likely will be easier.
+	>_”Learning the easier things will make the hard things click”_ – Cajun Koi Academy
+# Learn Like a Hunter
 
 ---
