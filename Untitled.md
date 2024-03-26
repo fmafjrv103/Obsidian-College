@@ -37,5 +37,9 @@ $\textcolor{green}{f(x)=5^{x}}$
 	- Find the $n$’th root of the denominator
 	- Find the $n$’th power of the numerator
 	- Ex: $8^{\frac{2}{3}}=(\sqrt[3]{8})^{2}$
+![[Pasted image 20240326134343.png|560]]
+$g(x)=3^{x}$ to $f(x)=3^{x+2}$
+![[Pasted image 20240326134455.png|560]]
+$g(x)=2^{x}$ to $f(x)=2^{x-1}+3$
 
 ---
