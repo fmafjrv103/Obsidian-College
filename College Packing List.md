@@ -16,7 +16,8 @@ Links:
 - Book bag
 - Computer/ computer accessories
 	- Charger
-	- 
+	- USB Hub
+	- Headphones(including JBLs, AirPods, and AirPods Pros)
 - Small TV(optional)
 - iMac /w accessories
 	- Keyboards(including MIDI )
