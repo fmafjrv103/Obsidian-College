@@ -9,7 +9,8 @@ tags:
 Links: 
 
 ---
+![youtube](https://youtu.be/yG7z8XtZGMk?si=slMhXGrBO8qLamVP)
 # Learn Like A Painter
-what does that mean? It means to give things time to settle, you’re not going to learn everything right away. This is where your notes come in, by adding onto notes that you took your first time learning your problem, you can see how the knowledge grew about the topic. Like a pa
+what does that mean? It means to give things time to settle, you’re not going to learn everything right away. This is where your notes come in, by adding onto notes that you took your first time learning your problem, you can see how the knowledge grew about the topic. Like a painter, you’re not painting the full picture right away, you’re adding strokes of paint to bring in the whole picture. Treat your notes as a painting, by not getting everything right away, add as you learn, then you get the full picture, and then you finally learn.
 
 ---
