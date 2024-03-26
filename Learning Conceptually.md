@@ -31,5 +31,7 @@ By persevering through learning and doing so even if it seems boring, that is le
 	Once you get the initial motivation, keep going, because progress make us want to do more.
 - Do it even if you don’t want to
 	By giving ourselves no way out of the task, we will do more then when we do. Don’t give yourself the choice of doing it later, get it done, the sooner its done the sooner you will not have to do it anymore.
-- Lo
+- Self reflect and analyze your weakness
+	Look into yourself and see what is and isn’t working and see how you can improve those weaknesses. You’re not going to get better if you keep doing the same things that are failing you, so by looking at those flaws, you can find ways to improve those areas. If you get distracted easily, get  ANC headphone and put on music to focus on the task. Bad at time management, make a system that works(Pomodoro).
+	- What is the reality of the sit
 ---
