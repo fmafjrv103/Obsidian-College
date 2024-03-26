@@ -24,6 +24,8 @@ Become curious about the topic, make yourself fascinated with the working of the
 - Treat finding the answers to this topic like a game, or something fun
 - [[Tora Club]]
 # Learn Like an Athlete
-By persevering through learning and doing so even if it seems boring, that is learning like an athlete. Things get boring but if you show determination to get through that boredom, you can lear
+By persevering through learning and doing so even if it seems boring, that is learning like an athlete. Things get boring but if you show determination to get through that boredom, you can learn. Self reflect and get the self discipline to get through the difficult tasks in the topics no matter how boring or hard it can be. But, how do you gain the motivation to learn like an athlete? By:
+- Just Do It
+	Getting the motivation to do something takes action, so by just doing it, it will give you the motivation you need t
 
 ---
