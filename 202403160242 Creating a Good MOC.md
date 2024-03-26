@@ -2,8 +2,8 @@
 date: 2024-03-16 01:43
 tags:
   - notes
-  - MOC
   - concepts
+  - pkm
 ---
 links: [[Maps of Content]]
 

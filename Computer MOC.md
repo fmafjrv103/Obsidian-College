@@ -10,6 +10,9 @@ Links: [[040 Interests MOC|Interests MOC]]
 # Computer MOC
 Everything about a computer can go in here. From HDDs to SSDs.
 # Contents
+- [[OS(Operating Systems)]]
+- [[HDD]]
+- [[SSD]]
 - 
 
 ---
