@@ -7,6 +7,12 @@ tags:
 Links: [[000 Home|Home]]
 
 ---
+# Active Notes
+```dataview
+table without id
+file.link as "Note", (date(today) - file.cday).day as "Created"
+from #active  and -#MOC and -#home
+```
 # All Notes
 ```dataview
 table without id

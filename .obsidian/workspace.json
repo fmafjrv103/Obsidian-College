@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Conceptualy.md",
+                "file": "Learning Conceptually.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning Conceptualy.md",
+                "file": "Learning Conceptually.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning Conceptualy.md",
+                "file": "Learning Conceptually.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning Conceptualy.md"
+                "file": "Learning Conceptually.md"
               }
             }
           },
@@ -240,7 +240,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Learning Conceptualy.md",
+                "file": "Learning Conceptually.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -316,9 +316,10 @@
   },
   "active": "1aa6507fed02a970",
   "lastOpenFiles": [
-    "085 Finances MOC.md",
-    "Learning Conceptualy.md",
+    "010 Notes MOC.md",
     "000 Home.md",
+    "Learning Conceptually.md",
+    "085 Finances MOC.md",
     "College Packing List.md",
     "Computer MOC.md",
     "202403160242 Creating a Good MOC.md",
@@ -336,7 +337,6 @@
     "Math Notes 3.md",
     "Math Notes 4.md",
     "Math Notes 5.md",
-    "010 Notes MOC.md",
     "202403200202 Time Management.md",
     "Pomodoro technique.md",
     "2024-03-20 Notes to Add.md",
