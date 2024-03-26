@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "040 Interests MOC.md",
+                "file": "Learning Conceptually.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "040 Interests MOC.md",
+                "file": "Learning Conceptually.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "040 Interests MOC.md",
+                "file": "Learning Conceptually.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "040 Interests MOC.md"
+                "file": "Learning Conceptually.md"
               }
             }
           },
@@ -240,7 +240,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "040 Interests MOC.md",
+                "file": "Learning Conceptually.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -316,11 +316,12 @@
   },
   "active": "1aa6507fed02a970",
   "lastOpenFiles": [
-    "000 Home.md",
     "Learning Conceptually.md",
+    "040 Interests MOC.md",
+    "000 Home.md",
+    "TV MOC.md",
     "2024-03-26.md",
     "Youtube MOC.md",
-    "040 Interests MOC.md",
     "010 Notes MOC.md",
     "085 Finances MOC.md",
     "College Packing List.md",
@@ -343,7 +344,6 @@
     "Pomodoro technique.md",
     "2024-03-20 Notes to Add.md",
     "Untitled 2.md",
-    "Untitled 1.md",
     "Media/GitHub Desktop.app/Contents/Resources/app/git/share/git-core/templates/info/exclude",
     "Media/GitHub Desktop.app/Contents/Resources/app/git/share/git-core/templates/hooks/update.sample",
     "Media/GitHub Desktop.app/Contents/Resources/app/git/share/git-core/templates/hooks/push-to-checkout.sample",
