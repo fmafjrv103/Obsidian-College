@@ -9,6 +9,7 @@ Links: [[000 Home|Home]], [[040 Interests MOC|Interests MOC]]
 ---
 # Videos to Watch
 ![Link](https://youtu.be/yG7z8XtZGMk?si=slMhXGrBO8qLamVP)
+![Link](https://youtu.be/5_lvX-EF0TM)
 # Videos Watched
 # Videos to Rewatch
 # Videos to Study

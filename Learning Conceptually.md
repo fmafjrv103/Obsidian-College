@@ -15,7 +15,7 @@ what does that mean? It means to give things time to settle, you’re not going 
 - Go to easier concepts
 	- Once you figure out those it is easier to learn the harder parts
 	- If it seems too hard move on and once you gather more information, go back to it and more than likely will be easier.
-	>_” Learning the easier things will make the hard things click”_ – Cajun Koi Academy
+	>_” Learning the easier things will make the hard things click”_ – Matty of Cajun Koi Academy
 - [[Kitsune Club]]
 # Learn Like a Hunter
 Become curious about the topic, make yourself fascinated with the working of the topics, and get interested in learning them. By getting interested, you’re using the best thing about humans to help you, curiosity. When you’re curious about a topic of interest, you will naturally want to learn more. So, by using curiosity, you will be the “hunter” of knowledge about the topic, learning almost everything there is about that particular topic or idea. But the main question is, how do I become more interested in a topic that doesn’t interest me? Some ways are:
