@@ -28,7 +28,10 @@ What will happen to $C(t)$ as $t\frac{\rightarrow}{approaches}\infty$?
 $f(x)=2^{x}$
 ![[Pasted image 20240326130428.png|560]]
 ![[Pasted image 20240326131135.png|560]]
-$\textcolor{red}f(x)=3^{x}$
+$f(x)=2^{x}$
+$\textcolor{red}{f(x)=3^{x}}$
+$\textcolor{green}{f(x)=5^{x}}$
 - The larger the base, the faster the graph grows
-
+- When dealing with fractional exponents $\frac{1}{x}$, take the $n$’th root of that $x$
+- When dealing with fractional exponents 
 ---
