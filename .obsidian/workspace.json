@@ -8,98 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de4f42d263fa176a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20240321121231 Math Notes 6.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c99c7042f6a9a3d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "040 Interests MOC.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b29b430ce67e1622",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer MOC.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13a9bf8fa0a46a41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "085 Finances MOC.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1aa6507fed02a970",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning Conceptually.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56f6b1af7fec1ed0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Match Day Trials.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5bb9b0cc1e0f228c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College Packing List.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College Packing List.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College Packing List.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College Packing List.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -266,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "College Packing List.md",
+                "file": "Untitled.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -342,6 +263,8 @@
   },
   "active": "5bb9b0cc1e0f228c",
   "lastOpenFiles": [
+    "College Packing List.md",
+    "Untitled.md",
     "000 Home.md",
     "Hamlet Project.md",
     "Match Day Trials.md",
@@ -352,7 +275,6 @@
     "2024-03-26.md",
     "010 Notes MOC.md",
     "085 Finances MOC.md",
-    "College Packing List.md",
     "Computer MOC.md",
     "202403160242 Creating a Good MOC.md",
     "2024-05-02 TODOS.md",
@@ -369,7 +291,6 @@
     "Math Notes 4.md",
     "Math Notes 5.md",
     "202403200202 Time Management.md",
-    "Pomodoro technique.md",
     "Media/GitHub Desktop.app/Contents/Resources/app/git/share/git-core/templates/info/exclude",
     "Media/GitHub Desktop.app/Contents/Resources/app/git/share/git-core/templates/hooks/update.sample",
     "Media/GitHub Desktop.app/Contents/Resources/app/git/share/git-core/templates/hooks/push-to-checkout.sample",
