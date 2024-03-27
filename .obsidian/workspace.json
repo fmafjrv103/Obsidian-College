@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "040 Interests MOC.md",
+                "file": "000 Home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "040 Interests MOC.md",
+                "file": "000 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "040 Interests MOC.md",
+                "file": "000 Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "040 Interests MOC.md"
+                "file": "000 Home.md"
               }
             }
           },
@@ -186,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "040 Interests MOC.md",
+                "file": "000 Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,6 +262,8 @@
   },
   "active": "5bb9b0cc1e0f228c",
   "lastOpenFiles": [
+    "Learning Conceptually.md",
+    "040 Interests MOC.md",
     "Untitled.md",
     "2024-03-26.md",
     "2024-03-23.md",
@@ -276,7 +278,6 @@
     "Media/lghub_installer.app/Contents/Resources/tr-TR.lproj/InfoPlist.strings",
     "Media/lghub_installer.app/Contents/Resources/sv-SE.lproj/Localizable.strings",
     "conflict-files-obsidian-git.md",
-    "040 Interests MOC.md",
     "Math Notes 7.md",
     "Tora Club.md",
     "The Art of War Other Classics of Eastern Philosophy - Sun Tzu Lao-Tzu Confucius Mencius.md",
@@ -289,7 +290,6 @@
     "Media/Pasted image 20240325153649.png",
     "Media/Pasted image 20240325150524.png",
     "Match Day Trials.md",
-    "Learning Conceptually.md",
     "Kuma Club.md",
     "Kitsune Club.md",
     "Hamlet Project.md",
