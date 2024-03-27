@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Conceptually.md",
+                "file": "040 Interests MOC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "right": {
     "id": "f90594313b89809e",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning Conceptually.md",
+                "file": "040 Interests MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning Conceptually.md",
+                "file": "040 Interests MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning Conceptually.md"
+                "file": "040 Interests MOC.md"
               }
             }
           },
@@ -187,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Learning Conceptually.md",
+                "file": "040 Interests MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -232,7 +231,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.9122683237054052,
+                  "scale": 0.5160752687435086,
                   "close": true
                 }
               }
@@ -263,9 +262,22 @@
   },
   "active": "5bb9b0cc1e0f228c",
   "lastOpenFiles": [
-    "090 PKM MOC.md",
-    "000 Home.md",
+    "Untitled.md",
     "2024-03-26.md",
+    "2024-03-23.md",
+    "Media/lghub_installer.zip",
+    "Media/lghub_installer.app/Contents/_CodeSignature/CodeResources",
+    "Media/lghub_installer.app/Contents/_CodeSignature",
+    "Media/lghub_installer.app/Contents/Resources/zh-TW.lproj/Localizable.strings",
+    "Media/lghub_installer.app/Contents/Resources/zh-TW.lproj/InfoPlist.strings",
+    "Media/lghub_installer.app/Contents/Resources/zh-CN.lproj/Localizable.strings",
+    "Media/lghub_installer.app/Contents/Resources/zh-CN.lproj/InfoPlist.strings",
+    "Media/lghub_installer.app/Contents/Resources/tr-TR.lproj/Localizable.strings",
+    "Media/lghub_installer.app/Contents/Resources/tr-TR.lproj/InfoPlist.strings",
+    "Media/lghub_installer.app/Contents/Resources/sv-SE.lproj/Localizable.strings",
+    "conflict-files-obsidian-git.md",
+    "040 Interests MOC.md",
+    "Math Notes 7.md",
     "Tora Club.md",
     "The Art of War Other Classics of Eastern Philosophy - Sun Tzu Lao-Tzu Confucius Mencius.md",
     "Quiz 8.md",
@@ -283,29 +295,15 @@
     "Hamlet Project.md",
     "Computer MOC.md",
     "College Packing List.md",
-    "Media/GitHubDesktop-x64.zip",
-    "Books MOC.md",
-    "Books List.md",
-    "Lines.md",
-    "Elementary Math.md",
+    "000 Home.md",
+    "College MOC.md",
+    "2024032161809.md",
+    "2024-03-27.md",
+    "Maps of Content.md",
     "Math MOC.md",
-    "Math Notes 5.md",
-    "040 Interests MOC.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Youtube MOC.md",
-    "TV MOC.md",
-    "010 Notes MOC.md",
-    "085 Finances MOC.md",
-    "Media/GitHub Desktop.app/Contents/Resources/app/git/share/git-core/templates/info/exclude",
-    "Media/GitHub Desktop.app/Contents/Resources/app/git/share/git-core/templates/hooks/update.sample",
-    "Media/GitHub Desktop.app/Contents/Resources/app/git/share/git-core/templates/hooks/push-to-checkout.sample",
-    "Media/GitHub Desktop.app/Contents/Resources/app/git/share/git-core/templates/hooks/prepare-commit-msg.sample",
-    "Media/GitHub Desktop.app/Contents/Resources/app/git/share/git-core/templates/hooks/pre-receive.sample",
-    "Media/GitHub Desktop.app/Contents/Resources/app/git/share/git-core/templates/hooks/pre-rebase.sample",
-    "Media/GitHub Desktop.app/Contents/Resources/app/git/share/git-core/templates/hooks/pre-push.sample",
-    "Media/GitHub Desktop.app/Contents/Resources/app/git/share/git-core/templates/hooks/pre-merge-commit.sample",
-    "Media/GitHub Desktop.app/Contents/Resources/app/git/share/git-core/templates/hooks/pre-commit.sample",
+    "202403200202 Time Management.md",
+    "070 Journal MOC.md",
+    "020 School MOC.md",
     "Media/GitHub Desktop.app/Contents/Resources/app/emoji/unicode/3299.png",
     "Media/GitHub Desktop.app/Contents/Resources/app/emoji/unicode/3297.png",
     "Media/GitHub Desktop.app/Contents/Resources/app/emoji/unicode/303d.png",
