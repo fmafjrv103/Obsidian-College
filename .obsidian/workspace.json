@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Home.md",
+                "file": "LaTeX.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Home.md",
+                "file": "LaTeX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Home.md",
+                "file": "LaTeX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Home.md"
+                "file": "LaTeX.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Home.md",
+                "file": "LaTeX.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -263,8 +263,14 @@
   },
   "active": "5bb9b0cc1e0f228c",
   "lastOpenFiles": [
-    "Learning Conceptually.md",
+    "Math MOC.md",
+    "090 PKM MOC.md",
+    "000 Home.md",
+    "Books MOC.md",
+    "Manga Read.md",
+    "Manga To Read.md",
     "040 Interests MOC.md",
+    "Learning Conceptually.md",
     "Untitled.md",
     "2024-03-26.md",
     "2024-03-23.md",
@@ -296,15 +302,10 @@
     "Hamlet Project.md",
     "Computer MOC.md",
     "College Packing List.md",
-    "000 Home.md",
     "College MOC.md",
     "2024032161809.md",
     "2024-03-27.md",
     "Maps of Content.md",
-    "Math MOC.md",
-    "202403200202 Time Management.md",
-    "070 Journal MOC.md",
-    "020 School MOC.md",
     "Media/GitHub Desktop.app/Contents/Resources/app/emoji/unicode/3299.png",
     "Media/GitHub Desktop.app/Contents/Resources/app/emoji/unicode/3297.png",
     "Media/GitHub Desktop.app/Contents/Resources/app/emoji/unicode/303d.png",
