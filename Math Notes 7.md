@@ -16,6 +16,7 @@ Range: $(0, \infty)$
 
 # Interest
 $I=Pr$
+$I=P(1+r)^{t}$
 $I=P(1+\frac{r}{n})^{nt}$
 
 ---
