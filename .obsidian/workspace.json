@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "090 PKM MOC.md",
+                "file": "202403191031.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "090 PKM MOC.md",
+                "file": "202403191031.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "090 PKM MOC.md",
+                "file": "202403191031.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "090 PKM MOC.md"
+                "file": "202403191031.md"
               }
             }
           },
@@ -188,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "090 PKM MOC.md",
+                "file": "202403191031.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -264,16 +264,20 @@
   },
   "active": "5bb9b0cc1e0f228c",
   "lastOpenFiles": [
-    "040 Interests MOC.md",
+    "010 Notes MOC.md",
+    "202403201215.md",
+    "2024-05-02 TODOS.md",
     "000 Home.md",
+    "Dataview MOC.md",
+    "090 PKM MOC.md",
+    "Math MOC.md",
+    "040 Interests MOC.md",
     "10-Minute Memory Method.md",
     "Eisenhower Matrix.md",
     "202403200202 Time Management.md",
     "Tora Club.md",
     "Learning Conceptually.md",
-    "090 PKM MOC.md",
     "LaTeX.md",
-    "Math MOC.md",
     "Books MOC.md",
     "Manga Read.md",
     "Manga To Read.md",
@@ -303,10 +307,6 @@
     "Media/Pasted image 20240325150524.png",
     "Match Day Trials.md",
     "Kuma Club.md",
-    "Kitsune Club.md",
-    "Hamlet Project.md",
-    "Computer MOC.md",
-    "College Packing List.md",
     "Media/GitHub Desktop.app/Contents/Resources/app/emoji/unicode/3299.png",
     "Media/GitHub Desktop.app/Contents/Resources/app/emoji/unicode/3297.png",
     "Media/GitHub Desktop.app/Contents/Resources/app/emoji/unicode/303d.png",
