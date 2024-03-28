@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Home.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2e9ed815f47c37a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10-Minute Memory Method.md",
+                "file": "090 PKM MOC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +21,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -102,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-Minute Memory Method.md",
+                "file": "090 PKM MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-Minute Memory Method.md",
+                "file": "090 PKM MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-Minute Memory Method.md"
+                "file": "090 PKM MOC.md"
               }
             }
           },
@@ -201,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10-Minute Memory Method.md",
+                "file": "090 PKM MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -275,8 +262,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c2e9ed815f47c37a",
+  "active": "5bb9b0cc1e0f228c",
   "lastOpenFiles": [
+    "040 Interests MOC.md",
     "000 Home.md",
     "10-Minute Memory Method.md",
     "Eisenhower Matrix.md",
@@ -284,7 +272,6 @@
     "Tora Club.md",
     "Learning Conceptually.md",
     "090 PKM MOC.md",
-    "040 Interests MOC.md",
     "LaTeX.md",
     "Math MOC.md",
     "Books MOC.md",
