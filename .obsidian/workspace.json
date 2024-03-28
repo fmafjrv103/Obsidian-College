@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math Notes 7.md",
+                "file": "2024-03-28.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math Notes 7.md",
+                "file": "2024-03-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math Notes 7.md",
+                "file": "2024-03-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math Notes 7.md"
+                "file": "2024-03-28.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Math Notes 7.md",
+                "file": "2024-03-28.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -267,13 +267,14 @@
       "homepage:Open homepage": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "excel:Create Excel File": false,
-      "periodic-notes:Open today": false,
-      "timer:Open timer": false
+      "timer:Open timer": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "8e39810e2781050e",
+  "active": "0ab1b3ffe538cc50",
   "lastOpenFiles": [
     "Math Notes 7.md",
+    "2024-03-28.md",
     "202403191031.md",
     "010 Notes MOC.md",
     "202403201215.md",
