@@ -8,6 +8,14 @@ Links: [[Math MOC]]
 
 ---
 # Exponential Functions
-$\begin{align}f(x)&=b^{x} \\ b&$
+$\begin{align}f(x)&=b^{x} \\ b&>0\end{align}$
+
+$f(x)=2^{x}$
+Domain: $(-\infty, \infty)$
+Range: $(0, \infty)$
+
+# Translation
+## Algebraically
+
 
 ---
