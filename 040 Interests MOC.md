@@ -10,7 +10,7 @@ Links: [[000 Home|Home]]
 # Interests 
 Welcome to the Interests MOC. It can be quite a sprawling content map. 
 ## Using the [[Dewey Decimal System]]
-Despite some criticisms of the Dewey Decimal System, it's actually an excellent, pre-built, time-tested structure that works very well for structuring the interests of your digital library.
+Despite some criticisms of the Dewey Decimal System, it's an excellent, pre-built, time-tested structure that works very well for structuring the interests of your digital library.
 
 - **000s - General Reference (Encyclopedias, Journalism, Articles, News)**
 	- [[090 PKM MOC|PKM MOC]] - Managing my Personal Knowledge

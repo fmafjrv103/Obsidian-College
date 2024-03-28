@@ -18,7 +18,7 @@ links: [[000 Home|Home]]
 	- [[Dictionary MOC]]
 ## 000 – Computer science, information, and general works
 - **000 Computer science, knowledge, and systems**
-    - 000 Computer science, information and general works
+    - 000 Computer science, information, and general works
     - 001 Knowledge
     - 002 The book (writing, libraries, and book-related topics)
     - 003 Systems

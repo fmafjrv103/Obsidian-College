@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LaTeX.md",
+                "file": "090 PKM MOC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LaTeX.md",
+                "file": "090 PKM MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LaTeX.md",
+                "file": "090 PKM MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LaTeX.md"
+                "file": "090 PKM MOC.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "LaTeX.md",
+                "file": "090 PKM MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -232,7 +232,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5160752687435086,
+                  "scale": 1.0838272328744092,
                   "close": true
                 }
               }
@@ -263,13 +263,14 @@
   },
   "active": "5bb9b0cc1e0f228c",
   "lastOpenFiles": [
+    "040 Interests MOC.md",
+    "000 Home.md",
+    "LaTeX.md",
     "Math MOC.md",
     "090 PKM MOC.md",
-    "000 Home.md",
     "Books MOC.md",
     "Manga Read.md",
     "Manga To Read.md",
-    "040 Interests MOC.md",
     "Learning Conceptually.md",
     "Untitled.md",
     "2024-03-26.md",
@@ -305,7 +306,6 @@
     "College MOC.md",
     "2024032161809.md",
     "2024-03-27.md",
-    "Maps of Content.md",
     "Media/GitHub Desktop.app/Contents/Resources/app/emoji/unicode/3299.png",
     "Media/GitHub Desktop.app/Contents/Resources/app/emoji/unicode/3297.png",
     "Media/GitHub Desktop.app/Contents/Resources/app/emoji/unicode/303d.png",
