@@ -14,8 +14,5 @@ $f(x)=2^{x}$
 Domain: $(-\infty, \infty)$
 Range: $(0, \infty)$
 
-# Translation
-## Algebraically
-
 
 ---

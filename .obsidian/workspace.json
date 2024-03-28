@@ -81,7 +81,7 @@
       {
         "id": "ac02129fafbaf757",
         "type": "tabs",
-        "dimension": 16.991869918699187,
+        "dimension": 15.873015873015872,
         "children": [
           {
             "id": "bb6946b2a7144698",
@@ -156,6 +156,14 @@
               "type": "online.tokuhirom.obsidian-pomodoro-plugin",
               "state": {}
             }
+          },
+          {
+            "id": "d4ce16bc9ac63695",
+            "type": "leaf",
+            "state": {
+              "type": "Timer",
+              "state": {}
+            }
           }
         ],
         "currentTab": 6
@@ -163,7 +171,7 @@
       {
         "id": "8c22712198f3ed9f",
         "type": "tabs",
-        "dimension": 43.00813008130081,
+        "dimension": 39.920634920634924,
         "children": [
           {
             "id": "dcf885419fbbb3f7",
@@ -180,7 +188,7 @@
       {
         "id": "63346feb323c3112",
         "type": "tabs",
-        "dimension": 40,
+        "dimension": 44.2063492063492,
         "children": [
           {
             "id": "eb49dceec3166315",
@@ -259,10 +267,11 @@
       "homepage:Open homepage": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "excel:Create Excel File": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "timer:Open timer": false
     }
   },
-  "active": "0ab1b3ffe538cc50",
+  "active": "8e39810e2781050e",
   "lastOpenFiles": [
     "Math Notes 7.md",
     "202403191031.md",
