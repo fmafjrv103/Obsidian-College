@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c2e9ed815f47c37a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10-Minute Memory Method.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Home.md",
+                "file": "10-Minute Memory Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Home.md",
+                "file": "10-Minute Memory Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Home.md"
+                "file": "10-Minute Memory Method.md"
               }
             }
           },
@@ -187,7 +201,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Home.md",
+                "file": "10-Minute Memory Method.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -261,15 +275,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5bb9b0cc1e0f228c",
+  "active": "c2e9ed815f47c37a",
   "lastOpenFiles": [
+    "000 Home.md",
+    "10-Minute Memory Method.md",
     "Eisenhower Matrix.md",
     "202403200202 Time Management.md",
     "Tora Club.md",
     "Learning Conceptually.md",
     "090 PKM MOC.md",
     "040 Interests MOC.md",
-    "000 Home.md",
     "LaTeX.md",
     "Math MOC.md",
     "Books MOC.md",
@@ -305,7 +320,6 @@
     "Hamlet Project.md",
     "Computer MOC.md",
     "College Packing List.md",
-    "College MOC.md",
     "Media/GitHub Desktop.app/Contents/Resources/app/emoji/unicode/3299.png",
     "Media/GitHub Desktop.app/Contents/Resources/app/emoji/unicode/3297.png",
     "Media/GitHub Desktop.app/Contents/Resources/app/emoji/unicode/303d.png",
