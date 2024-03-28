@@ -15,6 +15,7 @@ Domain: $(-\infty, \infty)$
 Range: $(0, \infty)$
 
 # Interest
+$I=Pr$
 
 
 ---
