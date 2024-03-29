@@ -177,9 +177,10 @@ links: [[000 Home|Home]]
     - 151 _No longer used — formerly "Intellect"_
     - 152 Sensory perception, movement, emotions, and physiological drives
     - 153 Conscious mental processes and intelligence
-	    - [[s]]
+	    - [[Schema]]
     - 154 Subconscious and altered states and processes
     - 155 Differential and developmental psychology
+	    - [[Anchoring Effect]]
     - 156 Comparative psychology
     - 157 _No longer used — formerly Emotions"_
     - 158 Applied psychology
