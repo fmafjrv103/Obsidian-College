@@ -40,7 +40,7 @@ dv.paragraph(
 - [ ] Lulu
 - [ ] Adrie
 - [ ] Henry
-- [ ] 
+- [ ] Mr. Ray and family
 - [ ] Ruth and David
 - [ ] Rita and Roy
 - [ ] Tommy and Nora
