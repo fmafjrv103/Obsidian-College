@@ -11,11 +11,11 @@ Links: [[090 PKM MOC|PKM MOC]]
 ---
 ![youtube](https://youtu.be/yG7z8XtZGMk?si=slMhXGrBO8qLamVP)
 # Learn Like A Painter
-What does that mean? It means to give things time to settle, you’re not going to learn everything right away. This is where your notes come in, by adding onto notes that you took your first time learning your problem, you can see how the knowledge grew about the topic. Like a painter, you’re not painting the full picture right away, you’re adding strokes of paint to bring in the whole picture. Treat your notes as a painting, by not getting everything right away, add as you learn, then you get the full picture, and then you finally learn. You are learning in layers.
+What does that mean? It means to give things time to settle, you’re not going to learn everything right away. This is where your notes come in, by adding onto notes that you took your first time learning your problem, you can see how the knowledge grew about the topic. Like a painter, you’re not painting the full picture right away, you’re adding strokes of paint to bring in the whole picture. Treat your notes as a painting, by not getting everything right away, add as you learn, then you get the full picture, and then you finally learn. You are learning in layers. Learning the easier concepts first will more than likely 
 - Go to easier concepts
 	- Once you figure out those it is easier to learn the harder parts
 	- If it seems too hard move on and once you gather more information, go back to it and more than likely will be easier.
-	>_” Learning the easier things will make the hard things click”_ – Matty of Cajun Koi Academy
+>_” Learning the easier things will make the hard things click”_ – Matty of Cajun Koi Academy
 - [[Kitsune Club]]
 # Learn Like a Hunter
 Become curious about the topic, make yourself fascinated with the working of the topics, and get interested in learning them. By getting interested, you’re using the best thing about humans to help you, curiosity. When you’re curious about a topic of interest, you will naturally want to learn more. So, by using curiosity, you will be the “hunter” of knowledge about the topic, learning almost everything there is about that particular topic or idea. But the main question is, how do I become more interested in a topic that doesn’t interest me? Some ways are:
