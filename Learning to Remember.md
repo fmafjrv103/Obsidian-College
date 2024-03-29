@@ -21,6 +21,6 @@ Active learning is the type of learning that everyone want to do, but give up be
 - Connect
 	Memory as we know it is like a web of ideas, connected together in a complex system that we then know as memory. When we start making connections, the stronger that we will be able to recall it and know where it fits into the other connections that we have. Making connections like this is called [[Schema|schema]]. These connection make the mental model in your brain and help recall be faster and more accurate if you do this more often. But can’t improve your skill without working out that skill, and improving it.
 - Challenge
-	Without challenge you can’t improve your skills as a learner. When you
+	Without challenge you can’t improve your skills as a learner. When you challenge yourself, you show the weaknesses in your connection and the strengths as well. Without challenge your not going to see these weaknesses until its to late, so find them. See what’s is working and what is not and figure out how to fix those weak points. If a connection that you though was good turns out to not be, find a different way of connecting the topic to known ideas. Making these new connections will help reinforce the 
 
 ---
