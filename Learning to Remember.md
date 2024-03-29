@@ -16,6 +16,6 @@ This type of learning is the process of “relearning”. Taking notes just to r
 Active learning is the type of learning that everyone want to do, but give up because its to hard for them or uncomfortable. That is unless you know how to actively learn. This process is difficult, but if you learn these ways, your brain will thank you. Active learning, just like it sounds, is the process of getting information and using it to make connections and seeing the information in your own way. One way to do this is the learning cycle.
 # The Learning Cycle
 - Collect
-	Collecting information and putting it into note may sound simple but the reality is that most of that information may not be necessary. By figuring out how to filter th
+	Collecting information and putting it into note may sound simple but the reality is that most of that information may not be necessary. By figuring out how to filter the info that you’re presented, is better than writing everything down. Asking questions like, does this matter?, whats the point here?, and what’s the main idea? These will help by giving more context to what you’re putting in your notes is useful and not just things you wrote down because you didn’t know what to do with the information.
 
 ---
