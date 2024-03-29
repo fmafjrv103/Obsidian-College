@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "090 PKM MOC.md",
+                "file": "Learning to Remember.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "090 PKM MOC.md",
+                "file": "Learning to Remember.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "090 PKM MOC.md",
+                "file": "Learning to Remember.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "090 PKM MOC.md"
+                "file": "Learning to Remember.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "090 PKM MOC.md",
+                "file": "Learning to Remember.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -274,8 +274,9 @@
   },
   "active": "0ab1b3ffe538cc50",
   "lastOpenFiles": [
-    "Anchoring Effect.md",
     "090 PKM MOC.md",
+    "Math MOC.md",
+    "Anchoring Effect.md",
     "Schema.md",
     "Tora Club.md",
     "Learning Conceptually.md",
@@ -291,7 +292,6 @@
     "202403201215.md",
     "2024-05-02 TODOS.md",
     "Dataview MOC.md",
-    "Math MOC.md",
     "040 Interests MOC.md",
     "10-Minute Memory Method.md",
     "Eisenhower Matrix.md",

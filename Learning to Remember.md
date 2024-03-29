@@ -5,7 +5,7 @@ tags:
   - pkm
   - concepts
 ---
-Links: 
+Links: [[090 PKM MOC|PKM MOC]]
 
 ---
 ![Link](https://youtu.be/4RkWiNO3iq8?si=VEKtQCXSo0C0JWs1)

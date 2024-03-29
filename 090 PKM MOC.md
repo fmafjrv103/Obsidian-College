@@ -172,6 +172,7 @@ links: [[000 Home|Home]]
     - 147 Pantheism and related systems and doctrines
     - 148 Dogmatism, eclecticism, liberalism, syncretism, and traditionalism
     - 149 Other philosophical systems and doctrines
+	    - [[Cognitive Bias]]
 - **150 Psychology**
     - 150 Psychology
     - 151 _No longer used — formerly "Intellect"_
@@ -576,6 +577,7 @@ links: [[000 Home|Home]]
 - **510 Mathematics**
     - 510 [[Math MOC|Mathematics]]
     - 511 General principles of mathematics
+	    - [[Elementary Math]]
     - 512 Algebra
     - 513 Arithmetic
     - 514 Topology
@@ -678,6 +680,7 @@ links: [[000 Home|Home]]
     - 601 Philosophy and theory
     - 602 Miscellany
     - 603 Dictionaries, encyclopedias, concordances
+	    - [[Wikipedia]]
     - 604 Technical drawing, hazardous materials technology; groups of people
     - 605 Serial publications
     - 606 Organizations
