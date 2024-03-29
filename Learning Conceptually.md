@@ -10,8 +10,8 @@ Links: [[090 PKM MOC|PKM MOC]]
 
 ---
 ![youtube](https://youtu.be/yG7z8XtZGMk?si=slMhXGrBO8qLamVP)
-# Learn Like A Painter
-What does that mean? It means to give things time to settle, you’re not going to learn everything right away. This is where your notes come in, by adding onto notes that you took your first time learning your problem, you can see how the knowledge grew about the topic. Like a painter, you’re not painting the full picture right away, you’re adding strokes of paint to bring in the whole picture. Treat your notes as a painting, by not getting everything right away, add as you learn, then you get the full picture, and then you finally learn. You are learning in layers. Learning the easier concepts first will more than likely 
+# Learn Like A Painter (0:56 - 4:27)
+What does that mean? It means to give things time to settle, you’re not going to learn everything right away. This is where your notes come in, by adding onto notes that you took your first time learning your problem, you can see how the knowledge grew about the topic. Like a painter, you’re not painting the full picture right away, you’re adding strokes of paint to bring in the whole picture. Treat your notes as a painting, by not getting everything right away, add as you learn, then you get the full picture, and then you finally learn. The [[Anchoring Effect|anchoring effect]] will slow you down, but don’t let it You are learning in layers. Learning the easier concepts first will more than likely become the prier knowledge of the harder concepts in the future.
 - Go to easier concepts
 	- Once you figure out those it is easier to learn the harder parts
 	- If it seems too hard move on and once you gather more information, go back to it and more than likely will be easier.
