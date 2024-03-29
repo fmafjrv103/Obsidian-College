@@ -177,6 +177,7 @@ links: [[000 Home|Home]]
     - 151 _No longer used — formerly "Intellect"_
     - 152 Sensory perception, movement, emotions, and physiological drives
     - 153 Conscious mental processes and intelligence
+	    - [[s]]
     - 154 Subconscious and altered states and processes
     - 155 Differential and developmental psychology
     - 156 Comparative psychology
