@@ -17,5 +17,8 @@ Active learning is the type of learning that everyone want to do, but give up be
 # The Learning Cycle
 - Collect
 	Collecting information and putting it into note may sound simple but the reality is that most of that information may not be necessary. By figuring out how to filter the info that you’re presented, is better than writing everything down. Asking questions like, does this matter?, whats the point here?, and what’s the main idea? These will help by giving more context to what you’re putting in your notes is useful and not just things you wrote down because you didn’t know what to do with the information.
+	And don’t worry about forgetting it, because this is a learning cycle and you might get it one the next cycle. Now we need to stop collecting and start
+- Connect
+	Memory a
 
 ---
