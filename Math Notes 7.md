@@ -3,6 +3,8 @@ date: 2024-03-28 12:28:47
 tags:
   - math
   - notes
+  - complete
+complete: Yes
 ---
 Links: [[Math MOC]]
 
