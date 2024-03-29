@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Recall.md",
+                "file": "Tora Club.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Recall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Recall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Active Recall.md"
-              }
+              "state": {}
             }
           },
           {
@@ -196,7 +192,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Active Recall.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -272,16 +267,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0ab1b3ffe538cc50",
+  "active": "dcf885419fbbb3f7",
   "lastOpenFiles": [
-    "Learning to Remember.md",
-    "Active Recall.md",
+    "Tora Club.md",
+    "Learning Conceptually.md",
     "090 PKM MOC.md",
+    "Active Recall.md",
+    "Learning to Remember.md",
     "Math MOC.md",
     "Anchoring Effect.md",
     "Schema.md",
-    "Tora Club.md",
-    "Learning Conceptually.md",
     "010 Notes MOC.md",
     "000 Home.md",
     "Invites.md",
