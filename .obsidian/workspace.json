@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Home.md",
+                "file": "Invites.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Home.md",
+                "file": "Invites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Home.md",
+                "file": "Invites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Home.md"
+                "file": "Invites.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Home.md",
+                "file": "Invites.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -265,21 +265,24 @@
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
+      "periodic-notes:Open today": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "excel:Create Excel File": false,
       "timer:Open timer": false,
-      "periodic-notes:Open today": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "0ab1b3ffe538cc50",
   "lastOpenFiles": [
+    "Graduation.md",
+    "000 Home.md",
+    "2024-03-29.md",
     "Math Notes 7.md",
     "2024-03-28.md",
     "202403191031.md",
     "010 Notes MOC.md",
     "202403201215.md",
     "2024-05-02 TODOS.md",
-    "000 Home.md",
     "Dataview MOC.md",
     "090 PKM MOC.md",
     "Math MOC.md",
@@ -307,8 +310,6 @@
     "Media/lghub_installer.app/Contents/Resources/tr-TR.lproj/InfoPlist.strings",
     "Media/lghub_installer.app/Contents/Resources/sv-SE.lproj/Localizable.strings",
     "conflict-files-obsidian-git.md",
-    "The Art of War Other Classics of Eastern Philosophy - Sun Tzu Lao-Tzu Confucius Mencius.md",
-    "Quiz 8.md",
     "Media/Pasted image 20240326134455.png",
     "Media/Pasted image 20240326134343.png",
     "Media/Pasted image 20240326131135.png",

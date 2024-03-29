@@ -38,6 +38,9 @@ dv.paragraph(
 - [ ] Ojito
 - [ ] Marissa
 - [ ] Lulu
+- [ ] Adrie
+- [ ] Henry
+- [ ] 
 - [ ] Ruth and David
 - [ ] Rita and Roy
 - [ ] Tommy and Nora
