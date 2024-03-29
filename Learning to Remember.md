@@ -13,6 +13,9 @@ Not taking is hard, especially when you don’t know what your learning. This ca
 # Passive Learning
 This type of learning is the process of “relearning”. Taking notes just to reread them is a type of passive learning, as well as just memorizing with flash cards. These wont make you retain any knowledge that you learned or make it stick in your brain long enough to be useful in the long run. This is where the next type of learning come in.
 # Active Learning
-Active learning is the type of learning that everyone want to do, but give up because its to hard for them or uncomfortable. That is unless you know how to actively learn. This process is difficult, but if you learn these ways, your brain will thank you. 
+Active learning is the type of learning that everyone want to do, but give up because its to hard for them or uncomfortable. That is unless you know how to actively learn. This process is difficult, but if you learn these ways, your brain will thank you. Active learning, just like it sounds, is the process of getting information and using it to make connections and seeing the information in your own way. One way to do this is the learning cycle.
+# The Learning Cycle
+- Collect
+	Collecting information and putting it into note may sound simple but the reality is that most of that information may not be necessary. By figuring out how to filter th
 
 ---
