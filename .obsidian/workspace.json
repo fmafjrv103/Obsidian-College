@@ -89,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tora Club.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tora Club.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tora Club.md"
+              }
             }
           },
           {
@@ -192,6 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Tora Club.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -267,8 +272,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dcf885419fbbb3f7",
+  "active": "0ab1b3ffe538cc50",
   "lastOpenFiles": [
+    "Media/Pasted image 20240329180618.png",
+    "Media/Pasted image 20240329180547.png",
     "Tora Club.md",
     "Learning Conceptually.md",
     "090 PKM MOC.md",
@@ -294,7 +301,6 @@
     "202403200202 Time Management.md",
     "LaTeX.md",
     "Books MOC.md",
-    "Manga Read.md",
     "Media/lghub_installer.zip",
     "Media/lghub_installer.app/Contents/_CodeSignature/CodeResources",
     "Media/lghub_installer.app/Contents/_CodeSignature",
@@ -314,7 +320,6 @@
     "Media/Pasted image 20240325150524.png",
     "Media/GitHub Desktop.app/Contents/Resources/app/emoji/unicode/3299.png",
     "Media/GitHub Desktop.app/Contents/Resources/app/emoji/unicode/3297.png",
-    "Media/GitHub Desktop.app/Contents/Resources/app/emoji/unicode/303d.png",
     "Untitled.canvas"
   ]
 }

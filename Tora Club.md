@@ -12,6 +12,8 @@ Links: [[Learning Conceptually]]
 # Tora Club
 - Club: Tora
 - Type: Fire
+![[Pasted image 20240329180618.png]]
+# Critical Thinking
 
 
 ---
