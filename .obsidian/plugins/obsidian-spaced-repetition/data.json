@@ -27,9 +27,11 @@
     "tagsToReview": [
       "#review"
     ],
-    "noteFoldersToIgnore": [],
-    "openRandomNote": false,
-    "autoNextNote": false,
+    "noteFoldersToIgnore": [
+      "Media"
+    ],
+    "openRandomNote": true,
+    "autoNextNote": true,
     "disableFileMenuReviewOptions": false,
     "maxNDaysNotesReviewQueue": 365,
     "initiallyExpandAllSubdecksInTree": false,

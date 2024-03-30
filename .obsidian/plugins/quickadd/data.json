@@ -1,9 +1,52 @@
 {
-  "choices": [],
-  "macros": [],
+  "choices": [
+    {
+      "id": "b65dcebc-984f-48d1-8a30-5ffd608b7baa",
+      "name": "New Note",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Templates/Regular Template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    }
+  ],
+  "macros": [
+    {
+      "name": "New Note",
+      "id": "b9d7dd44-4e83-41ac-8af4-9cf5faf6ba05",
+      "commands": [
+        {
+          "name": "New Note",
+          "type": "Choice",
+          "id": "3114c7bf-241f-4c60-b1ce-a68aed78521b",
+          "choiceId": "b65dcebc-984f-48d1-8a30-5ffd608b7baa"
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
   "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "",
+  "templateFolderPath": "Templates",
   "announceUpdates": true,
   "version": "0.14.0",
   "disableOnlineFeatures": true,
@@ -55,7 +98,7 @@
     "useQuickAddTemplateFolder": true,
     "incrementFileNameSettingMoveToDefaultBehavior": true,
     "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
-    "setVersionAfterUpdateModalRelease": false,
+    "setVersionAfterUpdateModalRelease": true,
     "addDefaultAIProviders": false
   }
 }

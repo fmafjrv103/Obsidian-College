@@ -5,13 +5,10 @@
   "obsidian-annotator",
   "calendar",
   "obsidian-minimal-settings",
-  "obsidian-icon-folder",
   "obsidian-mind-map",
   "homepage",
   "obsidian-charts",
-  "obsidian-banners",
   "obsidian-smart-typography",
-  "periodic-notes",
   "obsidian-tracker",
   "obsidian-book-search-plugin",
   "quickadd",
@@ -32,5 +29,6 @@
   "timer",
   "obsidian-excalidraw-plugin",
   "avatar",
-  "obsidian-spaced-repetition"
+  "obsidian-spaced-repetition",
+  "templater-obsidian"
 ]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math Notes 7.md",
+                "file": "000 Home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#template",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,7 +82,7 @@
       {
         "id": "ac02129fafbaf757",
         "type": "tabs",
-        "dimension": 15.873015873015872,
+        "dimension": 30.118694362017806,
         "children": [
           {
             "id": "bb6946b2a7144698",
@@ -89,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math Notes 7.md",
+                "file": "000 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math Notes 7.md",
+                "file": "000 Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math Notes 7.md"
+                "file": "000 Home.md"
               }
             }
           },
@@ -179,7 +180,7 @@
       {
         "id": "8c22712198f3ed9f",
         "type": "tabs",
-        "dimension": 39.920634920634924,
+        "dimension": 32.640949554896146,
         "children": [
           {
             "id": "dcf885419fbbb3f7",
@@ -196,7 +197,7 @@
       {
         "id": "63346feb323c3112",
         "type": "tabs",
-        "dimension": 44.2063492063492,
+        "dimension": 37.24035608308605,
         "children": [
           {
             "id": "eb49dceec3166315",
@@ -204,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Math Notes 7.md",
+                "file": "000 Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -277,12 +278,13 @@
       "excel:Create Excel File": false,
       "timer:Open timer": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "periodic-notes:Open today": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "0ab1b3ffe538cc50",
+  "active": "457ac2530ca9e28a",
   "lastOpenFiles": [
+    "Math Notes 7.md",
     "Math MOC.md",
     "090 PKM MOC.md",
     "000 Home.md",
@@ -311,7 +313,6 @@
     "010 Notes MOC.md",
     "Invites.md",
     "Graduation.md",
-    "Math Notes 7.md",
     "Media/lghub_installer.zip",
     "Media/lghub_installer.app/Contents/_CodeSignature/CodeResources",
     "Media/lghub_installer.app/Contents/_CodeSignature",

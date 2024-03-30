@@ -1,5 +1,5 @@
 {
-  "confirmDeletion": true,
+  "confirmDeletion": false,
   "showAddCommand": true,
   "debug": false,
   "editorMenu": [],
@@ -9,19 +9,7 @@
   "titleBar": [],
   "statusBar": [],
   "pageHeader": [],
-  "macros": [
-    {
-      "macro": [
-        {
-          "action": 0,
-          "commandId": "insert-template"
-        }
-      ],
-      "name": "Template",
-      "icon": "star",
-      "startup": false
-    }
-  ],
+  "macros": [],
   "explorer": [],
   "hide": {
     "statusbar": [],

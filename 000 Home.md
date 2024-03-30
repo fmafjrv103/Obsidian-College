@@ -29,8 +29,8 @@ links: [[000 Home|Home]]
 - 040s - #interests #books #movies #tv #anime #film #music #songs  #📚Book 
 - 050s - #quotes #quips #quotes100 #tidbits #metaphors #allegories #koans 
 - 060s - #stories #anecdotes #letters #essays #blogs #writings #speech #speechNotes #speeches #posts
-- 070s -  #journal #reflections #memories #dreams
-- 080s - #review #plan #planning #wins #goals #metrics #finances #realEstate
+- 070s - #journal #reflections #memories #dreams
+- 080s - #plan #planning #wins #goals #metrics #finances #realEstate
 - 090s - #pkm #template #reference, #lists, #listed #trim
 - 100s - #ideas #project #projects, #TOC
 # Recent Notes

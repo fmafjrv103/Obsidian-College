@@ -9,11 +9,17 @@ complete: Yes
 Links: [[Math MOC]]
 
 ---
+```button
+name Make an Hourly Note
+type note(<% tp.date.now("HH:MM") %>) template
+action Log Template Note
+templater true
+```
 # Exponential Functions
 $\begin{align}f(x)&=b^{x} \\ b&>0\end{align}$
 
 $f(x)=2^{x}$
-Domain: $(-\infty, \infty)$
+Domain: $(-\infty, \infty)$ 
 Range: $(0, \infty)$
 
 # Interest
