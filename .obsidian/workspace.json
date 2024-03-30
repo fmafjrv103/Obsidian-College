@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tora Club.md",
+                "file": "10-Minute Memory Method.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tora Club.md",
+                "file": "10-Minute Memory Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tora Club.md",
+                "file": "10-Minute Memory Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tora Club.md"
+                "file": "10-Minute Memory Method.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tora Club.md",
+                "file": "10-Minute Memory Method.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -265,20 +265,26 @@
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
-      "periodic-notes:Open today": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "excel:Create Excel File": false,
       "timer:Open timer": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "0ab1b3ffe538cc50",
   "lastOpenFiles": [
-    "Learning Conceptually.md",
+    "College Packing List.md",
+    "000 Home.md",
+    "Time blocking.md",
+    "202403200202 Time Management.md",
+    "Psychology MOC.md",
+    "020 School MOC.md",
     "Tora Club.md",
+    "2024-03-29.md",
+    "Learning Conceptually.md",
     "Kitsune Club.md",
     "Media/Pasted image 20240329191956.png",
-    "College Packing List.md",
     "2024-03-26.md",
     "10-Minute Memory Method.md",
     "Hamlet Project.md",
@@ -294,14 +300,9 @@
     "Anchoring Effect.md",
     "Schema.md",
     "010 Notes MOC.md",
-    "000 Home.md",
     "Invites.md",
     "Graduation.md",
-    "2024-03-29.md",
     "Math Notes 7.md",
-    "2024-03-28.md",
-    "202403191031.md",
-    "202403201215.md",
     "Media/lghub_installer.zip",
     "Media/lghub_installer.app/Contents/_CodeSignature/CodeResources",
     "Media/lghub_installer.app/Contents/_CodeSignature",

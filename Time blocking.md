@@ -19,8 +19,6 @@ Here’s how you can implement the time blocking method for better task manageme
 
 You can use Google Calendar or any other calendar app to block your work time for tasks or meetings and stay in control of your work schedule. 
 
-For effective time management, you can combine it with a [time management app](https://www.timedoctor.com/blog/best-time-management-apps/) to track the exact time for each task and not spend more hours than you planned to. 
-
-**_Read everything about_** [**_time blocking and how it works_**](https://www.timedoctor.com/blog/time-blocking/)**_._**
+For effective time management, you can combine it with a time management app to track the exact time for each task and not spend more hours than you planned to.
 
 ---
