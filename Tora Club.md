@@ -12,6 +12,6 @@ Links: [[Learning Conceptually]]
 # Tora Club
 - Club: Tora
 - Type: Fire
-- 
+
 
 ---
