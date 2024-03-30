@@ -14,6 +14,11 @@ Links: [[Learning Conceptually]]
 - Type: Fire 
 ![[Pasted image 20240329180618.png|inlL|]]
 # Critical Thinking
-Tora’s are driven by purpose, doing anything to get what they want. They approach problem solving in a systematic way, planning what they want to do and go t
+Tora’s are driven by purpose, doing anything to get what they want. They approach problem solving in a systematic way, planning what they want to do and go through with it.To improve, Tora’s should:
+- Use clear learning objectives
+- Structure their knowledge
+- Learn key concepts first
+# Motivation
+
 
 ---
