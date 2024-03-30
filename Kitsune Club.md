@@ -10,6 +10,7 @@ Links: [[Learning Conceptually]]
 ---
 ![Link](https://youtu.be/IS2Na-mXLr8?si=YtNRVoCilNo7Heyo)
 Kitsune clubs are a wind type, or more adaptable. They are curious, spontaneous, and highly reactive with emotion.
+![[Pasted image 20240329191956.png]]
 # Critical Thinking
 Kitsune are dynamic thinkers, who want to take in as much information in the shortest amount of time. This helps with learning technical skills fast, this will also leave them forgetting what they learned just as quickly. so how do you stop this from happening? By:
 - Spacing out reviews of your progress

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kitsune Club.md",
+                "file": "Tora Club.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kitsune Club.md",
+                "file": "Tora Club.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kitsune Club.md",
+                "file": "Tora Club.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kitsune Club.md"
+                "file": "Tora Club.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Kitsune Club.md",
+                "file": "Tora Club.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -275,6 +275,9 @@
   "active": "0ab1b3ffe538cc50",
   "lastOpenFiles": [
     "Learning Conceptually.md",
+    "Tora Club.md",
+    "Kitsune Club.md",
+    "Media/Pasted image 20240329191956.png",
     "College Packing List.md",
     "2024-03-26.md",
     "10-Minute Memory Method.md",
@@ -282,8 +285,6 @@
     "2024-05-02 TODOS.md",
     "Untitled.md",
     "2024-03-23.md",
-    "Kitsune Club.md",
-    "Tora Club.md",
     "Media/Pasted image 20240329180618.png",
     "Media/Pasted image 20240329180547.png",
     "090 PKM MOC.md",
@@ -301,7 +302,6 @@
     "2024-03-28.md",
     "202403191031.md",
     "202403201215.md",
-    "Dataview MOC.md",
     "Media/lghub_installer.zip",
     "Media/lghub_installer.app/Contents/_CodeSignature/CodeResources",
     "Media/lghub_installer.app/Contents/_CodeSignature",
@@ -319,7 +319,6 @@
     "Media/Pasted image 20240326124849.png",
     "Media/Pasted image 20240325153649.png",
     "Media/Pasted image 20240325150524.png",
-    "Media/GitHub Desktop.app/Contents/Resources/app/emoji/unicode/3299.png",
     "Untitled.canvas"
   ]
 }
