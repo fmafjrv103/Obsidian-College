@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tora Club.md",
+                "file": "Learning Conceptually.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tora Club.md",
+                "file": "Learning Conceptually.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tora Club.md",
+                "file": "Learning Conceptually.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tora Club.md"
+                "file": "Learning Conceptually.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tora Club.md",
+                "file": "Learning Conceptually.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -274,10 +274,11 @@
   },
   "active": "0ab1b3ffe538cc50",
   "lastOpenFiles": [
+    "Kitsune Club.md",
+    "Learning Conceptually.md",
+    "Tora Club.md",
     "Media/Pasted image 20240329180618.png",
     "Media/Pasted image 20240329180547.png",
-    "Tora Club.md",
-    "Learning Conceptually.md",
     "090 PKM MOC.md",
     "Active Recall.md",
     "Learning to Remember.md",
@@ -319,7 +320,6 @@
     "Media/Pasted image 20240325153649.png",
     "Media/Pasted image 20240325150524.png",
     "Media/GitHub Desktop.app/Contents/Resources/app/emoji/unicode/3299.png",
-    "Media/GitHub Desktop.app/Contents/Resources/app/emoji/unicode/3297.png",
     "Untitled.canvas"
   ]
 }
