@@ -8,5 +8,6 @@
   "showLineNumber": false,
   "foldHeading": false,
   "foldIndent": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "readableLineLength": false
 }

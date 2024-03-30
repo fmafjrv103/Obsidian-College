@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-Minute Memory Method.md",
+                "file": "Math Notes 7.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-Minute Memory Method.md",
+                "file": "Math Notes 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-Minute Memory Method.md",
+                "file": "Math Notes 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-Minute Memory Method.md"
+                "file": "Math Notes 7.md"
               }
             }
           },
@@ -164,9 +164,17 @@
               "type": "Timer",
               "state": {}
             }
+          },
+          {
+            "id": "9baaafe4d8e20119",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       },
       {
         "id": "8c22712198f3ed9f",
@@ -196,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10-Minute Memory Method.md",
+                "file": "Math Notes 7.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -269,13 +277,17 @@
       "excel:Create Excel File": false,
       "timer:Open timer": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
   "active": "0ab1b3ffe538cc50",
   "lastOpenFiles": [
-    "College Packing List.md",
+    "Math MOC.md",
+    "090 PKM MOC.md",
     "000 Home.md",
+    "10-Minute Memory Method.md",
+    "College Packing List.md",
     "Time blocking.md",
     "202403200202 Time Management.md",
     "Psychology MOC.md",
@@ -286,17 +298,14 @@
     "Kitsune Club.md",
     "Media/Pasted image 20240329191956.png",
     "2024-03-26.md",
-    "10-Minute Memory Method.md",
     "Hamlet Project.md",
     "2024-05-02 TODOS.md",
     "Untitled.md",
     "2024-03-23.md",
     "Media/Pasted image 20240329180618.png",
     "Media/Pasted image 20240329180547.png",
-    "090 PKM MOC.md",
     "Active Recall.md",
     "Learning to Remember.md",
-    "Math MOC.md",
     "Anchoring Effect.md",
     "Schema.md",
     "010 Notes MOC.md",

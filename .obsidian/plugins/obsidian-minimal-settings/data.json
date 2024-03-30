@@ -25,12 +25,12 @@
   "fullWidthMedia": true,
   "bordersToggle": false,
   "minimalStatus": true,
-  "focusMode": true,
+  "focusMode": false,
   "underlineInternal": true,
   "underlineExternal": true,
   "useSystemTheme": true,
   "folding": false,
   "lineNumbers": false,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "devBlockWidth": false
 }
