@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Conceptually.md",
+                "file": "Kitsune Club.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning Conceptually.md",
+                "file": "Kitsune Club.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning Conceptually.md",
+                "file": "Kitsune Club.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning Conceptually.md"
+                "file": "Kitsune Club.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Learning Conceptually.md",
+                "file": "Kitsune Club.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -274,8 +274,15 @@
   },
   "active": "0ab1b3ffe538cc50",
   "lastOpenFiles": [
-    "Kitsune Club.md",
     "Learning Conceptually.md",
+    "College Packing List.md",
+    "2024-03-26.md",
+    "10-Minute Memory Method.md",
+    "Hamlet Project.md",
+    "2024-05-02 TODOS.md",
+    "Untitled.md",
+    "2024-03-23.md",
+    "Kitsune Club.md",
     "Tora Club.md",
     "Media/Pasted image 20240329180618.png",
     "Media/Pasted image 20240329180547.png",
@@ -294,14 +301,7 @@
     "2024-03-28.md",
     "202403191031.md",
     "202403201215.md",
-    "2024-05-02 TODOS.md",
     "Dataview MOC.md",
-    "040 Interests MOC.md",
-    "10-Minute Memory Method.md",
-    "Eisenhower Matrix.md",
-    "202403200202 Time Management.md",
-    "LaTeX.md",
-    "Books MOC.md",
     "Media/lghub_installer.zip",
     "Media/lghub_installer.app/Contents/_CodeSignature/CodeResources",
     "Media/lghub_installer.app/Contents/_CodeSignature",
