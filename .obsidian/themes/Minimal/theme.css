@@ -111,7 +111,7 @@ body{
 .HyperMD-quote.cm-line::before{
 	background-color: rgb(99,000,000);
 }
-.cm-hashtag,.cm-hashtag-begin,.cm-hashtag-end,.cm-meta,.cm-tag-concept,a.tag{
+.cm-hashtag,.cm-hashtag-begin,.cm-hashtag-end,.cm-meta,.cm-tag-concept{
 	background-color: rgba(99, 0, 0, 0.378);
 }
 hr {

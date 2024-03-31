@@ -1,7 +1,7 @@
 # Natural Selection
 One of the most monumental of all concepts. So many fascinating angles. 
 
-[[Natural Selection]] is closely related to [[Hormesis]] and [[Antifragility]].
+[[Natural Selection]] is closely related to [[Hormesis]] and [[Anti-fragility]].
 
 ## Wiki
 - [ ] #trim

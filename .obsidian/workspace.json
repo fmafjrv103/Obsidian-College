@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Home.md",
-                "mode": "preview",
+                "file": "The Path of Excellence.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Home.md",
+                "file": "The Path of Excellence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Home.md",
+                "file": "The Path of Excellence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Home.md"
+                "file": "The Path of Excellence.md"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Home.md",
+                "file": "The Path of Excellence.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -305,11 +305,18 @@
   },
   "active": "8ffb4c682c2b2989",
   "lastOpenFiles": [
+    "Flow-Creation MOC.md",
+    "000 Home.md",
+    "010 Notes MOC.md",
+    "IMF START.md",
+    "Lindy Effect.md",
+    "Concepts MOC.md",
+    "Anti-fragility.md",
+    "Intro to the Index Categories (IMF).md",
+    "005 Active MOC.md",
     "Quips MOC.md",
     "050 Quotes MOC.md",
     "Quote - Count of Monte Cristo.md",
-    "010 Notes MOC.md",
-    "000 Home.md",
     "040 Interests MOC.md",
     "Dimensions of Reality.md",
     "2024-03-31.md",
@@ -322,15 +329,8 @@
     "DONE 2020-05.md",
     "Flow Map.md",
     "Conditions of Flow.md",
-    "Flow-Creation MOC.md",
     "Four Virtues.md",
     "Flow Stoppers.md",
-    "Meta-Skills for Flow-creation.md",
-    "FlowCreation Theory.md",
-    "100 Projects MOC.md",
-    "Flow.md",
-    "Morality.md",
-    "Speeches MOC.md",
     "Spaces/#📚Book",
     "000 Home",
     "Media/Pasted image 20240330231528.png",

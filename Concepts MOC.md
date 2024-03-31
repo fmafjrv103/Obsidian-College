@@ -14,7 +14,7 @@ links: [[000 Home|Home]], [[110 Mind MOC| Mind]], [[Concepts MOC|Concepts]], [[I
 # Natural Selection
 - [[Natural Selection]]
 - [[Hormesis]]
-- [[Antifragility]]
+- [[Anti-fragility]]
 - [[Cause and Effect]]
 - [[Lindy Effect]] 
 # Finding Balance

@@ -1,7 +1,7 @@
 # The Path of Excellence
 Using all of my experience, knowledge, and quad-ruled engineering paper; I developed what would become known as The Path of Excellence.
 
-Note that it's the path “to” excellence. There is no destination. The path itself is excellence. It has six parts:
+Note that it's the path “of” excellence. There is no destination. The path itself is excellence. It has six parts:
 
 1. Frame (Think)
 2. Prepare
