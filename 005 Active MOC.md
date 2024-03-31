@@ -7,8 +7,7 @@ tags:
 links: [[000 Home|Home]]
 
 ---
-Welcome to the Active MOC. It's purpose is to quickly see what's "Top Of Mind". Sometimes I use this a lot, sometimes (like lately) I just use Dynalist. 
-
+Welcome to the Active MOC. It's purpose is to quickly see what's "Top Of Mind". 
 But it's nice to have a place to put to new/relevant stuff you don't want to forget.
 
 - Current Reminder
@@ -21,6 +20,7 @@ But it's nice to have a place to put to new/relevant stuff you don't want to for
 ### IM tasks
 - [ ] clean up [[Concepts MOC]]
 - [ ] https://vimeo.com/275530205 - this was suggested to watch, might be apropos to take notes on it
+
 # New Notes
 ```dataview
 table without id
@@ -34,7 +34,7 @@ From -"Templates" and #newNotes
 TABLE WITHOUT ID
 file.link as "Notes", (date(today) - file.cday).day as "Created"
 From #inProgress 
-where
+where contains(complete, "No")
 Sort file.cday DESC
 ```
 

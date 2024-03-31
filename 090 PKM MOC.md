@@ -8,10 +8,8 @@ links: [[000 Home|Home]]
 
 ---
 This is where we manage the system of "*Personal Knowledge Management*."
-
 ### Structure of Categories
 See the Index. 
-
 ### PKM Best Practices
 PKM Possible Best Practices
 List of Best Practices for PKM [[201908171004 Example]] 

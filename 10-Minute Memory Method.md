@@ -1,7 +1,10 @@
 ---
 date: 2024-03-27 23:15:25
 tags:
-  - newNotes
+  - inProgress
+  - concept
+  - pkm
+complete: No
 ---
 Links: 
 

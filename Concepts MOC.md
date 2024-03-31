@@ -28,6 +28,11 @@ links: [[000 Home|Home]], [[110 Mind MOC| Mind]], [[Concepts MOC|Concepts]], [[I
 # For Expanding Perspective
 - [[Rubik's Cube]]
 - [[Charlie Munger's Mental Models]]
+```dataview
+list
+from #concept or #concepts and -#MOC and -#home
+sort file.cday DESC
+```
 
 ---
 tags: #MOC #lists #faves #concepts

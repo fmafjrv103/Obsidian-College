@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "005 Active MOC.md",
+                "file": "Concepts MOC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "f90594313b89809e",
@@ -89,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005 Active MOC.md",
+                "file": "Concepts MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005 Active MOC.md",
+                "file": "Concepts MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "005 Active MOC.md"
+                "file": "Concepts MOC.md"
               }
             }
           },
@@ -224,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "005 Active MOC.md",
+                "file": "Concepts MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -279,7 +280,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 762.5
+    "width": 762.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -304,8 +306,20 @@
   },
   "active": "8ffb4c682c2b2989",
   "lastOpenFiles": [
-    "20240323120034 Note-Taking.md",
+    "000 Home.md",
+    "Concepts MOC.md",
     "005 Active MOC.md",
+    "090 PKM MOC.md",
+    "2020-05-14 Journal.md",
+    "Books MOC.md",
+    "Flow-Creation MOC.md",
+    "Best Writings MOC.md",
+    "Stories MOC.md",
+    "2019 December Journal Compilation.md",
+    "060 Writings MOC.md",
+    "040 Interests MOC.md",
+    "10-Minute Memory Method.md",
+    "20240323120034 Note-Taking.md",
     "202403191031.md",
     "202403302138 Lorem Ipsum.md",
     "College MOC.md",
@@ -317,19 +331,7 @@
     "100 Ideas MOC.md",
     "030 People MOC.md",
     "Intro to the Index Categories (IMF).md",
-    "000 Home.md",
     "Index Front Matter.md",
-    "Douglas R. Hofstadter.md",
-    "Marie Curie.md",
-    "Sigmund Freud.md",
-    "Flow Map.md",
-    "Flow-Creation MOC.md",
-    "The Path of Excellence.md",
-    "010 Notes MOC.md",
-    "IMF START.md",
-    "Lindy Effect.md",
-    "Concepts MOC.md",
-    "Anti-fragility.md",
     "Spaces/#📚Book",
     "000 Home",
     "Media/Pasted image 20240330231528.png",
