@@ -1,5 +1,5 @@
 tags: #MOC, #mind 
-links: [[000 Index|Index]], [[110 Mind MOC| Mind]], [[Concepts MOC|Concepts]], [[115 Body MOC|Body]]
+links: [[000 Home|Home]], [[110 Mind MOC| Mind]], [[Concepts MOC|Concepts]], [[115 Body MOC|Body]]
 
 ---
 # Mind TOC
@@ -35,4 +35,4 @@ Welcome to the **Mind TOC**. First, let's define some overlapping meta-categorie
     
 ---
 tags: #MOC #Mind
-links: [[000 Index|Index]], [[110 Mind MOC| Mind]], [[Concepts MOC|Concepts]], [[115 Body MOC|Body]]
+links: [[000 Home|Home]], [[110 Mind MOC| Mind]], [[Concepts MOC|Concepts]], [[115 Body MOC|Body]]

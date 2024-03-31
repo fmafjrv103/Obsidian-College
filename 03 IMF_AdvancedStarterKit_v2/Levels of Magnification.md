@@ -15,5 +15,5 @@ The most enjoyable and least efficient way of thinking about a Thing, is to plac
 
 ---
 tags: #mind #concept
-links: [[000 Index|Index]], [[Concepts MOC|Concepts]]
+links: [[000 Home|Home]], [[Concepts MOC|Concepts]]
 created: 201806189999

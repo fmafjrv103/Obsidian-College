@@ -1,4 +1,4 @@
-tags: #flow
+tags: #flow #project 
 links: [[100 Projects MOC|Projects]]
 goal: create a "choose your adventure" clickable book to get people thinking about to improve their ability to set the conditions for Flow to occur.
 

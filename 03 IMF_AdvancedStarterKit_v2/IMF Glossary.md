@@ -6,7 +6,7 @@ links: [[IMF START]], [[Benefits of IMF|Benefits]], [[Setting Up IMF|Setting Up]
 # IMF Glossary
 
 ### IMF Terms
-- **[[000 Index|Index]]** - This is where it all begins. It's the most root-level of all your notes. It's the most meta. Nothing outranks the Index. 
+- **[[000 Home|Home]]** - This is where it all begins. It's the most root-level of all your notes. It's the most meta. Nothing outranks the Index. 
 	- **[[Intro to the Index Categories (IMF)|Index Categories]]** - These are your 10 or so main categories of personal knowledge. Each category should have a link to a related Content Map.
 - **[[Maps of Content|Maps of Content]]** - A flexible contrast to a Table of Contents (TOC). A TOC has one linear, hierarchical structure. Conversly, the same info can be structured if completely different ways with Maps of Content. This is because they are [[Heterarchy|heterarchical]] by nature. 
 	- **MOC** - An acronym for "Map of Contents". See [[Maps of Content]]. A side benefit of using "MOC" in the title is that it stands out visually and provides much better search results. 

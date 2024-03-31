@@ -1,5 +1,5 @@
 tags: #pkm #IMF
-links: [[IMF START]], [[IMF MOC]], [[Benefits of IMF|Benefits]] — [[000 Index|Index]]
+links: [[IMF START]], [[IMF MOC]], [[Benefits of IMF|Benefits]] — [[000 Home|Home]]
 
 ---
 # Setting Up Your IMF Framework

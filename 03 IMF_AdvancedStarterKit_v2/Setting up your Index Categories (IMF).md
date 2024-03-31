@@ -1,5 +1,5 @@
 tags: #pkm #IMF
-links: [[IMF START]], [[IMF MOC]] — [[000 Index|Index]]
+links: [[IMF START]], [[IMF MOC]] — [[000 Home|Home]]
 
 ---
 ### Setting up your Index Categories
@@ -40,4 +40,4 @@ These sort of transcend my 10 main categories, but it's essential they are close
 
 ---
 tags: #pkm #IMF
-links: [[IMF START]], [[IMF MOC]] — [[000 Index|Index]]
+links: [[IMF START]], [[IMF MOC]] — [[000 Home|Home]]

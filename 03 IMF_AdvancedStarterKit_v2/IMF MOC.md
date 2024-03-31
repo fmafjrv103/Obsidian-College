@@ -1,5 +1,5 @@
 tags: #IMF #MOC #PKM
-links: [[IMF MOC]] — [[000 Index|Index]]
+links: [[IMF MOC]] — [[000 Home|Home]]
 # IMF Map of Contents
 [[Guiding Principles of Knowledge Management]]
 

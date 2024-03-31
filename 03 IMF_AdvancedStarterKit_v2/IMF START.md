@@ -1,5 +1,5 @@
 tags: #pkm, #IMF
-links: [[IMF MOC]] — [[000 Index|Index]]
+links: [[IMF MOC]] — [[000 Home|Home]]
 
 ---
 # The IMF Framework
@@ -20,7 +20,7 @@ It is robust, flexible, and able to match your changing needs—which are undoub
 
 **B)** Or [[Setting Up IMF|start setting up your IMF frameworks]].
 
-**C)** Or jump to [[000 Index| The Index]] and start playing around.
+**C)** Or jump to [[000 Home|Home]] and start playing around.
 
 
 [^1]: Yes, that means it's the "Index Maps and Frameworks framework", which is accurate in describing the overall framework.

@@ -6,7 +6,7 @@ tags:
   - todo
   - planning
 ---
-Links: 
+Links: [[095 Lists MOC|Lists]]
 
 ---
 # College Dorms Packing List

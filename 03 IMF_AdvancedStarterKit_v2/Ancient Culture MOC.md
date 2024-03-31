@@ -1,5 +1,5 @@
 tags: #ancients #culture
-links: [[000 Index|Index]], [[040 Interests MOC|Interests]]
+links: [[000 Home|Home]], [[040 Interests MOC|Interests]]
 
 ---
 # Ancient Culture

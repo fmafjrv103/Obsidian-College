@@ -1,5 +1,5 @@
 tags: #MOC #Body 
-links: [[000 Index|Index]], [[110 Mind MOC| Mind]], [[115 Body MOC|Body]]
+links: [[000 Home|Home]], [[110 Mind MOC| Mind]], [[115 Body MOC|Body]]
 
 ---
 # Body MOC

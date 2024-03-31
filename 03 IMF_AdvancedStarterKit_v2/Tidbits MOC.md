@@ -1,5 +1,5 @@
 tags: #tidbits #MOC
-links: [[000 Index|Index]], [[050 Quotes MOC|Quotes]]
+links: [[000 Home|Home]], [[050 Quotes MOC|Quotes]]
 
 ---
 # Tidbits MOC
