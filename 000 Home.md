@@ -3,6 +3,7 @@ date: 2024-03-15 16:48
 tags:
   - home
 sticker: lucide//home
+color: "#630000"
 ---
 links: [[000 Home|Home]]
 
@@ -10,7 +11,6 @@ links: [[000 Home|Home]]
 >_“Intelligence can seem confusing, but in time you will see its worth”_
 
 >_” Maybe you’ll come up with something new, maybe you’ll become the next Da Vinci and people will be taking notes on you”_ — Chris Pomeroy
-![[Pasted image 20240330231528.png]]
 # Home Categories
 - 000s - [[000 Home|Home]], [[005 Active MOC|Active Notes]], and the following Maps of Content (MOCs):
 - 010s - [[010 Notes MOC|Notes]]

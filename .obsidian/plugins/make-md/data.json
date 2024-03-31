@@ -25,7 +25,7 @@
   "defaultDateFormat": "MMM dd yyyy",
   "spacesEnabled": true,
   "spacesPerformance": false,
-  "currentWaypoint": 0,
+  "currentWaypoint": 1,
   "enableFolderNote": true,
   "folderIndentationLines": true,
   "revealActiveFile": false,
@@ -39,7 +39,9 @@
   "expandedSpaces": [
     "spaces://$tags",
     "spaces://$tags/spaces://#📚Bookbooks",
-    "spaces://$tags/spaces://#📚book"
+    "spaces://$tags/spaces://#📚book",
+    "/",
+    "Home"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -56,7 +58,7 @@
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
-  "inlineContextExpanded": true,
+  "inlineContextExpanded": false,
   "inlineContextSectionsExpanded": true,
   "dataviewInlineContext": false,
   "inlineContextNameLayout": "vertical",

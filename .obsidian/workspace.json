@@ -75,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -305,8 +306,15 @@
   },
   "active": "7cc7e8cf78003c4d",
   "lastOpenFiles": [
-    "Media/Pasted image 20240330231528.png",
+    "020 School MOC.md",
+    "Home/Home.md",
+    "035 Places MOC.md",
     "000 Home.md",
+    "030 People MOC.md",
+    "010 Notes MOC.md",
+    "005 Active MOC.md",
+    "Home",
+    "Media/Pasted image 20240330231528.png",
     "The Art of War Other Classics of Eastern Philosophy - Sun Tzu Lao-Tzu Confucius Mencius.md",
     "__START HERE.md",
     "Maps of Content.md",
@@ -326,11 +334,6 @@
     "Taking deep breaths.md",
     "Synthesis.md",
     "Stories MOC.md",
-    "Stoicism TOC.md",
-    "Stoicism MOC.md",
-    "Speeches MOC.md",
-    "Spatial Context.md",
-    "Solutions to Flow Stoppers.md",
     "obsidian.css",
     "Media/Wolverine tethered.jpg",
     "Media/The biochemistry of flow.png",
@@ -342,7 +345,6 @@
     "Spaces",
     "03 IMF_AdvancedStarterKit_v2/_media/stay on target.jpg",
     "03 IMF_AdvancedStarterKit_v2/_media/four factors of flow.png",
-    "03 IMF_AdvancedStarterKit_v2/_media/Wolverine tethered.jpg",
     "03 IMF_AdvancedStarterKit_v2/_media",
     "03 IMF_AdvancedStarterKit_v2/obsidian.css",
     "03 IMF_AdvancedStarterKit_v2",
@@ -350,7 +352,6 @@
     "Media/lghub_installer.app/Contents/_CodeSignature/CodeResources",
     "Media/lghub_installer.app/Contents/_CodeSignature",
     "Media/lghub_installer.app/Contents/Resources/zh-TW.lproj/Localizable.strings",
-    "Media/lghub_installer.app/Contents/Resources/zh-TW.lproj/InfoPlist.strings",
     "Untitled.canvas"
   ]
 }
