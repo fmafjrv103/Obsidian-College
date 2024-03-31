@@ -90,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dimensions of Reality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dimensions of Reality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dimensions of Reality.md"
+              }
             }
           },
           {
@@ -221,6 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Dimensions of Reality.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -275,7 +280,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 576.5
+    "width": 762.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -298,8 +304,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "dcf885419fbbb3f7",
+  "active": "8ffb4c682c2b2989",
   "lastOpenFiles": [
+    "2024-03-31.md",
     "Dimensions of Reality.md",
     "PKM Ways to Structure Digital Notes.md",
     "Endorphins.md",
@@ -325,7 +332,6 @@
     "OODA Loop.md",
     "Forcing Function.md",
     "Lindy Effect.md",
-    "201910091348.md",
     "Spaces/#📚Book",
     "000 Home",
     "Media/Pasted image 20240330231528.png",
