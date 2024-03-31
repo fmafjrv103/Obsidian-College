@@ -9,5 +9,6 @@
   "foldHeading": false,
   "foldIndent": false,
   "showUnsupportedFiles": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "showIndentGuide": true
 }

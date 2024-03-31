@@ -1,13 +1,14 @@
+---
+date: 2020-05-15 08:34
+---
 tags: #people 
 
 # Douglas R. Hofstadter
 ## Analogy as Core, Core as Analogy 
-- metadata
-	- date: 20200515
-	- what: In this Presidential Lecture, cognitive scientist Douglas Hofstadter examines the role and contributions of analogy in cognition, using a variety of analogies to illustrate his points. 
-	- web: ![Youtube](https://www.youtube.com/watch?v=n8m7lFQ3njk)
-	- why: This is important to me because of it is about how to talk about, and define, thinking—especially figurative language and concepts. 
-	- catch-all thoughts: What a fascinating person this guy is. 
+- what: In this Presidential Lecture, cognitive scientist Douglas Hofstadter examines the role and contributions of analogy in cognition, using a variety of analogies to illustrate his points. 
+- web: ![Youtube](https://www.youtube.com/watch?v=n8m7lFQ3njk)
+- why: This is important to me because of it is about how to talk about, and define, thinking—especially figurative language and concepts. 
+- catch-all thoughts: What a fascinating person this guy is. 
 - **Analogy-making** - the perception of common• essence between 2 things••
 	- •in one's current frame of mind
 	- ••thing »» mental thing

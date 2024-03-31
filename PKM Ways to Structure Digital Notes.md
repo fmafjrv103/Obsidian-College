@@ -1,4 +1,4 @@
-- 20200518 - Structuring zk thoughts.
+- 20200518 - Structuring your thoughts.
     - Ways to structure digital notes
         - there are many ways to structure your notes, some good, some less good
         - what are the common methods

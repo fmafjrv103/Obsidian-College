@@ -19,4 +19,4 @@ When I’ve been the most fulfilled, I’ve been walking the Path of Excellence.
 - Example: I went from Think to Do, skipping Prepare and Commit. Without Prepare or Committing, I felt the lack of assuredness in my actions because I worried if I was doing the right thing, and if there were other, most important/pressing, things I could/should be doing.
 
 ---
-toc: [[FlowCreation TOC]]
+toc: [[Flow-Creation MOC]]

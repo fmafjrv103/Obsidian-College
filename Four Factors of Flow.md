@@ -19,4 +19,4 @@ These are the four factors that govern flow. If you're in Flow, it's because the
   - If you have a [[Poor Diet]], then your Attention is going to suck: you'll be more easily distracted; so you'll spend time in other Directions; and thus you'll dilute and dissipate your Enthusiasm. This one is a huge component that you can control. You can replace "Poor Diet" with "Lack of Sleep" and you'll get similar results.
 
 ---
-toc: [[FlowCreation TOC]]
+toc: [[Flow-Creation MOC]]

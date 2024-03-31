@@ -28,4 +28,4 @@ The obvious answer for creating the [[Conditions of Flow]] is to reduce the leve
 The less obvious answer is *HOW*. That's about developing some awareness and skills, along with having some tools and tactics handy. See more about that at [[FlowCreation Theory]]. 
 
 ---
-toc: [[FlowCreation TOC]]
+MOC: [[Flow-Creation MOC]]

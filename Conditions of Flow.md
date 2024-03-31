@@ -1,4 +1,4 @@
-tags: [[lists]] 
+tags: #lists
 # Conditions of Flow
 The three conditions of flow, as described by Mihaly are:
 
@@ -22,4 +22,4 @@ Let's look at those three conditions of flow again, this time, relating them to 
 Now that we have a clear list of the conditions of flow, we need to relate them to the [[Four Factors of Flow]]. 
 
 ---
-[[FlowCreation TOC]]
+[[Flow-Creation MOC]]

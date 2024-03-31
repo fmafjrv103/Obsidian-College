@@ -12,5 +12,5 @@ I have found that a better way to look at Virtues is less as Values and more as 
     
 
 ---
-toc: [[FlowCreation TOC]]
+MOC: [[Flow-Creation MOC]]
 created: 201903089999

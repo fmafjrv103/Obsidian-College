@@ -4,14 +4,14 @@ goal: create a "choose your adventure" clickable book to get people thinking abo
 
 
 ---
-# Flowcreation TOC
-*Flowcreation: Choose your own Adventure*
+# Flow-creation MOC
+*Flow-creation: Choose your own Adventure*
 
 - [[Flow Map]]
 	- [[Conditions of Flow]]
 	- [[FlowCreation Theory]]
 		- [[Balancing Challenge and Skill]]
-		- [[Meta-Skills for Flowcreation]]
+		- [[Meta-Skills for Flow-creation]]
 	- [[Practical Tactics for Finding Flow]]
 		- [[Flow Stoppers]]
 		- [[Solutions to Flow Stoppers]]	
@@ -38,5 +38,5 @@ goal: create a "choose your adventure" clickable book to get people thinking abo
 
 ---
 ---
-toc: [[FlowCreation TOC]]
+MOC: [[Flow-Creation MOC]]
 links: [[100 Projects MOC|Projects]]

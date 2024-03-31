@@ -28,4 +28,4 @@ Sort of like Goal Setting. The "What" of old Gold Setting terminology.
 - Ruthless Essentialism — Basically, Saying No to some goals so that you have the Time/Energy/Commitment required for the goals you said "yes" to.
 
 ---
-toc: [[FlowCreation TOC]]
+toc: [[Flow-Creation MOC]]

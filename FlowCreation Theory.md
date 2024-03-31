@@ -23,4 +23,4 @@ There are four broad areas to cover when setting up the conditions for Flow. Her
 I have found that using the Flow Map to find your current State of Mind is a valuable exercise to improving it. Equally valuable is using it to find any glaring weaknesses in the elements that help create a good State of Mind. I have found that there are essentially [[Four Factors of Flow]]. They are: [[Direction]], [[Attention]], [[Enthusiasm]], and [[Energy]]. The best way to improve your experience is to identify what you're lacking, and then taking actions to strengthen that area.
 
 ---
-toc: [[FlowCreation TOC]]
+toc: [[Flow-Creation MOC]]

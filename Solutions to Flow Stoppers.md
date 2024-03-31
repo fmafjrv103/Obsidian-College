@@ -11,4 +11,4 @@
 6. **Sleep well. Eat Well. Hydrate well** — If your energy is low because you've somehow neglected taking care of yourself, then it will be much harder to induce flow because low energy means decreased mood and increased distractibility. (Main Element: [[Energy]])
 
 ---
-toc: [[FlowCreation TOC]]
+toc: [[Flow-Creation MOC]]

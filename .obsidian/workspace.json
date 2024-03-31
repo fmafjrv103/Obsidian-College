@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Speeches MOC.md",
+                "file": "Dimensions of Reality.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Speeches MOC.md",
+                "file": "Dimensions of Reality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Speeches MOC.md",
+                "file": "Dimensions of Reality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Speeches MOC.md"
+                "file": "Dimensions of Reality.md"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Speeches MOC.md",
+                "file": "Dimensions of Reality.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -284,53 +284,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
       "zk-prefixer:Create new unique note": false,
-      "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "workspaces:Manage workspace layouts": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
       "homepage:Open homepage": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "excel:Create Excel File": false,
-      "timer:Open timer": false,
+      "timer:Open timer": true,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false,
+      "templater-obsidian:Templater": true,
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "457ac2530ca9e28a",
+  "active": "8ffb4c682c2b2989",
   "lastOpenFiles": [
-    "Essays MOC.md",
-    "Meta-Skills for Flowcreation.md",
-    "FlowCreation TOC.md",
+    "PKM Ways to Structure Digital Notes.md",
+    "Endorphins.md",
+    "000 Home/000 Home.md",
+    "2020-05-14 Journal.md",
+    "Douglas R. Hofstadter.md",
+    "2020-05-15 Journal.md",
+    "DONE 2020-05.md",
+    "Flow Map.md",
+    "Conditions of Flow.md",
+    "Flow-Creation MOC.md",
+    "Four Virtues.md",
+    "Flow Stoppers.md",
+    "Meta-Skills for Flow-creation.md",
+    "FlowCreation Theory.md",
+    "100 Projects MOC.md",
     "Flow.md",
+    "Morality.md",
+    "Speeches MOC.md",
+    "Excel 2024-03-31 00.46.24.sheet.md",
+    "Essays MOC.md",
     "Aikido.md",
     "OODA Loop.md",
     "Forcing Function.md",
     "Dimensions of Reality.md",
     "Lindy Effect.md",
     "201910091348.md",
-    "111 Editing Manual MOC.md",
-    "Editing Manual TOC.md",
-    "Douglas R. Hofstadter.md",
-    "000 Home.md",
-    "005 Active MOC.md",
-    "2024-03-31.md",
-    "010 Notes MOC.md",
-    "000 Home/000 Home.md",
-    "115 Body MOC.md",
-    "110 Mind MOC.md",
-    "100 Projects MOC.md",
-    "100 Ideas MOC.md",
-    "095 Lists MOC.md",
-    "090 PKM MOC.md",
-    "085 Finances MOC.md",
-    "080 Goals MOC.md",
     "Spaces/#📚Book",
     "000 Home",
     "Media/Pasted image 20240330231528.png",

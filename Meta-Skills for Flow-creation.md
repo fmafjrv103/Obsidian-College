@@ -1,4 +1,4 @@
-# Meta-skills for Flowcreation
+# Meta-skills for Flow-creation
 What's the goal here? The goal is to Balance Challenge and Skill to get into flow. [[Balancing Challenge and Skill]] is basically the meta-meta-skill. On a conceptual level, that's what we're always trying to do when we're going after high quality experiences in life.
 
 Here are the mental steps—the meta-skills—surrounding conscious flow-creation:
@@ -20,4 +20,4 @@ We naturally do certain things in a certain way when we are improving our skills
 6. Skill of Well-timed Turnovers (Turnover)
 
 ---
-TOC: [[FlowCreation TOC]]
+TOC: [[Flow-Creation MOC]]
