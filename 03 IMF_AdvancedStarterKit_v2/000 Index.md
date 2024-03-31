@@ -1,10 +1,10 @@
-d# 000 Index
+# 000 Index
 Welcome your Index. This is homebase. Check it out. Click the links. Get familiar with the pages. Then add some of your own notes. Link your notes to the Index or to a Map of Contents. If that works, start personalizing the categories to suit your needs. Or return to the philosophy and practice of IMF frameworks: [[IMF START]].
 
 ### Index Categories [^1]
 000s - [[000 Index|The Index]], [[005 Active MOC| Active Notes]], and the following Maps of Content (MOCs):
-010s - [[010 Mind MOC| Mind]]-related health, wellness, training, and exercise.
-020s - [[020 Body MOC|Body]]-related health, wellness, training, and exercise.
+010s - [[110 Mind MOC| Mind]]-related health, wellness, training, and exercise.
+020s - [[115 Body MOC|Body]]-related health, wellness, training, and exercise.
 030s - [[030 People MAP|People]], [[035 Places MOC|Places]]
 040s - [[040 Interests MOC|Interests]] (inputs)
 050s - [[050 Quotes MOC|Quotes]] & [[055 Figures MOC|Figurative Language]] (brief inputs/outputs)
@@ -28,7 +28,7 @@ Welcome your Index. This is homebase. Check it out. Click the links. Get familia
 - 100s - #ideas #project #projects, #TOC
 
 ##### Front Matter Templates for Commonly Used MOCs
-links: [[000 Index|Index]], [[005 Active MOC|Active]], [[010 Mind MOC| Mind]], [[Concepts MOC|Concepts]], [[020 Body MOC|Body]], [[030 People MAP|People]], [[035 Places MOC|Places]], [[040 Interests MOC|Interests]], [[050 Quotes MOC|Quotes]], [[055 Figures MOC|Figures]], [[060 Writings MOC|Writings]], [[070 Journal MOC|Journal ]], [[080 Goals MOC|Goals]], [[085 Finances MOC|Finances]], [[090 PKM MOC|PKM]], [[095 Lists MOC|Lists]], [[100 Ideas MOC| Ideas]], [[100 Projects MOC|Projects]] — [[IMF START]]
+links: [[000 Index|Index]], [[005 Active MOC|Active]], [[110 Mind MOC| Mind]], [[Concepts MOC|Concepts]], [[115 Body MOC|Body]], [[030 People MAP|People]], [[035 Places MOC|Places]], [[040 Interests MOC|Interests]], [[050 Quotes MOC|Quotes]], [[055 Figures MOC|Figures]], [[060 Writings MOC|Writings]], [[070 Journal MOC|Journal ]], [[080 Goals MOC|Goals]], [[085 Finances MOC|Finances]], [[090 PKM MOC|PKM]], [[095 Lists MOC|Lists]], [[100 Ideas MOC| Ideas]], [[100 Projects MOC|Projects]] — [[IMF START]]
 
 ### Saved Boolean Searches
 - #active AND #MOC 

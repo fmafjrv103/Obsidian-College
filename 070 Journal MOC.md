@@ -4,7 +4,7 @@ tags:
   - journal
   - MOC
 ---
-links: [[000 Home|Home]]
+links: [[000 Home|Home]], [[060 Writings MOC|Writings]]
 
 ---
 # Journal

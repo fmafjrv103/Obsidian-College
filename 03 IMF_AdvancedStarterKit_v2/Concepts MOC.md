@@ -1,5 +1,5 @@
 tags: #MOC #lists #faves #concepts
-links: [[000 Index|Index]], [[010 Mind MOC| Mind]], [[Concepts MOC|Concepts]], [[IMF START]]
+links: [[000 Index|Index]], [[110 Mind MOC| Mind]], [[Concepts MOC|Concepts]], [[IMF START]]
 
 1. Mapped for daily reminders
 2. Mapped by category
@@ -117,4 +117,4 @@ For more avenues to re-expanded my narrowed perspectve, try to revisit the [[Rub
 
 ---
 tags: #MOC #lists #faves #concepts
-links: [[000 Index|Index]], [[010 Mind MOC| Mind]], [[Concepts MOC|Concepts]], [[IMF START]]
+links: [[000 Index|Index]], [[110 Mind MOC| Mind]], [[Concepts MOC|Concepts]], [[IMF START]]

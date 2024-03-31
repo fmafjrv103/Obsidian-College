@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 IMF_AdvancedStarterKit_v2/040 Interests MOC.md",
+                "file": "030 People MOC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#quotes100",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 IMF_AdvancedStarterKit_v2/040 Interests MOC.md",
+                "file": "030 People MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 IMF_AdvancedStarterKit_v2/040 Interests MOC.md",
+                "file": "030 People MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 IMF_AdvancedStarterKit_v2/040 Interests MOC.md"
+                "file": "030 People MOC.md"
               }
             }
           },
@@ -205,8 +205,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "63346feb323c3112",
@@ -219,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 IMF_AdvancedStarterKit_v2/040 Interests MOC.md",
+                "file": "030 People MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -264,7 +263,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0838272328744092,
+                  "scale": 0.8012890583198855,
                   "close": true
                 }
               }
@@ -298,32 +297,32 @@
   },
   "active": "dfd1b53d6e4e1088",
   "lastOpenFiles": [
-    "03 IMF_AdvancedStarterKit_v2/Books Example MOC.md",
-    "03 IMF_AdvancedStarterKit_v2/040 Interests MOC.md",
-    "03 IMF_AdvancedStarterKit_v2/035 Places MOC.md",
-    "03 IMF_AdvancedStarterKit_v2/030 People MAP.md",
-    "03 IMF_AdvancedStarterKit_v2/000 Index.md",
-    "030 People MOC.md",
     "000 Home.md",
-    "035 Places MOC.md",
-    "020 School MOC.md",
-    "010 Notes MOC.md",
-    "03 IMF_AdvancedStarterKit_v2/201903299997 Thought Enriching.md",
-    "03 IMF_AdvancedStarterKit_v2/201906189997.md",
-    "03 IMF_AdvancedStarterKit_v2/000000000010.md",
-    "03 IMF_AdvancedStarterKit_v2/201906191603 On Emotional Agility - Steven Pressfield.md",
+    "03 IMF_AdvancedStarterKit_v2/030 People MAP.md",
+    "060 Writings MOC.md",
+    "03 IMF_AdvancedStarterKit_v2/Best Writings MOC.md",
     "03 IMF_AdvancedStarterKit_v2/090 PKM MOC.md",
-    "03 IMF_AdvancedStarterKit_v2/201908171004 Example.md",
-    "090 PKM MOC.md",
-    "040 Interests MOC.md",
-    "03 IMF_AdvancedStarterKit_v2/Moderation.md",
-    "03 IMF_AdvancedStarterKit_v2/Chinese Language MOC.md",
-    "03 IMF_AdvancedStarterKit_v2/Flow Stoppers.md",
-    "03 IMF_AdvancedStarterKit_v2/IMF START.md",
-    "03 IMF_AdvancedStarterKit_v2/Philosophy MOC.md",
+    "03 IMF_AdvancedStarterKit_v2/060 Writings MOC.md",
+    "03 IMF_AdvancedStarterKit_v2/Speeches MOC.md",
+    "080 Goals MOC.md",
+    "03 IMF_AdvancedStarterKit_v2/080 Goals MOC.md",
     "03 IMF_AdvancedStarterKit_v2/Concepts MOC.md",
-    "03 IMF_AdvancedStarterKit_v2/Balancing Challenge and Skill.md",
-    "03 IMF_AdvancedStarterKit_v2/Breathing Exercises TOC.md",
+    "040 Interests MOC.md",
+    "03 IMF_AdvancedStarterKit_v2/Concepts MOC Examples.md",
+    "03 IMF_AdvancedStarterKit_v2/040 Interests MOC.md",
+    "095 Lists MOC.md",
+    "100 Ideas MOC.md",
+    "03 IMF_AdvancedStarterKit_v2/100 Ideas MOC.md",
+    "085 Finances MOC.md",
+    "03 IMF_AdvancedStarterKit_v2/085 Finances MOC.md",
+    "050 Quotes MOC.md",
+    "03 IMF_AdvancedStarterKit_v2/000 Index.md",
+    "03 IMF_AdvancedStarterKit_v2/Tidbits MOC.md",
+    "005 Active MOC.md",
+    "03 IMF_AdvancedStarterKit_v2/115 Body MOC.md",
+    "090 PKM MOC.md",
+    "03 IMF_AdvancedStarterKit_v2/You are what you eat.md",
+    "03 IMF_AdvancedStarterKit_v2/Intro to the Index Categories (IMF).md",
     "03 IMF_AdvancedStarterKit_v2/_media/stay on target.jpg",
     "03 IMF_AdvancedStarterKit_v2/_media/four factors of flow.png",
     "03 IMF_AdvancedStarterKit_v2/_media/Wolverine tethered.jpg",

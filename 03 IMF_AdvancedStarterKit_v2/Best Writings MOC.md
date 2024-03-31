@@ -1,4 +1,4 @@
-tags: #writings #TOC
+tags: #writings #MOC 
 links: [[060 Writings MOC|Writings]]
 
 ---

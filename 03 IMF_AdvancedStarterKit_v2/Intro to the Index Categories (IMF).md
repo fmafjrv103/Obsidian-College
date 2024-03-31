@@ -6,9 +6,9 @@ links: [[IMF START]], [[IMF MOC]]
 Your Index Categories are just your main categories of personal knowledge. They just be broad. Try to stay around 10 or so. These are my main categories of personal knowledge. They are easy to change and rename to your heart's content. All the prep work is done for you. 
 
 000s - [[000 Index|The Index]], [[005 Active MOC| Active Notes]], and Maps of Content (MOCs)
-010s - [[010 Mind MOC| Mind]]-related health, wellness, training, and exercise.
-020s - [[020 Body MOC|Body]]-related health, wellness, training, and exercise.
-030s - [[030 People MAP|People]], [[030 Places TOC|Places]]
+010s - [[110 Mind MOC| Mind]]-related health, wellness, training, and exercise.
+020s - [[115 Body MOC|Body]]-related health, wellness, training, and exercise.
+030s - [[030 People MAP|People]], [[030 Places MOC|Places]]
 040s - [[040 Interests MOC|Interests]] (inputs)
 050s - [[050 Quotes MOC|Quotes]] & [[055 Figures MOC|Figurative Language]] (brief inputs/outputs)
 060s - [[060 Writings MOC|Writings]] (outputs)     

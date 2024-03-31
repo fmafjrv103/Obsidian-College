@@ -18,5 +18,5 @@ Contextual Lenses are similar to Mental Models and [[OODA Loop|OODA Looping]]. I
 
 ---
 tags: #MOC #Mind
-links: [[000 Index|Index]], [[010 Mind MOC| Mind]], [[Concepts MOC|Concepts]]
+links: [[000 Index|Index]], [[110 Mind MOC| Mind]], [[Concepts MOC|Concepts]]
 

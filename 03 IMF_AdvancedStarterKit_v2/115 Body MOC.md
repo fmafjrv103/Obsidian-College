@@ -1,8 +1,8 @@
 tags: #MOC #Body 
-links: [[000 Index|Index]], [[010 Mind MOC| Mind]], [[020 Body MOC|Body]]
+links: [[000 Index|Index]], [[110 Mind MOC| Mind]], [[115 Body MOC|Body]]
 
 ---
-# Body TOC
+# Body MOC
 Welcome to the Body MOC. It is for areas of physical health, wellness, training, and exercise.
 
 ==Reminder: links won't go to anything on this page==

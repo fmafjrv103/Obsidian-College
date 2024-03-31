@@ -21,6 +21,7 @@ links: [[000 Home|Home]]
 - 080s - [[080 Goals MOC|Goals]] and [[085 Finances MOC|Finances]]
 - 090s - [[090 PKM MOC|Knowledge Management]] and [[095 Lists MOC|Lists]]
 - 100s - [[100 Ideas MOC|Ideas]] and [[100 Projects MOC|Projects]]
+- 110s - [[110 Mind MOC|Mind]] and [[115 Body MOC|Body]]
 # Tags Categories
 - 000s - #maps #TOM #active #unsorted #curate, #tasks, #faves
 - 010s - #mind #concepts #mentalModels #training

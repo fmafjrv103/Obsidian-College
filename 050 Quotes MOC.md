@@ -9,6 +9,33 @@ tags:
 Links: [[000 Home|Home]]
 
 ---
+Welcome to your "commonplace book" of quotes. Try clicking on #quotes100 to see a couple results. 
+[[Tidbits MOC]]
+[[Quips MOC]]
+## Some Categories
+#ancients
+#quips
+#quotes100
+#quotes250
+### Health
+#onHealth
+#onNutrition #onDiet 
+#onExercise
+### Life & Death
+#onLiving
+#onDying
+#onLegacy
+### People
+#onPeople
+#onLeadership
+### Personal Development & Virtues
+#onAttitude #onBelief #onCourage
+#onAction #onDoing #onStarting
+#onPerseverance #onToughness
+#onReps #onPractice #onExcellence #onLuck
+#onIntegrity
+### Planning and Strategy
+#onGoals
 # Categories
 - **000s - General Reference (Encyclopedias, Journalism, Articles, News)**
 - **100s - Philosophy & Psychology & Logic** 

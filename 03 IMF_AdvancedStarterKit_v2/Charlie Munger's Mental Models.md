@@ -1,5 +1,5 @@
 tags: #mentalModels #list  
-links: [[010 Mind MOC|Mind]], [[Concepts MOC|Concepts]]
+links: [[110 Mind MOC|Mind]], [[Concepts MOC|Concepts]]
 created: 201906183333
 
 ---
