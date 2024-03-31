@@ -1,5 +1,5 @@
 # IMF FAQ
-**QUESTION**: I 've heard hierarchies and structures are bad.
+**QUESTION**: I've heard hierarchies and structures are bad.
 **ANSWER**: It's correct that a note buried in folder upon folder is harder to access. A note should be able to live freely and connect to as many notes as needed without restriction.
 
 Folders act to limit a note's availability. They bury notes. This is bad in that it reduces your potential *avenues towards note retrieval*. [^1]
@@ -11,7 +11,7 @@ That's why Maps of Content are magicians: *they don't limit access; they curate 
 **ANSWER**: This is actually not true. Luhmann had a separate "register" of keywords to essentially find an “entrance” into his Zettelkasten. MOCs serve a similar function.
 
 
-**QUESTION**: What's the difference for you between MOC and TOC? They seem interchangable, am I missing something there?
+**QUESTION**: What's the difference for you between MOC and TOC? They seem interchangeable, am I missing something there?
 
 **ANSWER**: The distinction, which serves an important purpose, is an MOC doesn’t have to follow a linear format. It can be constantly reshuffled by you to meet your needs. It’s great for compiling topic-related ideas, notes, concepts.
 

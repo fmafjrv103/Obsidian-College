@@ -5,7 +5,7 @@ tags: #people
 - metadata
 	- date: 20200515
 	- what: In this Presidential Lecture, cognitive scientist Douglas Hofstadter examines the role and contributions of analogy in cognition, using a variety of analogies to illustrate his points. 
-	- web: https://www.youtube.com/watch?v=n8m7lFQ3njk
+	- web: ![Youtube](https://www.youtube.com/watch?v=n8m7lFQ3njk)
 	- why: This is important to me because of it is about how to talk about, and define, thinking—especially figurative language and concepts. 
 	- catch-all thoughts: What a fascinating person this guy is. 
 - **Analogy-making** - the perception of common• essence between 2 things••
@@ -20,12 +20,12 @@ tags: #people
 		- primordial concepts in some interrelationship becomes part of a larger unit. We build our concepts this way and eventually the primordial concepts miraculously disappear.
 		- *There is no fundamental difference between primordial tangible concepts• and highly-chunked abstract concepts••*
 			- •e.g., hand, chair, book, office
-			- ••e.g., hub, soap opera, sleazeball, wilderness protection legislation, scientific break-even for laser fusion
+			- ••e.g., hub, soap opera, sleaze ball, wilderness protection legislation, scientific break-even for laser fusion
 - The continuum of concepts
 	- Labeled concepts
 		- Primordial words, simple words, compound words, phrases, proverbs
 	- Unlabeled concepts
-		- fleeting remindings, me-too's, political analogies, personal-situation mappings, scientific leaps
+		- fleeting reminding, me-too's, political analogies, personal-situation mappings, scientific leaps
 		- a lot of our concepts are completely unlabeled, old experiences can be triggered by some new event in the future; i.e., Doug's subscript disillusionment as a child connecting to his daughter's disillusionment as a child.
 	- Primordial concepts (not always nouns or even visible or sensory things)
 			- Mama, good, hand, hurt, red, loud, Where?, Please! Why?, in, out, here 
@@ -40,7 +40,7 @@ tags: #people
 	- Proverbs etc are situation-labels. Example: Sour grapes
 - *Every "effortless" category assignment is actually a seething subterranean battle of analogies* #quote [[Quotes]] When the battle is a landslide, there's no evidence. When the battle is close, there is evidence galore.
 	- *Individual words are the locus of a fight.* 
-	- any time a word is chosen, there is a subterrainean fight taking place for primacy
+	- any time a word is chosen, there is a subterranean fight taking place for primacy
 	- sometimes there is a clear winner "dog"
 	- sometimes it's close like "vilagent" which blends "vigilant" and "diligent"
 	- I should "count my lucky stars" -- count my blessings vs thank my lucky stars

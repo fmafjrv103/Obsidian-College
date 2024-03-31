@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 IMF_AdvancedStarterKit_v2/Concepts MOC.md",
+                "file": "202403302138 Lorem Ipsum.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "f90594313b89809e",
@@ -80,7 +81,7 @@
       {
         "id": "ac02129fafbaf757",
         "type": "tabs",
-        "dimension": 30.118694362017806,
+        "dimension": 29.00593471810089,
         "children": [
           {
             "id": "bb6946b2a7144698",
@@ -88,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 IMF_AdvancedStarterKit_v2/Concepts MOC.md",
+                "file": "202403302138 Lorem Ipsum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 IMF_AdvancedStarterKit_v2/Concepts MOC.md",
+                "file": "202403302138 Lorem Ipsum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 IMF_AdvancedStarterKit_v2/Concepts MOC.md"
+                "file": "202403302138 Lorem Ipsum.md"
               }
             }
           },
@@ -178,7 +179,7 @@
       {
         "id": "8c22712198f3ed9f",
         "type": "tabs",
-        "dimension": 32.640949554896146,
+        "dimension": 33.753709198813056,
         "children": [
           {
             "id": "dcf885419fbbb3f7",
@@ -218,7 +219,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 IMF_AdvancedStarterKit_v2/Concepts MOC.md",
+                "file": "202403302138 Lorem Ipsum.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -297,6 +298,15 @@
   },
   "active": "dfd1b53d6e4e1088",
   "lastOpenFiles": [
+    "03 IMF_AdvancedStarterKit_v2/201903299997 Thought Enriching.md",
+    "03 IMF_AdvancedStarterKit_v2/Obsidian requests.md",
+    "03 IMF_AdvancedStarterKit_v2/Douglas R. Hofstadter.md",
+    "03 IMF_AdvancedStarterKit_v2/IMF FAQ.md",
+    "03 IMF_AdvancedStarterKit_v2/IMF MOC.md",
+    "03 IMF_AdvancedStarterKit_v2/Concepts MOC.md",
+    "000 Home.md",
+    "03 IMF_AdvancedStarterKit_v2/Maps of Content are swiss army knives.md",
+    "03 IMF_AdvancedStarterKit_v2/Intro to the Index Categories (IMF).md",
     "03 IMF_AdvancedStarterKit_v2/Reps.md",
     "03 IMF_AdvancedStarterKit_v2/Flow.md",
     "03 IMF_AdvancedStarterKit_v2/Flow Map.md",
@@ -308,21 +318,12 @@
     "03 IMF_AdvancedStarterKit_v2/Obsidian Example Link.md",
     "College Packing List.md",
     "03 IMF_AdvancedStarterKit_v2/Stoicism TOC.md",
-    "000 Home.md",
     "030 People MOC.md",
     "000 Index.md",
     "03 IMF_AdvancedStarterKit_v2/Football MOC.md",
     "03 IMF_AdvancedStarterKit_v2/Setting up your Index Categories (IMF).md",
     "03 IMF_AdvancedStarterKit_v2/IMF Glossary.md",
     "03 IMF_AdvancedStarterKit_v2/Ancient Culture MOC.md",
-    "03 IMF_AdvancedStarterKit_v2/Index Front Matter.md",
-    "03 IMF_AdvancedStarterKit_v2/Cobwebs into Cables.md",
-    "03 IMF_AdvancedStarterKit_v2/Literature MOC.md",
-    "03 IMF_AdvancedStarterKit_v2/Vocals MOC.md",
-    "03 IMF_AdvancedStarterKit_v2/110 Mind MOC.md",
-    "03 IMF_AdvancedStarterKit_v2/115 Body MOC.md",
-    "03 IMF_AdvancedStarterKit_v2/Concepts MOC.md",
-    "03 IMF_AdvancedStarterKit_v2/Intro to the Index Categories (IMF).md",
     "03 IMF_AdvancedStarterKit_v2/_media/stay on target.jpg",
     "03 IMF_AdvancedStarterKit_v2/_media/four factors of flow.png",
     "03 IMF_AdvancedStarterKit_v2/_media/Wolverine tethered.jpg",

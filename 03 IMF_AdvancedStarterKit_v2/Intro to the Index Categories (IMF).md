@@ -8,7 +8,7 @@ Your Index Categories are just your main categories of personal knowledge. They 
 000s - [[000 Home|Home]], [[005 Active MOC| Active Notes]], and Maps of Content (MOCs)
 010s - [[110 Mind MOC| Mind]]-related health, wellness, training, and exercise.
 020s - [[115 Body MOC|Body]]-related health, wellness, training, and exercise.
-030s - [[030 People MAP|People]], [[030 Places MOC|Places]]
+030s - [[030 People MOC|People]], [[035 Places MOC|Places]]
 040s - [[040 Interests MOC|Interests]] (inputs)
 050s - [[050 Quotes MOC|Quotes]] & [[055 Figures MOC|Figurative Language]] (brief inputs/outputs)
 060s - [[060 Writings MOC|Writings]] (outputs)     
@@ -24,15 +24,15 @@ ___
 ### Customizing your Categories
 It's easy, if you want to change 050 from Quotes to Habits it would go from this:
 
-> 050s - [[050 Quotes MOC|Quotes]]
+> 050s - `[[050 Quotes MOC|Quotes]]`
 
 to this:
 
-> 050s - [[050 Habits MOC|Habits]]
+> 050s - `[[050 Habits MOC|Habits]]`
 
 Boom.
 
-Then go to  [[050 Habits MOC|Habits]] and start working!
+Then go to  `[[050 Habits MOC|Habits]]` and start working!
 
 ---
 tags: #pkm #IMF
