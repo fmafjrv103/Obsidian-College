@@ -2,8 +2,7 @@
 date: 2024-03-15 16:48
 tags:
   - home
-sticker: lucide//home
-color: "#630000"
+banner: "![[Pasted image 20240330231528.png]]"
 ---
 links: [[000 Home|Home]]
 

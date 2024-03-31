@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4965f93ecd9792d9",
+        "id": "20f2613124278a6e",
         "type": "tabs",
         "children": [
           {
-            "id": "7cc7e8cf78003c4d",
+            "id": "8ffb4c682c2b2989",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "000 Home.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#quotes100",
+                "query": "tag:📚book",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,19 +68,19 @@
             }
           },
           {
-            "id": "2723b755316cfec0",
+            "id": "6f520adfc0fdd755",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "f90594313b89809e",
@@ -89,7 +89,7 @@
       {
         "id": "ac02129fafbaf757",
         "type": "tabs",
-        "dimension": 29.00593471810089,
+        "dimension": 50.927988121752044,
         "children": [
           {
             "id": "bb6946b2a7144698",
@@ -180,15 +180,7 @@
               "type": "review-queue-list-view",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 7
-      },
-      {
-        "id": "8c22712198f3ed9f",
-        "type": "tabs",
-        "dimension": 33.753709198813056,
-        "children": [
+          },
           {
             "id": "dcf885419fbbb3f7",
             "type": "leaf",
@@ -214,12 +206,13 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 10
       },
       {
         "id": "63346feb323c3112",
         "type": "tabs",
-        "dimension": 37.24035608308605,
+        "dimension": 49.072011878247956,
         "children": [
           {
             "id": "eb49dceec3166315",
@@ -282,7 +275,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 548.5
+    "width": 576.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -304,36 +297,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7cc7e8cf78003c4d",
+  "active": "8ffb4c682c2b2989",
   "lastOpenFiles": [
-    "020 School MOC.md",
-    "Home/Home.md",
-    "035 Places MOC.md",
+    "2024-03-31.md",
     "000 Home.md",
-    "030 People MOC.md",
     "010 Notes MOC.md",
     "005 Active MOC.md",
-    "Home",
-    "Media/Pasted image 20240330231528.png",
+    "000 Home/000 Home.md",
+    "115 Body MOC.md",
+    "110 Mind MOC.md",
+    "100 Projects MOC.md",
+    "100 Ideas MOC.md",
+    "095 Lists MOC.md",
+    "090 PKM MOC.md",
+    "085 Finances MOC.md",
+    "080 Goals MOC.md",
+    "070 Journal MOC.md",
+    "055 Figures MOC.md",
+    "050 Quotes MOC.md",
+    "035 Places MOC.md",
+    "040 Interests MOC.md",
     "The Art of War Other Classics of Eastern Philosophy - Sun Tzu Lao-Tzu Confucius Mencius.md",
+    "Spaces/#📚Book",
+    "Mathematics From the Birth of Numbers - Jan Gullberg.md",
+    "Books List.md",
+    "Books MOC.md",
+    "030 People MOC.md",
+    "020 School MOC.md",
+    "000 Home",
+    "Media/Pasted image 20240330231528.png",
     "__START HERE.md",
     "Maps of Content.md",
-    "03 IMF_AdvancedStarterKit_v2/Heterarchy.md",
-    "03 IMF_AdvancedStarterKit_v2/Maps of Content.md",
-    "Maps of Content are swiss army knives.md",
-    "Heterarchy.md",
-    "202403302138 Lorem Ipsum.md",
-    "You are what you eat.md",
-    "Ying and Yang.md",
-    "Words MOC.md",
-    "Why Categories for Your Note Archive are a Good Idea (IMF).md",
-    "Vocals MOC.md",
-    "Tidbits MOC.md",
-    "The Path of Excellence.md",
-    "The Id.md",
-    "Taking deep breaths.md",
-    "Synthesis.md",
-    "Stories MOC.md",
     "obsidian.css",
     "Media/Wolverine tethered.jpg",
     "Media/The biochemistry of flow.png",
@@ -351,7 +345,6 @@
     "Media/lghub_installer.zip",
     "Media/lghub_installer.app/Contents/_CodeSignature/CodeResources",
     "Media/lghub_installer.app/Contents/_CodeSignature",
-    "Media/lghub_installer.app/Contents/Resources/zh-TW.lproj/Localizable.strings",
     "Untitled.canvas"
   ]
 }
