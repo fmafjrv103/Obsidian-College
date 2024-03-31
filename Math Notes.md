@@ -1,7 +1,9 @@
 ---
 date: 2024-03-26 12:32:52
 tags:
-  - newNotes
+  - math
+  - notes
+  - complete
 ---
 
 Links: 

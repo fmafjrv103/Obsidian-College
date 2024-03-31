@@ -33,7 +33,9 @@ where contains(complete, "No")
 ```
 # Completed
 ```dataview
-LIST
+TABLE WITHOUT ID
+file.link as "Note",
+completeDate as "Completed"
 FROM #notes AND #complete OR #newNotes AND #complete and -#journal
 WHERE contains(complete, "Yes")
 SORT file.name ASC

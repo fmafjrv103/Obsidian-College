@@ -4,6 +4,7 @@ tags:
   - pkm
   - notes
   - concepts
+complete: Yes
 ---
 Links: [[090 PKM MOC|PKM MOC]]
 

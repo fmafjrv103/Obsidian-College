@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Home.md",
+                "file": "010 Notes MOC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Home.md",
+                "file": "010 Notes MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Home.md",
+                "file": "010 Notes MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Home.md"
+                "file": "010 Notes MOC.md"
               }
             }
           },
@@ -205,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Home.md",
+                "file": "010 Notes MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -282,12 +282,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "457ac2530ca9e28a",
+  "active": "0ab1b3ffe538cc50",
   "lastOpenFiles": [
+    "000 Home.md",
+    "OLD High Waters for Lowriders Script.md",
+    "010 Notes MOC.md",
+    "Autofocus.md",
+    "Agile Results.md",
+    "2024032021432 Freshmen Dorms.md",
+    "202403200128 Meeting Notes.md",
+    "090 PKM MOC.md",
+    "Schema.md",
+    "Math Notes.md",
     "Math Notes 7.md",
     "Math MOC.md",
-    "090 PKM MOC.md",
-    "000 Home.md",
     "10-Minute Memory Method.md",
     "College Packing List.md",
     "Time blocking.md",
@@ -302,17 +310,9 @@
     "2024-03-26.md",
     "Hamlet Project.md",
     "2024-05-02 TODOS.md",
-    "Untitled.md",
     "2024-03-23.md",
     "Media/Pasted image 20240329180618.png",
     "Media/Pasted image 20240329180547.png",
-    "Active Recall.md",
-    "Learning to Remember.md",
-    "Anchoring Effect.md",
-    "Schema.md",
-    "010 Notes MOC.md",
-    "Invites.md",
-    "Graduation.md",
     "Media/lghub_installer.zip",
     "Media/lghub_installer.app/Contents/_CodeSignature/CodeResources",
     "Media/lghub_installer.app/Contents/_CodeSignature",

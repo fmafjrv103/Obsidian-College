@@ -5,6 +5,7 @@ tags:
   - speech
   - complete
 complete: Yes
+completeDate: 2024-03-16
 ---
 Links: [[High Waters for Lowriders]], [Slides](https://docs.google.com/presentation/d/1ia44eekrabe8n1mFGewlJYClAvKhz1P0-BrMnt156TQ/edit#slide=id.p)
 
