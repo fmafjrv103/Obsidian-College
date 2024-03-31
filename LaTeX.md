@@ -1,9 +1,9 @@
 ---
 date: 2024-03-21 10:55:45
 tags:
-  - newNotes
   - inProgress
   - math
+complete: No
 ---
 Links: [[Math MOC]]
 

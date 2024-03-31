@@ -21,9 +21,12 @@ But it's nice to have a place to put to new/relevant stuff you don't want to for
 ### IM tasks
 - [ ] clean up [[Concepts MOC]]
 - [ ] https://vimeo.com/275530205 - this was suggested to watch, might be apropos to take notes on it
-# No Tags
+# New Notes
 ```dataview
-List
+table without id
+file.link as "Notes",
+(date(today) - file.cday).day as "Created",
+complete as "Progress"
 From -"Templates" and #newNotes 
 ```
 # In Progress
@@ -31,6 +34,7 @@ From -"Templates" and #newNotes
 TABLE WITHOUT ID
 file.link as "Notes", (date(today) - file.cday).day as "Created"
 From #inProgress 
+where
 Sort file.cday DESC
 ```
 

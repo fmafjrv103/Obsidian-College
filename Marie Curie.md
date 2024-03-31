@@ -1,10 +1,9 @@
 ---
 date: 2024-03-23 22:51:45
 tags:
-  - newNotes
   - people
 ---
-Links: [[030 People MOC|People MOC]]
+Links: [[030 People MOC|People]]
 
 ---
 # Who was Marie Curie ?

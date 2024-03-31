@@ -4,7 +4,7 @@ tags:
   - people
 complete: No
 ---
-Links: [[030 People MOC|People MOC]]
+Links: [[030 People MOC|People]]
 
 ---
 
