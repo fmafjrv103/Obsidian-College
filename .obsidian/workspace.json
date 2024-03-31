@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Home.md",
-                "mode": "preview",
+                "file": "Speeches MOC.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:📚book",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,16 +66,9 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "6f520adfc0fdd755",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Home.md",
+                "file": "Speeches MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Home.md",
+                "file": "Speeches MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Home.md"
+                "file": "Speeches MOC.md"
               }
             }
           },
@@ -205,9 +198,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "84a87bc8f13e32f3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       },
       {
         "id": "63346feb323c3112",
@@ -220,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Home.md",
+                "file": "Speeches MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -294,15 +299,29 @@
       "timer:Open timer": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "8ffb4c682c2b2989",
+  "active": "457ac2530ca9e28a",
   "lastOpenFiles": [
-    "2024-03-31.md",
+    "Essays MOC.md",
+    "Meta-Skills for Flowcreation.md",
+    "FlowCreation TOC.md",
+    "Flow.md",
+    "Aikido.md",
+    "OODA Loop.md",
+    "Forcing Function.md",
+    "Dimensions of Reality.md",
+    "Lindy Effect.md",
+    "201910091348.md",
+    "111 Editing Manual MOC.md",
+    "Editing Manual TOC.md",
+    "Douglas R. Hofstadter.md",
     "000 Home.md",
-    "010 Notes MOC.md",
     "005 Active MOC.md",
+    "2024-03-31.md",
+    "010 Notes MOC.md",
     "000 Home/000 Home.md",
     "115 Body MOC.md",
     "110 Mind MOC.md",
@@ -312,22 +331,9 @@
     "090 PKM MOC.md",
     "085 Finances MOC.md",
     "080 Goals MOC.md",
-    "070 Journal MOC.md",
-    "055 Figures MOC.md",
-    "050 Quotes MOC.md",
-    "035 Places MOC.md",
-    "040 Interests MOC.md",
-    "The Art of War Other Classics of Eastern Philosophy - Sun Tzu Lao-Tzu Confucius Mencius.md",
     "Spaces/#📚Book",
-    "Mathematics From the Birth of Numbers - Jan Gullberg.md",
-    "Books List.md",
-    "Books MOC.md",
-    "030 People MOC.md",
-    "020 School MOC.md",
     "000 Home",
     "Media/Pasted image 20240330231528.png",
-    "__START HERE.md",
-    "Maps of Content.md",
     "obsidian.css",
     "Media/Wolverine tethered.jpg",
     "Media/The biochemistry of flow.png",

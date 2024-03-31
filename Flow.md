@@ -5,4 +5,4 @@ When you get [[Reps]] of [[Deliberate Practice]] and gain a certain level of com
 
 ---
 tags: #concepts 
-links: [[Concepts MOC Examples]]
+links: [[Concepts MOC]]

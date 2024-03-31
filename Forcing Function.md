@@ -15,5 +15,5 @@ bumper guards, guard rails, training wheels, things that help you to stay the co
 A behavior-shaping constraint, also sometimes referred to as a forcing function or poka-yoke, is a technique used in error-tolerant design to prevent the user from making common errors or mistakes. One example is the reverse lockout on the transmission of a moving automobile. 
 
 ---
-tags: [[MentalModels]]   
+tags: #mentalModels   
 links: [[Concepts MOC]]

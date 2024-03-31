@@ -26,5 +26,5 @@ Wiki: The OODA loop is the decision cycle of observe, orient, decide, and act, d
 Reference this tidbit for even more: Tidbit - Tao of John Boyd - OODA Loop [[154400000000]]
 
 ---
-tags: [[MentalModels]]   
+tags: #mentalModels
 links: [[Concepts MOC]]

@@ -3,6 +3,7 @@ date: 2024-03-15 16:48
 tags:
   - home
 banner: "![[Pasted image 20240330231528.png]]"
+banner_y: 0.372
 ---
 links: [[000 Home|Home]]
 

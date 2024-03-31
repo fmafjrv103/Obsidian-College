@@ -21,6 +21,6 @@
     - The Matrix, Essay [[201408242135]]  
 
 ---
-tags: [[listed]] [[mentalModels]] [[concept]]
+tags: #listed #mentalModels #concept
 links: [[Concepts MOC|Concepts]]
 
