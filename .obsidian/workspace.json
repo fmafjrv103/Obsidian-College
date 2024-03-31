@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6fca756dea789a9f",
+        "id": "4965f93ecd9792d9",
         "type": "tabs",
         "children": [
           {
-            "id": "dfd1b53d6e4e1088",
+            "id": "7cc7e8cf78003c4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202403302138 Lorem Ipsum.md",
+                "file": "000 Home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -66,13 +66,20 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "2723b755316cfec0",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "right": {
     "id": "f90594313b89809e",
@@ -89,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202403302138 Lorem Ipsum.md",
+                "file": "000 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202403302138 Lorem Ipsum.md",
+                "file": "000 Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202403302138 Lorem Ipsum.md"
+                "file": "000 Home.md"
               }
             }
           },
@@ -219,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "202403302138 Lorem Ipsum.md",
+                "file": "000 Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -296,54 +303,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dfd1b53d6e4e1088",
+  "active": "7cc7e8cf78003c4d",
   "lastOpenFiles": [
-    "03 IMF_AdvancedStarterKit_v2/201903299997 Thought Enriching.md",
-    "03 IMF_AdvancedStarterKit_v2/Obsidian requests.md",
-    "03 IMF_AdvancedStarterKit_v2/Douglas R. Hofstadter.md",
-    "03 IMF_AdvancedStarterKit_v2/IMF FAQ.md",
-    "03 IMF_AdvancedStarterKit_v2/IMF MOC.md",
-    "03 IMF_AdvancedStarterKit_v2/Concepts MOC.md",
+    "Media/Pasted image 20240330231528.png",
     "000 Home.md",
-    "03 IMF_AdvancedStarterKit_v2/Maps of Content are swiss army knives.md",
-    "03 IMF_AdvancedStarterKit_v2/Intro to the Index Categories (IMF).md",
-    "03 IMF_AdvancedStarterKit_v2/Reps.md",
-    "03 IMF_AdvancedStarterKit_v2/Flow.md",
-    "03 IMF_AdvancedStarterKit_v2/Flow Map.md",
-    "03 IMF_AdvancedStarterKit_v2/FlowCreation TOC.md",
-    "100 Projects MOC.md",
+    "The Art of War Other Classics of Eastern Philosophy - Sun Tzu Lao-Tzu Confucius Mencius.md",
+    "__START HERE.md",
+    "Maps of Content.md",
+    "03 IMF_AdvancedStarterKit_v2/Heterarchy.md",
     "03 IMF_AdvancedStarterKit_v2/Maps of Content.md",
-    "03 IMF_AdvancedStarterKit_v2/CyberDynalSynth Theme.md",
+    "Maps of Content are swiss army knives.md",
+    "Heterarchy.md",
     "202403302138 Lorem Ipsum.md",
-    "03 IMF_AdvancedStarterKit_v2/Obsidian Example Link.md",
-    "College Packing List.md",
-    "03 IMF_AdvancedStarterKit_v2/Stoicism TOC.md",
-    "030 People MOC.md",
-    "000 Index.md",
-    "03 IMF_AdvancedStarterKit_v2/Football MOC.md",
-    "03 IMF_AdvancedStarterKit_v2/Setting up your Index Categories (IMF).md",
-    "03 IMF_AdvancedStarterKit_v2/IMF Glossary.md",
-    "03 IMF_AdvancedStarterKit_v2/Ancient Culture MOC.md",
+    "You are what you eat.md",
+    "Ying and Yang.md",
+    "Words MOC.md",
+    "Why Categories for Your Note Archive are a Good Idea (IMF).md",
+    "Vocals MOC.md",
+    "Tidbits MOC.md",
+    "The Path of Excellence.md",
+    "The Id.md",
+    "Taking deep breaths.md",
+    "Synthesis.md",
+    "Stories MOC.md",
+    "Stoicism TOC.md",
+    "Stoicism MOC.md",
+    "Speeches MOC.md",
+    "Spatial Context.md",
+    "Solutions to Flow Stoppers.md",
+    "obsidian.css",
+    "Media/Wolverine tethered.jpg",
+    "Media/The biochemistry of flow.png",
+    "Media/stay on target.jpg",
+    "Media/four factors of flow.png",
+    "Media/Flow Zone Channel.jpg",
+    "Media/Flow Map.png",
+    "Media/Flow Map - Original.jpg",
+    "Spaces",
     "03 IMF_AdvancedStarterKit_v2/_media/stay on target.jpg",
     "03 IMF_AdvancedStarterKit_v2/_media/four factors of flow.png",
     "03 IMF_AdvancedStarterKit_v2/_media/Wolverine tethered.jpg",
-    "03 IMF_AdvancedStarterKit_v2/_media/The biochemistry of flow.png",
-    "03 IMF_AdvancedStarterKit_v2/_media/Flow Zone Channel.jpg",
-    "03 IMF_AdvancedStarterKit_v2/_media/Flow Map.png",
-    "03 IMF_AdvancedStarterKit_v2/_media/Flow Map - Original.jpg",
     "03 IMF_AdvancedStarterKit_v2/_media",
     "03 IMF_AdvancedStarterKit_v2/obsidian.css",
     "03 IMF_AdvancedStarterKit_v2",
-    "Media/Pasted image 20240329191956.png",
-    "Media/Pasted image 20240329180618.png",
-    "Media/Pasted image 20240329180547.png",
     "Media/lghub_installer.zip",
     "Media/lghub_installer.app/Contents/_CodeSignature/CodeResources",
     "Media/lghub_installer.app/Contents/_CodeSignature",
     "Media/lghub_installer.app/Contents/Resources/zh-TW.lproj/Localizable.strings",
     "Media/lghub_installer.app/Contents/Resources/zh-TW.lproj/InfoPlist.strings",
-    "Media/lghub_installer.app/Contents/Resources/zh-CN.lproj/Localizable.strings",
-    "Media/lghub_installer.app/Contents/Resources/zh-CN.lproj/InfoPlist.strings",
     "Untitled.canvas"
   ]
 }

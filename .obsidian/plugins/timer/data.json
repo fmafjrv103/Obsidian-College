@@ -1,12 +1,12 @@
 {
   "timerButtonsSettings": {
-    "first": "1m",
-    "second": "5m",
-    "third": "10m",
+    "first": "5m",
+    "second": "15m",
+    "third": "25m",
     "fourth": "1h"
   },
   "favoriteTimers": [],
   "stackTimerButtons": false,
   "useVerboseTimeFormat": true,
-  "verboseTimeFormatRemoveNotSetValues": false
+  "verboseTimeFormatRemoveNotSetValues": true
 }

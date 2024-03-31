@@ -1,9 +1,16 @@
 ---
-tag: 📚Book books
-title: "The Art of War & Other Classics of Eastern Philosophy"
+tags:
+  - 📚Book
+  - books
+title: The Art of War & Other Classics of Eastern Philosophy
 subtitle: ""
-author: [Sun Tzu, Lao-Tzu, Confucius, Mencius]
-category: [History]
+author:
+  - Sun Tzu
+  - Lao-Tzu
+  - Confucius
+  - Mencius
+category:
+  - History
 publisher: Simon and Schuster
 publish: 2016-10-01
 total: 592
