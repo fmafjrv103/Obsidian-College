@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fc06aa9c5a312d8f",
+        "id": "6fca756dea789a9f",
         "type": "tabs",
         "children": [
           {
-            "id": "0ab1b3ffe538cc50",
+            "id": "dfd1b53d6e4e1088",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010 Notes MOC.md",
+                "file": "03 IMF_AdvancedStarterKit_v2/040 Interests MOC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -67,13 +67,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "right": {
     "id": "f90594313b89809e",
@@ -90,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 Notes MOC.md",
+                "file": "03 IMF_AdvancedStarterKit_v2/040 Interests MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 Notes MOC.md",
+                "file": "03 IMF_AdvancedStarterKit_v2/040 Interests MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010 Notes MOC.md"
+                "file": "03 IMF_AdvancedStarterKit_v2/040 Interests MOC.md"
               }
             }
           },
@@ -175,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       },
       {
         "id": "8c22712198f3ed9f",
@@ -191,8 +189,24 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "0ab1b3ffe538cc50",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 Home.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "63346feb323c3112",
@@ -205,7 +219,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "010 Notes MOC.md",
+                "file": "03 IMF_AdvancedStarterKit_v2/040 Interests MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -260,7 +274,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 917.5
+    "width": 548.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -282,35 +296,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0ab1b3ffe538cc50",
+  "active": "dfd1b53d6e4e1088",
   "lastOpenFiles": [
+    "03 IMF_AdvancedStarterKit_v2/Books Example MOC.md",
+    "03 IMF_AdvancedStarterKit_v2/040 Interests MOC.md",
+    "03 IMF_AdvancedStarterKit_v2/035 Places MOC.md",
+    "03 IMF_AdvancedStarterKit_v2/030 People MAP.md",
+    "03 IMF_AdvancedStarterKit_v2/000 Index.md",
+    "030 People MOC.md",
     "000 Home.md",
-    "OLD High Waters for Lowriders Script.md",
-    "010 Notes MOC.md",
-    "Autofocus.md",
-    "Agile Results.md",
-    "2024032021432 Freshmen Dorms.md",
-    "202403200128 Meeting Notes.md",
-    "090 PKM MOC.md",
-    "Schema.md",
-    "Math Notes.md",
-    "Math Notes 7.md",
-    "Math MOC.md",
-    "10-Minute Memory Method.md",
-    "College Packing List.md",
-    "Time blocking.md",
-    "202403200202 Time Management.md",
-    "Psychology MOC.md",
+    "035 Places MOC.md",
     "020 School MOC.md",
-    "Tora Club.md",
-    "2024-03-29.md",
-    "Learning Conceptually.md",
-    "Kitsune Club.md",
+    "010 Notes MOC.md",
+    "03 IMF_AdvancedStarterKit_v2/201903299997 Thought Enriching.md",
+    "03 IMF_AdvancedStarterKit_v2/201906189997.md",
+    "03 IMF_AdvancedStarterKit_v2/000000000010.md",
+    "03 IMF_AdvancedStarterKit_v2/201906191603 On Emotional Agility - Steven Pressfield.md",
+    "03 IMF_AdvancedStarterKit_v2/090 PKM MOC.md",
+    "03 IMF_AdvancedStarterKit_v2/201908171004 Example.md",
+    "090 PKM MOC.md",
+    "040 Interests MOC.md",
+    "03 IMF_AdvancedStarterKit_v2/Moderation.md",
+    "03 IMF_AdvancedStarterKit_v2/Chinese Language MOC.md",
+    "03 IMF_AdvancedStarterKit_v2/Flow Stoppers.md",
+    "03 IMF_AdvancedStarterKit_v2/IMF START.md",
+    "03 IMF_AdvancedStarterKit_v2/Philosophy MOC.md",
+    "03 IMF_AdvancedStarterKit_v2/Concepts MOC.md",
+    "03 IMF_AdvancedStarterKit_v2/Balancing Challenge and Skill.md",
+    "03 IMF_AdvancedStarterKit_v2/Breathing Exercises TOC.md",
+    "03 IMF_AdvancedStarterKit_v2/_media/stay on target.jpg",
+    "03 IMF_AdvancedStarterKit_v2/_media/four factors of flow.png",
+    "03 IMF_AdvancedStarterKit_v2/_media/Wolverine tethered.jpg",
+    "03 IMF_AdvancedStarterKit_v2/_media/The biochemistry of flow.png",
+    "03 IMF_AdvancedStarterKit_v2/_media/Flow Zone Channel.jpg",
+    "03 IMF_AdvancedStarterKit_v2/_media/Flow Map.png",
+    "03 IMF_AdvancedStarterKit_v2/_media/Flow Map - Original.jpg",
+    "03 IMF_AdvancedStarterKit_v2/_media",
+    "03 IMF_AdvancedStarterKit_v2/obsidian.css",
+    "03 IMF_AdvancedStarterKit_v2",
     "Media/Pasted image 20240329191956.png",
-    "2024-03-26.md",
-    "Hamlet Project.md",
-    "2024-05-02 TODOS.md",
-    "2024-03-23.md",
     "Media/Pasted image 20240329180618.png",
     "Media/Pasted image 20240329180547.png",
     "Media/lghub_installer.zip",
@@ -320,16 +344,6 @@
     "Media/lghub_installer.app/Contents/Resources/zh-TW.lproj/InfoPlist.strings",
     "Media/lghub_installer.app/Contents/Resources/zh-CN.lproj/Localizable.strings",
     "Media/lghub_installer.app/Contents/Resources/zh-CN.lproj/InfoPlist.strings",
-    "Media/lghub_installer.app/Contents/Resources/tr-TR.lproj/Localizable.strings",
-    "Media/lghub_installer.app/Contents/Resources/tr-TR.lproj/InfoPlist.strings",
-    "Media/lghub_installer.app/Contents/Resources/sv-SE.lproj/Localizable.strings",
-    "Media/Pasted image 20240326134455.png",
-    "Media/Pasted image 20240326134343.png",
-    "Media/Pasted image 20240326131135.png",
-    "Media/Pasted image 20240326130428.png",
-    "Media/Pasted image 20240326124849.png",
-    "Media/Pasted image 20240325153649.png",
-    "Media/Pasted image 20240325150524.png",
     "Untitled.canvas"
   ]
 }
