@@ -108,8 +108,14 @@ body{
 	--table-add-button-border-width:0px;
 	--file-margins:var(--size-4-2) var(--size-4-12)
 }
-.hr .cm-line hr{
+.HyperMD-quote.cm-line::before{
 	background-color: rgb(99,000,000);
+}
+.cm-hashtag,.cm-hashtag-begin,.cm-hashtag-end,.cm-meta,.cm-tag-concept{
+	background-color: rgba(99, 0, 0, 0.378);
+}
+hr {
+	background-color: rgb(99,000,000,);
 }
 .cm-formatting .list-bullet::after{
 	background-color: #Aa6c39;
