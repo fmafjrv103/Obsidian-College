@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "040 Interests MOC.md",
-                "mode": "source",
+                "file": "000 Home.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "040 Interests MOC.md",
+                "file": "000 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "040 Interests MOC.md",
+                "file": "000 Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "040 Interests MOC.md"
+                "file": "000 Home.md"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "040 Interests MOC.md",
+                "file": "000 Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -305,7 +305,12 @@
   },
   "active": "8ffb4c682c2b2989",
   "lastOpenFiles": [
+    "Quips MOC.md",
+    "050 Quotes MOC.md",
+    "Quote - Count of Monte Cristo.md",
+    "010 Notes MOC.md",
     "000 Home.md",
+    "040 Interests MOC.md",
     "Dimensions of Reality.md",
     "2024-03-31.md",
     "PKM Ways to Structure Digital Notes.md",
@@ -326,11 +331,6 @@
     "Flow.md",
     "Morality.md",
     "Speeches MOC.md",
-    "Excel 2024-03-31 00.46.24.sheet.md",
-    "Essays MOC.md",
-    "Aikido.md",
-    "OODA Loop.md",
-    "Forcing Function.md",
     "Spaces/#📚Book",
     "000 Home",
     "Media/Pasted image 20240330231528.png",

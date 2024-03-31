@@ -4,6 +4,8 @@ tags:
   - home
 banner: "![[Pasted image 20240330231528.png]]"
 banner_y: 0.372
+cssclasses:
+  - dashboard
 ---
 links: [[000 Home|Home]]
 
