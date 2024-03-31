@@ -2,14 +2,14 @@
 
 # Dimensions of Reality
 
-## Themes
+# Themes
 - Knowing vs *Knowing*
 - the choice of liberation
 - the difficulties with that choice
 - Violent reaction of having beliefs challenged
 - choosing chains - cypher
 
-## Examples
+# Examples
 - Plato's Cave [[201910091348]]
     - Dimensions of Reality: AQ Preface [[201402090843]] 
     - Micro-short on Plato's Cave [[201709089998]] 

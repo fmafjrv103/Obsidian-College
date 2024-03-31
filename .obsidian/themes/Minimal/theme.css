@@ -108,8 +108,11 @@ body{
 	--table-add-button-border-width:0px;
 	--file-margins:var(--size-4-2) var(--size-4-12)
 }
-.cm-formatting .list-bullet::after{
+.hr .cm-line hr{
 	background-color: rgb(99,000,000);
+}
+.cm-formatting .list-bullet::after{
+	background-color: #Aa6c39;
 }
 .cm-hmd-list-indent .cm-indent::before{
 	background-color: rgb(99,000,000);
