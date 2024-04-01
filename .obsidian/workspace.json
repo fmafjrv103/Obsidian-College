@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kuma Club.md",
+                "file": "000 Home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kuma Club.md",
+                "file": "000 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kuma Club.md",
+                "file": "000 Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kuma Club.md"
+                "file": "000 Home.md"
               }
             }
           },
@@ -223,7 +223,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Kuma Club.md",
+                "file": "000 Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -302,9 +302,11 @@
   },
   "active": "b7476ea368e7d479",
   "lastOpenFiles": [
+    "Kuma Club.md",
+    "Media/Pasted image 20240331233115.png",
+    "Media/Pasted image 20240331233000.png",
     "Tora Club.md",
     "Kitsune Club.md",
-    "Kuma Club.md",
     "Match Day Trials.md",
     "202403312235 What Brian Type Do You Have?.md",
     "Learning Conceptually.md",
@@ -327,7 +329,6 @@
     "Rubik's Cube.md",
     "Anti-fragility.md",
     "Dimensions of Reality.md",
-    "201910091348.md",
     "Spaces/#📚Book",
     "000 Home",
     "Media/Pasted image 20240330231528.png",
@@ -340,8 +341,6 @@
     "Media/Flow Map.png",
     "Media/Flow Map - Original.jpg",
     "Spaces",
-    "03 IMF_AdvancedStarterKit_v2/_media/stay on target.jpg",
-    "03 IMF_AdvancedStarterKit_v2/_media/four factors of flow.png",
     "03 IMF_AdvancedStarterKit_v2/_media",
     "03 IMF_AdvancedStarterKit_v2/obsidian.css",
     "03 IMF_AdvancedStarterKit_v2",
