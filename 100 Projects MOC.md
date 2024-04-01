@@ -13,6 +13,12 @@ Welcome to the Projects TOC. These are "Ideas that have graduated." This is abou
 list
 From #project and -#home and -#notes and -#speechNotes
 ```
+# In Progress
+```dataview
+list
+from #project and #inProgress 
+where contains(complete, "No")
+```
 # Complete
 ```dataview
 list from #project and #complete 

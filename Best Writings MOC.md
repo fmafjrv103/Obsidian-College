@@ -11,5 +11,5 @@ This includes excerpts from _journals, letters, essays, posts, quotes, quips, an
 #writings2024 
 
 ### Unsorted
-- Lists of Bits I've Created [[176600000890]]
+- Lists of Bits I've Created
 	- [ ] This is a long evernote file that needs to be salvaged and born again as plain test.

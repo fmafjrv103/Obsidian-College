@@ -1,4 +1,7 @@
-tags: #flow #project #MOC 
+---
+complete: No
+---
+tags: #flow #project #MOC #inProgress 
 links: [[100 Projects MOC|Projects]]
 goal: create a "choose your adventure" clickable book to get people thinking about to improve their ability to set the conditions for Flow to occur.
 
@@ -38,7 +41,7 @@ goal: create a "choose your adventure" clickable book to get people thinking abo
 
 ---
 # Recommended Videos
-
+- [[202403312230 Know Your Chronotype. It Will Chang Your Life|Know Your Chronotype. It Will Chang Your Life]]
 
 ---
 MOC: [[Flow-Creation MOC]]

@@ -27,9 +27,16 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "tag:#videos  ",
+      "color": {
+        "a": 1,
+        "rgb": 6233239
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 3.5805031224768604,
+  "scale": 1.2890743225892405,
   "close": true
 }

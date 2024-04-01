@@ -17,9 +17,5 @@ From #journal and -#MOC and -#home
 Where contains(date, "2024")
 Sort file.cday ASC
 ```
-### 2020
-[[2020 Journal Compilation]]
-### 2019
-[[2019 December Journal Compilation]]
 
 ---

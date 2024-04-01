@@ -7,7 +7,6 @@ links: [[IMF MOC]] — [[000 Home|Home]]
 	- [[Benefits of IMF]] 
 		- [[Is IMF For You]]
 - [[Maps of Content]] - Crucial to understand these
-	- [[Maps of Content are swiss army knives]]
 	- [[Why Categories for Your Note Archive are a Good Idea (IMF)]]
 - [[IMF Fluid Frameworks]]
 	- [[Fluid Taxonomies]]

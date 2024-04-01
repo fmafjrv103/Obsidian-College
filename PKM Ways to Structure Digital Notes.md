@@ -2,7 +2,7 @@
     - Ways to structure digital notes
         - there are many ways to structure your notes, some good, some less good
         - what are the common methods
-            - dated notes - now with the new-ish ability to rapidly use [[wiki-links]] to link between notes, daily notes adds temporal context
+            - dated notes - now with the new-ish ability to rapidly use `[[wiki-links]]` to link between notes, daily notes adds temporal context
             - structure notes
             - categories
                 - any categories you can think of
