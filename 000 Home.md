@@ -2,8 +2,6 @@
 date: 2024-03-15 16:48
 tags:
   - home
-cssclasses:
-  - dashboard
 ---
 links: [[000 Home|Home]]
 
