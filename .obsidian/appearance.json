@@ -6,8 +6,6 @@
   "baseFontSizeAction": false,
   "baseFontSize": 18,
   "interfaceFontFamily": "Futura",
-  "showViewHeader": false,
-  "enabledCssSnippets": [
-    "dashboard"
-  ]
+  "showViewHeader": true,
+  "enabledCssSnippets": []
 }

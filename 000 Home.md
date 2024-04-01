@@ -2,14 +2,14 @@
 date: 2024-03-15 16:48
 tags:
   - home
-banner: "![[Pasted image 20240330231528.png]]"
-banner_y: 0.428
 cssclasses:
   - dashboard
 ---
 links: [[000 Home|Home]]
 
 ---
+# File Count: `$=dv.pages().length`
+
 >_“Intelligence can seem confusing, but in time you will see its worth”_
 
 >_” Maybe you’ll come up with something new, maybe you’ll become the next Da Vinci and people will be taking notes on you”_ — Chris Pomeroy
