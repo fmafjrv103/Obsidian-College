@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Home.md",
+                "file": "Douglas R. Hofstadter.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Home.md",
+                "file": "Douglas R. Hofstadter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Home.md",
+                "file": "Douglas R. Hofstadter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Home.md"
+                "file": "Douglas R. Hofstadter.md"
               }
             }
           },
@@ -224,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Home.md",
+                "file": "Douglas R. Hofstadter.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -303,6 +303,7 @@
   },
   "active": "8ffb4c682c2b2989",
   "lastOpenFiles": [
+    "030 People MOC.md",
     "000 Home.md",
     "100 Projects MOC.md",
     "Flow-Creation MOC.md",
@@ -328,7 +329,6 @@
     "LaTeX.md",
     "Learning Conceptually.md",
     "Quiz 8.md",
-    "100 Ideas MOC.md",
     "Spaces/#📚Book",
     "000 Home",
     "Media/Pasted image 20240330231528.png",
