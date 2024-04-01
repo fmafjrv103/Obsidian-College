@@ -3,7 +3,7 @@ date: 2024-03-15 16:48
 tags:
   - home
 ---
-links: [[000 Home|Home]]
+ links: [[000 Home|Home]]
 
 ---
 # File Count: `$=dv.pages().length`

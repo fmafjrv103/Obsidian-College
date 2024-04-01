@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8ffb4c682c2b2989",
+            "id": "b7476ea368e7d479",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Douglas R. Hofstadter.md",
+                "file": "PKM Ways to Structure Digital Notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Douglas R. Hofstadter.md",
+                "file": "PKM Ways to Structure Digital Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Douglas R. Hofstadter.md",
+                "file": "PKM Ways to Structure Digital Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Douglas R. Hofstadter.md"
+                "file": "PKM Ways to Structure Digital Notes.md"
               }
             }
           },
@@ -224,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Douglas R. Hofstadter.md",
+                "file": "PKM Ways to Structure Digital Notes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -301,34 +301,34 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "8ffb4c682c2b2989",
+  "active": "b7476ea368e7d479",
   "lastOpenFiles": [
-    "030 People MOC.md",
+    "090 PKM MOC.md",
+    "040 Interests MOC.md",
+    "Youtube MOC.md",
     "000 Home.md",
-    "100 Projects MOC.md",
     "Flow-Creation MOC.md",
+    "Flow Map.md",
+    "100 Projects MOC.md",
+    "010 Notes MOC.md",
+    "085 Finances MOC.md",
+    "Douglas R. Hofstadter.md",
+    "030 People MOC.md",
     "201903299997 Thought Enriching.md",
     "Reps.md",
     "Concepts MOC.md",
     "005 Active MOC.md",
-    "090 PKM MOC.md",
     "2020-05-14 Journal.md",
     "Books MOC.md",
     "Best Writings MOC.md",
     "Stories MOC.md",
     "2019 December Journal Compilation.md",
     "060 Writings MOC.md",
-    "040 Interests MOC.md",
     "10-Minute Memory Method.md",
     "20240323120034 Note-Taking.md",
     "202403191031.md",
     "202403302138 Lorem Ipsum.md",
     "College MOC.md",
-    "Drug.md",
-    "Hamlet Project.md",
-    "LaTeX.md",
-    "Learning Conceptually.md",
-    "Quiz 8.md",
     "Spaces/#📚Book",
     "000 Home",
     "Media/Pasted image 20240330231528.png",

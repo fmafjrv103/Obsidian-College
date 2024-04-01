@@ -1,5 +1,5 @@
 # Flow Map
-The [[Flow Map]] is Dr. Mihaly Csikszentmihalyi's way to describe where [[Flow]] takes place in regards to the variables: Challenge and Skill. However he came about plotting the two variables against each, it's a landmark discovery. It's a lodestar to which I keep returning. It's the foundation much of my thinking and to my carving of that theory to practical, moment-to-moment application.
+The [[Flow Map]] is Dr. Mihaly Csikszentmihalyi’s way to describe where [[Flow]] takes place in regards to the variables: Challenge and Skill. However he came about plotting the two variables against each, it's a landmark discovery. It's a lodestar to which I keep returning. It's the foundation much of my thinking and to my carving of that theory to practical, moment-to-moment application.
 
 ![[Flow Zone Channel.jpg]]
 

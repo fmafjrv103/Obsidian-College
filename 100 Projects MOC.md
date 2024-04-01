@@ -1,8 +1,8 @@
 ---
 date: 2024-03-17 19:38
 tags:
-  - project
   - MOC
+  - projects
 ---
 Links: [[000 Home|Home]]
 
@@ -11,7 +11,7 @@ Welcome to the Projects TOC. These are "Ideas that have graduated." This is abou
 # Projects
 ```dataview
 list
-From #project and -#home and -#MOC and -#notes and -#speechNotes
+From #project and -#home and -#notes and -#speechNotes
 ```
 # Complete
 ```dataview

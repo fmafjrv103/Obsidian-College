@@ -37,6 +37,9 @@ goal: create a "choose your adventure" clickable book to get people thinking abo
 - [[The Path of Excellence]]
 
 ---
+# Recommended Videos
+
+
 ---
 MOC: [[Flow-Creation MOC]]
 links: [[100 Projects MOC|Projects]]
