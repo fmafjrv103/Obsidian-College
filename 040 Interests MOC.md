@@ -40,7 +40,6 @@ Despite some criticisms of the Dewey Decimal System, it's an excellent, pre-buil
 - **700s - Fine Arts & Recreation (Architecture, Painting, Photos, Music, Sports, Film & TV, songs, leisure)**
 	- [[Art MOC]]
 	- [[Cooking MOC]]
-	- [[Football MOC]]
 	- [[Vocals MOC]]
 	- [[TV MOC]]
 	- [[Movie MOC]]

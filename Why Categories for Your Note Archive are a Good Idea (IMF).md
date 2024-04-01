@@ -1,5 +1,5 @@
 tags: #pkm #IMF
-links: [[IMF]], [[IMF MOC]], [[Benefits of IMF]]
+links: [[IMF MOC]], [[Benefits of IMF]]
 
 # Why Categories for Your Note Archive are a *Good* Idea
 The idea that "categories are bad" hinges on a faulty notion that categories limit access and cause rigidity that inhibit organic thinking.

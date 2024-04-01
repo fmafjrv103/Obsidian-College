@@ -14,6 +14,6 @@ Everything about a computer can go in here. From HDDs to SSDs.
 - [[HDD]]
 - [[SSD]]
 - [[Coding Languages]]
-- 
+- [[Programs]]
 
 ---

@@ -4,20 +4,14 @@ links: [[040 Interests MOC|Interests]]
 ---
 # Inputs, Media, Consumption, Art
 
-==Note: The linked notes are not provided==
-
 ## Books
-- [[Books Example MOC]]
-
+- [[Books MOC]]
 ## Movies
-[[146600000890
-[[201208069999 40 Movies in 40 Days]]
-
+- [[Movie MOC]]
 ## TV
-[[146600000790
-
+- [[TV MOC]]
 ## Plays
-[[146600000690
 
 ## Songs
-[[146600000590 List - Favorite Songs]]
+
+---

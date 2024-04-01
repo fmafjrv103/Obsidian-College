@@ -9,7 +9,7 @@
 - Obi-Wan Kenobi - *"If you strike me down I shall become more powerful than you can possibly imagine."*
 - Toughness, Resilience
 - [[Hormesis]]
-- Blog: Anti-Fragile [[201509091056]] 
+- Blog: Anti-Fragile
 
 ## Wiki
 Antifragility is a property of systems that increase in capability, resilience, or robustness as a result of stressors, shocks, volatility, noise, mistakes, faults, attacks, or failures. 

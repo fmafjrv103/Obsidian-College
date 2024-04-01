@@ -2,7 +2,7 @@ tags: #Mind
 links: [[055 Figures MOC|Figures]]
 
 # Thought Unpacking
-This content map is inspired by [[201906189997 Thought Unpacking]]
+This content map is inspired by Thought Unpacking
 
 ## By State, Change, and Rate of Change
 1. Current State: How is it similar or different?

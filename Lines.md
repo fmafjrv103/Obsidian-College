@@ -9,7 +9,7 @@ links: [[Elementary Math]], [[090 PKM MOC|PKM MOC]]
 
 ---
 # Lines
-A moving point describes a **_[[Lines|line]]_** that has only length, but no breadth. As with point, the concept of a line is **_[[axiomatic]]_**.
+A moving point describes a **_[[Lines|line]]_** that has only length, but no breadth. As with point, the concept of a line is **_[axiomatic]_**.
 We find ourselves with the slightly paradoxical truth that 
 	_two nonparallel lines define a point_
 and

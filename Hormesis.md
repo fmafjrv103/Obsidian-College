@@ -9,7 +9,7 @@
 - Hormetic Foods
 
 ## Related
-List of Hormetic Stressors - [[201903282054]]   
+List of Hormetic Stressors
 [[Anti-fragility]] - stronger from stressors
 
 ## Wiki

@@ -8,7 +8,7 @@ tags:
 Links: [[Learning Conceptually]]
 
 ---
-![Link](https://youtu.be/5_lvX-EF0TM)
+![[202403312235 What Brian Type Do You Have?]]
 # The Match Day Trials 
 ## AKA The Brain Type Test
 # When playing a brand-new game, how do you learn the instructions?
