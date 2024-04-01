@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts MOC.md",
+                "file": "Flow-Creation MOC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts MOC.md",
+                "file": "Flow-Creation MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts MOC.md",
+                "file": "Flow-Creation MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts MOC.md"
+                "file": "Flow-Creation MOC.md"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Concepts MOC.md",
+                "file": "Flow-Creation MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -280,8 +280,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 762.5,
-    "collapsed": true
+    "width": 762.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -306,8 +305,10 @@
   },
   "active": "8ffb4c682c2b2989",
   "lastOpenFiles": [
-    "000 Home.md",
+    "201903299997 Thought Enriching.md",
+    "Reps.md",
     "Concepts MOC.md",
+    "000 Home.md",
     "005 Active MOC.md",
     "090 PKM MOC.md",
     "2020-05-14 Journal.md",
@@ -330,8 +331,6 @@
     "Quiz 8.md",
     "100 Ideas MOC.md",
     "030 People MOC.md",
-    "Intro to the Index Categories (IMF).md",
-    "Index Front Matter.md",
     "Spaces/#📚Book",
     "000 Home",
     "Media/Pasted image 20240330231528.png",
