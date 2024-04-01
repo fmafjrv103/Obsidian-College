@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "20f2613124278a6e",
+        "id": "ee38c79c5324faaa",
         "type": "tabs",
         "children": [
           {
-            "id": "b7476ea368e7d479",
+            "id": "2b6b6d3c52c709fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,31 +173,6 @@
             }
           },
           {
-            "id": "dcf885419fbbb3f7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "0ab1b3ffe538cc50",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000 Home.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "84a87bc8f13e32f3",
             "type": "leaf",
             "state": {
@@ -208,9 +183,19 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "b796e56070b63eee",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       },
       {
         "id": "63346feb323c3112",
@@ -288,7 +273,7 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "zk-prefixer:Create new unique note": false,
-      "workspaces:Manage workspace layouts": true,
+      "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
       "homepage:Open homepage": false,
       "obsidian-book-search-plugin:Create new book note": false,
@@ -300,8 +285,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b7476ea368e7d479",
+  "active": "2b6b6d3c52c709fa",
   "lastOpenFiles": [
+    "000 Home.md",
     "Kuma Club.md",
     "Media/Pasted image 20240331233115.png",
     "Media/Pasted image 20240331233000.png",
@@ -314,7 +300,6 @@
     "10-Minute Memory Method.md",
     "202403191031.md",
     "Learning to Remember.md",
-    "000 Home.md",
     "202403312320 How I Study Smarter, Not Harder.md",
     "Youtube MOC.md",
     "Concepts MOC.md",
