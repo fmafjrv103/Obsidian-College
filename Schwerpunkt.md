@@ -1,0 +1,1 @@
+German for Center of Gravity; Focus

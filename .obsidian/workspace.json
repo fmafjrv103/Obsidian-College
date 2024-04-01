@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Home.md",
+                "file": "OODA Loop.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Home.md",
+                "file": "OODA Loop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Home.md",
+                "file": "OODA Loop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Home.md"
+                "file": "OODA Loop.md"
               }
             }
           },
@@ -208,7 +208,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Home.md",
+                "file": "OODA Loop.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -287,6 +287,10 @@
   },
   "active": "2b6b6d3c52c709fa",
   "lastOpenFiles": [
+    "Schwerpunkt.md",
+    "OODA Loop.md",
+    "2024032021432 Freshmen Dorms.md",
+    "010 Notes MOC.md",
     "000 Home.md",
     "Kuma Club.md",
     "Media/Pasted image 20240331233115.png",
@@ -296,7 +300,6 @@
     "Match Day Trials.md",
     "202403312235 What Brian Type Do You Have?.md",
     "Learning Conceptually.md",
-    "010 Notes MOC.md",
     "10-Minute Memory Method.md",
     "202403191031.md",
     "Learning to Remember.md",
@@ -312,8 +315,6 @@
     "Synthesis.md",
     "Hormesis.md",
     "Rubik's Cube.md",
-    "Anti-fragility.md",
-    "Dimensions of Reality.md",
     "Spaces/#📚Book",
     "000 Home",
     "Media/Pasted image 20240330231528.png",
