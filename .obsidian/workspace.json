@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ee38c79c5324faaa",
+        "id": "bfca562217a3dda4",
         "type": "tabs",
         "children": [
           {
-            "id": "2b6b6d3c52c709fa",
+            "id": "5a3216ce3f3205e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Id.md",
+                "file": "202404021232 Math Notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,7 +80,7 @@
       {
         "id": "ac02129fafbaf757",
         "type": "tabs",
-        "dimension": 50.927988121752044,
+        "dimension": 30.14105419450631,
         "children": [
           {
             "id": "bb6946b2a7144698",
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Id.md",
+                "file": "202404021232 Math Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Id.md",
+                "file": "202404021232 Math Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Id.md"
+                "file": "202404021232 Math Notes.md"
               }
             }
           },
@@ -183,9 +183,17 @@
                 "searchQuery": ""
               }
             }
-          },
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "ae82162abbf1931f",
+        "type": "tabs",
+        "dimension": 37.0452858203415,
+        "children": [
           {
-            "id": "b796e56070b63eee",
+            "id": "c4c7d48cbab06f2c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -194,13 +202,12 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 10
+        ]
       },
       {
         "id": "63346feb323c3112",
         "type": "tabs",
-        "dimension": 49.072011878247956,
+        "dimension": 32.813659985152185,
         "children": [
           {
             "id": "eb49dceec3166315",
@@ -208,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Id.md",
+                "file": "202404021232 Math Notes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -285,8 +292,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2b6b6d3c52c709fa",
+  "active": "5a3216ce3f3205e2",
   "lastOpenFiles": [
+    "202404021232 Math Notes.md",
+    "000 Home.md",
     "Aikido.md",
     "No-Face.md",
     "2024032161809 Psychology Presentation.md",
@@ -295,7 +304,6 @@
     "OODA Loop.md",
     "Schwerpunkt.md",
     "010 Notes MOC.md",
-    "000 Home.md",
     "Kuma Club.md",
     "Media/Pasted image 20240331233115.png",
     "Media/Pasted image 20240331233000.png",
@@ -314,7 +322,6 @@
     "Metaphor MOC WIP.md",
     "Metaphors MOC.md",
     "Lines.md",
-    "040 Interests MOC.md",
     "Spaces/#📚Book",
     "000 Home",
     "Media/Pasted image 20240330231528.png",
