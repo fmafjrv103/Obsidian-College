@@ -65,13 +65,23 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "c4c7d48cbab06f2c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 433.50418853759766
   },
   "right": {
     "id": "f90594313b89809e",
@@ -80,7 +90,7 @@
       {
         "id": "ac02129fafbaf757",
         "type": "tabs",
-        "dimension": 30.14105419450631,
+        "dimension": 43.768545994065285,
         "children": [
           {
             "id": "bb6946b2a7144698",
@@ -88,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202404021232 Math Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202404021232 Math Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "202404021232 Math Notes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,26 +194,9 @@
         "currentTab": 7
       },
       {
-        "id": "ae82162abbf1931f",
+        "id": "ed3fd1459f68dcdc",
         "type": "tabs",
-        "dimension": 37.0452858203415,
-        "children": [
-          {
-            "id": "c4c7d48cbab06f2c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          }
-        ]
-      },
-      {
-        "id": "63346feb323c3112",
-        "type": "tabs",
-        "dimension": 32.813659985152185,
+        "dimension": 56.23145400593472,
         "children": [
           {
             "id": "eb49dceec3166315",
@@ -215,7 +204,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "202404021232 Math Notes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -270,7 +258,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 805.5
+    "width": 506.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -292,9 +280,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "5a3216ce3f3205e2",
+  "active": "c4c7d48cbab06f2c",
   "lastOpenFiles": [
     "202404021232 Math Notes.md",
+    "Media/Pasted image 20240402130408.png",
+    "Media/Pasted image 20240402125607.png",
+    "Media/Pasted image 20240402125337.png",
     "000 Home.md",
     "Aikido.md",
     "No-Face.md",
@@ -321,7 +312,6 @@
     "Why Categories for Your Note Archive are a Good Idea (IMF).md",
     "Metaphor MOC WIP.md",
     "Metaphors MOC.md",
-    "Lines.md",
     "Spaces/#📚Book",
     "000 Home",
     "Media/Pasted image 20240330231528.png",
@@ -330,9 +320,6 @@
     "Media/The biochemistry of flow.png",
     "Media/stay on target.jpg",
     "Media/four factors of flow.png",
-    "Media/Flow Zone Channel.jpg",
-    "Media/Flow Map.png",
-    "Media/Flow Map - Original.jpg",
     "Spaces",
     "03 IMF_AdvancedStarterKit_v2/_media",
     "03 IMF_AdvancedStarterKit_v2/obsidian.css",
