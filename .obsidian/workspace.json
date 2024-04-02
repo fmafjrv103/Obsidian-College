@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bfca562217a3dda4",
+        "id": "25594bfed7544716",
         "type": "tabs",
         "children": [
           {
-            "id": "5a3216ce3f3205e2",
+            "id": "11fbdf81e8691365",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:📚Book",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,23 +65,13 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "c4c7d48cbab06f2c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 433.50418853759766
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f90594313b89809e",
@@ -90,7 +80,7 @@
       {
         "id": "ac02129fafbaf757",
         "type": "tabs",
-        "dimension": 43.768545994065285,
+        "dimension": 44.38095238095238,
         "children": [
           {
             "id": "bb6946b2a7144698",
@@ -98,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "202404021232 Math Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "202404021232 Math Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "202404021232 Math Notes.md"
+              }
             }
           },
           {
@@ -155,48 +149,22 @@
             }
           },
           {
-            "id": "8e39810e2781050e",
+            "id": "dcf885419fbbb3f7",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
-              "state": {}
-            }
-          },
-          {
-            "id": "d4ce16bc9ac63695",
-            "type": "leaf",
-            "state": {
-              "type": "Timer",
-              "state": {}
-            }
-          },
-          {
-            "id": "9baaafe4d8e20119",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "84a87bc8f13e32f3",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
+              "type": "graph",
+              "state": {},
+              "pinned": true
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       },
       {
-        "id": "ed3fd1459f68dcdc",
+        "id": "63346feb323c3112",
         "type": "tabs",
-        "dimension": 56.23145400593472,
+        "dimension": 55.61904761904762,
         "children": [
           {
             "id": "eb49dceec3166315",
@@ -204,42 +172,21 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "202404021232 Math Notes.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": true,
+                  "localInterlinks": false,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#MOC  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14701138
-                      }
-                    },
-                    {
-                      "query": "tag:#Home  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14725458
-                      }
-                    },
-                    {
-                      "query": "tag:#📚Book  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11657298
-                      }
-                    }
-                  ],
-                  "collapse-display": false,
-                  "showArrow": true,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
@@ -248,7 +195,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8012890583198855,
+                  "scale": 0.8988855666554654,
                   "close": true
                 }
               }
@@ -258,35 +205,42 @@
       }
     ],
     "direction": "horizontal",
-    "width": 506.5
+    "width": 637.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": true,
-      "graph:Open graph view": true,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": true,
-      "command-palette:Open command palette": true,
-      "zk-prefixer:Create new unique note": false,
-      "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "homepage:Open homepage": false,
-      "obsidian-book-search-plugin:Create new book note": false,
       "excel:Create Excel File": false,
-      "timer:Open timer": true,
+      "timer:Open timer": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": true,
-      "audio-recorder:Start/stop recording": false
+      "templater-obsidian:Templater": false,
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "homepage:Open homepage": false,
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "c4c7d48cbab06f2c",
+  "active": "11fbdf81e8691365",
   "lastOpenFiles": [
+    "Math MOC.md",
+    "Math Notes.md",
+    "040 Interests MOC.md",
+    "000 Home.md",
+    "020 School MOC.md",
     "202404021232 Math Notes.md",
+    "Media/Pasted image 20240402133802.png",
+    "Media/Pasted image 20240402133347.png",
+    "Media/Pasted image 20240402133147.png",
     "Media/Pasted image 20240402130408.png",
     "Media/Pasted image 20240402125607.png",
     "Media/Pasted image 20240402125337.png",
-    "000 Home.md",
     "Aikido.md",
     "No-Face.md",
     "2024032161809 Psychology Presentation.md",
@@ -309,17 +263,11 @@
     "202403312320 How I Study Smarter, Not Harder.md",
     "Youtube MOC.md",
     "Concepts MOC.md",
-    "Why Categories for Your Note Archive are a Good Idea (IMF).md",
-    "Metaphor MOC WIP.md",
-    "Metaphors MOC.md",
     "Spaces/#📚Book",
     "000 Home",
     "Media/Pasted image 20240330231528.png",
     "obsidian.css",
     "Media/Wolverine tethered.jpg",
-    "Media/The biochemistry of flow.png",
-    "Media/stay on target.jpg",
-    "Media/four factors of flow.png",
     "Spaces",
     "03 IMF_AdvancedStarterKit_v2/_media",
     "03 IMF_AdvancedStarterKit_v2/obsidian.css",
