@@ -88,7 +88,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +125,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Math MOC.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,7 +168,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Math MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -210,16 +205,16 @@
   "left-ribbon": {
     "hiddenItems": {
       "excel:Create Excel File": false,
-      "timer:Open timer": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
+      "timer:Open timer": true,
+      "obsidian-spaced-repetition:Review flashcards": true,
       "templater-obsidian:Templater": false,
       "audio-recorder:Start/stop recording": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
       "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
       "zk-prefixer:Create new unique note": false,
       "workspaces:Manage workspace layouts": false,
       "homepage:Open homepage": false,
@@ -227,10 +222,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "11fbdf81e8691365",
+  "active": "dcf885419fbbb3f7",
   "lastOpenFiles": [
-    "Math Notes 8.md",
     "Math MOC.md",
+    "Quiz 8.md",
+    "Math Notes 8.md",
     "202404021232 Math Notes 9.md",
     "040 Interests MOC.md",
     "000 Home.md",
@@ -262,7 +258,6 @@
     "Learning to Remember.md",
     "202403312320 How I Study Smarter, Not Harder.md",
     "Youtube MOC.md",
-    "Concepts MOC.md",
     "Spaces/#📚Book",
     "000 Home",
     "Media/Pasted image 20240330231528.png",

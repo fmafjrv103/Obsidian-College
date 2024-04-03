@@ -2,8 +2,8 @@
 date: 2024-03-25 14:46:06
 tags:
   - math
-  - notes
   - inProgress
+  - quiz
 complete: No
 ---
 Links: [[Math MOC]]

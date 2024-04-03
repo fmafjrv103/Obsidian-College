@@ -15,8 +15,13 @@ links: [[000 Home|Home]], [[040 Interests MOC|Interests MOC]]
 ```dataview
 LIST 
 FROM #notes and #math 
-SORT date[DECENDING]
-
+SORT date ASC
+```
+# Math Quizzes 
+```dataview
+list
+from #math and #quiz and -#MOC and -#home
+sort date ASC
 ```
 
 ---
