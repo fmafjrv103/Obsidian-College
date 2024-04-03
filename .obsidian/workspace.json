@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202404021232 Math Notes.md",
+                "file": "Math MOC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202404021232 Math Notes.md",
+                "file": "Math MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202404021232 Math Notes.md",
+                "file": "Math MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202404021232 Math Notes.md"
+                "file": "Math MOC.md"
               }
             }
           },
@@ -172,7 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "202404021232 Math Notes.md",
+                "file": "Math MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -211,7 +211,6 @@
     "hiddenItems": {
       "excel:Create Excel File": false,
       "timer:Open timer": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "templater-obsidian:Templater": false,
       "audio-recorder:Start/stop recording": false,
@@ -224,17 +223,18 @@
       "zk-prefixer:Create new unique note": false,
       "workspaces:Manage workspace layouts": false,
       "homepage:Open homepage": false,
-      "obsidian-book-search-plugin:Create new book note": false
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "11fbdf81e8691365",
   "lastOpenFiles": [
+    "Math Notes 8.md",
     "Math MOC.md",
-    "Math Notes.md",
+    "202404021232 Math Notes 9.md",
     "040 Interests MOC.md",
     "000 Home.md",
     "020 School MOC.md",
-    "202404021232 Math Notes.md",
     "Media/Pasted image 20240402133802.png",
     "Media/Pasted image 20240402133347.png",
     "Media/Pasted image 20240402133147.png",
