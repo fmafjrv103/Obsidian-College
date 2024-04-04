@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e02e5f139a0065ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math Notes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vim Keybindings.md",
+                "file": "Math Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vim Keybindings.md",
+                "file": "Math Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vim Keybindings.md"
+                "file": "Math Notes.md"
               }
             }
           },
@@ -172,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vim Keybindings.md",
+                "file": "Math Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,8 +241,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c86a23d117061f8d",
+  "active": "e02e5f139a0065ee",
   "lastOpenFiles": [
+    "Vim Keybindings.md",
+    "Math Notes.md",
     "Vim MOC.md",
     "090 PKM MOC.md",
     "040 Interests MOC.md",
@@ -261,8 +277,6 @@
     "Tora Club.md",
     "Kitsune Club.md",
     "Match Day Trials.md",
-    "202403312235 What Brian Type Do You Have?.md",
-    "Learning Conceptually.md",
     "Spaces/#📚Book",
     "000 Home",
     "Media/Pasted image 20240330231528.png",
