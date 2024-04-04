@@ -4,7 +4,7 @@
   "newFileLocation": "current",
   "livePreview": true,
   "promptDelete": false,
-  "vimMode": false,
+  "vimMode": true,
   "showLineNumber": false,
   "foldHeading": false,
   "foldIndent": false,

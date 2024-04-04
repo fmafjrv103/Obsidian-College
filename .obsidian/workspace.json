@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "11fbdf81e8691365",
+            "id": "c928a22a72012910",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -88,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Math MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Math MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Math MOC.md"
+              }
             }
           },
           {
@@ -168,6 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Math MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -222,8 +227,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dcf885419fbbb3f7",
+  "active": "c928a22a72012910",
   "lastOpenFiles": [
+    "LaTeX.md",
     "Math MOC.md",
     "Quiz 8.md",
     "Math Notes 8.md",
@@ -257,7 +263,6 @@
     "202403191031.md",
     "Learning to Remember.md",
     "202403312320 How I Study Smarter, Not Harder.md",
-    "Youtube MOC.md",
     "Spaces/#📚Book",
     "000 Home",
     "Media/Pasted image 20240330231528.png",
