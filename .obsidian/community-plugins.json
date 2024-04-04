@@ -32,5 +32,8 @@
   "obsidian-spaced-repetition",
   "templater-obsidian",
   "settings-search",
-  "obsidian-banners"
+  "obsidian-banners",
+  "improved-vimcursor",
+  "obsidian-relative-line-numbers",
+  "obsidian-vim-im-switch-plugin"
 ]
