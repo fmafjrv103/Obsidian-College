@@ -27,6 +27,11 @@ $\log_{b}x=\frac{\log_{10}x}{\log_{10}b}$
 $\begin{align}\log_{5}11&=\frac{\log_{10}11}{\log_{10}5} \\ &=\frac{1.04139}{.69897} \\ &=1.48989\end{align}$
 $5^{1.48989}= 11$
 
-$\ln(\sqrt{e^{7}})=\ln((e^{7})^{\frac{1}{2}})=\ln(e^\frac{7}{2})=\frac{7}{2}\log_{e}{e}$
+$\ln(\sqrt{e^{7}})=\ln((e^{7})^{\frac{1}{2}})=\ln(e^\frac{7}{2})=\frac{7}{2}\log_{e}{e}=\frac{7}{2}$
+ $f(x)=\log_3(x+3)$
+ $g(x)=\log_{3}x$
+ $g(x)\Rightarrow f(x)$
+ $\begin{align}g(x)=&\log_{3}x \\ &+(x+3)\end{align}$
+ 
 
 ---
