@@ -3,7 +3,7 @@ date: 2024-04-04 12:31:38
 tags:
   - newNotes
 ---
-Links: 
+Links: [[Math MOC]] 
 
 ---
 $f(x)=\log_{b}x$
