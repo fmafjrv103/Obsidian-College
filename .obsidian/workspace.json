@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c928a22a72012910",
+            "id": "c86a23d117061f8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math MOC.md",
+                "file": "Vim Keybindings.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math MOC.md",
+                "file": "Vim Keybindings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math MOC.md",
+                "file": "Vim Keybindings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math MOC.md"
+                "file": "Vim Keybindings.md"
               }
             }
           },
@@ -172,7 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Math MOC.md",
+                "file": "Vim Keybindings.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,16 +227,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c928a22a72012910",
+  "active": "c86a23d117061f8d",
   "lastOpenFiles": [
-    "202404040107.md",
+    "Vim MOC.md",
+    "090 PKM MOC.md",
+    "040 Interests MOC.md",
+    "000 Home.md",
+    "060 Writings MOC.md",
     "Math MOC.md",
+    "202404040107.md",
     "LaTeX.md",
     "Quiz 8.md",
     "Math Notes 8.md",
     "202404021232 Math Notes 9.md",
-    "040 Interests MOC.md",
-    "000 Home.md",
     "020 School MOC.md",
     "Media/Pasted image 20240402133802.png",
     "Media/Pasted image 20240402133347.png",
@@ -260,9 +263,6 @@
     "Match Day Trials.md",
     "202403312235 What Brian Type Do You Have?.md",
     "Learning Conceptually.md",
-    "10-Minute Memory Method.md",
-    "202403191031.md",
-    "Learning to Remember.md",
     "Spaces/#📚Book",
     "000 Home",
     "Media/Pasted image 20240330231528.png",
