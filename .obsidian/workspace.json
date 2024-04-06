@@ -102,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202404051315 Stuff to Research for ENLACE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202404051315 Stuff to Research for ENLACE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "202404051315 Stuff to Research for ENLACE.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,7 +182,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "202404051315 Stuff to Research for ENLACE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -241,10 +236,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e02e5f139a0065ee",
+  "active": "dcf885419fbbb3f7",
   "lastOpenFiles": [
-    "000 Home.md",
     "202404051315 Stuff to Research for ENLACE.md",
+    "000 Home.md",
     "Vim Keybindings.md",
     "Math MOC.md",
     "Math Notes.md",
