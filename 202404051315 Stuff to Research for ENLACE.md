@@ -1,8 +1,10 @@
 ---
 date: 2024-04-05 13:15
-tags: newNotes
+tags:
+  - project
+  - notes
 ---
-Links: 
+Links: [[100 Projects MOC]]
 
 ---
 - Shelters in ABQ
