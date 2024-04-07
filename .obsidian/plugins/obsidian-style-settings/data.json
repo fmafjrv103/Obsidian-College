@@ -55,5 +55,6 @@
   "ITS@@drwn": false,
   "ITS@@its-d": false,
   "ITS@@notion": false,
-  "ITS@@mini": false
+  "ITS@@mini": false,
+  "ITS@@dataview-table-auto": false
 }
