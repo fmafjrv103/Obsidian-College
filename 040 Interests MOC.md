@@ -44,6 +44,7 @@ Despite some criticisms of the Dewey Decimal System, it's an excellent, pre-buil
 	- [[TV MOC]]
 	- [[Movie MOC]]
 	- [[Youtube MOC]]
+	- [[RPG MOC]]
 - **800s - Literature (literature, classics, books)**
 	- [[Literature MOC]]
 	- [[Books MOC]]

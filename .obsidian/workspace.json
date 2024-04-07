@@ -40,6 +40,14 @@
             "id": "d2ac3eb5fa28d091",
             "type": "leaf",
             "state": {
+              "type": "obsidian-leaflet-map-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "9372f465eaf17b12",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "000 Home.md",
@@ -50,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -100,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f90594313b89809e",
@@ -286,12 +293,31 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "d2ac3eb5fa28d091",
+  "active": "9372f465eaf17b12",
   "lastOpenFiles": [
-    "Math Notes 8.md",
-    "202404071356 Test Note.md",
-    "005 Active MOC.md",
+    "Math MOC.md",
+    "Quiz 8.md",
     "000 Home.md",
+    "Pasted image 2020240330231528.png.md",
+    "Media/Pasted image 20240330231528.png",
+    "Media/Pasted image 20240330231528 1.png",
+    "Media/Pasted image 20240331233000.png",
+    "Media/Pasted image 20240320145402.png",
+    "Media/Pasted image 20240316153731.png",
+    "Media/Pasted image 20240315173532.png",
+    "Media/Pasted image 20240315171057.png",
+    "Media/Pasted image 20240315170856.png",
+    "202404071356 Test Note.md",
+    "RPG MOC.md",
+    "Concepts MOC.md",
+    "Match Day Trials.md",
+    "202403312235 What Brian Type Do You Have?.md",
+    "202403312230 Know Your Chronotype. It Will Chang Your Life.md",
+    "Youtube MOC.md",
+    "Douglas R. Hofstadter.md",
+    "040 Interests MOC.md",
+    "Math Notes 8.md",
+    "005 Active MOC.md",
     "Excel 2024-04-07 14.29.48.sheet.md",
     "010 Notes MOC.md",
     "Media/Hilonde.png",
@@ -300,30 +326,11 @@
     "202404061541.md",
     "Vim Keybindings.md",
     "202404051315 Stuff to Research for ENLACE.md",
-    "Math MOC.md",
     "Math Notes.md",
     "Media/Pasted image 20240404123540.png",
     "Vim MOC.md",
     "090 PKM MOC.md",
-    "040 Interests MOC.md",
     "060 Writings MOC.md",
-    "202404040107.md",
-    "LaTeX.md",
-    "Quiz 8.md",
-    "202404021232 Math Notes 9.md",
-    "020 School MOC.md",
-    "Media/Pasted image 20240402133802.png",
-    "Media/Pasted image 20240402133347.png",
-    "Media/Pasted image 20240402133147.png",
-    "Media/Pasted image 20240402130408.png",
-    "Media/Pasted image 20240402125607.png",
-    "Media/Pasted image 20240402125337.png",
-    "Aikido.md",
-    "No-Face.md",
-    "2024032161809 Psychology Presentation.md",
-    "Psychology MOC.md",
-    "Media/Pasted image 20240331233115.png",
-    "Media/Pasted image 20240331233000.png",
     "Spaces/#📚Book",
     "000 Home",
     "obsidian.css",
