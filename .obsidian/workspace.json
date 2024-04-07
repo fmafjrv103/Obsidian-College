@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "25594bfed7544716",
+        "id": "cd434ccbc4c006ac",
         "type": "tabs",
         "children": [
           {
-            "id": "c86a23d117061f8d",
+            "id": "3c1b2108241a98e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vim Keybindings.md",
+                "file": "Flow-Creation MOC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vim Keybindings.md",
+                "file": "Flow-Creation MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vim Keybindings.md",
+                "file": "Flow-Creation MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vim Keybindings.md"
+                "file": "Flow-Creation MOC.md"
               }
             }
           },
@@ -149,7 +149,35 @@
             }
           },
           {
-            "id": "dcf885419fbbb3f7",
+            "id": "cac187f76803c309",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "b6326619255dbfa0",
+            "type": "leaf",
+            "state": {
+              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
+              "state": {}
+            }
+          },
+          {
+            "id": "79cdb1110dd094e1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "8f9751d9b06ccfbe",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -159,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       },
       {
         "id": "63346feb323c3112",
@@ -172,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vim Keybindings.md",
+                "file": "Flow-Creation MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,12 +255,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c86a23d117061f8d",
+  "active": "3c1b2108241a98e7",
   "lastOpenFiles": [
+    "010 Notes MOC.md",
+    "000 Home.md",
     "202404061541.md",
     "Vim Keybindings.md",
     "202404051315 Stuff to Research for ENLACE.md",
-    "000 Home.md",
     "Math MOC.md",
     "Math Notes.md",
     "Media/Pasted image 20240404123540.png",
@@ -259,7 +288,6 @@
     "2024032021432 Freshmen Dorms.md",
     "OODA Loop.md",
     "Schwerpunkt.md",
-    "010 Notes MOC.md",
     "Kuma Club.md",
     "Media/Pasted image 20240331233115.png",
     "Media/Pasted image 20240331233000.png",
