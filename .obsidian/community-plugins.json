@@ -23,10 +23,8 @@
   "highlightr-plugin",
   "buttons",
   "excel",
-  "obsidian-pomodoro-plugin",
   "cmdr",
   "quick-latex",
-  "timer",
   "obsidian-excalidraw-plugin",
   "avatar",
   "obsidian-spaced-repetition",
@@ -36,5 +34,7 @@
   "improved-vimcursor",
   "obsidian-vim-im-switch-plugin",
   "obsidian-style-settings",
-  "obsidian-leaflet-plugin"
+  "obsidian-leaflet-plugin",
+  "obsidian-dice-roller",
+  "timer"
 ]
