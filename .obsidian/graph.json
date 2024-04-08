@@ -34,9 +34,16 @@
         "a": 1,
         "rgb": 6233239
       }
+    },
+    {
+      "query": "path:DND.SRD.Wiki-master  ",
+      "color": {
+        "a": 1,
+        "rgb": 350012
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -46,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.25079329143578577,
+  "scale": 0.06895979901693745,
   "close": true
 }

@@ -3,7 +3,7 @@ date: 2024-03-15 16:48
 tags:
   - home
 ---
- ![[Pasted image 20240330231528.png|banner p+cc]]
+  ![[Pasted image 20240330231528.png|banner p+cc]]
 links: [[000 Home|Home]]
 
 --- 

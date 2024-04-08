@@ -4,15 +4,153 @@
     "type": "split",
     "children": [
       {
-        "id": "39689b0a2259a1e1",
+        "id": "f3f205daa6b9dfb5",
         "type": "tabs",
         "children": [
           {
-            "id": "9681367ecd0f3729",
+            "id": "bab379bde5b6db7c",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Adamantine Armor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Adamantine Armor.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":7},\"to\":{\"line\":5,\"ch\":7}}}"
+                },
+                {
+                  "title": "## Sentient Magic",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/## Sentient Magic.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "## Artifacts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/## Artifacts.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "# Magic Items",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/# Magic Items.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Adamantine Armor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Adamantine Armor.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":7},\"to\":{\"line\":5,\"ch\":7}}}"
+                },
+                {
+                  "title": "# Magic Items",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/# Magic Items.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "001 Magic Items",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/001 Magic Items.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "# Magic Items",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/# Magic Items.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "003 Sentient Magic",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/003 Sentient Magic.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "010 Artifacts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/010 Artifacts.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "001 Magic Items",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/001 Magic Items.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Magic Items A",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items A.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "001 Magic Items",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/001 Magic Items.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Magic Items A",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items A.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":40,\"ch\":0},\"to\":{\"line\":40,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/README.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}},\"scroll\":2.562206978633486}"
+                },
+                {
+                  "title": "Treasure (Alt)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Treasure (Alt).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                }
+              ]
+            },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items A.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "941e2e8f57baf6d4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DND.SRD.Wiki-master/Treasure (Alt)/001 Magic Items.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -31,6 +169,15 @@
           {
             "id": "f7426e4777903a91",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "file-explorer",
               "state": {
@@ -41,6 +188,15 @@
           {
             "id": "457ac2530ca9e28a",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "search",
               "state": {
@@ -56,6 +212,15 @@
           {
             "id": "a1ac65b1bd389c68",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "bookmarks",
               "state": {}
@@ -65,8 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f90594313b89809e",
@@ -75,14 +239,58 @@
       {
         "id": "ac02129fafbaf757",
         "type": "tabs",
-        "dimension": 32.27513227513227,
+        "dimension": 33.2010582010582,
         "children": [
+          {
+            "id": "b6326619255dbfa0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
+              "state": {}
+            }
+          },
+          {
+            "id": "39452885ae1fa925",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
           {
             "id": "bb6946b2a7144698",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,9 +304,19 @@
           {
             "id": "bfbd22527217cb81",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,6 +325,15 @@
           {
             "id": "60b5fc560fd7613b",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "tag",
               "state": {
@@ -118,30 +345,51 @@
           {
             "id": "2b0f63fea377f03c",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items A.md"
+              }
             }
           },
           {
             "id": "8e14a1477b0c80a9",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
             }
           },
           {
-            "id": "aa84d1af717cb63b",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "cac187f76803c309",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "all-properties",
               "state": {
@@ -152,40 +400,59 @@
             }
           },
           {
-            "id": "b6326619255dbfa0",
-            "type": "leaf",
-            "state": {
-              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
-              "state": {}
-            }
-          },
-          {
             "id": "79cdb1110dd094e1",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "review-queue-list-view",
               "state": {}
             }
           },
           {
-            "id": "39452885ae1fa925",
+            "id": "eec5547c8d41cd40",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
-              "type": "DICE_ROLLER_VIEW",
+              "type": "Timer",
               "state": {}
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       },
       {
         "id": "6f79939fd4bb2213",
         "type": "tabs",
-        "dimension": 35.25132275132275,
+        "dimension": 34.32539682539682,
         "children": [
           {
             "id": "53a91095c0f3296c",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "pinned": true,
             "state": {
               "type": "graph",
@@ -203,9 +470,19 @@
           {
             "id": "eb49dceec3166315",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items A.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,7 +505,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8988855666554654,
+                  "scale": 0.4892913165276469,
                   "close": true
                 }
               }
@@ -242,6 +519,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-5e-statblocks:Open Creature pane": false,
       "excel:Create Excel File": false,
       "obsidian-spaced-repetition:Review flashcards": true,
       "templater-obsidian:Templater": false,
@@ -261,19 +539,46 @@
       "timer:Open timer": false
     }
   },
-  "active": "b6326619255dbfa0",
+  "active": "bab379bde5b6db7c",
   "lastOpenFiles": [
+    "DND.SRD.Wiki-master/Treasure/Adamantine Armor.md",
+    "DND.SRD.Wiki-master/Treasure/## Sentient Magic.md",
+    "DND.SRD.Wiki-master/Treasure/## Artifacts.md",
+    "DND.SRD.Wiki-master/Treasure/# Magic Items.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/001 Magic Items.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/003 Sentient Magic.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/002 Artifacts.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items A.md",
+    "DND.SRD.Wiki-master/README.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Treasure (Alt).md",
     "000 Home.md",
-    "Drawing 2024-04-07 16.16.18.excalidraw.md",
-    "202404071615 Character sheet.md",
-    "202404071356 Test Note.md",
-    "Excalidraw/Drawing 2024-04-07 16.15.52.excalidraw.md",
-    "Excalidraw",
-    "RPG MOC.md",
-    "040 Interests MOC.md",
-    "Math MOC.md",
-    "Quiz 8.md",
-    "Pasted image 2020240330231528.png.md",
+    "DND.SRD.Wiki-master/Legal.md",
+    "DND.SRD.Wiki-master/Equipment/Armor.md",
+    "DND.SRD.Wiki-master/Characterizations/Multiclassing.md",
+    "DND.SRD.Wiki-master/Characterizations/Languages.md",
+    "DND.SRD.Wiki-master/Characterizations/Inspiration.md",
+    "DND.SRD.Wiki-master/Characterizations/Feats.md",
+    "DND.SRD.Wiki-master/Characterizations/Beyond 1st Level.md",
+    "DND.SRD.Wiki-master/Characterizations/Backgrounds.md",
+    "DND.SRD.Wiki-master/Characterizations/Alignment.md",
+    "DND.SRD.Wiki-master/RE&.logo.png",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items U.md",
+    "DND.SRD.Wiki-master/Spells/## Spell Lists (Wikilinked).md",
+    "DND.SRD.Wiki-master/Spells 8.md",
+    "DND.SRD.Wiki-master/Spells 7.md",
+    "DND.SRD.Wiki-master/Spells 6.md",
+    "DND.SRD.Wiki-master/Spells 5.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)",
+    "DND.SRD.Wiki-master/Treasure",
+    "DND.SRD.Wiki-master/Spells (Alt)",
+    "DND.SRD.Wiki-master/Spells",
+    "DND.SRD.Wiki-master/Races",
+    "DND.SRD.Wiki-master/Monsters (Alt)",
+    "DND.SRD.Wiki-master/Monsters",
+    "DND.SRD.Wiki-master/Gameplay",
+    "DND.SRD.Wiki-master/Equipment",
+    "DND.SRD.Wiki-master/Gamemastering",
+    "Media/DND.SRD.Wiki-master/RE&.logo.png",
     "Media/Pasted image 20240330231528.png",
     "Media/Pasted image 20240330231528 1.png",
     "Media/Pasted image 20240331233000.png",
@@ -282,33 +587,6 @@
     "Media/Pasted image 20240315173532.png",
     "Media/Pasted image 20240315171057.png",
     "Media/Pasted image 20240315170856.png",
-    "Concepts MOC.md",
-    "Match Day Trials.md",
-    "202403312235 What Brian Type Do You Have?.md",
-    "202403312230 Know Your Chronotype. It Will Chang Your Life.md",
-    "Youtube MOC.md",
-    "Douglas R. Hofstadter.md",
-    "Math Notes 8.md",
-    "005 Active MOC.md",
-    "Excel 2024-04-07 14.29.48.sheet.md",
-    "010 Notes MOC.md",
-    "Media/Hilonde.png",
-    "Flow-Creation MOC.md",
-    "Four Factors of Flow.md",
-    "202404061541.md",
-    "Vim Keybindings.md",
-    "202404051315 Stuff to Research for ENLACE.md",
-    "Math Notes.md",
-    "Media/Pasted image 20240404123540.png",
-    "Spaces/#📚Book",
-    "000 Home",
-    "obsidian.css",
-    "Spaces",
-    "03 IMF_AdvancedStarterKit_v2/_media",
-    "03 IMF_AdvancedStarterKit_v2/obsidian.css",
-    "03 IMF_AdvancedStarterKit_v2",
-    "Media/lghub_installer.zip",
-    "Media/lghub_installer.app/Contents/_CodeSignature/CodeResources",
     "Untitled.canvas"
   ]
 }

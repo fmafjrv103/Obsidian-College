@@ -6,11 +6,11 @@
         "type": "split",
         "children": [
           {
-            "id": "cd434ccbc4c006ac",
+            "id": "39689b0a2259a1e1",
             "type": "tabs",
             "children": [
               {
-                "id": "9372f465eaf17b12",
+                "id": "9681367ecd0f3729",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -82,8 +82,24 @@
           {
             "id": "ac02129fafbaf757",
             "type": "tabs",
-            "dimension": 49.99999999999999,
+            "dimension": 33.2010582010582,
             "children": [
+              {
+                "id": "b6326619255dbfa0",
+                "type": "leaf",
+                "state": {
+                  "type": "online.tokuhirom.obsidian-pomodoro-plugin",
+                  "state": {}
+                }
+              },
+              {
+                "id": "39452885ae1fa925",
+                "type": "leaf",
+                "state": {
+                  "type": "DICE_ROLLER_VIEW",
+                  "state": {}
+                }
+              },
               {
                 "id": "bb6946b2a7144698",
                 "type": "leaf",
@@ -143,14 +159,6 @@
                 }
               },
               {
-                "id": "aa84d1af717cb63b",
-                "type": "leaf",
-                "state": {
-                  "type": "calendar",
-                  "state": {}
-                }
-              },
-              {
                 "id": "cac187f76803c309",
                 "type": "leaf",
                 "state": {
@@ -163,14 +171,6 @@
                 }
               },
               {
-                "id": "b6326619255dbfa0",
-                "type": "leaf",
-                "state": {
-                  "type": "online.tokuhirom.obsidian-pomodoro-plugin",
-                  "state": {}
-                }
-              },
-              {
                 "id": "79cdb1110dd094e1",
                 "type": "leaf",
                 "state": {
@@ -179,7 +179,23 @@
                 }
               },
               {
-                "id": "8f9751d9b06ccfbe",
+                "id": "eec5547c8d41cd40",
+                "type": "leaf",
+                "state": {
+                  "type": "Timer",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "6f79939fd4bb2213",
+            "type": "tabs",
+            "dimension": 34.32539682539682,
+            "children": [
+              {
+                "id": "53a91095c0f3296c",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -187,22 +203,13 @@
                   "state": {},
                   "pinned": true
                 }
-              },
-              {
-                "id": "39452885ae1fa925",
-                "type": "leaf",
-                "state": {
-                  "type": "DICE_ROLLER_VIEW",
-                  "state": {}
-                }
               }
-            ],
-            "currentTab": 9
+            ]
           },
           {
             "id": "ef395338d2a8fa7a",
             "type": "tabs",
-            "dimension": 49.99999999999999,
+            "dimension": 32.47354497354497,
             "children": [
               {
                 "id": "eb49dceec3166315",
@@ -248,7 +255,6 @@
       "left-ribbon": {
         "hiddenItems": {
           "excel:Create Excel File": false,
-          "timer:Open timer": true,
           "obsidian-spaced-repetition:Review flashcards": true,
           "templater-obsidian:Templater": false,
           "audio-recorder:Start/stop recording": false,
@@ -263,11 +269,12 @@
           "homepage:Open homepage": false,
           "obsidian-book-search-plugin:Create new book note": false,
           "obsidian-excalidraw-plugin:Create new drawing": false,
-          "obsidian-leaflet-plugin:Open Leaflet Map": false
+          "obsidian-leaflet-plugin:Open Leaflet Map": false,
+          "timer:Open timer": false
         }
       },
-      "active": "9372f465eaf17b12",
-      "mtime": "2024-04-07T16:39:45-06:00"
+      "active": "9681367ecd0f3729",
+      "mtime": "2024-04-07T16:45:13-06:00"
     }
   },
   "active": "Main"

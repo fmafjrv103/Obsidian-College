@@ -26,7 +26,7 @@
   "ITS@@hide-note-title-icons": false,
   "ITS@@hide-note-title": true,
   "ITS@@hide-tab-outline": true,
-  "ITS@@hide-status-bar": true,
+  "ITS@@hide-status-bar": false,
   "ITS@@hide-titlebar": false,
   "ITS@@vault-icon": false,
   "ITS@@vault-title-none": false,
