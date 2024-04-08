@@ -18,6 +18,108 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Magic Items P",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items P.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":54.67140573901184}"
+                },
+                {
+                  "title": "Magic Items O",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items O.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":3},\"to\":{\"line\":18,\"ch\":3}},\"scroll\":10.879585131469135}"
+                },
+                {
+                  "title": "Magic Items N",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items N.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Magic Items O",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items O.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Magic Items P",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items P.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Magic Items R",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items R.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Magic Items S",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items S.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Magic Items T",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items T.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Magic Items U",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items U.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Magic Items V",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items V.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Magic Items W",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items W.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Magic Items O",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items O.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Magic Items N",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items N.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":14.428731702243727}"
+                },
+                {
+                  "title": "Magic Items M",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items M.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":6}"
+                },
+                {
+                  "title": "Magic Items L",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items L.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":3},\"to\":{\"line\":14,\"ch\":3}}}"
+                },
+                {
+                  "title": "Magic Items J",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items J.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "title": "Magic Items I",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items I.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}},\"scroll\":16.406005895055262}"
+                },
+                {
                   "title": "Conditions",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Gamemastering/Conditions.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -556,7 +658,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items I.md",
+                "file": "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items R.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -722,7 +824,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items I.md",
+                "file": "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items R.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -748,7 +850,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items I.md",
+                "file": "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items R.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -789,7 +891,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items I.md"
+                "file": "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items R.md"
               }
             }
           },
@@ -914,7 +1016,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items I.md",
+                "file": "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items R.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -1009,32 +1111,32 @@
   },
   "active": "bab379bde5b6db7c",
   "lastOpenFiles": [
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items P.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items O.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items N.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items R.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items Q.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items S.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items T.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items U.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items V.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items W.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items X.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items Y.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items Z.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items M.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items L.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items J.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items K.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items I.md",
     "DND.SRD.Wiki-master/Gamemastering/Conditions.md",
     "Party Configuration.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items I.md",
     "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items H.md",
     "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items G.md",
     "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items F.md",
     "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items E.md",
     "DND.SRD.Wiki-master/Treasure (Alt)/001 Magic Items MOC.md",
     "RPG MOC.md",
-    "DND.SRD.Wiki-master/Spells/Spell Lists.md",
-    "040 Interests MOC.md",
-    "000 Home.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/002 Artifacts.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items A.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/003 Sentient Magic.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items B.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items C.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items D.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items.md",
-    "DND.SRD.Wiki-master/Spells (Alt)/## Spell Lists.md",
-    "DND.SRD.Wiki-master/Spells (Alt)/# Spellcasting.md",
-    "DND.SRD.Wiki-master/Spells/Spider Climb.md",
-    "DND.SRD.Wiki-master/Spells/## Spell Lists.md",
-    "DND.SRD.Wiki-master/Spells/Spellcasting.md",
-    "DND.SRD.Wiki-master/Classes MOC/Classes MOC.md",
-    "DND.SRD.Wiki-master/Treasure/# Magic Items.md",
     "DND.SRD.Wiki-master/RE&.logo.png",
     "DND.SRD.Wiki-master/Treasure (Alt)",
     "DND.SRD.Wiki-master/Treasure",

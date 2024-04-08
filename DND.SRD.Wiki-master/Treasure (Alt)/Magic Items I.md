@@ -12,10 +12,10 @@ Links: [[001 Magic Items MOC|Magic Items]]
 
 ![[Instant Fortress#Instant Fortress]]
 
-### Ioun Stone
+![[Ioun Stone#Ioun Stone]]
 
-### Iron Bands of Binding
+![[Iron Bands of Binding#Iron Bands of Binding]]
 
-### Iron Flask
+![[Iron Flask#Iron Flask]]
 
 ---
