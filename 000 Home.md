@@ -14,7 +14,6 @@ links: [[000 Home|Home]]
 
 >_” Maybe you’ll come up with something new, maybe you’ll become the next Da Vinci and people will be taking notes on you”_ — Chris Pomeroy
 # Home Categories
-
 - 000s - [[000 Home|Home]], [[005 Active MOC|Active Notes]], and the following Maps of Content (MOCs):
 - 010s - [[010 Notes MOC|Notes]]
 - 020s - [[020 School MOC|School]]
@@ -28,7 +27,6 @@ links: [[000 Home|Home]]
 - 100s - [[100 Ideas MOC|Ideas]] and [[100 Projects MOC|Projects]]
 - 110s - [[110 Mind MOC|Mind]] and [[115 Body MOC|Body]]
 # Tags Categories
-
 - 000s - #maps #TOM #active #unsorted #curate, #tasks, #faves
 - 010s - #mind #concepts #mentalModels #training
 - 020s - #body #workout #exercises #training #health
