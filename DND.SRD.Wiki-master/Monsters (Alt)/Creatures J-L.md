@@ -1,18 +1,19 @@
 ---
 date: 2024-04-08 07:44:45
 tags:
-  - newNotes
+  - rpg
+  - dnd
 ---
-Links: 
+Links: [[Monsters]]
 
 ---
 
-## Jackal
+![[Jackal (Creature)#Jackal]]
 
-## Killer Whale
+![[Killer Whale (Creature)#Killer Whale]]
 
-## Lion
+![[Lion (Creature)#Lion]]
 
-## Lizard
+![[Lizard (Creature)#Lizard]]
 
 ---
