@@ -1,6 +1,6 @@
 # Monsters (A)
 
-## Aboleth
+## [[Aboleth]]
 
 *Large aberration, lawful evil*
 

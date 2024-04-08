@@ -18,6 +18,84 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Monsters A",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Monsters A.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":8},\"to\":{\"line\":2,\"ch\":8}},\"scroll\":0}"
+                },
+                {
+                  "title": "Creatures A-C",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Creatures A-C.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "Spirit Naga",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Spirit Naga.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":0},\"to\":{\"line\":38,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Monster Statistics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monster Statistics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.21367165357136378}"
+                },
+                {
+                  "title": "RPG MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"RPG MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":81},\"to\":{\"line\":35,\"ch\":81}},\"scroll\":6}"
+                },
+                {
+                  "title": "Monster Statistics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monster Statistics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "RPG MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"RPG MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":12},\"to\":{\"line\":22,\"ch\":12}}}"
+                },
+                {
+                  "title": "Spell Lists",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Spells/Spell Lists.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "RPG MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"RPG MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Racial Traits",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Races/Racial Traits.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Dragonborn",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Races/Dragonborn.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Racial Traits",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Races/Racial Traits.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Magic Items W",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items W.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":29.52018133656669}"
+                },
+                {
                   "title": "Magic Items V",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items V.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -688,7 +766,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items W.md",
+                "file": "DND.SRD.Wiki-master/Monsters/Aboleth.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -704,20 +782,57 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Monsters",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monsters.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":15},\"to\":{\"line\":10,\"ch\":15}},\"scroll\":6}"
+                },
+                {
+                  "title": "RPG MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"RPG MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":6},\"to\":{\"line\":36,\"ch\":6}},\"scroll\":10.720785561869612}"
+                },
+                {
+                  "title": "Monsters",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monsters.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":10},\"to\":{\"line\":46,\"ch\":10}},\"scroll\":6}"
+                },
+                {
+                  "title": "Creatures A-C",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Creatures A-C.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "RPG MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"RPG MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":24},\"to\":{\"line\":35,\"ch\":24}}}"
+                },
+                {
+                  "title": "001 Magic Items MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/001 Magic Items MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND.SRD.Wiki-master/Treasure (Alt)/001 Magic Items MOC.md",
+                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Creatures A-C.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -794,7 +909,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 294.5
   },
   "right": {
     "id": "f90594313b89809e",
@@ -803,7 +918,6 @@
       {
         "id": "ac02129fafbaf757",
         "type": "tabs",
-        "dimension": 33.2010582010582,
         "children": [
           {
             "id": "b6326619255dbfa0",
@@ -854,6 +968,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Creatures A-C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -879,6 +994,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Creatures A-C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -918,7 +1034,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Creatures A-C.md"
+              }
             }
           },
           {
@@ -999,7 +1117,6 @@
       {
         "id": "6f79939fd4bb2213",
         "type": "tabs",
-        "dimension": 34.32539682539682,
         "children": [
           {
             "id": "53a91095c0f3296c",
@@ -1025,7 +1142,6 @@
       {
         "id": "ef395338d2a8fa7a",
         "type": "tabs",
-        "dimension": 32.47354497354497,
         "children": [
           {
             "id": "eb49dceec3166315",
@@ -1042,6 +1158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Creatures A-C.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -1134,9 +1251,25 @@
       "timer:Open timer": false
     }
   },
-  "active": "53a91095c0f3296c",
+  "active": "941e2e8f57baf6d4",
   "lastOpenFiles": [
+    "DND.SRD.Wiki-master/Monsters/Monsters.md",
+    "RPG MOC.md",
+    "DND.SRD.Wiki-master/Monsters (Alt)/Creatures A-C.md",
+    "202404072132.md",
+    "000 Home.md",
+    "DND.SRD.Wiki-master/Monsters/Aboleth.md",
+    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters A.md",
+    "DND.SRD.Wiki-master/Monsters/Spirit Naga.md",
+    "DND.SRD.Wiki-master/Monsters/Monster Statistics.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/001 Magic Items MOC.md",
+    "DND.SRD.Wiki-master/Spells/Spell Lists.md",
+    "DND.SRD.Wiki-master/Races/Racial Traits.md",
+    "DND.SRD.Wiki-master/Races/Dragonborn.md",
     "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items W.md",
+    "DND.SRD.Wiki-master/Treasure/## Sentient Magic.md",
+    "DND.SRD.Wiki-master/Treasure/## Artifacts.md",
+    "DND.SRD.Wiki-master/Treasure/# Magic Items.md",
     "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items V.md",
     "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items U.md",
     "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items T.md",
@@ -1146,22 +1279,6 @@
     "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items O.md",
     "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items N.md",
     "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items Q.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items X.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items Y.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items Z.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items M.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items L.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items J.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items K.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items I.md",
-    "DND.SRD.Wiki-master/Gamemastering/Conditions.md",
-    "Party Configuration.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items H.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items G.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items F.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items E.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/001 Magic Items MOC.md",
-    "RPG MOC.md",
     "DND.SRD.Wiki-master/RE&.logo.png",
     "DND.SRD.Wiki-master/Treasure (Alt)",
     "DND.SRD.Wiki-master/Treasure",
