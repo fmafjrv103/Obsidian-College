@@ -1,3 +1,13 @@
+---
+date: 2024-04-07 19:13:46
+tags:
+  - MOC
+  - rpg
+  - dnd
+---
+Links: [[RPG MOC]]
+
+---
 # Magic Items
 
 Magic items are gleaned from the hoards of conquered monsters or discovered in long-­‐‑lost vaults. Such items grant capabilities a character could rarely have otherwise, or they complement their owner’s capabilities in wondrous ways.
@@ -53,3 +63,5 @@ A magic item, such as certain staffs, may require you to use your own spellcasti
 ### Charges
 
 Some magic items have charges that must be expended to activate their properties. The number of charges an item has remaining is revealed when an identify spell is cast on it, as well as when a creature attunes to it. Additionally, when an item regains charges, the creature attuned to it learns how many charges it regained.
+
+---
