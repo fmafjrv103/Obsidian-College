@@ -16,13 +16,61 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Monsters",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monsters.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":14},\"to\":{\"line\":12,\"ch\":14}}}"
+                },
+                {
+                  "title": "Creatures D-F",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Creatures D-F.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":14},\"to\":{\"line\":6,\"ch\":14}},\"scroll\":6}"
+                },
+                {
+                  "title": "Monsters",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monsters.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":15},\"to\":{\"line\":11,\"ch\":15}}}"
+                },
+                {
+                  "title": "Creatures A-C",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Creatures A-C.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":15},\"to\":{\"line\":6,\"ch\":15}},\"scroll\":5}"
+                },
+                {
+                  "title": "Monsters",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monsters.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":12},\"to\":{\"line\":10,\"ch\":12}},\"scroll\":6}"
+                },
+                {
+                  "title": "RPG MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"RPG MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":10},\"to\":{\"line\":36,\"ch\":10}},\"scroll\":6}"
+                },
+                {
+                  "title": "040 Interests MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":11},\"to\":{\"line\":46,\"ch\":11}},\"scroll\":6}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":35},\"to\":{\"line\":21,\"ch\":35}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Home.md",
+                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Creatures G-I.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,6 +142,15 @@
           {
             "id": "b6326619255dbfa0",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "online.tokuhirom.obsidian-pomodoro-plugin",
               "state": {}
@@ -113,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Home.md",
+                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Creatures G-I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Home.md",
+                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Creatures G-I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Home.md"
+                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Creatures G-I.md"
               }
             }
           },
@@ -188,13 +245,22 @@
           {
             "id": "eec5547c8d41cd40",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "Timer",
               "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       },
       {
         "id": "6f79939fd4bb2213",
@@ -204,6 +270,15 @@
           {
             "id": "53a91095c0f3296c",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "pinned": true,
             "state": {
               "type": "graph",
@@ -221,10 +296,19 @@
           {
             "id": "eb49dceec3166315",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Home.md",
+                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Creatures G-I.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -235,8 +319,44 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#MOC  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "tag:#home",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14725458
+                      }
+                    },
+                    {
+                      "query": "tag:#📚Book ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11657298
+                      }
+                    },
+                    {
+                      "query": "tag:#videos  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6233239
+                      }
+                    },
+                    {
+                      "query": "path:DND.SRD.Wiki-master ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 350012
+                      }
+                    }
+                  ],
                   "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
@@ -283,14 +403,16 @@
   },
   "active": "9681367ecd0f3729",
   "lastOpenFiles": [
-    "095 Lists MOC.md",
+    "DND.SRD.Wiki-master/Monsters/Monsters.md",
+    "DND.SRD.Wiki-master/Monsters (Alt)/Creatures D-F.md",
+    "DND.SRD.Wiki-master/Monsters (Alt)/Creatures A-C.md",
+    "RPG MOC.md",
+    "040 Interests MOC.md",
     "000 Home.md",
+    "095 Lists MOC.md",
     "202404072209 Focus Checklist.md",
     "Media/Focus Checklist.png",
-    "DND.SRD.Wiki-master/Monsters (Alt)/Creatures A-C.md",
     "DND.SRD.Wiki-master/Monsters/Aboleth.md",
-    "DND.SRD.Wiki-master/Monsters/Monsters.md",
-    "RPG MOC.md",
     "202404072132.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters A.md",
     "DND.SRD.Wiki-master/Monsters/Spirit Naga.md",
@@ -308,7 +430,6 @@
     "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items T.md",
     "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items S.md",
     "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items R.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items P.md",
     "DND.SRD.Wiki-master/RE&.logo.png",
     "DND.SRD.Wiki-master/Treasure (Alt)",
     "DND.SRD.Wiki-master/Treasure",
