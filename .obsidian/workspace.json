@@ -18,6 +18,108 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "# Spellcasting",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Spells (Alt)/# Spellcasting.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Spider Climb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Spells/Spider Climb.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "RPG MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"RPG MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":17},\"to\":{\"line\":21,\"ch\":17}}}"
+                },
+                {
+                  "title": "Spell Lists",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Spells/Spell Lists.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":14},\"to\":{\"line\":6,\"ch\":14}},\"scroll\":0}"
+                },
+                {
+                  "title": "## Spell Lists",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Spells/## Spell Lists.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Spellcasting",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Spells/Spellcasting.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":18},\"to\":{\"line\":6,\"ch\":18}}}"
+                },
+                {
+                  "title": "RPG MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"RPG MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}}}"
+                },
+                {
+                  "title": "Classes MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Classes MOC/Classes MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":14},\"to\":{\"line\":7,\"ch\":14}}}"
+                },
+                {
+                  "title": "RPG MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"RPG MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":2},\"to\":{\"line\":18,\"ch\":2}}}"
+                },
+                {
+                  "title": "001 Magic Items MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/001 Magic Items MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Magic Items E",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items E.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Magic Items D",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items D.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":0},\"to\":{\"line\":39,\"ch\":0}},\"scroll\":6}"
+                },
+                {
+                  "title": "Magic Items C",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items C.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":6}"
+                },
+                {
+                  "title": "Magic Items B",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items B.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":42.57965046806321}"
+                },
+                {
+                  "title": "Magic Items C",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items C.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Magic Items A",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items A.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":0},\"to\":{\"line\":32,\"ch\":0}},\"scroll\":5}"
+                },
+                {
+                  "title": "Magic Items C",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items C.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":0},\"to\":{\"line\":39,\"ch\":0}},\"scroll\":6}"
+                },
+                {
                   "title": "001 Magic Items MOC",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/001 Magic Items MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -250,7 +352,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items C.md",
+                "file": "DND.SRD.Wiki-master/Spells (Alt)/## Spell Lists.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -416,7 +518,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items C.md",
+                "file": "DND.SRD.Wiki-master/Spells (Alt)/## Spell Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -442,7 +544,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items C.md",
+                "file": "DND.SRD.Wiki-master/Spells (Alt)/## Spell Lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -483,7 +585,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items C.md"
+                "file": "DND.SRD.Wiki-master/Spells (Alt)/## Spell Lists.md"
               }
             }
           },
@@ -608,7 +710,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items C.md",
+                "file": "DND.SRD.Wiki-master/Spells (Alt)/## Spell Lists.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -703,10 +805,19 @@
   },
   "active": "bab379bde5b6db7c",
   "lastOpenFiles": [
-    "DND.SRD.Wiki-master/Treasure (Alt)/001 Magic Items MOC.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items A.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items B.md",
+    "DND.SRD.Wiki-master/Spells (Alt)/# Spellcasting.md",
+    "DND.SRD.Wiki-master/Spells/Spider Climb.md",
     "RPG MOC.md",
+    "DND.SRD.Wiki-master/Spells/Spell Lists.md",
+    "DND.SRD.Wiki-master/Spells/## Spell Lists.md",
+    "DND.SRD.Wiki-master/Spells/Spellcasting.md",
+    "DND.SRD.Wiki-master/Classes MOC/Classes MOC.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/001 Magic Items MOC.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items E.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items D.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items C.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items B.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items A.md",
     "DND.SRD.Wiki-master/Treasure/# Magic Items.md",
     "DND.SRD.Wiki-master/Treasure/Bag of Beans.md",
     "DND.SRD.Wiki-master/Spells (Alt)/Spells A.md",
@@ -720,16 +831,7 @@
     "DND.SRD.Wiki-master/Treasure (Alt)/Treasure (Alt).md",
     "DND.SRD.Wiki-master/Legal.md",
     "DND.SRD.Wiki-master/Equipment/Armor.md",
-    "DND.SRD.Wiki-master/Characterizations/Multiclassing.md",
-    "DND.SRD.Wiki-master/Characterizations/Languages.md",
-    "DND.SRD.Wiki-master/Characterizations/Inspiration.md",
-    "DND.SRD.Wiki-master/Characterizations/Feats.md",
-    "DND.SRD.Wiki-master/Characterizations/Beyond 1st Level.md",
-    "DND.SRD.Wiki-master/Characterizations/Backgrounds.md",
-    "DND.SRD.Wiki-master/Characterizations/Alignment.md",
     "DND.SRD.Wiki-master/RE&.logo.png",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items U.md",
-    "DND.SRD.Wiki-master/Spells/## Spell Lists (Wikilinked).md",
     "DND.SRD.Wiki-master/Treasure (Alt)",
     "DND.SRD.Wiki-master/Treasure",
     "DND.SRD.Wiki-master/Spells (Alt)",

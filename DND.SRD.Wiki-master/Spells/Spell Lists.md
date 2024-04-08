@@ -1,3 +1,13 @@
+---
+date: 2024-04-07 19:44:04
+tags:
+  - rpg
+  - dnd
+---
+Links: [[RPG MOC]]
+
+---
+
 # SPELL LISTS (Alternate)
 
 Spell names are wikilinked for use in a a PKM application, like [Obsidian](https://obsidian.md).

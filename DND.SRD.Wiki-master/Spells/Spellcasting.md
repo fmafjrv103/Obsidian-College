@@ -1,3 +1,13 @@
+---
+date: 2024-04-07 19:42:41
+tags:
+  - rpg
+  - dnd
+---
+Links: [[RPG MOC]]
+
+---
+
 # SPELLCASTING
 
 Magic permeates fantasy gaming worlds and often appears in the form of a spell.
