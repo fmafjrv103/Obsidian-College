@@ -1,7 +1,13 @@
-# Magic Items (U)
+---
+date: 2024-04-07 21:07:21
+tags:
+  - rpg
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]]
 
-### Universal Solvent
+---
 
-*Wondrous item, legendary*
+![[Universal Solvent#Universal Solvent]]
 
-This tube holds milky liquid with a strong alcohol smell. You can use an action to pour the contents of the tube onto a surface within reach. The liquid instantly dissolves up to 1 square foot of adhesive it touches, including *sovereign glue.*
+---
