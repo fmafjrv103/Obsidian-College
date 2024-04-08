@@ -16,7 +16,7 @@ Quickly see a list of Powerful Reminders spanning different domains to confident
 ## Figuring Out Life Stuff
   
 ## Mind Stuff
-
+˜
 ## Creation Stuff
 
 ## Storytelling and Rhetorical Concepts
