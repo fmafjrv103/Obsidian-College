@@ -12,6 +12,15 @@
               {
                 "id": "9681367ecd0f3729",
                 "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -87,6 +96,15 @@
               {
                 "id": "b6326619255dbfa0",
                 "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
                 "state": {
                   "type": "online.tokuhirom.obsidian-pomodoro-plugin",
                   "state": {}
@@ -181,13 +199,22 @@
               {
                 "id": "eec5547c8d41cd40",
                 "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
                 "state": {
                   "type": "Timer",
                   "state": {}
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 9
           },
           {
             "id": "6f79939fd4bb2213",
@@ -254,6 +281,7 @@
       },
       "left-ribbon": {
         "hiddenItems": {
+          "obsidian-5e-statblocks:Open Creature pane": false,
           "excel:Create Excel File": false,
           "obsidian-spaced-repetition:Review flashcards": true,
           "templater-obsidian:Templater": false,
@@ -273,8 +301,8 @@
           "timer:Open timer": false
         }
       },
-      "active": "9681367ecd0f3729",
-      "mtime": "2024-04-07T16:45:13-06:00"
+      "active": "eec5547c8d41cd40",
+      "mtime": "2024-04-07T22:40:14-06:00"
     }
   },
   "active": "Main"

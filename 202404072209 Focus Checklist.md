@@ -8,6 +8,9 @@ tags:
 Links: [[095 Lists MOC|Lists]]
 
 ---
+![[Focus Checklist.png|center|1300]]
+
+---
 - [ ] Computer
 - [ ] Charger
 - [ ] Headphones

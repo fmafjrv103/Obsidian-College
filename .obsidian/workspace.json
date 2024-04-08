@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f3f205daa6b9dfb5",
+        "id": "39689b0a2259a1e1",
         "type": "tabs",
         "children": [
           {
-            "id": "0de0367664d14754",
+            "id": "9681367ecd0f3729",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,25 +16,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "095 Lists MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"095 Lists MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":1},\"to\":{\"line\":18,\"ch\":1}},\"scroll\":7}"
-                },
-                {
-                  "title": "000 Home",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":69},\"to\":{\"line\":26,\"ch\":69}},\"scroll\":5.077797992030432}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202404072209 Focus Checklist.md",
+                "file": "000 Home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -57,15 +45,6 @@
           {
             "id": "f7426e4777903a91",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "file-explorer",
               "state": {
@@ -76,15 +55,6 @@
           {
             "id": "457ac2530ca9e28a",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "search",
               "state": {
@@ -100,15 +70,6 @@
           {
             "id": "a1ac65b1bd389c68",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "bookmarks",
               "state": {}
@@ -118,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
+    "width": 300,
     "collapsed": true
   },
   "right": {
@@ -128,19 +89,11 @@
       {
         "id": "ac02129fafbaf757",
         "type": "tabs",
+        "dimension": 33.2010582010582,
         "children": [
           {
             "id": "b6326619255dbfa0",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "online.tokuhirom.obsidian-pomodoro-plugin",
               "state": {}
@@ -149,15 +102,6 @@
           {
             "id": "39452885ae1fa925",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {}
@@ -166,19 +110,10 @@
           {
             "id": "bb6946b2a7144698",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202404072209 Focus Checklist.md",
+                "file": "000 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,19 +127,10 @@
           {
             "id": "bfbd22527217cb81",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202404072209 Focus Checklist.md",
+                "file": "000 Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,15 +139,6 @@
           {
             "id": "60b5fc560fd7613b",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "tag",
               "state": {
@@ -233,34 +150,16 @@
           {
             "id": "2b0f63fea377f03c",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "outline",
               "state": {
-                "file": "202404072209 Focus Checklist.md"
+                "file": "000 Home.md"
               }
             }
           },
           {
             "id": "8e14a1477b0c80a9",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
@@ -269,15 +168,6 @@
           {
             "id": "cac187f76803c309",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "all-properties",
               "state": {
@@ -290,15 +180,6 @@
           {
             "id": "79cdb1110dd094e1",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "review-queue-list-view",
               "state": {}
@@ -307,15 +188,6 @@
           {
             "id": "eec5547c8d41cd40",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "Timer",
               "state": {}
@@ -327,19 +199,11 @@
       {
         "id": "6f79939fd4bb2213",
         "type": "tabs",
+        "dimension": 34.32539682539682,
         "children": [
           {
             "id": "53a91095c0f3296c",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "pinned": true,
             "state": {
               "type": "graph",
@@ -352,71 +216,27 @@
       {
         "id": "ef395338d2a8fa7a",
         "type": "tabs",
+        "dimension": 32.47354497354497,
         "children": [
           {
             "id": "eb49dceec3166315",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "202404072209 Focus Checklist.md",
+                "file": "000 Home.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": true,
+                  "localInterlinks": false,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#MOC  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14701138
-                      }
-                    },
-                    {
-                      "query": "tag:#📚Book  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11657298
-                      }
-                    },
-                    {
-                      "query": "path:DND.SRD.Wiki-master  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 350012
-                      }
-                    },
-                    {
-                      "query": "tag:#videos  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6233239
-                      }
-                    },
-                    {
-                      "query": "tag:#home  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14725458
-                      }
-                    }
-                  ],
+                  "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
@@ -427,7 +247,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4892913165276469,
+                  "scale": 0.8988855666554654,
                   "close": true
                 }
               }
@@ -437,8 +257,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 637.5,
-    "collapsed": true
+    "width": 637.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -462,12 +281,12 @@
       "timer:Open timer": false
     }
   },
-  "active": "0de0367664d14754",
+  "active": "9681367ecd0f3729",
   "lastOpenFiles": [
-    "Media/Focus Checklist.png",
     "095 Lists MOC.md",
-    "202404072209 Focus Checklist.md",
     "000 Home.md",
+    "202404072209 Focus Checklist.md",
+    "Media/Focus Checklist.png",
     "DND.SRD.Wiki-master/Monsters (Alt)/Creatures A-C.md",
     "DND.SRD.Wiki-master/Monsters/Aboleth.md",
     "DND.SRD.Wiki-master/Monsters/Monsters.md",
@@ -509,7 +328,6 @@
     "Media/Pasted image 20240316153731.png",
     "Media/Pasted image 20240315173532.png",
     "Media/Pasted image 20240315171057.png",
-    "Media/Pasted image 20240315170856.png",
     "Untitled.canvas"
   ]
 }
