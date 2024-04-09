@@ -1,7 +1,8 @@
 ---
 date: 2024-04-09 10:23:02
 tags:
-  - newNotes
+  - rpg
+  - dnd
 ---
 Links: [[Monsters]]
 
@@ -131,37 +132,37 @@ Links: [[Monsters]]
 
 ![[Young Bronze Dragon (Metallic)#Young Bronze Dragon (Metallic)]]
 
-![[W Bronze Dragon]]
+![[Wyrmling Bronze Dragon (Metallic)#Bronze Dragon Wyrmling (Metallic)]]
 
 ### Copper Dragon
 
-![[Ancient Copper Dragon]]
+![[Ancient Copper Dragon (Metallic)#Ancient Copper Dragon (Metallic)]]
 
-![[Adult Copper Dragon]]
+![[Adult Copper Dragon (Metallic)#Adult Copper Dragon (Metallic)]]
 
-![[Young Copper Dragon]]
+![[Young Copper Dragon (Metallic)#Young Copper Dragon (Metallic)]]
 
-![[Copper Dragon Wyrmling]]
+![[Wyrmling Copper Dragon (Metallic)#Copper Dragon Wyrmling (Metallic)]]
 
 ### Gold Dragon
 
-![[Ancient Gold Dragon]]
+![[Ancient Gold Dragon (Metallic)#Ancient Gold Dragon (Metallic)]]
 
-![[Adult Gold Dragon]]
+![[Adult Gold Dragon (Metallic)#Adult Gold Dragon (Metallic)]]
 
-![[Young Gold Dragon]]
+![[Young Gold Dragon (Metallic)#Young Gold Dragon (Metallic)]]
 
-![[Gold Dragon Wyrmling]]
+![[Wyrmling Gold Dragon (Metallic)#Gold Dragon Wyrmling (Metallic)]]
 
 ### Silver Dragon
 
-![[Ancient Silver Dragon]]
+![[Ancient Silver Dragon (Metallic)#Ancient Silver Dragon (Metallic)]]
 
-![[Adult Silver Dragon]]
+![[Adult Silver Dragon (Metallic)#Adult Silver Dragon (Metallic)]]
 
-![[Young Silver Dragon]]
+![[Young Silver Dragon (Metallic)#Young Silver Dragon (Metallic)]]
 
-![[Silver Dragon Wyrmling]]
+![[Wyrmling Silver Dragon (Metallic)#Silver Dragon Wyrmling (Metallic)]]
 
 ![[Dragon Turtle#Dragon Turtle]]
 
