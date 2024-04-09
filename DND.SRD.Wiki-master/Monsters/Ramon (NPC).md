@@ -1,5 +1,5 @@
 # Ramon
-_Human Tiefling(50/50), Chaotic Neutral
+_Human Tiefling(50/50), Chaotic Neutral_
 
 **Armor Class** 12
 

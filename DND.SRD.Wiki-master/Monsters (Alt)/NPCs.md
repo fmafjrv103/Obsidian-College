@@ -55,7 +55,7 @@ Noble
 
 Priest
 
-Ramon
+![[Ramon (NPC)#Ramon]]
 
 Scout
 
