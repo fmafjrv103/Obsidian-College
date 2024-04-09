@@ -21,6 +21,18 @@
                   "title": "Monsters",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monsters.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":8},\"to\":{\"line\":22,\"ch\":7}}}"
+                },
+                {
+                  "title": "Monsters C",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Monsters C.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":14},\"to\":{\"line\":6,\"ch\":14}},\"scroll\":6}"
+                },
+                {
+                  "title": "Monsters",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monsters.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":12},\"to\":{\"line\":21,\"ch\":12}}}"
                 },
                 {
@@ -142,7 +154,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Monsters C.md",
+                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -427,7 +439,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Monsters C.md",
+                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -523,8 +535,9 @@
   "active": "0b7bc0e3abe4ea59",
   "lastOpenFiles": [
     "DND.SRD.Wiki-master/Monsters/Monsters.md",
-    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters B.md",
+    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters E.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters C.md",
+    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters B.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/NPCs.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters A.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Creatures P-R.md",
@@ -547,7 +560,6 @@
     "DND.SRD.Wiki-master/Monsters (Alt)/Creatures D-F.md",
     "DND.SRD.Wiki-master/Spells/Spell Lists.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Creatures G-I.md",
-    "DND.SRD.Wiki-master/Monsters (Alt)/Creatures A-C.md",
     "Media/Focus Checklist.png",
     "DND.SRD.Wiki-master/RE&.logo.png",
     "DND.SRD.Wiki-master/Treasure (Alt)",
