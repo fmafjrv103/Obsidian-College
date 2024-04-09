@@ -1,7 +1,8 @@
 ---
 date: 2024-04-09 08:21:41
 tags:
-  - newNotes
+  - rpg
+  - dnd
 ---
 Links: [[Monsters]]
 

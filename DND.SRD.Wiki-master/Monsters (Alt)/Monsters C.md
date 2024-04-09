@@ -1,22 +1,23 @@
 ---
 date: 2024-04-09 08:26:47
 tags:
-  - newNotes
+  - rpg
+  - dnd
 ---
 Links: [[Monsters]]
 
 ---
 
-![[Centaur]]
-![[]]
-![[Chimera]]
-![[]]
-![[Chuul]]
-![[]]
-![[Cloaker]]
-![[]]
-![[Cockatrice]]
-![[]]
-![[Couatl]]
+![[Centaur#Centaur]]
+
+![[Chimera#Chimera]]
+
+![[Chuul#Chuul]]
+
+![[Cloaker#Cloaker]]
+
+![[Cockatrice#Cockatrice]]
+
+![[Couatl#Couatl]]
 
 ---
