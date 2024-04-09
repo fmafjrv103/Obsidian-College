@@ -25,46 +25,46 @@ There are many easy ways to customize the NPCs in this appendix for your home ca
 
 ![[Acolyte (NPC)#Acolyte]]
 
-Archmage
+![[Archmage (NPC)#Archmage]]
 
-Assassin
+![[Assassin (NPC)#Assassin]]
 
-Bandit
+![[Bandit (NPC)#Bandit]]
 
-Bandit Captain
+![[Bandit Captain (NPC)#Bandit Captain]]
 
-Berserker
+![[Berserker (NPC)#Berserker]]
 
-Commoner
+![[Commoner (NPC)#Commoner]]
 
-Cultist
+![[Cultist (NPC)#Cultist]]
 
-Cult Fanatic
+![[Cult Fanatic (NPC)#Cult Fanatic]]
 
-Druid
+![[Druid (NPC)#Druid]]
 
-Gladiator
+![[Gladiator (NPC)#Gladiator]]
 
-Guard
+![[Guard (NPC)#Guard]]
 
-Knight
+![[Knight (NPC)#Knight]]
 
-Mage
+![[Mage (NPC)#Mage]]
 
-Noble
+![[Noble (NPC)#Noble]]
 
-Priest
+![[Priest (NPC)#Priest]]
 
 ![[Ramon (NPC)#Ramon]]
 
-Scout
+![[Scout (NPC)#Scout]]
 
-Spy
+![[Spy (NPC)#Spy]]
 
-Thug
+![[Thug (NPC)#Thug]]
 
-Tribal Warrior
+![[Tribal Warrior (NPC)#Tribal Warrior]]
 
-Veteran
+![[Veteran (NPC)#Veteran]]
 
 ---
