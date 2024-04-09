@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "924b3442bf245f8f",
+            "id": "398b4a9ed32457ea",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,17 +18,41 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Math MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "title": "202404091231 Math Notes 10",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"202404091231 Math Notes 10.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":16},\"to\":{\"line\":6,\"ch\":16}}}"
+                },
+                {
+                  "title": "Math MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":8}"
+                },
+                {
+                  "title": "040 Interests MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":11},\"to\":{\"line\":33,\"ch\":11}},\"scroll\":6}"
+                },
+                {
                   "title": "000 Home",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":33},\"to\":{\"line\":20,\"ch\":33}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202404091231 Math Notes.md",
+                "file": "202404091231 Math Notes 10.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -313,7 +337,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "202404091231 Math Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -406,10 +429,12 @@
       "timer:Open timer": false
     }
   },
-  "active": "924b3442bf245f8f",
+  "active": "53a91095c0f3296c",
   "lastOpenFiles": [
+    "202404091231 Math Notes 10.md",
     "000 Home.md",
-    "202404091231 Math Notes.md",
+    "Math MOC.md",
+    "040 Interests MOC.md",
     "DND.SRD.Wiki-master/Monsters/Rat (Creature).md",
     "DND.SRD.Wiki-master/Monsters/Monsters.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters G.md",
@@ -432,8 +457,6 @@
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters T.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters U.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters V.md",
-    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters W.md",
-    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters X.md",
     "Media/Focus Checklist.png",
     "DND.SRD.Wiki-master/RE&.logo.png",
     "DND.SRD.Wiki-master/Treasure (Alt)",
