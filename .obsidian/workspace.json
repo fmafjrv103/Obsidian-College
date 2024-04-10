@@ -10,10 +10,31 @@
           {
             "id": "dc007e62eed91e95",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "040 Interests MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":10},\"to\":{\"line\":33,\"ch\":10}}}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":36},\"to\":{\"line\":20,\"ch\":36}}}"
+                }
+              ]
+            },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Home.md",
+                "file": "Math MOC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -257,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Home.md",
+                "file": "Math MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Home.md",
+                "file": "Math MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Home.md"
+                "file": "Math MOC.md"
               }
             }
           }
@@ -312,7 +333,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Home.md",
+                "file": "Math MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -407,10 +428,10 @@
   },
   "active": "dc007e62eed91e95",
   "lastOpenFiles": [
-    "202404091231 Math Notes 10.md",
-    "000 Home.md",
-    "Math MOC.md",
     "040 Interests MOC.md",
+    "000 Home.md",
+    "202404091231 Math Notes 10.md",
+    "Math MOC.md",
     "DND.SRD.Wiki-master/Monsters/Rat (Creature).md",
     "DND.SRD.Wiki-master/Monsters/Monsters.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters G.md",
