@@ -21,7 +21,7 @@
                   "title": "Monsters",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monsters.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":11},\"to\":{\"line\":31,\"ch\":11}},\"scroll\":6}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":10},\"to\":{\"line\":39,\"ch\":10}},\"scroll\":6}"
                 },
                 {
                   "title": "RPG MOC",
@@ -376,7 +376,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Monsters N.md",
+                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Monsters W.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -661,7 +661,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Monsters N.md",
+                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Monsters W.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -757,6 +757,14 @@
   "active": "9681367ecd0f3729",
   "lastOpenFiles": [
     "DND.SRD.Wiki-master/Monsters/Monsters.md",
+    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters V.md",
+    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters U.md",
+    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters T.md",
+    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters S.md",
+    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters R.md",
+    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters P.md",
+    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters O.md",
+    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters N.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters M.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters L.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters K.md",
@@ -774,14 +782,6 @@
     "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items A.md",
     "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items W.md",
     "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items V.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items U.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items T.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items S.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items R.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items P.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items O.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items N.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items M.md",
     "Media/Focus Checklist.png",
     "DND.SRD.Wiki-master/RE&.logo.png",
     "DND.SRD.Wiki-master/Treasure (Alt)",
