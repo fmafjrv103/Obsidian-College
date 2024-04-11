@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "202404071356 Test Note",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"202404071356 Test Note.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":4}"
+                },
+                {
                   "title": "Barbarian",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Classes MOC/Barbarian.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -238,7 +244,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202404071356 Test Note.md",
+                "file": "202404111525.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -628,7 +634,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "202404071356 Test Note.md",
+                "file": "202404111525.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -723,10 +729,11 @@
   },
   "active": "36ec342ca645fbe3",
   "lastOpenFiles": [
+    "202404071356 Test Note.md",
+    "202404111525.md",
     "Media/DND Maps/The Impireal City of Hiley.png",
     "Media/DND Maps/The Impireal City of Hiley.png.crdownload",
     "Media/DND Maps",
-    "202404071356 Test Note.md",
     "DND.SRD.Wiki-master/Classes MOC/Barbarian.md",
     "DND.SRD.Wiki-master/Classes MOC/Classes MOC.md",
     "DND MOC.md",
@@ -768,7 +775,6 @@
     "Media/Pasted image 20240331233000.png",
     "Media/Pasted image 20240320145402.png",
     "Media/Pasted image 20240316153731.png",
-    "Media/Pasted image 20240315173532.png",
     "Untitled.canvas"
   ]
 }
