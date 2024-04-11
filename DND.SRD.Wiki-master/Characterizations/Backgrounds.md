@@ -1,12 +1,9 @@
 ---
 date: 2024-04-11 13:36:40
 tags:
-  - newNotes
+  - dnd
 ---
-Links: 
-
----
-
+Links: [[DND MOC]]
 
 ---
 

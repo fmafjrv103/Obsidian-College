@@ -1,3 +1,12 @@
+---
+date: 2024-04-11 13:42:33
+tags:
+  - dnd
+---
+Links: [[Monsters D]]
+
+---
+
 # Adult Red Dragon (Chromatic)
 
 *Huge dragon, chaotic evil*

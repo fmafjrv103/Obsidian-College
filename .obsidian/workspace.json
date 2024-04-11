@@ -18,6 +18,186 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Barbarian",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Classes MOC/Barbarian.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":22},\"to\":{\"line\":5,\"ch\":22}}}"
+                },
+                {
+                  "title": "Classes MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Classes MOC/Classes MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":9},\"to\":{\"line\":11,\"ch\":9}}}"
+                },
+                {
+                  "title": "DND MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":13},\"to\":{\"line\":19,\"ch\":13}}}"
+                },
+                {
+                  "title": "Beyond 1st Level",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Characterizations/Beyond 1st Level.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":15},\"to\":{\"line\":5,\"ch\":15}}}"
+                },
+                {
+                  "title": "DND MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":12},\"to\":{\"line\":18,\"ch\":12}}}"
+                },
+                {
+                  "title": "Multiclassing",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Characterizations/Multiclassing.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":14},\"to\":{\"line\":5,\"ch\":14}}}"
+                },
+                {
+                  "title": "DND MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":11},\"to\":{\"line\":16,\"ch\":11}}}"
+                },
+                {
+                  "title": "Languages",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Characterizations/Languages.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":10},\"to\":{\"line\":5,\"ch\":10}}}"
+                },
+                {
+                  "title": "DND MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":9},\"to\":{\"line\":15,\"ch\":9}},\"scroll\":6}"
+                },
+                {
+                  "title": "Monsters",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monsters.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":14},\"to\":{\"line\":6,\"ch\":14}}}"
+                },
+                {
+                  "title": "Monsters D",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":12},\"to\":{\"line\":6,\"ch\":12}},\"scroll\":6}"
+                },
+                {
+                  "title": "Darkmantle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Darkmantle.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":11},\"to\":{\"line\":5,\"ch\":11}}}"
+                },
+                {
+                  "title": "Monsters D",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":6}"
+                },
+                {
+                  "title": "Adult Red Dragon (Chromatic)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Adult Red Dragon (Chromatic).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":14},\"to\":{\"line\":5,\"ch\":14}}}"
+                },
+                {
+                  "title": "Monsters D",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Monsters",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monsters.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Spell List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Spells/Spell List.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":6}"
+                },
+                {
+                  "title": "Invites",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Invites.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":4},\"to\":{\"line\":27,\"ch\":4}}}"
+                },
+                {
+                  "title": "Graduation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Graduation.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":8},\"to\":{\"line\":11,\"ch\":8}}}"
+                },
+                {
+                  "title": "095 Lists MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"095 Lists MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":7}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":68},\"to\":{\"line\":25,\"ch\":68}},\"scroll\":5}"
+                },
+                {
+                  "title": "020 School MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"020 School MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":20},\"to\":{\"line\":7,\"ch\":20}}}"
+                },
+                {
+                  "title": "College MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"College MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":27},\"to\":{\"line\":8,\"ch\":27}}}"
+                },
+                {
+                  "title": "020 School MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"020 School MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":10},\"to\":{\"line\":11,\"ch\":10}}}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":30},\"to\":{\"line\":18,\"ch\":30}}}"
+                },
+                {
+                  "title": "040 Interests MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":20},\"to\":{\"line\":6,\"ch\":20}}}"
+                },
+                {
+                  "title": "DND MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":32},\"to\":{\"line\":6,\"ch\":32}}}"
+                },
+                {
+                  "title": "Feats",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Characterizations/Feats.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":12},\"to\":{\"line\":5,\"ch\":12}}}"
+                },
+                {
+                  "title": "DND MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":7},\"to\":{\"line\":13,\"ch\":7}}}"
+                },
+                {
+                  "title": "Backgrounds",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Characterizations/Backgrounds.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":14},\"to\":{\"line\":5,\"ch\":14}}}"
+                },
+                {
                   "title": "DND MOC",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -58,7 +238,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND.SRD.Wiki-master/Characterizations/Backgrounds.md",
+                "file": "202404071356 Test Note.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -448,7 +628,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DND.SRD.Wiki-master/Characterizations/Backgrounds.md",
+                "file": "202404071356 Test Note.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -507,7 +687,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.22572796862775596,
+                  "scale": 1.2453223563289793,
                   "close": true
                 }
               }
@@ -543,17 +723,34 @@
   },
   "active": "36ec342ca645fbe3",
   "lastOpenFiles": [
+    "Media/DND Maps/The Impireal City of Hiley.png",
+    "Media/DND Maps/The Impireal City of Hiley.png.crdownload",
+    "Media/DND Maps",
+    "202404071356 Test Note.md",
+    "DND.SRD.Wiki-master/Classes MOC/Barbarian.md",
+    "DND.SRD.Wiki-master/Classes MOC/Classes MOC.md",
     "DND MOC.md",
+    "DND.SRD.Wiki-master/Characterizations/Beyond 1st Level.md",
+    "DND.SRD.Wiki-master/Characterizations/Multiclassing.md",
+    "DND.SRD.Wiki-master/Characterizations/Languages.md",
+    "DND.SRD.Wiki-master/Monsters/Monsters.md",
+    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md",
+    "DND.SRD.Wiki-master/Monsters/Darkmantle.md",
+    "DND.SRD.Wiki-master/Monsters/Adult Red Dragon (Chromatic).md",
+    "DND.SRD.Wiki-master/Spells/Spell List.md",
+    "Invites.md",
+    "Graduation.md",
+    "095 Lists MOC.md",
+    "000 Home.md",
+    "020 School MOC.md",
+    "College MOC.md",
+    "040 Interests MOC.md",
+    "DND.SRD.Wiki-master/Characterizations/Feats.md",
+    "DND.SRD.Wiki-master/Characterizations/Backgrounds.md",
     "DND.SRD.Wiki-master/Characterizations/Alignment.md",
     "Math MOC.md",
     "202404072132.md",
     "202404091230.md",
-    "202404021232 Math Notes 9.md",
-    "202404091231 Math Notes 10.md",
-    "202404111228 Math Notes.md",
-    "040 Interests MOC.md",
-    "000 Home.md",
-    "DND.SRD.Wiki-master/Spells/Spell List.md",
     "Media/456029-How_To.jpg",
     "Media/D&D 5e - HB - School of Geometry.pdf",
     "Media/D&D 5e - Shop Catalog, V-1.8.pdf",
@@ -563,23 +760,6 @@
     "Media/D&D 5e - Spelljammer Adventures in Space - All Books.pdf",
     "Media/D&D 5E - Wayfinders Guide to Eberron.pdf",
     "Media/D&D 5E - Xanathar's Guide to Everything.pdf",
-    "Media/D&D 5e - Tasha’s Cauldron of Everything.pdf",
-    "Media/D&D 5E - Guildmasters' Guide to Ravnica.pdf",
-    "DND.SRD.Wiki-master/Characterizations/Multiclassing.md",
-    "Session 0 Checklist.md",
-    "Party Configuration.md",
-    "DND.SRD.Wiki-master/Gamemastering/Conditions.md",
-    "DND.SRD.Wiki-master/Legal.md",
-    "DND.SRD.Wiki-master/README.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Treasure (Alt).md",
-    "DND.SRD.Wiki-master/Gameplay/Abilities.md",
-    "DND.SRD.Wiki-master/Spells (Alt)/Spells F.md",
-    "DND.SRD.Wiki-master/Monsters/Monsters.md",
-    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters Z.md",
-    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters X.md",
-    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters W.md",
-    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters V.md",
-    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters U.md",
     "Media/Focus Checklist.png",
     "DND.SRD.Wiki-master/RE&.logo.png",
     "Media/DND.SRD.Wiki-master/RE&.logo.png",

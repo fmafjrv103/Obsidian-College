@@ -1,4 +1,11 @@
-# MULTICLASSING
+---
+date: 2024-04-11 13:58:31
+tags:
+  - dnd
+---
+Links: [[DND MOC]]
+
+---
 
 Multiclassing allows you to gain levels in multiple classes. Doing so lets you mix the abilities of those classes to realize a character concept that might not be reflected in one of the standard class options.
 

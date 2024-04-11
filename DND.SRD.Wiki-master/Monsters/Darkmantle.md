@@ -1,3 +1,12 @@
+---
+date: 2024-04-11 13:43:29
+tags:
+  - dnd
+---
+Links: [[Monsters D]]
+
+---
+
 ## Darkmantle
 
 *Small monstrosity, unaligned*

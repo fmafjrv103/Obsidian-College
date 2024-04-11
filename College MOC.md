@@ -6,7 +6,7 @@ tags:
   - active
 complete: No
 ---
-Links: 
+Links: [[020 School MOC|School]]
 
 ---
 [[Psychology MOC]]

@@ -1,4 +1,11 @@
-# Languages
+---
+date: 2024-04-11 13:44:32
+tags:
+  - dnd
+---
+Links: [[DND MOC]]
+
+---
 
 Your race indicates the languages your character can speak by default, and your background might give you access to one or more additional languages of your choice. Note these languages on your character sheet.
 

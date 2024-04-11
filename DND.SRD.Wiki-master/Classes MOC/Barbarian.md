@@ -1,4 +1,11 @@
-# Barbarian
+---
+date: 2024-04-11 13:59:21
+tags:
+  - dnd
+---
+Links: [[Classes MOC]]
+
+---
 
 ### Class Features
 

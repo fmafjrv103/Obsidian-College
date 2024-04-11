@@ -1,4 +1,11 @@
-# Feats
+---
+date: 2024-04-11 13:37:12
+tags:
+  - dnd
+---
+Links: [[DND MOC]]
+
+---
 
 A feat represents a talent or an area of expertise that gives a character special capabilities. It embodies training, experience, and abilities beyond what a class provides.
 
@@ -14,3 +21,5 @@ You've developed the skills necessary to hold your own in close-quarters grappli
 
 - You have advantage on attack rolls against a creature you are grappling.
 - You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.
+
+---
