@@ -19,6 +19,7 @@ Links: [[001 Magic Items MOC|Magic Items]]
 ![[Animated Shield#Animated Shield]]
 
 ![[Apparatus of the Crab#Apparatus of the Crab]]
+
 ![[Armor, +1, +2, or +3#Armor, +1, +2, or +3]]
 
 ![[Armor of Invulnerability#Armor of Invulnerability]]

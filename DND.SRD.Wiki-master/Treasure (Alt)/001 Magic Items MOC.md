@@ -65,4 +65,26 @@ A magic item, such as certain staffs, may require you to use your own spellcasti
 Some magic items have charges that must be expended to activate their properties. The number of charges an item has remaining is revealed when an identify spell is cast on it, as well as when a creature attunes to it. Additionally, when an item regains charges, the creature attuned to it learns how many charges it regained.
 
 ---
-### Ma
+### Magic Items
+- [[Magic Items A]]
+- [[Magic Items B]]
+- [[Magic Items C]]
+- [[Magic Items D]]
+- [[Magic Items E]]
+- [[Magic Items F]]
+- [[Magic Items G]]
+- [[Magic Items H]]
+- [[Magic Items I]]
+- [[Magic Items J]]
+- [[Magic Items L]]
+- [[Magic Items M]]
+- [[Magic Items N]]
+- [[Magic Items O]]
+- [[Magic Items P]]
+- [[Magic Items R]]
+- [[Magic Items S]]
+- [[Magic Items T]]
+- [[Magic Items U]]
+- [[Magic Items V]]
+- [[Magic Items W]]
+---

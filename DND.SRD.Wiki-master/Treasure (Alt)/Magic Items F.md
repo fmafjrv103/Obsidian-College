@@ -10,7 +10,7 @@ Links: [[001 Magic Items MOC|Magic Items]]
 
 ![[Feather Token#Feather Token]]
 
-![[Figurine of Wondrous Power]]
+![[Figurine of Wondrous Power#Figurine of Wondrous Power]]
 
 ![[Flame Tongue#Flame Tongue]]
 

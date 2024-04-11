@@ -16,7 +16,7 @@ Links: [[001 Magic Items MOC|Magic Items]]
 
 ![[Deck of Illusions#Deck of Illusions]]
 
-![[Deck of Many Things]]
+![[Deck of Many Things#Deck of Many Things]]
 
 ![[Defender#Defender]]
 
