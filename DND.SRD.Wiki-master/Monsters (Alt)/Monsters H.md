@@ -10,24 +10,24 @@ Links: [[Monsters]]
 
 ## Hags
 
-![[Green Hag]]
+![[Green Hag#Green Hag]]
 
-![[Night Hag]]
+![[Night Hag#Night Hag]]
 
-![[Sea Hag]]
+![[Sea Hag#Sea Hag]]
 
 ![[Half-Dragon Template#Half-Dragon Template]]
 
-![[Harpy]]
+![[Harpy#Harpy]]
 
-![[Hell Hound]]
+![[Hell Hound#Hell Hound]]
 
-![[Hippogriff]]
+![[Hippogriff#Hippogriff]]
 
-![[Hobgoblin]]
+![[Hobgoblin#Hobgoblin]]
 
-![[Homunculus]]
+![[Homunculus#Homunculus]]
 
-![[Hydra]]
+![[Hydra#Hydra]]
 
 ---
