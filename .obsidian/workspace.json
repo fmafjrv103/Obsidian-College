@@ -11,17 +11,17 @@
             "id": "36ec342ca645fbe3",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Multiclassing",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Characterizations/Multiclassing.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "DND MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":66,\"ch\":0},\"to\":{\"line\":66,\"ch\":0}},\"scroll\":34.55981227058901}"
                 },
                 {
                   "title": "000 Home",
@@ -34,7 +34,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND MOC.md",
+                "file": "202404111228 Math Notes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64095368a07e35c5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 Home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -319,6 +341,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "202404111228 Math Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -411,24 +434,28 @@
       "timer:Open timer": false
     }
   },
-  "active": "53a91095c0f3296c",
+  "active": "36ec342ca645fbe3",
   "lastOpenFiles": [
-    "Media/D&D 5E - Guildmasters' Guide to Ravnica.pdf",
-    "Media/D&D 5E - Player's Handbook.pdf",
-    "Media/D&D 5E - Elemental Evil Player's Companion.pdf",
-    "Media/D&D 5E - Dungeon Master's Guide.pdf",
-    "Media/D&D 5e - DM Guide.pdf",
-    "Media/D&D 5E - Monster Manual.pdf",
-    "DND MOC.md",
-    "DND.SRD.Wiki-master/Characterizations/Multiclassing.md",
     "000 Home.md",
+    "202404111228 Math Notes.md",
+    "DND MOC.md",
+    "Media/456029-How_To.jpg",
+    "Media/D&D 5e - HB - School of Geometry.pdf",
+    "Media/D&D 5e - Shop Catalog, V-1.8.pdf",
+    "Media/D&D 5E - Volo's Guide to Monsters.pdf",
+    "Media/D&D 5E - Sword Coast Adventurer's Guide.pdf",
+    "Media/D&D 5e - Monsters of the Multiverse.pdf",
+    "Media/D&D 5e - Spelljammer Adventures in Space - All Books.pdf",
+    "Media/D&D 5E - Wayfinders Guide to Eberron.pdf",
+    "Media/D&D 5E - Xanathar's Guide to Everything.pdf",
+    "Media/D&D 5e - Tasha’s Cauldron of Everything.pdf",
+    "Media/D&D 5E - Guildmasters' Guide to Ravnica.pdf",
+    "DND.SRD.Wiki-master/Characterizations/Multiclassing.md",
     "040 Interests MOC.md",
     "Session 0 Checklist.md",
     "Party Configuration.md",
     "DND.SRD.Wiki-master/Gamemastering/Conditions.md",
-    "Media/1453821-Session_0_Checklist.pdf",
     "DND.SRD.Wiki-master/Legal.md",
-    "1453821-Session_0_Checklist.pdf",
     "DND.SRD.Wiki-master/README.md",
     "DND.SRD.Wiki-master/Treasure (Alt)/Treasure (Alt).md",
     "DND.SRD.Wiki-master/Spells/Spell List.md",
@@ -448,9 +475,6 @@
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters N.md",
     "Media/Focus Checklist.png",
     "DND.SRD.Wiki-master/RE&.logo.png",
-    "DND.SRD.Wiki-master/Treasure (Alt)",
-    "DND.SRD.Wiki-master/Treasure",
-    "DND.SRD.Wiki-master/Spells (Alt)",
     "Media/DND.SRD.Wiki-master/RE&.logo.png",
     "Media/Pasted image 20240330231528.png",
     "Media/Pasted image 20240330231528 1.png",
@@ -458,7 +482,6 @@
     "Media/Pasted image 20240320145402.png",
     "Media/Pasted image 20240316153731.png",
     "Media/Pasted image 20240315173532.png",
-    "Media/Pasted image 20240315171057.png",
     "Untitled.canvas"
   ]
 }
