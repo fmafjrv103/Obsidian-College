@@ -5,7 +5,7 @@ tags:
   - rpg
   - dnd
 ---
-Links: [[RPG MOC]]
+Links: [[DND MOC]]
 
 ---
 # Magic Items

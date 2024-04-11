@@ -31,7 +31,7 @@ links: [[000 Home|Home]]
 - 010s - #mind #concepts #mentalModels #training
 - 020s - #body #workout #exercises #training #health
 - 030s - #people #meetings #pings #places #travel 
-- 040s - #interests #books #movies #tv #anime #film #music #songs  #📚Book #rpg
+- 040s - #interests #books #movies #tv #anime #film #music #songs  #📚Book #rpg #dnd 
 - 050s - #quotes #quips #quotes100 #tidbits #metaphors #allegories #koans 
 - 060s - #stories #anecdotes #letters #essays #blogs #writings #speech #speechNotes #speeches #posts
 - 070s - #journal #reflections #memories #dreams

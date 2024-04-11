@@ -21,6 +21,12 @@ FamiliarRoute: true
 PartyMembers: 6
 LifestyleCostSP: 1
 IncludeMeals: true
+date: 2024-04-11 01:10:49
+tags:
+  - dnd
+---
+Links: [[DND MOC]]
+
 ---
 
 # Travel Speed
@@ -70,6 +76,7 @@ Copy the code below into another note and change the `88` to match the distance 
 
 `VIEW[round((88* {Party Configuration#TravelCalc}) / 60 / {Party Configuration#HoursPerDay}, 1)]`
 
+---
 > [!warning]- Back End Calc
 > This calculation is referenced in the travel calculation by external notes. 
 > **Travel Calc:** `VIEW[({Party Configuration#varMins}/(({Party Configuration#BaseSpeed} / ({Party Configuration#ExhaustionLevel} > 1 ? 2 : 1) + ({Party Configuration#Encumbered} ? -10 : 0) + ({Party Configuration#HorseshoesofSpeed} ? 30 : 0) + {Party Configuration#AdditionalBonus}) / 10) * {Party Configuration#SpeedMultiplier})][math:TravelCalc]`$$

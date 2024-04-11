@@ -8,447 +8,40 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9681367ecd0f3729",
+            "id": "36ec342ca645fbe3",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
                 {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Spells F",
+                  "title": "Multiclassing",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Spells (Alt)/Spells F.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Characterizations/Multiclassing.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "Monsters",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monsters.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":41,\"ch\":8},\"to\":{\"line\":41,\"ch\":8}},\"scroll\":6}"
-                },
-                {
-                  "title": "RPG MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"RPG MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":8},\"to\":{\"line\":36,\"ch\":8}}}"
-                },
-                {
-                  "title": "001 Magic Items MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/001 Magic Items MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":13},\"to\":{\"line\":7,\"ch\":13}}}"
-                },
-                {
-                  "title": "Magic Items H",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items H.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":36},\"to\":{\"line\":6,\"ch\":36}},\"scroll\":6}"
-                },
-                {
-                  "title": "001 Magic Items MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/001 Magic Items MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":75,\"ch\":15},\"to\":{\"line\":75,\"ch\":15}},\"scroll\":60.39478478608308}"
-                },
-                {
-                  "title": "Magic Items D",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items D.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":38},\"to\":{\"line\":6,\"ch\":38}},\"scroll\":6}"
-                },
-                {
-                  "title": "001 Magic Items MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/001 Magic Items MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":71,\"ch\":14},\"to\":{\"line\":71,\"ch\":14}},\"scroll\":56.22052115116596}"
-                },
-                {
-                  "title": "RPG MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"RPG MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":41,\"ch\":20},\"to\":{\"line\":41,\"ch\":20}},\"scroll\":7.6118524613661265}"
-                },
-                {
-                  "title": "Monsters",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monsters.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":14},\"to\":{\"line\":6,\"ch\":14}}}"
-                },
-                {
-                  "title": "Monsters K",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Monsters K.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":16},\"to\":{\"line\":6,\"ch\":16}},\"scroll\":0}"
-                },
-                {
-                  "title": "Monsters",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monsters.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":12},\"to\":{\"line\":28,\"ch\":12}}}"
-                },
-                {
-                  "title": "Monsters I",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Monsters I.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":10},\"to\":{\"line\":6,\"ch\":10}}}"
-                },
-                {
-                  "title": "Monsters",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monsters.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":11},\"to\":{\"line\":27,\"ch\":11}},\"scroll\":6}"
-                },
-                {
-                  "title": "RPG MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"RPG MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":9},\"to\":{\"line\":36,\"ch\":9}},\"scroll\":12.330093323933166}"
-                },
-                {
-                  "title": "040 Interests MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":10},\"to\":{\"line\":46,\"ch\":10}},\"scroll\":25.50774428479373}"
-                },
-                {
-                  "title": "000 Home",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":34},\"to\":{\"line\":20,\"ch\":34}}}"
-                },
-                {
-                  "title": "Monsters I",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Monsters I.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
-                },
-                {
-                  "title": "Monsters",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monsters.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":9},\"to\":{\"line\":27,\"ch\":9}}}"
-                },
-                {
-                  "title": "Monsters H",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Monsters H.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":14},\"to\":{\"line\":6,\"ch\":14}},\"scroll\":6}"
-                },
-                {
-                  "title": "Monsters",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monsters.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":10},\"to\":{\"line\":26,\"ch\":10}},\"scroll\":6}"
-                },
-                {
-                  "title": "RPG MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"RPG MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":8},\"to\":{\"line\":36,\"ch\":8}},\"scroll\":12.960396379145962}"
-                },
-                {
-                  "title": "040 Interests MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":8},\"to\":{\"line\":46,\"ch\":8}},\"scroll\":15.66532004859693}"
-                },
-                {
-                  "title": "000 Home",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":34},\"to\":{\"line\":20,\"ch\":34}}}"
-                },
-                {
-                  "title": "Rat (Creature)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Rat (Creature).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Ramon (NPC)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Ramon (NPC).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":16},\"to\":{\"line\":7,\"ch\":16}},\"scroll\":0}"
-                },
-                {
-                  "title": "NPCs",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/NPCs.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":55,\"ch\":6},\"to\":{\"line\":55,\"ch\":6}},\"scroll\":25.993712980185773}"
-                },
-                {
-                  "title": "Monsters",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monsters.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":6},\"to\":{\"line\":46,\"ch\":6}},\"scroll\":26.54638003862734}"
-                },
-                {
-                  "title": "Monsters A",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Monsters A.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":14},\"to\":{\"line\":6,\"ch\":14}},\"scroll\":6}"
-                },
-                {
-                  "title": "Monsters",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monsters.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":11},\"to\":{\"line\":19,\"ch\":11}},\"scroll\":8.785185440544874}"
-                },
-                {
-                  "title": "NPCs",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/NPCs.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":8},\"to\":{\"line\":27,\"ch\":8}},\"scroll\":16.387685889654804}"
-                },
-                {
-                  "title": "Monsters",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monsters.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":6},\"to\":{\"line\":46,\"ch\":6}},\"scroll\":8.145185530967321}"
-                },
-                {
-                  "title": "Creatures V-Z",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Creatures V-Z.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":12},\"to\":{\"line\":6,\"ch\":12}},\"scroll\":6}"
-                },
-                {
-                  "title": "Monsters",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monsters.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":14},\"to\":{\"line\":17,\"ch\":14}}}"
-                },
-                {
-                  "title": "Creatures S-U",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Creatures S-U.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":13},\"to\":{\"line\":6,\"ch\":13}}}"
-                },
-                {
-                  "title": "Monsters",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monsters.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":14},\"to\":{\"line\":16,\"ch\":14}}}"
-                },
-                {
-                  "title": "Creatures S-U",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Creatures S-U.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":16},\"to\":{\"line\":6,\"ch\":16}},\"scroll\":6}"
-                },
-                {
-                  "title": "Monsters",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monsters.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":12},\"to\":{\"line\":16,\"ch\":12}}}"
-                },
-                {
-                  "title": "Creatures P-R",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Creatures P-R.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":12},\"to\":{\"line\":6,\"ch\":12}},\"scroll\":6}"
-                },
-                {
-                  "title": "Monsters",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monsters.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":15},\"to\":{\"line\":15,\"ch\":15}}}"
-                },
-                {
-                  "title": "Creatures M-O",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Creatures M-O.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":15},\"to\":{\"line\":6,\"ch\":15}},\"scroll\":6}"
-                },
-                {
-                  "title": "Monsters",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monsters.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":15},\"to\":{\"line\":14,\"ch\":15}}}"
-                },
-                {
-                  "title": "Creatures J-L",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Creatures J-L.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":14},\"to\":{\"line\":6,\"ch\":14}},\"scroll\":6}"
-                },
-                {
-                  "title": "Monsters",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monsters.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":12},\"to\":{\"line\":13,\"ch\":12}},\"scroll\":6}"
-                },
-                {
-                  "title": "RPG MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"RPG MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":8},\"to\":{\"line\":36,\"ch\":8}},\"scroll\":6.918519131800395}"
-                },
-                {
-                  "title": "202404081306 Job",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"202404081306 Job.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":6}"
-                },
-                {
-                  "title": "005 Active MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005 Active MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":11.078519109194783}"
-                },
-                {
-                  "title": "000 Home",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":53},\"to\":{\"line\":16,\"ch\":53}}}"
-                },
-                {
-                  "title": "202404081306 Job",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"202404081306 Job.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":23},\"to\":{\"line\":9,\"ch\":23}}}"
-                },
-                {
-                  "title": "000 Home",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":76},\"to\":{\"line\":21,\"ch\":76}},\"scroll\":5}"
-                },
-                {
-                  "title": "040 Interests MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":20},\"to\":{\"line\":6,\"ch\":20}}}"
-                },
-                {
-                  "title": "RPG MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"RPG MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":33},\"to\":{\"line\":6,\"ch\":33}}}"
-                },
-                {
-                  "title": "Monsters",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monsters.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":14},\"to\":{\"line\":6,\"ch\":14}}}"
-                },
-                {
-                  "title": "Creatures D-F",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Creatures D-F.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":14},\"to\":{\"line\":6,\"ch\":14}}}"
-                },
-                {
-                  "title": "Monsters",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monsters.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":15},\"to\":{\"line\":11,\"ch\":15}}}"
-                },
-                {
-                  "title": "Creatures A-C",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Creatures A-C.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":15},\"to\":{\"line\":6,\"ch\":15}},\"scroll\":5}"
-                },
-                {
-                  "title": "Monsters",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monsters.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":12},\"to\":{\"line\":10,\"ch\":12}},\"scroll\":6}"
-                },
-                {
-                  "title": "RPG MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"RPG MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":10},\"to\":{\"line\":36,\"ch\":10}},\"scroll\":6}"
-                },
-                {
-                  "title": "040 Interests MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":11},\"to\":{\"line\":46,\"ch\":11}},\"scroll\":6}"
-                },
-                {
-                  "title": "000 Home",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":35},\"to\":{\"line\":21,\"ch\":35}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND.SRD.Wiki-master/Gameplay/Abilities.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f05e11acb6e0852a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
                   "state": "{}",
                   "eState": "{}"
                 },
                 {
-                  "title": "README",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/README.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":59,\"ch\":10},\"to\":{\"line\":54,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "RPG MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"RPG MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":13},\"to\":{\"line\":28,\"ch\":13}},\"scroll\":8.305185790931858}"
-                },
-                {
-                  "title": "Spell List",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Spells/Spell List.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":11},\"to\":{\"line\":6,\"ch\":11}},\"scroll\":6}"
-                },
-                {
-                  "title": "RPG MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"RPG MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":11},\"to\":{\"line\":31,\"ch\":11}},\"scroll\":9.790221440833665}"
-                },
-                {
-                  "title": "040 Interests MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":10},\"to\":{\"line\":46,\"ch\":10}},\"scroll\":19.410774104808098}"
-                },
-                {
                   "title": "000 Home",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":33},\"to\":{\"line\":20,\"ch\":33}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":85},\"to\":{\"line\":33,\"ch\":85}},\"scroll\":5}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND.SRD.Wiki-master/Legal.md",
+                "file": "DND MOC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -542,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 513.5
+    "width": 513.5,
+    "collapsed": true
   },
   "right": {
     "id": "f90594313b89809e",
@@ -725,7 +319,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DND.SRD.Wiki-master/Legal.md",
+                "file": "DND MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -818,15 +412,22 @@
       "timer:Open timer": false
     }
   },
-  "active": "f05e11acb6e0852a",
+  "active": "36ec342ca645fbe3",
   "lastOpenFiles": [
+    "DND.SRD.Wiki-master/Characterizations/Multiclassing.md",
+    "DND MOC.md",
+    "000 Home.md",
+    "040 Interests MOC.md",
+    "Session 0 Checklist.md",
+    "Party Configuration.md",
+    "DND.SRD.Wiki-master/Gamemastering/Conditions.md",
+    "Media/1453821-Session_0_Checklist.pdf",
+    "DND.SRD.Wiki-master/Legal.md",
+    "1453821-Session_0_Checklist.pdf",
     "DND.SRD.Wiki-master/README.md",
-    "RPG MOC.md",
     "DND.SRD.Wiki-master/Treasure (Alt)/Treasure (Alt).md",
     "DND.SRD.Wiki-master/Spells/Spell List.md",
     "DND.SRD.Wiki-master/Gameplay/Abilities.md",
-    "040 Interests MOC.md",
-    "000 Home.md",
     "DND.SRD.Wiki-master/Spells (Alt)/Spells F.md",
     "DND.SRD.Wiki-master/Monsters/Monsters.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters Z.md",
@@ -841,11 +442,6 @@
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters O.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters N.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters M.md",
-    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters L.md",
-    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters K.md",
-    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters I.md",
-    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters H.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/001 Magic Items MOC.md",
     "Media/Focus Checklist.png",
     "DND.SRD.Wiki-master/RE&.logo.png",
     "DND.SRD.Wiki-master/Treasure (Alt)",
@@ -856,8 +452,6 @@
     "DND.SRD.Wiki-master/Monsters (Alt)",
     "DND.SRD.Wiki-master/Monsters",
     "DND.SRD.Wiki-master/Gameplay",
-    "DND.SRD.Wiki-master/Equipment",
-    "DND.SRD.Wiki-master/Gamemastering",
     "Media/DND.SRD.Wiki-master/RE&.logo.png",
     "Media/Pasted image 20240330231528.png",
     "Media/Pasted image 20240330231528 1.png",

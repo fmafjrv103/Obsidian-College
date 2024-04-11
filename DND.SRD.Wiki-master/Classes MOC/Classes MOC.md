@@ -5,7 +5,7 @@ tags:
   - dnd
   - MOC
 ---
-Links: [[RPG MOC]]
+Links: [[DND MOC]]
 
 ---
 ### Classes
