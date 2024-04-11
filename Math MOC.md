@@ -9,6 +9,8 @@ complete: No
 links: [[000 Home|Home]], [[040 Interests MOC|Interests MOC]]
 
 ---
+# Total: `$=dv.pages("#math").length`
+
 # Categories
 - [[Elementary Math]]
 - [[LaTeX]]

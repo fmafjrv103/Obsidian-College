@@ -7,6 +7,7 @@ tags:
 Links: [[040 Interests MOC|Interests]]
 
 ---
+# Total: `$=dv.pages("#dnd").length+dv.pages("/DND.SRD.Wiki-master").length`
 # Characterizations
 - [[Alignment]]
 - [[Backgrounds]]

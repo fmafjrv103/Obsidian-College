@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "202404111228 Math Notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"202404111228 Math Notes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
+                },
+                {
                   "title": "DND MOC",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -34,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202404111228 Math Notes.md",
+                "file": "DND MOC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -50,13 +56,43 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "040 Interests MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":12},\"to\":{\"line\":33,\"ch\":12}}}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":32},\"to\":{\"line\":20,\"ch\":32}}}"
+                },
+                {
+                  "title": "Math MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":12},\"to\":{\"line\":15,\"ch\":12}},\"scroll\":8}"
+                },
+                {
+                  "title": "040 Interests MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":10},\"to\":{\"line\":33,\"ch\":10}},\"scroll\":9.726933326828282}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":33},\"to\":{\"line\":20,\"ch\":33}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Home.md",
+                "file": "Math MOC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -157,8 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 513.5,
-    "collapsed": true
+    "width": 513.5
   },
   "right": {
     "id": "f90594313b89809e",
@@ -341,7 +376,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "202404111228 Math Notes.md",
+                "file": "DND MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -400,7 +435,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8988855666554654,
+                  "scale": 0.22572796862775596,
                   "close": true
                 }
               }
@@ -436,8 +471,11 @@
   },
   "active": "36ec342ca645fbe3",
   "lastOpenFiles": [
-    "000 Home.md",
     "202404111228 Math Notes.md",
+    "Math MOC.md",
+    "040 Interests MOC.md",
+    "000 Home.md",
+    "DND.SRD.Wiki-master/Spells/Spell List.md",
     "DND MOC.md",
     "Media/456029-How_To.jpg",
     "Media/D&D 5e - HB - School of Geometry.pdf",
@@ -451,14 +489,12 @@
     "Media/D&D 5e - Tasha’s Cauldron of Everything.pdf",
     "Media/D&D 5E - Guildmasters' Guide to Ravnica.pdf",
     "DND.SRD.Wiki-master/Characterizations/Multiclassing.md",
-    "040 Interests MOC.md",
     "Session 0 Checklist.md",
     "Party Configuration.md",
     "DND.SRD.Wiki-master/Gamemastering/Conditions.md",
     "DND.SRD.Wiki-master/Legal.md",
     "DND.SRD.Wiki-master/README.md",
     "DND.SRD.Wiki-master/Treasure (Alt)/Treasure (Alt).md",
-    "DND.SRD.Wiki-master/Spells/Spell List.md",
     "DND.SRD.Wiki-master/Gameplay/Abilities.md",
     "DND.SRD.Wiki-master/Spells (Alt)/Spells F.md",
     "DND.SRD.Wiki-master/Monsters/Monsters.md",
@@ -472,7 +508,6 @@
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters R.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters P.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters O.md",
-    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters N.md",
     "Media/Focus Checklist.png",
     "DND.SRD.Wiki-master/RE&.logo.png",
     "Media/DND.SRD.Wiki-master/RE&.logo.png",
