@@ -1,13 +1,13 @@
 ---
 date: 2024-04-07 15:42:55
 tags:
-  - rpg
   - MOC
+  - dnd
 ---
 Links: [[040 Interests MOC|Interests]]
 
 ---
-# Total: `$=dv.pages("#dnd").length+dv.pages("/DND.SRD.Wiki-master").length`
+# Total: `$=dv.pages("#dnd and -#MOC").length`
 # Characterizations
 - [[Alignment]]
 - [[Backgrounds]]

@@ -1,4 +1,11 @@
-# Alignment
+---
+date: 2024-04-11 13:36:10
+tags:
+  - dnd
+---
+Links: [[DND MOC]]
+
+---
 
 A typical creature in the game world has an alignment, which broadly describes its moral and personal attitudes. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward society and order (lawful, chaotic, or neutral). Thus, nine distinct alignments define the possible combinations.
 
