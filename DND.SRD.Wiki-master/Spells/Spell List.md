@@ -10,8 +10,6 @@ Links: [[RPG MOC]]
 
 # SPELL LISTS (Alternate)
 
-Spell names are wikilinked for use in a a PKM application, like [Obsidian](https://obsidian.md).
-
 ## Bard Spells
 
 #### Cantrips (0 Level)

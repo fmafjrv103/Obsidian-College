@@ -18,10 +18,16 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Spells F",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Spells (Alt)/Spells F.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
                   "title": "Monsters",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monsters.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":10},\"to\":{\"line\":39,\"ch\":10}},\"scroll\":6}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":41,\"ch\":8},\"to\":{\"line\":41,\"ch\":8}},\"scroll\":6}"
                 },
                 {
                   "title": "RPG MOC",
@@ -376,14 +382,73 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Monsters W.md",
+                "file": "DND.SRD.Wiki-master/Gameplay/Abilities.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f05e11acb6e0852a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/README.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":59,\"ch\":10},\"to\":{\"line\":54,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "RPG MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"RPG MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":13},\"to\":{\"line\":28,\"ch\":13}},\"scroll\":8.305185790931858}"
+                },
+                {
+                  "title": "Spell List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Spells/Spell List.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":11},\"to\":{\"line\":6,\"ch\":11}},\"scroll\":6}"
+                },
+                {
+                  "title": "RPG MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"RPG MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":11},\"to\":{\"line\":31,\"ch\":11}},\"scroll\":9.790221440833665}"
+                },
+                {
+                  "title": "040 Interests MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":10},\"to\":{\"line\":46,\"ch\":10}},\"scroll\":19.410774104808098}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":33},\"to\":{\"line\":20,\"ch\":33}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DND.SRD.Wiki-master/Legal.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -477,8 +542,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 513.5,
-    "collapsed": true
+    "width": 513.5
   },
   "right": {
     "id": "f90594313b89809e",
@@ -661,7 +725,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Monsters W.md",
+                "file": "DND.SRD.Wiki-master/Legal.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -754,9 +818,20 @@
       "timer:Open timer": false
     }
   },
-  "active": "9681367ecd0f3729",
+  "active": "f05e11acb6e0852a",
   "lastOpenFiles": [
+    "DND.SRD.Wiki-master/README.md",
+    "RPG MOC.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Treasure (Alt).md",
+    "DND.SRD.Wiki-master/Spells/Spell List.md",
+    "DND.SRD.Wiki-master/Gameplay/Abilities.md",
+    "040 Interests MOC.md",
+    "000 Home.md",
+    "DND.SRD.Wiki-master/Spells (Alt)/Spells F.md",
     "DND.SRD.Wiki-master/Monsters/Monsters.md",
+    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters Z.md",
+    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters X.md",
+    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters W.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters V.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters U.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters T.md",
@@ -770,18 +845,7 @@
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters K.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters I.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters H.md",
-    "RPG MOC.md",
     "DND.SRD.Wiki-master/Treasure (Alt)/001 Magic Items MOC.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items H.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items G.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items F.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items E.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items D.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items C.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items B.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items A.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items W.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items V.md",
     "Media/Focus Checklist.png",
     "DND.SRD.Wiki-master/RE&.logo.png",
     "DND.SRD.Wiki-master/Treasure (Alt)",
