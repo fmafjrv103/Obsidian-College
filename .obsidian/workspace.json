@@ -319,7 +319,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DND MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -412,10 +411,16 @@
       "timer:Open timer": false
     }
   },
-  "active": "36ec342ca645fbe3",
+  "active": "53a91095c0f3296c",
   "lastOpenFiles": [
-    "DND.SRD.Wiki-master/Characterizations/Multiclassing.md",
+    "Media/D&D 5E - Guildmasters' Guide to Ravnica.pdf",
+    "Media/D&D 5E - Player's Handbook.pdf",
+    "Media/D&D 5E - Elemental Evil Player's Companion.pdf",
+    "Media/D&D 5E - Dungeon Master's Guide.pdf",
+    "Media/D&D 5e - DM Guide.pdf",
+    "Media/D&D 5E - Monster Manual.pdf",
     "DND MOC.md",
+    "DND.SRD.Wiki-master/Characterizations/Multiclassing.md",
     "000 Home.md",
     "040 Interests MOC.md",
     "Session 0 Checklist.md",
@@ -441,17 +446,11 @@
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters P.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters O.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters N.md",
-    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters M.md",
     "Media/Focus Checklist.png",
     "DND.SRD.Wiki-master/RE&.logo.png",
     "DND.SRD.Wiki-master/Treasure (Alt)",
     "DND.SRD.Wiki-master/Treasure",
     "DND.SRD.Wiki-master/Spells (Alt)",
-    "DND.SRD.Wiki-master/Spells",
-    "DND.SRD.Wiki-master/Races",
-    "DND.SRD.Wiki-master/Monsters (Alt)",
-    "DND.SRD.Wiki-master/Monsters",
-    "DND.SRD.Wiki-master/Gameplay",
     "Media/DND.SRD.Wiki-master/RE&.logo.png",
     "Media/Pasted image 20240330231528.png",
     "Media/Pasted image 20240330231528 1.png",

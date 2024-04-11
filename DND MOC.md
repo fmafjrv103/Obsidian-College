@@ -64,3 +64,7 @@ Links: [[040 Interests MOC|Interests]]
 - [[002 Artifacts]]
 - [[003 Sentient Magic]]
 ---
+#### Legal
+- [[README]]
+- [[Legal]]
+- [[Changelog]]
