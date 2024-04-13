@@ -36,7 +36,7 @@ This is a list of topics that you, the Dungeon Master, could discuss with your p
 ### The DM Style
 - Improvisation or preparation 
 	- When improvising, give the DM time to think as they are not good at it for now and thinking on the fly will fail to give the players enough information on the topic being improvised.
-- Rules flexibility 
+- Rules flexibility  ^22b846
 	- Depending on the rule and the context that the rule will be applied to, the rule can stand or be taking out when needed(AKA no rule-lawyering).
 - Roam flexibility 
 	- You are able to roam as much as you want as long as the quest of the game session is complete or as much of it that was set for that game session.
@@ -53,9 +53,11 @@ This is a list of topics that you, the Dungeon Master, could discuss with your p
 - Disruptive topics or actions 
 - In-game expectations from players and from the DM 
 - Metagaming 
+	- No metagaming
 - Rules debates 
-	- Refer back to [[]]
+	- Refer back to [[Session 0 Checklist#^22b846|Rules Flexibility]]
 - Handling problematic situations 
+	- If the situation become to problematic or to much to handle, that situation will be scrapped and will not be mentioned.
 - Character deaths 
 - Player vs Player situations 
 - In-game house rule
