@@ -11,17 +11,17 @@
             "id": "36ec342ca645fbe3",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "202404111525",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"202404111525.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":3},\"to\":{\"line\":8,\"ch\":3}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "202404071356 Test Note",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"202404071356 Test Note.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":4}"
                 },
                 {
                   "title": "Barbarian",
@@ -244,7 +244,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202404111525.md",
+                "file": "202404071356 Test Note.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -302,9 +302,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "63991395a36e42f6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "swar8080/AVAILABLE_PLUGIN_UPDATES",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -582,6 +599,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2024032161809 Psychology Presentation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -674,17 +692,17 @@
       "timer:Open timer": false
     }
   },
-  "active": "53a91095c0f3296c",
+  "active": "63991395a36e42f6",
   "lastOpenFiles": [
+    "202404071356 Test Note.md",
+    "202404111525.md",
     "2024032161809 Psychology Presentation.md",
     "Psychology MOC.md",
     "2024032131546 Intro to Psych.md",
     "Drug.md",
     "010 Notes MOC.md",
     "000 Home.md",
-    "202404111525.md",
     "Math MOC.md",
-    "202404071356 Test Note.md",
     "Media/DND Maps/The Impireal City of Hiley.png",
     "Media/DND Maps/The Impireal City of Hiley.png.crdownload",
     "Media/DND Maps",
