@@ -65,7 +65,10 @@ Links: [[040 Interests MOC|Interests]]
 - [[002 Artifacts]]
 - [[003 Sentient Magic]]
 # Books
-
+- [[D&D 5e - DM Guide.pdf|DM Guide]]
+- [[D&D 5E - Player's Handbook.pdf|Player Handbook]]
+- [[D&D 5E - Monster Manual.pdf|Monster Manual]]
+- 
 ---
 #### Legal
 - [[README]]
