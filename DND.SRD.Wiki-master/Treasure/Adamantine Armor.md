@@ -1,9 +1,10 @@
 ---
 date: 2024-04-07 18:43:11
 tags:
-  - newNotes
+  - rpg
+  - dnd
 ---
-Links: 
+Links: [[Magic Items A]]
 
 ---
 ### Adamantine Armor
