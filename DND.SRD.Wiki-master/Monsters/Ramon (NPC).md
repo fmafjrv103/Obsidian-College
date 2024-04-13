@@ -1,4 +1,4 @@
-# Ramon
+### Ramon
 _Human Tiefling(50/50), Chaotic Neutral_
 
 **Armor Class** 12
@@ -30,3 +30,42 @@ _Human Tiefling(50/50), Chaotic Neutral_
 **Crossbow, hand.** _Ranged Weapon Attack_: +3 to hit, range 30 - 120 ft., on range target. _Hit_: (1d6+1) pearcing damage. Once on my turn, when Ramon has advantage, or if enemy of the target is within 5 ft. of it, he can to an additional 4 (1d6) damage to the target.
 
 **Spellcasting.** Ramon casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 12, +4 to hit with spell attacks): At will: _thaumaturgy_
+# Ramon
+```statblock  
+name: Ramon  
+size: Medium  
+type: Human  
+subtype: Tiefling  
+alignment: Chaotic Neutual  
+ac: 12  
+hp: 9  
+hit_dice: d8+2  
+speed: 30 ft.  
+stats: [15, 10, 15, 14, 11, 14]  
+saves:  
+- <ability-score>: number  
+skillsaves:  
+- <skill-name>: number  
+damage_vulnerabilities: string  
+damage_resistances: string  
+damage_immunities: string  
+condition_immunities: string  
+senses: string  
+languages: string  
+cr: number  
+spells:  
+- <description>  
+- <spell level>: <spell-list>  
+traits:  
+- [<trait-name>, <trait-description>]  
+- ...  
+actions:  
+- [<trait-name>, <trait-description>]  
+- ...  
+legendary_actions:  
+- [<legendary_actions-name>, <legendary_actions-description>]  
+- ...  
+reactions:  
+- [<reaction-name>, <reaction-description>]  
+- ...  
+```

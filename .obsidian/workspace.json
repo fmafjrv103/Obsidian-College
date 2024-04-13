@@ -18,10 +18,22 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "NPCs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/NPCs.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":55.44011017032784}"
+                },
+                {
+                  "title": "Monsters",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monsters.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":5},\"to\":{\"line\":43,\"ch\":5}},\"scroll\":24.21910753554251}"
+                },
+                {
                   "title": "DND MOC",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":67,\"ch\":29},\"to\":{\"line\":67,\"ch\":29}},\"scroll\":51.970243885021176}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":57,\"ch\":9},\"to\":{\"line\":57,\"ch\":9}},\"scroll\":34.35585094269901}"
                 },
                 {
                   "title": "040 Interests MOC",
@@ -38,9 +50,12 @@
               ]
             },
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Media/D&D 5e - DM Guide.pdf"
+                "file": "DND.SRD.Wiki-master/Monsters/Ramon (NPC).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -95,9 +110,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "42420e7b69bf8ebe",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "DND MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":68,\"ch\":48},\"to\":{\"line\":68,\"ch\":48}},\"scroll\":41.560016938796714}"
+                },
+                {
+                  "title": "040 Interests MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":11},\"to\":{\"line\":46,\"ch\":11}},\"scroll\":8.465184920615803}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":37},\"to\":{\"line\":20,\"ch\":37}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Media/D&D 5E - Player's Handbook.pdf"
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,12 +238,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 513.5,
-    "collapsed": true
+    "width": 513.5
   },
   "right": {
     "id": "f90594313b89809e",
@@ -375,7 +426,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Session 0 Checklist.md",
+                "file": "DND.SRD.Wiki-master/Monsters/Ramon (NPC).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -468,16 +519,21 @@
       "timer:Open timer": false
     }
   },
-  "active": "4f22c33c48445a5c",
+  "active": "7039790745a2a8ed",
   "lastOpenFiles": [
+    "Media/D&D 5E - Player's Handbook.pdf",
     "DND MOC.md",
+    "040 Interests MOC.md",
+    "000 Home.md",
+    "DND.SRD.Wiki-master/Monsters/Ramon (NPC).md",
+    "DND.SRD.Wiki-master/Monsters (Alt)/NPCs.md",
+    "DND.SRD.Wiki-master/Monsters/Monsters.md",
+    "Media/D&D 5e - DM Guide.pdf",
+    "Session 0 Checklist.md",
     "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items A.md",
     "DND.SRD.Wiki-master/Treasure/Adamantine Armor.md",
     "005 Active MOC.md",
     "202404071615 Character sheet.md",
-    "000 Home.md",
-    "Media/D&D 5e - DM Guide.pdf",
-    "040 Interests MOC.md",
     "202404071356 Test Note.md",
     "2024032161809 Psychology Presentation.md",
     "202404111525.md",
@@ -494,12 +550,7 @@
     "DND.SRD.Wiki-master/Characterizations/Beyond 1st Level.md",
     "DND.SRD.Wiki-master/Characterizations/Multiclassing.md",
     "DND.SRD.Wiki-master/Characterizations/Languages.md",
-    "DND.SRD.Wiki-master/Monsters/Monsters.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md",
-    "DND.SRD.Wiki-master/Monsters/Darkmantle.md",
-    "DND.SRD.Wiki-master/Monsters/Adult Red Dragon (Chromatic).md",
-    "DND.SRD.Wiki-master/Spells/Spell List.md",
-    "Invites.md",
     "Media/456029-How_To.jpg",
     "Media/D&D 5e - HB - School of Geometry.pdf",
     "Media/D&D 5e - Shop Catalog, V-1.8.pdf",
