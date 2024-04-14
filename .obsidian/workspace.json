@@ -364,7 +364,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Invites.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -457,8 +456,9 @@
       "timer:Open timer": false
     }
   },
-  "active": "aefe71cad8c63c26",
+  "active": "53a91095c0f3296c",
   "lastOpenFiles": [
+    "Invites.md",
     "Graduation.md",
     "095 Lists MOC.md",
     "000 Home.md",
@@ -489,7 +489,6 @@
     "DND.SRD.Wiki-master/Classes MOC/Barbarian.md",
     "DND.SRD.Wiki-master/Classes MOC/Classes MOC.md",
     "DND.SRD.Wiki-master/Characterizations/Beyond 1st Level.md",
-    "DND.SRD.Wiki-master/Characterizations/Multiclassing.md",
     "Media/456029-How_To.jpg",
     "Media/D&D 5e - HB - School of Geometry.pdf",
     "Media/D&D 5e - Shop Catalog, V-1.8.pdf",
