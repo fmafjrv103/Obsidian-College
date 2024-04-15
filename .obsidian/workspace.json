@@ -11,17 +11,35 @@
             "id": "b840d5d98953edcd",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Dental Ledger",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"excel-view\",\"state\":{\"file\":\"Dental Ledger.md\"}}",
-                  "eState": "{}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "DND MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":68,\"ch\":43},\"to\":{\"line\":68,\"ch\":43}},\"scroll\":34.592213817757916}"
+                },
+                {
+                  "title": "040 Interests MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":9},\"to\":{\"line\":46,\"ch\":9}},\"scroll\":29.968349573197038}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":33},\"to\":{\"line\":20,\"ch\":33}}}"
+                },
+                {
+                  "title": "085 Finances MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"085 Finances MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":20},\"to\":{\"line\":6,\"ch\":20}}}"
                 },
                 {
                   "title": "000 Home",
@@ -32,12 +50,9 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "085 Finances MOC.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Media/D&D 5E - Player's Handbook.pdf"
               }
             }
           }
@@ -131,7 +146,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -319,7 +335,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "085 Finances MOC.md",
+                "file": "Media/D&D 5E - Player's Handbook.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -412,13 +428,15 @@
       "timer:Open timer": false
     }
   },
-  "active": "b840d5d98953edcd",
+  "active": "016934c0b492b664",
   "lastOpenFiles": [
-    "Dental Ledger.md",
+    "DND MOC.md",
+    "040 Interests MOC.md",
+    "000 Home.md",
     "085 Finances MOC.md",
+    "Dental Ledger.md",
     "Excel 2024-04-15 11.19.21.sheet.md",
     "Tax Ledger.sheet.md",
-    "000 Home.md",
     "202404071356 Test Note.md",
     "DND.SRD.Wiki-master/Monsters/Rat (Creature).md",
     "Media/~$module2Beach.ppt",
@@ -434,8 +452,6 @@
     "DND.SRD.Wiki-master/Monsters/Ramon (NPC).md",
     "DND.SRD.Wiki-master/Monsters (Alt)/NPCs.md",
     "DND.SRD.Wiki-master/Spells/Thaumaturgy.md",
-    "DND MOC.md",
-    "040 Interests MOC.md",
     "DND.SRD.Wiki-master/Monsters/Monsters.md",
     "Media/D&D 5e - DM Guide.pdf",
     "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items A.md",
