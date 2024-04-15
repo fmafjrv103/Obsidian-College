@@ -10,6 +10,7 @@ Links: [[000 Home|Home]]
 ---
 # Content
 - [[College MOC]]
+- [[Math MOC]]
 # Notes
 ```dataview
 table without id

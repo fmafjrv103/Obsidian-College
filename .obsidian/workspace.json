@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "39689b0a2259a1e1",
+        "id": "1681ddbb8506e49f",
         "type": "tabs",
         "children": [
           {
-            "id": "42420e7b69bf8ebe",
+            "id": "cece87053c7674ca",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,74 +18,36 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "DND MOC",
+                  "title": "Math MOC",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":68,\"ch\":48},\"to\":{\"line\":68,\"ch\":48}},\"scroll\":41.560016938796714}"
-                },
-                {
-                  "title": "040 Interests MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":11},\"to\":{\"line\":46,\"ch\":11}},\"scroll\":8.465184920615803}"
-                },
-                {
-                  "title": "000 Home",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":37},\"to\":{\"line\":20,\"ch\":37}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Media/D&D 5E - Player's Handbook.pdf"
-              }
-            }
-          },
-          {
-            "id": "aefe71cad8c63c26",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Graduation",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Graduation.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
                 },
                 {
-                  "title": "095 Lists MOC",
+                  "title": "020 School MOC",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"095 Lists MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"020 School MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":9},\"to\":{\"line\":12,\"ch\":9}}}"
                 },
                 {
                   "title": "000 Home",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":69},\"to\":{\"line\":25,\"ch\":69}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":30},\"to\":{\"line\":18,\"ch\":30}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invites.md",
+                "file": "202404091231 Math Notes 10.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -316,34 +278,48 @@
               "type": "Timer",
               "state": {}
             }
+          },
+          {
+            "id": "fbefa0abdc93e545",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "202404091231 Math Notes 10.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "75f76e921f38c431",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "202404091231 Math Notes 10.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "200e817ff6564844",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "202404091231 Math Notes 10.md"
+              }
+            }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "6f79939fd4bb2213",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "53a91095c0f3296c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          }
-        ]
       },
       {
         "id": "ef395338d2a8fa7a",
@@ -364,6 +340,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "202404091231 Math Notes 10.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -456,12 +433,14 @@
       "timer:Open timer": false
     }
   },
-  "active": "53a91095c0f3296c",
+  "active": "cece87053c7674ca",
   "lastOpenFiles": [
+    "Math MOC.md",
+    "020 School MOC.md",
+    "000 Home.md",
     "Invites.md",
     "Graduation.md",
     "095 Lists MOC.md",
-    "000 Home.md",
     "Media/D&D 5E - Player's Handbook.pdf",
     "Session 0 Checklist.md",
     "DND.SRD.Wiki-master/Monsters/Ramon (NPC).md",
@@ -482,13 +461,11 @@
     "2024032131546 Intro to Psych.md",
     "Drug.md",
     "010 Notes MOC.md",
-    "Math MOC.md",
     "Media/DND Maps/The Impireal City of Hiley.png",
     "Media/DND Maps/The Impireal City of Hiley.png.crdownload",
     "Media/DND Maps",
     "DND.SRD.Wiki-master/Classes MOC/Barbarian.md",
     "DND.SRD.Wiki-master/Classes MOC/Classes MOC.md",
-    "DND.SRD.Wiki-master/Characterizations/Beyond 1st Level.md",
     "Media/456029-How_To.jpg",
     "Media/D&D 5e - HB - School of Geometry.pdf",
     "Media/D&D 5e - Shop Catalog, V-1.8.pdf",
