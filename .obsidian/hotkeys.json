@@ -54,5 +54,14 @@
       ],
       "key": "Backspace"
     }
+  ],
+  "excel:excel-autocreate": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl"
+      ],
+      "key": "E"
+    }
   ]
 }

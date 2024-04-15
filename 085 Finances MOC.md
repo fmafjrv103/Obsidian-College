@@ -20,10 +20,10 @@ Health Insurance Ledger
 General Care Ledger
 Prescription Ledger
 Eye Care Ledger
-Dental Ledger
+[[Dental Ledger|Dental Ledger]]
 
 ## Tax Info
-Tax Ledger
+[[Tax Ledger.sheet|Tax Ledger]]
 
 ## CC Info & Bills
 Annually Recurring Bills
