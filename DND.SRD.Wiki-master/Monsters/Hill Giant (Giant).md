@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 16:30:32
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters G]]
+
+---
+
 ### Hill Giant
 
 *Huge giant, chaotic evil*

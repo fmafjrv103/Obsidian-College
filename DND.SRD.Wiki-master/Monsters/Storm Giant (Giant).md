@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 16:54:57
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters G]]
+
+---
+
 ### Storm Giant
 
 *Huge giant, chaotic good*

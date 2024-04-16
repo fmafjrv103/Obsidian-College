@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 16:50:56
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters G]]
+
+---
+
 ## Gnome, Deep (Svirfneblin)
 
 *Small humanoid (gnome), neutral good*

@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 16:54:24
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters G]]
+
+---
+
 ### Flesh Golem
 
 *Medium construct, neutral*

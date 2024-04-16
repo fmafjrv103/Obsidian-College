@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 16:23:35
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters L]]
+
+---
+
 ### Wereboar (Lycanthrope)
 
 *Medium humanoid (human, shapechanger), neutral evil*

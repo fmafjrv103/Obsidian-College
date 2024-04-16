@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 16:26:57
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters T]]
+
+---
+
 ## Tarrasque
 
 *Gargantuan monstrosity (titan), unaligned*

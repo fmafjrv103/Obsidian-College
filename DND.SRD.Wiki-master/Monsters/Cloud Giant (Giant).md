@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 16:56:05
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters G]]
+
+---
+
 ### Cloud Giant
 
 *Huge giant, neutral good (50%) or neutral evil (50%)*

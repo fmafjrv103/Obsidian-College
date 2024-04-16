@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 16:53:49
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters G]]
+
+---
+
 ### Ghast (Ghoul)
 
 *Medium undead, chaotic evil*

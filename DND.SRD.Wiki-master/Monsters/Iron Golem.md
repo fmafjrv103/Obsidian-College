@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 16:31:36
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters G]]
+
+---
+
 ### Iron Golem
 
 *Large construct, unaligned*

@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 16:32:13
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters G]]
+
+---
+
 ### Stone Golem
 
 *Large construct, unaligned*

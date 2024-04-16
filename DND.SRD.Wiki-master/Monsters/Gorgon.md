@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 16:57:27
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters G]]
+
+---
+
 ## Gorgon
 
 *Large monstrosity, unaligned*

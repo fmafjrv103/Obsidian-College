@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 16:55:31
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters G]]
+
+---
+
 ## Gnoll
 
 *Medium humanoid (gnoll), chaotic evil*

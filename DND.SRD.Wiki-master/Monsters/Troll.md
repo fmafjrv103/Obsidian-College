@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 16:28:17
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters T]]
+
+---
+
 ## Troll
 
 *Large giant, chaotic evil*

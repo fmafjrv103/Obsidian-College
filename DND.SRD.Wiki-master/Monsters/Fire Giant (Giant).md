@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 16:30:00
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters G]]
+
+---
+
 ### Fire Giant
 
 *Huge giant, lawful evil*

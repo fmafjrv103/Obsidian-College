@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 16:51:27
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters G]]
+
+---
+
 ### Efreeti (Genie)
 
 *Large elemental, lawful evil*
