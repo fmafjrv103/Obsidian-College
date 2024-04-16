@@ -476,7 +476,7 @@ $$
 | ------------------- | ------------------- | ---------------------- | ---------------------- | -------------------- | -------------------- |
 | $\circlearrowleft$  | `\circlearrowleft`  | $\leftharpoonup$       | `\leftharpoonup`       | $\Rightarrow$        | `\Rightarrow`        |
 | $\circlearrowright$ | `\circlearrowright` | $\leftleftarrows$      | `\leftleftarrows`      | $\rightarrowtail$    | `\rightarrowtail`    |
-| $\curvearrowleft$   | `\curvearrowleft`   | $\leftrightarrow$      | `\leftrightarrow`      | $\rightharpoondown$  | `\rightharpoondown`  |
+| $\curvearrowleft$   | `\curvearrowleft`   | $\leftrightarrow$      | `\leftrightarrow`      | \rightharpoondown  | `\rightharpoondown`  |
 | $\curvearrowright$  | `\curvearrowright`  | $\Leftrightarrow$      | `\Leftrightarrow`      | $\rightharpoonup$    | `\rightharpoonup`    |
 | $\dashleftarrow$    | `\dashleftarrow`    | $\leftrightarrows$     | `\leftrightarrows`     | $\rightleftarrows$   | `\rightleftarrows`   |
 | $\dashrightarrow$   | `\dashrightarrow`   | $\leftrightharpoons$   | `\leftrightharpoons`   | $\rightleftharpoons$ | `\rightleftharpoons` |
@@ -504,5 +504,10 @@ $$
 | $\upharpoonright$   | `\upharpoonright`   | $\restriction$         | `\restriction`         |                      |                      |
 | $\upuparrows$       | `\upuparrows`       | $\rightarrow$          | `\rightarrow`          |                      |                      |
 
+$$
+\begin{align}
+
+\end{align}
+$$
 
 ---
