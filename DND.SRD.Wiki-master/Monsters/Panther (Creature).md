@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 15:34:06
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures P-R]]
+
+---
+
 ### Panther
 
 *Medium beast, unaligned*

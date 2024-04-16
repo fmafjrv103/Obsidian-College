@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 15:33:32
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures P-R]]
+
+---
+
 ### Rhinoceros
 
 *Large beast, unaligned*

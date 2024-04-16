@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 15:25:29
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures S-U]]
+
+---
+
 ### Swarm of Quippers
 
 *Medium swarm of Tiny beasts, unaligned*

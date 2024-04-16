@@ -1,3 +1,11 @@
+---
+date: 2024-04-16 15:43:20
+tags:
+---
+Links: [[Monsters]], [[Creatures V-Z]]
+
+---
+
 ### Weasel
 
 *Tiny beast, unaligned*

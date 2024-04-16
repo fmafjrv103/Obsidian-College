@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 15:28:10
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures S-U]]
+
+---
+
 ### Swarm of Bats
 
 *Medium swarm of Tiny beasts, unaligned*

@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 15:34:32
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures P-R]]
+
+---
+
 ### Raven
 
 *Tiny beast, unaligned*

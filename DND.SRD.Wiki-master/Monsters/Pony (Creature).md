@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 15:31:08
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures P-R]]
+
+---
+
 ### Pony
 
 *Medium beast, unaligned*

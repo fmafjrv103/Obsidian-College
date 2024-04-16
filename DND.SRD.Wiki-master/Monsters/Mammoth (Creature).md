@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 15:14:34
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures M-O]]
+
+---
+
 ### Mammoth
 
 *Huge beast, unaligned*

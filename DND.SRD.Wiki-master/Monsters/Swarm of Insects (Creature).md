@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 15:23:43
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures S-U]]
+
+---
+
 ### Swarm of Insects
 
 *Medium swarm of Tiny beasts, unaligned*

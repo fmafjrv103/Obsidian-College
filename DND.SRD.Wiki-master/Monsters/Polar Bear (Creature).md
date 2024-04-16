@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 15:42:21
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures P-R]]
+
+---
+
 ### Polar Bear
 
 *Large beast, unaligned*

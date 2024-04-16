@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 15:15:51
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures S-U]]
+
+---
+
 ### Swarm of Poisonous Snakes
 
 *Medium swarm of Tiny beasts, unaligned*

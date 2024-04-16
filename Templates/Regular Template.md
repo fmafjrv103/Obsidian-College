@@ -1,10 +1,7 @@
 ---
 date: {{date}} {{time}}
-tags: newNotes
+tags: 
 ---
 Links: 
-
----
-
 
 ---

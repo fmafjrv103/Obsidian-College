@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 15:23:16
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures S-U]]
+
+---
+
 ### Swarm of Rats
 
 *Medium swarm of Tiny beasts, unaligned*

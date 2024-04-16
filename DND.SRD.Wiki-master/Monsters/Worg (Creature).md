@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 15:42:49
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures V-Z]]
+
+---
+
 ### Worg
 
 *Large monstrosity, neutral evil*

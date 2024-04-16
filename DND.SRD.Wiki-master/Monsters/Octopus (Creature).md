@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 15:15:08
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures M-O]]
+
+---
+
 ### Octopus
 
 *Small beast, unaligned*

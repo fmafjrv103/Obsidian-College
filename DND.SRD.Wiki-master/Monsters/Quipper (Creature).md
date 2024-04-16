@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 15:41:59
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures P-R]]
+
+---
+
 ### Quipper
 
 *Tiny beast, unaligned*

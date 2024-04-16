@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 15:29:21
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures S-U]]
+
+---
+
 ### Tiger
 
 *Large beast, unaligned*
