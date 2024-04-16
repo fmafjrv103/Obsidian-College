@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 12:42:37
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures J-L]]
+
+---
+
 ### Lion
 
 *Large beast, unaligned*

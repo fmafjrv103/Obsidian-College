@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 12:44:35
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures D-F]]
+
+---
+
 ### Frog
 
 *Tiny beast, unaligned*

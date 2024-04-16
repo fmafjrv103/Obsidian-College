@@ -18,6 +18,48 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Creatures D-F",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Creatures D-F.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Frog (Creature)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Frog (Creature).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":24},\"to\":{\"line\":15,\"ch\":24}}}"
+                },
+                {
+                  "title": "Creatures D-F",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Creatures D-F.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Monsters",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monsters.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":11},\"to\":{\"line\":11,\"ch\":11}}}"
+                },
+                {
+                  "title": "Creatures J-L",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Creatures J-L.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Lion (Creature)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Lion (Creature).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":38},\"to\":{\"line\":5,\"ch\":38}}}"
+                },
+                {
+                  "title": "Creatures J-L",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Creatures J-L.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
                   "title": "Killer Whale (Creature)",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Killer Whale (Creature).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -400,14 +442,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Creatures J-L.md",
+                "file": "DND.SRD.Wiki-master/Monsters/Flying Snake (Creature).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "250b8791c6256c05",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Creatures D-F.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -686,7 +751,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Creatures J-L.md",
+                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Creatures D-F.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -779,10 +844,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5ec7a071ec894ab6",
+  "active": "250b8791c6256c05",
   "lastOpenFiles": [
-    "DND.SRD.Wiki-master/Monsters/Killer Whale (Creature).md",
+    "DND.SRD.Wiki-master/Monsters/Flying Snake (Creature).md",
+    "DND.SRD.Wiki-master/Monsters (Alt)/Creatures D-F.md",
+    "DND.SRD.Wiki-master/Monsters/Frog (Creature).md",
+    "DND.SRD.Wiki-master/Monsters/Monsters.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Creatures J-L.md",
+    "DND.SRD.Wiki-master/Monsters/Lion (Creature).md",
+    "DND.SRD.Wiki-master/Monsters/Killer Whale (Creature).md",
     "DND.SRD.Wiki-master/Monsters/Jackal (Creature).md",
     "DND.SRD.Wiki-master/Monsters/Lizard (Creature).md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Creatures A-C.md",
@@ -802,11 +872,6 @@
     "DND.SRD.Wiki-master/Monsters/Bat (Creature).md",
     "DND.SRD.Wiki-master/Monsters/Ape (Creature).md",
     "DND.SRD.Wiki-master/Monsters/Awakened Tree (Creature).md",
-    "DND.SRD.Wiki-master/Monsters/Awakened Shrub (Creature).md",
-    "DND.SRD.Wiki-master/Monsters/Monsters.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/001 Magic Items MOC.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items A.md",
-    "000 Home.md",
     "Media/D&D 5E - Player's Handbook.pdf",
     "Media/dragon-size-chart-3-1small.jpg",
     "Media/a9y8f7f48bc51.jpg",

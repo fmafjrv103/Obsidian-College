@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 12:45:25
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures D-F]]
+
+---
+
 ### Flying Snake
 
 *Tiny beast, unaligned*
