@@ -8,55 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b840d5d98953edcd",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "DND MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":68,\"ch\":43},\"to\":{\"line\":68,\"ch\":43}},\"scroll\":34.592213817757916}"
-                },
-                {
-                  "title": "040 Interests MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":9},\"to\":{\"line\":46,\"ch\":9}},\"scroll\":29.968349573197038}"
-                },
-                {
-                  "title": "000 Home",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":33},\"to\":{\"line\":20,\"ch\":33}}}"
-                },
-                {
-                  "title": "085 Finances MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"085 Finances MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":20},\"to\":{\"line\":6,\"ch\":20}}}"
-                },
-                {
-                  "title": "000 Home",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":59},\"to\":{\"line\":24,\"ch\":59}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Media/D&D 5E - Player's Handbook.pdf"
-              }
-            }
-          },
-          {
             "id": "5ec7a071ec894ab6",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -65,6 +16,18 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":17.98236447517666}"
+                },
+                {
+                  "title": "Monsters D",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":6}"
                 },
                 {
                   "title": "Balor (Demon)",
@@ -137,15 +100,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md",
+                "file": "LaTeX.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -424,7 +386,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md",
+                "file": "LaTeX.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -519,12 +481,12 @@
   },
   "active": "5ec7a071ec894ab6",
   "lastOpenFiles": [
-    "DND.SRD.Wiki-master/Monsters/Balor (Demon).md",
+    "000 Home.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md",
+    "DND.SRD.Wiki-master/Monsters/Balor (Demon).md",
     "DND.SRD.Wiki-master/Monsters/Darkmantle.md",
     "202404071356 Test Note.md",
     "005 Active MOC.md",
-    "000 Home.md",
     "040 Interests MOC.md",
     "DND MOC.md",
     "DND.SRD.Wiki-master/Monsters/Monsters.md",
