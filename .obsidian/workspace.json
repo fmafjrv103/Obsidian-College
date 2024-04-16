@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "LaTeX",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"LaTeX.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":105,\"ch\":38},\"to\":{\"line\":105,\"ch\":38}},\"scroll\":7}"
+                },
+                {
                   "title": "000 Home",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -100,7 +106,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LaTeX.md",
+                "file": "000 Home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -386,7 +392,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "LaTeX.md",
+                "file": "000 Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -481,6 +487,7 @@
   },
   "active": "5ec7a071ec894ab6",
   "lastOpenFiles": [
+    "LaTeX.md",
     "000 Home.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md",
     "DND.SRD.Wiki-master/Monsters/Balor (Demon).md",
@@ -512,7 +519,6 @@
     "DND.SRD.Wiki-master/Monsters (Alt)/NPCs.md",
     "DND.SRD.Wiki-master/Spells/Thaumaturgy.md",
     "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items A.md",
-    "DND.SRD.Wiki-master/Treasure/Adamantine Armor.md",
     "Media/DND Maps/The Impireal City of Hiley.png",
     "Media/DND Maps/The Impireal City of Hiley.png.crdownload",
     "Media/DND Maps",

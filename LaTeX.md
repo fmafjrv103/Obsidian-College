@@ -43,7 +43,7 @@ Example based on KaTeX showing in one line: $\int_0^\infty x^2 dx$
 | $\widehat{ac}$`\widehat{ac}` | $\underline{AB}$`\underline{AB}`                     |
 
 ## Delimiter Sizing
-|                               |                               |
+| Output                        |                               |
 | ----------------------------- | ----------------------------- |
 | $\left(\LARGE{AB}\right)$     | `\left(\LARGE{AB}\right)`     |
 | $( \big( \Big( \bigg( \Bigg($ | `( \big( \Big( \bigg( \Bigg(` |
@@ -56,7 +56,7 @@ Example based on KaTeX showing in one line: $\int_0^\infty x^2 dx$
 | `\right`  | `\bigg` | `\biggl` | `\biggm` | `\biggr` |
 | `\`       | `\Bigg` | `\Biggl` | `\Biggm` | `\Biggr` |
 ## Greek and Hebrew Letters
-|            |            |            |            |            |            |               |               |
+|   Output   | Input      | Output     | Input      | Output     | Input      | Output        | Input         |
 | :--------: | ---------- | ---------- | ---------- | ---------- | ---------- | ------------- | ------------- |
 |  $\alpha$  | `\alpha`   | $\kappa$   | `\kappa`   | $\psi$     | `\psi`     | $\digamma$    | `\digamma`    |
 |  $\beta$   | `\beta`    | $\lambda$  | `\lambda`  | $\rho$     | `\rho`     | $\varepsilon$ | `\varepsilon` |
@@ -73,7 +73,7 @@ Example based on KaTeX showing in one line: $\int_0^\infty x^2 dx$
 
 ### Other letters
 
-|            |            |           |           |
+|            | Input      |           | Input     |
 | ---------- | ---------- | --------- | --------- |
 | $\imath$   | `\imath`   | $\Im$     | `\Im`     |
 | $\jmath$   | `\jmath`   | $\wp$     | `\wp`     |
@@ -85,7 +85,7 @@ Example based on KaTeX showing in one line: $\int_0^\infty x^2 dx$
 | $\Game$    | `\Game`    | $\hslash$ | `\hslash` |
 | $\eth$     | `\eth`     |           |           |
 ## Annotation
-|                         |                         |                                    |                                    |
+|         Output          |          Input          |               Output               |               Input                |
 |:-----------------------:|:-----------------------:|:----------------------------------:|:----------------------------------:|
 |      $\cancel{5}$​      |      `\cancel{5}`       | $\overbrace{a+b+c}^{\text{note}}$  | `\overbrace{a+b+c}^{\text{note}}`  |
 |      $\bcancel{5}$      |      `\bcancel{5}`      | $\underbrace{a+b+c}^{\text{note}}$ | `\underbrace{a+b+c}_{\text{note}}` |
@@ -96,21 +96,21 @@ $\tag{hi} x+y^{2x}$
 `\tag*{hi} x+y^{2x}`
 $\tag*{hi} x+y^{2x}$
 # Vertical Layout
-|                                  |                                  |                   |                   |
+|              Output              |              Input               | Output            |       Input       |
 |:--------------------------------:|:--------------------------------:| ----------------- |:-----------------:|
 |              $x_n$​              |              `x_n`               | $a\atop b$        |    `a \atop b`    |
 |              $e^x$               |              `e^x`               | $\overset{!}{=}$  | `\overset{!}{=}`  |
 |              $_u^o$              |              `_u^o`              | $\underset{!}{=}$ | `\underset{!}{=}` |
 | $\sum_{\substack{0<i<m\\0<j<n}}$ | `\sum_{\substack{0<i<m\\0<j<n}}` |                   |                   |
 # Overlap and Spacing
-|                                     |                              |                            |
+|                                     |            Output            |                            |
 |:-----------------------------------:|:----------------------------:|:--------------------------:|
 | ${=}\mathllap{/,}$ {=}\mathllap{/,} | $\left(x^{\smash{2}}\right)$ | \left(x^{\smash{2}}\right) |
 | $\mathllap{,/}{=}$ \mathrlap{,/}{=} |    $\sqrt{\smash[b]{y}}$     |    \sqrt{\smash[b]{y}}     |
 `\sum_{\mathclap{1\le i\le j\le n}} x_{ij}`
 $\sum_{\mathclap{1\le i\le j\le n}} x_{ij}$
 # LaTeX Math Constructs
-|                    |                   |                   |                   |                        |                        |
+|       Output       |       Input       |      Output       |       Input       |         Output         |         Input          |
 |:------------------:|:-----------------:|:-----------------:|:-----------------:|:----------------------:|:----------------------:|
 | $\frac{abc}{xyz}$​ | `\frac{abc}{xyz}` | $\overline{abc}$  | `\overline{abc}`  | $\overrightarrow{abc}$ | `\overrightarrow{abc}` |
 |        $f'$        |       `f'`        | $\underline{abc}$ | `\underline{abc}` | $\overleftarrow{abc}$  | `\overleftarrow{abc}`  |
