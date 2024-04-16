@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 12:38:41
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures A-C]]
+
+---
+
 ### Blink Dog
 
 *Medium fey, lawful good*

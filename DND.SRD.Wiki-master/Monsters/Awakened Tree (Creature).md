@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 12:19:52
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures A-C]]
+
+---
+
 ### Awakened Tree
 
 *Huge plant, unaligned*

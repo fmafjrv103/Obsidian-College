@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 12:17:47
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures A-C]]
+
+---
+
 ### Awakened Shrub
 
 *Small plant, unaligned*

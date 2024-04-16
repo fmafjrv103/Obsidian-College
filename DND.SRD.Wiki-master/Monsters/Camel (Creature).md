@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 12:21:53
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures A-C]]
+
+---
+
 ### Camel
 
 *Large beast, unaligned*

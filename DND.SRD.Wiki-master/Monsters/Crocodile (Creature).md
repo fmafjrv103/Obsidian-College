@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 12:36:54
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures A-C]]
+
+---
+
 ### Crocodile
 
 *Large beast, unaligned*

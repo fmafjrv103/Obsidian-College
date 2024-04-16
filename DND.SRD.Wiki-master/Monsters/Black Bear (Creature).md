@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 12:39:14
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures A-C]]
+
+---
+
 ### Black Bear
 
 *Medium beast, unaligned*

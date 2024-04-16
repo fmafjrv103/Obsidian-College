@@ -1,7 +1,7 @@
 ---
 date: 2024-04-07 19:11:32
 tags:
-  - newNotes
+  - dnd
 ---
 Links: [[001 Magic Items MOC|Magic Items]]
 

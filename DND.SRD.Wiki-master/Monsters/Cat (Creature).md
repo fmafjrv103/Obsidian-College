@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 12:37:30
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures A-C]]
+
+---
+
 ### Cat
 
 *Tiny beast, unaligned*

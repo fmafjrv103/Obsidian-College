@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 12:38:07
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures A-C]]
+
+---
+
 ### Brown Bear
 
 *Large beast, unaligned*

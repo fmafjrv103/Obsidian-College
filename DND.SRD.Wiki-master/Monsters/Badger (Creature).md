@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 12:23:16
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures A-C]]
+
+---
+
 ### Badger
 
 *Tiny beast, unaligned*

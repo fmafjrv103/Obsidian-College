@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 12:34:06
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures A-C]]
+
+---
+
 ### Baboon
 
 *Small beast, unaligned*

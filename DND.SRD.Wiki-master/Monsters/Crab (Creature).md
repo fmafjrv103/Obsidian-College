@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 12:25:05
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures A-C]]
+
+---
+
 ### Crab
 
 *Tiny beast, unaligned*

@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 12:22:33
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures A-C]]
+
+---
+
 ### Boar
 
 *Medium beast, unaligned*

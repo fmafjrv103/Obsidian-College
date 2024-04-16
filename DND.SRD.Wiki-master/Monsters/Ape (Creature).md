@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 12:16:47
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures A-C]]
+
+---
+
 ### Ape
 
 *Medium beast, unaligned*

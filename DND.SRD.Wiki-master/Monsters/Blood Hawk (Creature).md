@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 12:23:48
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures A-C]]
+
+---
+
 ### Blood Hawk
 
 *Small beast, unaligned*
