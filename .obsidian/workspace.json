@@ -67,6 +67,36 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Balor (Demon)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Balor (Demon).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":19},\"to\":{\"line\":5,\"ch\":19}},\"scroll\":0}"
+                },
+                {
+                  "title": "Monsters D",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":10.542683857698359}"
+                },
+                {
+                  "title": "Darkmantle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Darkmantle.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":19},\"to\":{\"line\":5,\"ch\":19}},\"scroll\":5}"
+                },
+                {
+                  "title": "Monsters D",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "202404071356 Test Note",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"202404071356 Test Note.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":18},\"to\":{\"line\":4,\"ch\":18}},\"scroll\":4}"
+                },
+                {
                   "title": "005 Active MOC",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005 Active MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -107,7 +137,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202404071356 Test Note.md",
+                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -394,7 +424,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "202404071356 Test Note.md",
+                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -489,12 +519,15 @@
   },
   "active": "5ec7a071ec894ab6",
   "lastOpenFiles": [
+    "DND.SRD.Wiki-master/Monsters/Balor (Demon).md",
+    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md",
+    "DND.SRD.Wiki-master/Monsters/Darkmantle.md",
+    "202404071356 Test Note.md",
     "005 Active MOC.md",
     "000 Home.md",
     "040 Interests MOC.md",
     "DND MOC.md",
     "DND.SRD.Wiki-master/Monsters/Monsters.md",
-    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md",
     "Media/D&D 5E - Player's Handbook.pdf",
     "Media/dragon-size-chart-3-1small.jpg",
     "Media/a9y8f7f48bc51.jpg",
@@ -503,7 +536,6 @@
     "Dental Ledger.md",
     "Excel 2024-04-15 11.19.21.sheet.md",
     "Tax Ledger.sheet.md",
-    "202404071356 Test Note.md",
     "DND.SRD.Wiki-master/Monsters/Rat (Creature).md",
     "Media/~$module2Beach.ppt",
     "Media/~$module 3Beach(1).ppt",
@@ -519,7 +551,6 @@
     "DND.SRD.Wiki-master/Spells/Thaumaturgy.md",
     "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items A.md",
     "DND.SRD.Wiki-master/Treasure/Adamantine Armor.md",
-    "202404071615 Character sheet.md",
     "Media/DND Maps/The Impireal City of Hiley.png",
     "Media/DND Maps/The Impireal City of Hiley.png.crdownload",
     "Media/DND Maps",
