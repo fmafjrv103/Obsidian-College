@@ -460,6 +460,120 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Monsters F",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Monsters F.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":94},\"to\":{\"line\":17,\"ch\":94}},\"scroll\":14.09365227923289}"
+                },
+                {
+                  "title": "Monsters E",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Monsters E.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":78},\"to\":{\"line\":27,\"ch\":78}},\"scroll\":24.204131666255485}"
+                },
+                {
+                  "title": "Monsters D",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":175,\"ch\":59},\"to\":{\"line\":175,\"ch\":59}},\"scroll\":172.3465380327603}"
+                },
+                {
+                  "title": "Monsters C",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Monsters C.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":45},\"to\":{\"line\":23,\"ch\":45}},\"scroll\":20.494636158985767}"
+                },
+                {
+                  "title": "Monsters B",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Monsters B.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":28},\"to\":{\"line\":19,\"ch\":28}},\"scroll\":16.198228257741984}"
+                },
+                {
+                  "title": "Monsters A",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Monsters A.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":15},\"to\":{\"line\":34,\"ch\":15}},\"scroll\":31.271163913877214}"
+                },
+                {
+                  "title": "Monsters D",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":175,\"ch\":14},\"to\":{\"line\":175,\"ch\":14}},\"scroll\":172.316042896892}"
+                },
+                {
+                  "title": "NPCs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/NPCs.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Creatures G-I",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Creatures G-I.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Giant Fire Beetle (Creature)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Giant Fire Beetle (Creature).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":38},\"to\":{\"line\":5,\"ch\":38}}}"
+                },
+                {
+                  "title": "Creatures G-I",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Creatures G-I.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Giant Crocodile (Creature)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Giant Crocodile (Creature).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":25},\"to\":{\"line\":5,\"ch\":25}}}"
+                },
+                {
+                  "title": "Creatures G-I",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Creatures G-I.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Giant Boar (Creature)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Giant Boar (Creature).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":26},\"to\":{\"line\":5,\"ch\":26}},\"scroll\":0}"
+                },
+                {
+                  "title": "Creatures G-I",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Creatures G-I.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":12.852106562531322}"
+                },
+                {
+                  "title": "Giant Bat (Creature)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Giant Bat (Creature).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":24},\"to\":{\"line\":5,\"ch\":24}},\"scroll\":0}"
+                },
+                {
+                  "title": "Creatures G-I",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Creatures G-I.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":12.570325863861113}"
+                },
+                {
+                  "title": "Giant Badger (Creature)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Giant Badger (Creature).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":25},\"to\":{\"line\":5,\"ch\":25}},\"scroll\":0}"
+                },
+                {
+                  "title": "Creatures G-I",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Creatures G-I.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":10.62256696334443}"
+                },
+                {
                   "title": "Giant Ape (Creature)",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Giant Ape (Creature).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -716,7 +830,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Creatures G-I.md",
+                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Monsters G.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -1003,7 +1117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Creatures G-I.md",
+                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Monsters G.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -1098,8 +1212,20 @@
   },
   "active": "250b8791c6256c05",
   "lastOpenFiles": [
-    "DND.SRD.Wiki-master/Monsters/Giant Ape (Creature).md",
+    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters F.md",
+    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters E.md",
+    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md",
+    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters C.md",
+    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters B.md",
+    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters A.md",
+    "DND.SRD.Wiki-master/Monsters (Alt)/NPCs.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Creatures G-I.md",
+    "DND.SRD.Wiki-master/Monsters/Giant Fire Beetle (Creature).md",
+    "DND.SRD.Wiki-master/Monsters/Giant Crocodile (Creature).md",
+    "DND.SRD.Wiki-master/Monsters/Giant Boar (Creature).md",
+    "DND.SRD.Wiki-master/Monsters/Giant Bat (Creature).md",
+    "DND.SRD.Wiki-master/Monsters/Giant Badger (Creature).md",
+    "DND.SRD.Wiki-master/Monsters/Giant Ape (Creature).md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Creatures D-F.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Creatures A-C.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Creatures V-Z.md",
@@ -1112,18 +1238,6 @@
     "DND.SRD.Wiki-master/Monsters/Wyvern.md",
     "DND.SRD.Wiki-master/Monsters/Wight.md",
     "DND.SRD.Wiki-master/Monsters/Will-o'-Wisp.md",
-    "DND.SRD.Wiki-master/Monsters/Wraith.md",
-    "DND.SRD.Wiki-master/Monsters/Deer (Creature).md",
-    "DND.SRD.Wiki-master/Monsters/Dire Wolf (Creature).md",
-    "DND.SRD.Wiki-master/Monsters/Elephant (Creature).md",
-    "DND.SRD.Wiki-master/Monsters/Draft Horse (Creature).md",
-    "DND.SRD.Wiki-master/Monsters/Elk (Creature).md",
-    "DND.SRD.Wiki-master/Monsters/Death Dog (Creature).md",
-    "DND.SRD.Wiki-master/Monsters/Eagle (Creature).md",
-    "DND.SRD.Wiki-master/Monsters/Flying Snake (Creature).md",
-    "DND.SRD.Wiki-master/Monsters/Frog (Creature).md",
-    "DND.SRD.Wiki-master/Monsters/Lion (Creature).md",
-    "DND.SRD.Wiki-master/Monsters/Killer Whale (Creature).md",
     "Media/D&D 5E - Player's Handbook.pdf",
     "Media/dragon-size-chart-3-1small.jpg",
     "Media/a9y8f7f48bc51.jpg",

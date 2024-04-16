@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 13:47:29
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures G-I]]
+
+---
+
 ### Giant Bat
 
 *Large beast, unaligned*

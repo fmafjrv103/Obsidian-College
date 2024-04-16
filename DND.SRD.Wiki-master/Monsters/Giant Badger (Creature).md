@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 13:46:42
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures G-I]]
+
+---
+
 ### Giant Badger
 
 *Medium beast, unaligned*

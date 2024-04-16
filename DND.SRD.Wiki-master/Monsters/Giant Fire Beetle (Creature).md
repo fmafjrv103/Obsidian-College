@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 14:06:19
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures G-I]]
+
+---
+
 ### Giant Fire Beetle
 
 *Small beast, unaligned*
