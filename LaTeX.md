@@ -27,8 +27,9 @@ Example: `KaTeX:\int_0^\infty x^2 dx`
 Example based on KaTeX showing in one line: $\int_0^\infty x^2 dx$ 
 # Supported Functions
 ## Accents
-| $a'$`a'`                     | $\tilde{a}$`\tilde{a}`                               |
+|                              |                                                      |
 | ---------------------------- | ---------------------------------------------------- |
+| $a'$`a'`                     | $\tilde{a}$`\tilde{a}`                               |
 | $a''$`a''`                   | $\widetilde{ac}$`\widetilde{ac}`                     |
 | $a^{\prime}$`a^{\prime}`     | $\mathring{g}$`\mathring{g}`                         |
 | $\acute{a}$`\acute{a}`       | $\vec{F}$`\vec{F}`                                   |
@@ -42,19 +43,22 @@ Example based on KaTeX showing in one line: $\int_0^\infty x^2 dx$
 | $\widehat{ac}$`\widehat{ac}` | $\underline{AB}$`\underline{AB}`                     |
 
 ## Delimiter Sizing
-| $\left(\LARGE{AB}\right)$     | `\left(\LARGE{AB}\right)`     |
+|                               |                               |
 | ----------------------------- | ----------------------------- |
+| $\left(\LARGE{AB}\right)$     | `\left(\LARGE{AB}\right)`     |
 | $( \big( \Big( \bigg( \Bigg($ | `( \big( \Big( \bigg( \Bigg(` |
 
 
-| `\left`   | `\big`  | `\bigl`  | `\bigm`  | `\bigr`  |
+|           |         |          |          |          |
 | --------- | ------- | -------- | -------- | -------- |
+| `\left`   | `\big`  | `\bigl`  | `\bigm`  | `\bigr`  |
 | `\middle` | `\Big`  | `\Bigl`  | `\Bigm`  | `\Bigr`  |
 | `\right`  | `\bigg` | `\biggl` | `\biggm` | `\biggr` |
 | `\`       | `\Bigg` | `\Biggl` | `\Biggm` | `\Biggr` |
 ## Greek and Hebrew Letters
-|  $\alpha$  | `\alpha`   | $\kappa$   | `\kappa`   | $\psi$     | `\psi`     | $\digamma$    | `\digamma`    |
+|            |            |            |            |            |            |               |               |
 | :--------: | ---------- | ---------- | ---------- | ---------- | ---------- | ------------- | ------------- |
+|  $\alpha$  | `\alpha`   | $\kappa$   | `\kappa`   | $\psi$     | `\psi`     | $\digamma$    | `\digamma`    |
 |  $\beta$   | `\beta`    | $\lambda$  | `\lambda`  | $\rho$     | `\rho`     | $\varepsilon$ | `\varepsilon` |
 |   $\chi$   | `\chi`     | $\mu$      | `\mu`      | $\sigma$   | `\sigma`   | $\varkappa$   | `\varkappa`   |
 |  $\delta$  | `\delta`   | $\nu$      | `\nu`      | $\tau$     | `\tau`     | $\varphi$     | `\varphi`     |
@@ -66,12 +70,12 @@ Example based on KaTeX showing in one line: $\int_0^\infty x^2 dx$
 |  $\Gamma$  | `\Gamma`   | $\Upsilon$ | `\Upsilon` | $\Pi$      | `\Pi`      | $\beth$       | `\beth`       |
 | $\lambda$  | `\Lambda`  | $\Xi$      | `\Xi`      | $\Psi$     | `\Psi`     | $\daleth$     | `\daleth`     |
 |  $\Omega$  | `\Omega`   | $\gimel$   | `\gimel`   | $\Sigma$   | `\Sigma`   |               |               |
-|            |            |            |            |            |            |               |               |
 
 ### Other letters
 
-| $\imath$   | `\imath`   | $\Im$     | `\Im`     |
+|            |            |           |           |
 | ---------- | ---------- | --------- | --------- |
+| $\imath$   | `\imath`   | $\Im$     | `\Im`     |
 | $\jmath$   | `\jmath`   | $\wp$     | `\wp`     |
 | $\aleph$   | `\aleph`   | $\Bbbk$   | `\Bbbk`   |
 | $\nabla$   | `\nabla`   | $\Finv$   | `\Finv`   |
