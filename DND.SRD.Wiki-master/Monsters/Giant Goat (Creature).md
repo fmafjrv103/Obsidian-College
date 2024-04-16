@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 14:35:25
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures G-I]]
+
+---
+
 ### Giant Goat
 
 *Large beast, unaligned*

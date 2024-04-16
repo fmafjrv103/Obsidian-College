@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 14:39:27
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures G-I]]
+
+---
+
 ### Giant Centipede
 
 *Small beast, unaligned*

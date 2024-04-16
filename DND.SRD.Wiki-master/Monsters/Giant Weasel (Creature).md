@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 14:32:10
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures G-I]]
+
+---
+
 ### Giant Weasel
 
 *Medium beast, unaligned*

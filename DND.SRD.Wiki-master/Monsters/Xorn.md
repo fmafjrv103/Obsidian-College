@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 14:42:39
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters X]]
+
+---
+
 ## Xorn
 
 *Medium elemental, neutral*

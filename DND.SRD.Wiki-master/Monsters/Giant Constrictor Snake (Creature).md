@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 14:34:48
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures G-I]]
+
+---
+
 ### Giant Constrictor Snake
 
 *Huge beast, unaligned*

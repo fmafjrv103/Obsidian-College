@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 14:38:38
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures G-I]]
+
+---
+
 ### Giant Eagle
 
 *Large beast, neutral good*

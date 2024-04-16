@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 14:40:14
+tags:
+  - newNotes
+---
+Links: [[Monsters]], [[Monsters N]]
+
+---
+
 ### Spirit Naga
 
 *Large monstrosity, chaotic evil*
