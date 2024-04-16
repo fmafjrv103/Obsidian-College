@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 14:51:07
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures G-I]]
+
+---
+
 ### Giant Octopus
 
 *Large beast, unaligned*

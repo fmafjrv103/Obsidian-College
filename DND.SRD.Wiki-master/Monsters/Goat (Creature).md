@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 14:49:42
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures G-I]]
+
+---
+
 ### Goat
 
 *Medium beast, unaligned*

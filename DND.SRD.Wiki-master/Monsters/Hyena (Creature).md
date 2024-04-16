@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 14:53:06
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures G-I]]
+
+---
+
 ### Hyena
 
 *Medium beast, unaligned*

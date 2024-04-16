@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 14:44:48
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures G-I]]
+
+---
+
 ### Giant Wasp
 
 *Medium beast, unaligned*

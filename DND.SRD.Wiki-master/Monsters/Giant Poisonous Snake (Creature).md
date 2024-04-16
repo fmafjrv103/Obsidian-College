@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 14:52:24
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures G-I]]
+
+---
+
 ### Giant Poisonous Snake
 
 *Medium beast, unaligned*

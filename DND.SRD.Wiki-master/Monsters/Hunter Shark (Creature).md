@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 14:48:47
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures G-I]]
+
+---
+
 ### Hunter Shark
 
 *Large beast, unaligned*

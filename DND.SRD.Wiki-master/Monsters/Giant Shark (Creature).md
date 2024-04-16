@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 14:57:04
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures G-I]]
+
+---
+
 ### Giant Shark
 
 *Huge beast, unaligned*

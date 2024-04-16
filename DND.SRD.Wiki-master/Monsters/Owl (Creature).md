@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 15:12:41
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures M-O]]
+
+---
+
 ### Owl
 
 *Tiny beast, unaligned*

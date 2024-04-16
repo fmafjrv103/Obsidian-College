@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 14:56:30
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures G-I]]
+
+---
+
 ### Giant Rat
 
 *Small beast, unaligned*

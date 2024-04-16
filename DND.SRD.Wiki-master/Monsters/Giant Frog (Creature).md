@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 14:57:35
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures G-I]]
+
+---
+
 ### Giant Frog
 
 *Medium beast, unaligned*

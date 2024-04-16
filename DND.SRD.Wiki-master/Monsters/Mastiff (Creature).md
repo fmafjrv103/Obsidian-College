@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 15:13:28
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures M-O]]
+
+---
+
 ### Mastiff
 
 *Medium beast, unaligned*

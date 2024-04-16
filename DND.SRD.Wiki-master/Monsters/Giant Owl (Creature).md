@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 14:45:51
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures G-I]]
+
+---
+
 ### Giant Owl
 
 *Large beast, neutral*
