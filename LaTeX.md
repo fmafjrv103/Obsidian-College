@@ -54,7 +54,7 @@ Example based on KaTeX showing in one line: $\int_0^\infty x^2 dx$
 | `\`       | `\Bigg` | `\Biggl` | `\Biggm` | `\Biggr` |
 ## Greek and Hebrew Letters
 |  $\alpha$  | `\alpha`   | $\kappa$   | `\kappa`   | $\psi$     | `\psi`     | $\digamma$    | `\digamma`    |
-|:----------:| ---------- | ---------- | ---------- | ---------- | ---------- | ------------- | ------------- |
+| :--------: | ---------- | ---------- | ---------- | ---------- | ---------- | ------------- | ------------- |
 |  $\beta$   | `\beta`    | $\lambda$  | `\lambda`  | $\rho$     | `\rho`     | $\varepsilon$ | `\varepsilon` |
 |   $\chi$   | `\chi`     | $\mu$      | `\mu`      | $\sigma$   | `\sigma`   | $\varkappa$   | `\varkappa`   |
 |  $\delta$  | `\delta`   | $\nu$      | `\nu`      | $\tau$     | `\tau`     | $\varphi$     | `\varphi`     |
@@ -66,6 +66,7 @@ Example based on KaTeX showing in one line: $\int_0^\infty x^2 dx$
 |  $\Gamma$  | `\Gamma`   | $\Upsilon$ | `\Upsilon` | $\Pi$      | `\Pi`      | $\beth$       | `\beth`       |
 | $\lambda$  | `\Lambda`  | $\Xi$      | `\Xi`      | $\Psi$     | `\Psi`     | $\daleth$     | `\daleth`     |
 |  $\Omega$  | `\Omega`   | $\gimel$   | `\gimel`   | $\Sigma$   | `\Sigma`   |               |               |
+|            |            |            |            |            |            |               |               |
 
 ### Other letters
 
@@ -81,10 +82,10 @@ Example based on KaTeX showing in one line: $\int_0^\infty x^2 dx$
 | $\eth$     | `\eth`     |           |           |
 ## Annotation
 |                         |                         |                                    |                                    |
-| ----------------------- | ----------------------- | ---------------------------------- | ---------------------------------- |
-| $\cancel{5}$​           | `\cancel{5}`            | $\overbrace{a+b+c}^{\text{note}}$  | `\overbrace{a+b+c}^{\text{note}}`  |
-| $\bcancel{5}$           | `\bcancel{5}`           | $\underbrace{a+b+c}^{\text{note}}$ | `\underbrace{a+b+c}_{\text{note}}` |
-| $\xcancel{ABC}$         | `\xcancel{ABC}`         | $\not=$                            | `\not =`                           |
+|:-----------------------:|:-----------------------:|:----------------------------------:|:----------------------------------:|
+|      $\cancel{5}$​      |      `\cancel{5}`       | $\overbrace{a+b+c}^{\text{note}}$  | `\overbrace{a+b+c}^{\text{note}}`  |
+|      $\bcancel{5}$      |      `\bcancel{5}`      | $\underbrace{a+b+c}^{\text{note}}$ | `\underbrace{a+b+c}_{\text{note}}` |
+|     $\xcancel{ABC}$     |     `\xcancel{ABC}`     |              $\not=$               |              `\not =`              |
 | $\boxed{\pi=\frac c d}$ | `\boxed{\pi=\frac c d}` |                                    |                                    |
 `\tag{hi} x+y^{2x}`
 $\tag{hi} x+y^{2x}$
@@ -92,66 +93,66 @@ $\tag{hi} x+y^{2x}$
 $\tag*{hi} x+y^{2x}$
 # Vertical Layout
 |                                  |                                  |                   |                   |
-| -------------------------------- | -------------------------------- | ----------------- | ----------------- |
-| $x_n$​                           | `x_n`                            | $a\atop b$        | `a \atop b`       |
-| $e^x$                            | `e^x`                            | $\overset{!}{=}$  | `\overset{!}{=}`  |
-| $_u^o$                           | `_u^o`                           | $\underset{!}{=}$ | `\underset{!}{=}` |
+|:--------------------------------:|:--------------------------------:| ----------------- |:-----------------:|
+|              $x_n$​              |              `x_n`               | $a\atop b$        |    `a \atop b`    |
+|              $e^x$               |              `e^x`               | $\overset{!}{=}$  | `\overset{!}{=}`  |
+|              $_u^o$              |              `_u^o`              | $\underset{!}{=}$ | `\underset{!}{=}` |
 | $\sum_{\substack{0<i<m\\0<j<n}}$ | `\sum_{\substack{0<i<m\\0<j<n}}` |                   |                   |
 # Overlap and Spacing
 |                                     |                              |                            |
-| ----------------------------------- | ---------------------------- | -------------------------- |
+|:-----------------------------------:|:----------------------------:|:--------------------------:|
 | ${=}\mathllap{/,}$ {=}\mathllap{/,} | $\left(x^{\smash{2}}\right)$ | \left(x^{\smash{2}}\right) |
-| $\mathllap{,/}{=}$ \mathrlap{,/}{=} | $\sqrt{\smash[b]{y}}$        | \sqrt{\smash[b]{y}}        |
+| $\mathllap{,/}{=}$ \mathrlap{,/}{=} |    $\sqrt{\smash[b]{y}}$     |    \sqrt{\smash[b]{y}}     |
 `\sum_{\mathclap{1\le i\le j\le n}} x_{ij}`
 $\sum_{\mathclap{1\le i\le j\le n}} x_{ij}$
 # LaTeX Math Constructs
 |                    |                   |                   |                   |                        |                        |
-| ------------------ | ----------------- | ----------------- | ----------------- | ---------------------- | ---------------------- |
+|:------------------:|:-----------------:|:-----------------:|:-----------------:|:----------------------:|:----------------------:|
 | $\frac{abc}{xyz}$​ | `\frac{abc}{xyz}` | $\overline{abc}$  | `\overline{abc}`  | $\overrightarrow{abc}$ | `\overrightarrow{abc}` |
-| $f'$               | `f'`              | $\underline{abc}$ | `\underline{abc}` | $\overleftarrow{abc}$  | `\overleftarrow{abc}`  |
-| $\sqrt{abc}$       | `\sqrt{abc}`      | $\widehat{abc}$   | `\widehat{abc}`   | $\overbrace{abc}$      | `\overbrace{abc}`      |
-| $\sqrt[n]{abc}$    | `\sqrt[n]{abc}`   | $\widetilde{abc}$ | `\widetilde{abc}` | $\underbrace{abc}$     | `\underbrace{abc}`     |
+|        $f'$        |       `f'`        | $\underline{abc}$ | `\underline{abc}` | $\overleftarrow{abc}$  | `\overleftarrow{abc}`  |
+|    $\sqrt{abc}$    |   `\sqrt{abc}`    |  $\widehat{abc}$  |  `\widehat{abc}`  |   $\overbrace{abc}$    |   `\overbrace{abc}`    |
+|  $\sqrt[n]{abc}$   |  `\sqrt[n]{abc}`  | $\widetilde{abc}$ | `\widetilde{abc}` |   $\underbrace{abc}$   |   `\underbrace{abc}`   |
 # Delimiter
-| preview                | method                      | preview            | method              |
-| ---------------------- | --------------------------- | ------------------ | ------------------- |
-| $( )$                  | `()`                        | $\lparen{}\rparen$ | `\lparen` `\rparen` |
-| $[ ]$                  | `[]`                        | $\lbrack{}\rbrack$ | `\lbrack` `\rbrack` |
-| $\{ \}$                | `{}`                        | $\lbrace{}\rbrace$ | `\lbrace` `\rbrace` |
-| $⟨⟩$                   | `⟨⟩`                        | $\langle{}\rangle$ | `\langle` `\rangle` |
-| $'\\$                  | `\\                         | $∣∣$               | ∣∣                  |
-| $\lvert{}\rvert$       | `\lvert` `\rvert`           | $∥∥$               | ∥∥                  |
-| $< >$                  | `\lang` `\rang`             | $\lVert{}\rVert$   | `\lVert` `\rVert`   |
-| ⌈⌉⌈⌉                   | `\lceil` `\rceil`           | $\lt{} \gt$        | `\lt \gt`           |
-| ⌊⌋⌊⌋                   | `\lfloor` `\rfloor`         | $\uparrow$         | `\uparrow`          |
-| ⎰⎱⎰⎱                   | `\lmoustache` `\rmoustache` | $\downarrow$       | `\downarrow`        |
-| ⟮⟯⟮⟯                   | `\lgroup` `\rgroup`         | $\updownarrow$     | `\updownarrow`      |
-| $\ulcorner{}\urcorner$ | `\ulcorner` `\urcorner`     | $\Updownarrow$     | `\Updownarrow`      |
-| $\llcorner{}\lrcorner$ | `\llcorner` `\lrcorner`     | $\backslash$       | `\backslash`        |
-| $\Uparrow$             | `\Uparrow`                  | $⌈ ⌉$              | `⌈ ⌉`               |
-| $\Downarrow$           | `\Downarrow`                | $⌊ ⌋$              | `⌊ ⌋`               |
-| $⎰⎱$                   | `⎰⎱`                        | $┌┐$               | ┌┐┌┐                |
-| $⟮ ⟯$                  | `⟮ ⟯`                       | $└┘$               | └┘└┘                |
-| $⟦ ⟧$                  | `⟦ ⟧`                       |                    |                     |
+|        preview         |           method            |      preview       |       method        |
+|:----------------------:|:---------------------------:|:------------------:|:-------------------:|
+|         $( )$          |            `()`             | $\lparen{}\rparen$ | `\lparen` `\rparen` |
+|         $[ ]$          |            `[]`             | $\lbrack{}\rbrack$ | `\lbrack` `\rbrack` |
+|        $\{ \}$         |            `{}`             | $\lbrace{}\rbrace$ | `\lbrace` `\rbrace` |
+|          $⟨⟩$          |            `⟨⟩`             | $\langle{}\rangle$ | `\langle` `\rangle` |
+|         $'\\$          |             `\\             |        $∣∣$        |         ∣∣          |
+|    $\lvert{}\rvert$    |      `\lvert` `\rvert`      |        $∥∥$        |         ∥∥          |
+|         $< >$          |       `\lang` `\rang`       |  $\lVert{}\rVert$  |  `\lVert` `\rVert`  |
+|          ⌈⌉⌈⌉          |      `\lceil` `\rceil`      |    $\lt{} \gt$     |      `\lt \gt`      |
+|          ⌊⌋⌊⌋          |     `\lfloor` `\rfloor`     |     $\uparrow$     |     `\uparrow`      |
+|          ⎰⎱⎰⎱          | `\lmoustache` `\rmoustache` |    $\downarrow$    |    `\downarrow`     |
+|          ⟮⟯⟮⟯          |     `\lgroup` `\rgroup`     |   $\updownarrow$   |   `\updownarrow`    |
+| $\ulcorner{}\urcorner$ |   `\ulcorner` `\urcorner`   |   $\Updownarrow$   |   `\Updownarrow`    |
+| $\llcorner{}\lrcorner$ |   `\llcorner` `\lrcorner`   |    $\backslash$    |    `\backslash`     |
+|       $\Uparrow$       |         `\Uparrow`          |       $⌈ ⌉$        |        `⌈ ⌉`        |
+|      $\Downarrow$      |        `\Downarrow`         |       $⌊ ⌋$        |        `⌊ ⌋`        |
+|          $⎰⎱$          |            `⎰⎱`             |        $┌┐$        |        ┌┐┌┐         |
+|         $⟮ ⟯$          |            `⟮ ⟯`            |        $└┘$        |        └┘└┘         |
+|         $⟦ ⟧$          |            `⟦ ⟧`            |                    |                     |
 # Variable Size Symbols
 
-| preview     | method      | preview      | method       | preview    | method     |
-| ----------- | ----------- | ------------ | ------------ | ---------- | ---------- |
-| $\biguplus$ | `\biguplus` | $\sum$       | `\sum`       | $\int$     | `\int`     |
-| $\bigcap$   | `\bigcap`   | $\prod$      | `\prod`      | $\oint$    | `\oint`    |
-| $\bigcup$   | `\bigcup`   | $\coprod$    | `\coprod`    | $\iint$    | `\iint`    |
-| $\bigvee$   | `\bigvee`   | $\bigoplus$  | `\bigoplus`  | $\bigodot$ | `\bigodot` |
+|   preview   |   method    |   preview    |    method    |  preview   |   method   |
+|:-----------:|:-----------:|:------------:|:------------:|:----------:|:----------:|
+| $\biguplus$ | `\biguplus` |    $\sum$    |    `\sum`    |   $\int$   |   `\int`   |
+|  $\bigcap$  |  `\bigcap`  |   $\prod$    |   `\prod`    |  $\oint$   |  `\oint`   |
+|  $\bigcup$  |  `\bigcup`  |  $\coprod$   |  `\coprod`   |  $\iint$   |  `\iint`   |
+|  $\bigvee$  |  `\bigvee`  | $\bigoplus$  | `\bigoplus`  | $\bigodot$ | `\bigodot` |
 | $\bigwedge$ | `\bigwedge` | $\bigotimes$ | `\bigotimes` |            |            |
 # Standard Function Names
-| preview   | method    | preview   | method    | preview   | method    | preview   | method    |
-| --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| $\arccos$ | `\arccos` | $\arcsin$ | `\arcsin` | $\arcsin$ | `\arcsin` | $\arg$    | `\arg`    |
-| $\cos$    | `\cos`    | $\cosh$   | `\cosh`   | $\cot$    | `\cot`    | $\coth$   | `\coth`   |
-| $\csc$    | `\csc`    | $\deg$    | `\deg`    | $\det$    | `\det`    | $\dim$    | `\dim`    |
-| $\exp$    | `\exp`    | $\gcd$    | `\gcd`    | $\hom$    | `\hom`    | $\inf$    | `\inf`    |
-| $\ker$    | `\ker`    | $\lg$     | `\lg`     | $\lim$    | `\lim`    | $\liminf$ | `\liminf` |
-| $\limsup$ | `\limsup` | $\ln$     | `\ln`     | $\log$    | `\log`    | $\max$    | `\max`    |
-| $\min$    | `\min`    | $\Pr$     | `\Pr`     | $\sec$    | `\sec`    | $\sin$    | `\sin`    |
-| $\sinh$   | `\sinh`   | $\sup$    | `\sup`    | $\tan$    | `\tan`    | $\tanh$   | `\tanh`   |
+|  preview  |  method   |  preview  |  method   |  preview  |  method   |  preview  |  method   |
+|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
+| $\arccos$ | `\arccos` | $\arcsin$ | `\arcsin` | $\arcsin$ | `\arcsin` |  $\arg$   |  `\arg`   |
+|  $\cos$   |  `\cos`   |  $\cosh$  |  `\cosh`  |  $\cot$   |  `\cot`   |  $\coth$  |  `\coth`  |
+|  $\csc$   |  `\csc`   |  $\deg$   |  `\deg`   |  $\det$   |  `\det`   |  $\dim$   |  `\dim`   |
+|  $\exp$   |  `\exp`   |  $\gcd$   |  `\gcd`   |  $\hom$   |  `\hom`   |  $\inf$   |  `\inf`   |
+|  $\ker$   |  `\ker`   |   $\lg$   |   `\lg`   |  $\lim$   |  `\lim`   | $\liminf$ | `\liminf` |
+| $\limsup$ | `\limsup` |   $\ln$   |   `\ln`   |  $\log$   |  `\log`   |  $\max$   |  `\max`   |
+|  $\min$   |  `\min`   |   $\Pr$   |   `\Pr`   |  $\sec$   |  `\sec`   |  $\sin$   |  `\sin`   |
+|  $\sinh$  |  `\sinh`  |  $\sup$   |  `\sup`   |  $\tan$   |  `\tan`   |  $\tanh$  |  `\tanh`  |
 #### Function names should be in roman font, not italics, for example:
 
 |            |                 |                     |                 |
@@ -159,7 +160,7 @@ $\sum_{\mathclap{1\le i\le j\le n}} x_{ij}$
 | Correct:   | `\tan(at-n\pi)` | →→                  | $\tan(at-n\pi)$ |
 | Incorrect: | `tan(at-n\pi)`  | `katex:\rightarrow` | $tan(at-n\pi)$  |
 # Logic And Set Theory 
-|               |               |               |               |                   |                   |
+| Output        | Input         | Output        | Input         | Output            | Input             |
 | ------------- | ------------- | ------------- | ------------- | ----------------- | ----------------- |
 | $\forall$     | `\forall`     | $\complement$ | `\complement` | $\therefore$      | `\therefore`      |
 | $\exists$     | `\exists`     | $\subset$     | `\subset`     | $\because$        | `\because`        |
@@ -170,30 +171,30 @@ $\sum_{\mathclap{1\le i\le j\le n}} x_{ij}$
 | $\emptyset$   | `\emptyset`   | $\implies$    | `\implies`    | $\iff$            | `\iff`            |
 | $\varnothing$ | `\varnothing` | $\impliedby$  | `\impliedby`  | $\neg$ or $\lnot$ | `\neg` or `\lnot` |
 
-|                            |                          |                |              |
-| -------------------------- | ------------------------ | -------------- | ------------ |
+|           Output           |          Input           |     Output     |    Input     |
+|:--------------------------:|:------------------------:|:--------------:|:------------:|
 | $\Set{ x \| x<\frac 1 2 }$ | \Set{ x \| x<\frac 1 2 } | $\set{x\|x<5}$ | \set{x\|x<5} |
 # Special Symbols
-|              |              |              |              |                                            |                                            |
-| ------------ | ------------ | ------------ | ------------ | ------------------------------------------ | ------------------------------------------ |
-| $\bra{\phi}$ | `\bra{\phi}` | $\ket{\psi}$ | `\ket{\psi}` | $\braket{\phi\\\|\psi}$                    | `\braket{\phi\\\|\psi}`                    |
+|    Output    |    Input     |    Output    |    Input     |                   Output                   |                   Input                    |
+|:------------:|:------------:|:------------:|:------------:|:------------------------------------------:|:------------------------------------------:|
+| $\bra{\phi}$ | `\bra{\phi}` | $\ket{\psi}$ | `\ket{\psi}` |          $\braket{\phi\\\|\psi}$           |          `\braket{\phi\\\|\psi}`           |
 | $\Bra{\phi}$ | `\Bra{\phi}` | $\Ket{\psi}$ | `\Ket{\psi}` | $\Braket{ ϕ \\\|\frac{∂^2}{∂ t^2} \\\|ψ }$ | `\Braket{ ϕ \\\|\frac{∂^2}{∂ t^2} \\\|ψ }` |
 # Mathematical operator
-|           |           |           |           |                     |                     |
-| --------- | --------- | --------- | --------- | ------------------- | ------------------- |
-| $\arcsin$ | `\arcsin` | $\injlim$ | `\injlim` | $\min$              | `\min`              |
-| $\arccos$ | `\arccos` | $\lim$    | `\lim`    | $\Pr$               | `\Pr`               |
-| $\arctan$ | `\arctan` | $\liminf$ | `\liminf` | $\projlim$          | `\projlim`          |
-| $\cosh$   | `\cosh`   | $\limsup$ | `\limsup` | $\sup$              | `\sup`              |
-| $\cot$    | `\cot`    | $\max$    | `\max`    | $\sec$              | `\sec`              |
-| $\arg$    | `\arg`    | $\deg$    | `\deg`    | $\sin$              | `\sin`              |
-| $\tan$    | `\tan`    | $\dim$    | `\dim`    | $\sinh$             | `\sinh`             |
-| $\cos$    | `\cos`    | $\exp$    | `\exp`    | $\tanh$             | `\tanh`             |
-| $\coth$   | `\coth`   | $\hom$    | `\hom`    | $\varinjlim$        | `\varinjlim`        |
-| $\csc$    | `\csc`    | $\ker$    | `\ker`    | $\varliminf$        | `\varliminf`        |
-| $\det$    | `\det`    | $\lg$     | `\lg`     | $\varlimsup$        | `\varlimsup`        |
-| $\gcd$    | `\gcd`    | $\ln$     | `\ln`     | $\varprojlim$       | `\varprojlim`       |
-| $\inf$    | `\inf`    | $\log$    | `\log`    | $\operatorname*{f}$ | `\operatorname*{f}` |
+|  Output   |   Input   |  Output   |   Input   |       Output        |        Input        |
+|:---------:|:---------:|:---------:|:---------:|:-------------------:|:-------------------:|
+| $\arcsin$ | `\arcsin` | $\injlim$ | `\injlim` |       $\min$        |       `\min`        |
+| $\arccos$ | `\arccos` |  $\lim$   |  `\lim`   |        $\Pr$        |        `\Pr`        |
+| $\arctan$ | `\arctan` | $\liminf$ | `\liminf` |     $\projlim$      |     `\projlim`      |
+|  $\cosh$  |  `\cosh`  | $\limsup$ | `\limsup` |       $\sup$        |       `\sup`        |
+|  $\cot$   |  `\cot`   |  $\max$   |  `\max`   |       $\sec$        |       `\sec`        |
+|  $\arg$   |  `\arg`   |  $\deg$   |  `\deg`   |       $\sin$        |       `\sin`        |
+|  $\tan$   |  `\tan`   |  $\dim$   |  `\dim`   |       $\sinh$       |       `\sinh`       |
+|  $\cos$   |  `\cos`   |  $\exp$   |  `\exp`   |       $\tanh$       |       `\tanh`       |
+|  $\coth$  |  `\coth`  |  $\hom$   |  `\hom`   |    $\varinjlim$     |    `\varinjlim`     |
+|  $\csc$   |  `\csc`   |  $\ker$   |  `\ker`   |    $\varliminf$     |    `\varliminf`     |
+|  $\det$   |  `\det`   |   $\lg$   |   `\lg`   |    $\varlimsup$     |    `\varlimsup`     |
+|  $\gcd$   |  `\gcd`   |   $\ln$   |   `\ln`   |    $\varprojlim$    |    `\varprojlim`    |
+|  $\inf$   |  `\inf`   |  $\log$   |  `\log`   | $\operatorname*{f}$ | `\operatorname*{f}` |
 # Examples
 - Example 1 Array
 	```latex
@@ -410,99 +411,99 @@ $$
 \end{CD}
 $$
 # Color
-|                               |                                 |
-| ----------------------------- | ------------------------------- |
-| $\color{blue} F=ma$           | `\color{blue} F=ma`             |
-| $\textcolor{blue}{F=ma}$      | `\textcolor{blue}{F=ma}`        |
-| $\textcolor{#228B22}{F=ma}$   | `\textcolor{#228B22}{F=ma}`     |
-| $\colorbox{aqua}{F=ma}$       | `\colorbox{aqua}{$F=ma$}`       |
+|            Output             |              Input              |
+|:-----------------------------:|:-------------------------------:|
+|      $\color{blue} F=ma$      |       `\color{blue} F=ma`       |
+|   $\textcolor{blue}{F=ma}$    |    `\textcolor{blue}{F=ma}`     |
+|  $\textcolor{#228B22}{F=ma}$  |   `\textcolor{#228B22}{F=ma}`   |
+|    $\colorbox{aqua}{F=ma}$    |    `\colorbox{aqua}{$F=ma$}`    |
 | $\fcolorbox{red}{aqua}{F=ma}$ | `\fcolorbox{red}{aqua}{$F=ma$}` |
 # Symbols and Punctuation
-|                    |                      |                      |                      |                   |                   |
-| ------------------ | -------------------- | -------------------- | -------------------- | ----------------- | ----------------- |
-|                    | `% comment`          | $\dots$              | `\dots`              |                   |                   |
-| $\%$               | `\%`                 | $\cdots$             | `\cdots`             | $\LaTeX$          | `\LaTeX`          |
-| $\#$               | `\#`                 | $\ddots$             | `\ddots`             |                   |                   |
-| $\&$               | `\&`                 | $\ldots$             | `\ldots`             | $\nabla$          | `\nabla`          |
-| $\_$               | `\_`                 | $\vdots$             | `\vdots`             | $\infty$          | `\infty`          |
-| $\text{\_}$        | `\textunderscore`    | $\dotsb$             | `\dotsb`             |                   |                   |
-| $\text{--}$        | `\text{--}`          | $\dotsc$             | `\dotsc`             |                   |                   |
-| $\textendash$      | `\textendash`        | $\dotsi$             | `\dotsi`             |                   |                   |
-| $\text{---}$       | `\text{---}`         | $\dotsm$             | `\dotsm`             | $\dagger$         | `\dagger`         |
-| $\textemdash$      | `\textemdash`        | $\dotso$             | `\dotso`             | $\textdagger$     | `\textdagger`     |
-| $\textasciitilde$  | `\textasciitilde`    |                      |                      |                   |                   |
-| $\textasciicircum$ | `\textasciicircum`   |                      |                      | $\ddagger$        | `\ddagger`        |
-| $`$                | `                    | $\textellipsis$      | `\textellipsis`      | $\textdaggerdbl$  | `\textdaggerdbl`  |
-| $\textquoteleft$   | `\textquoteleft`     | $\Box$               | `\Box`               |                   |                   |
-|                    |                      | $\square$            | `\square`            | $\angle$          | `\angle`          |
-| $\textquoteright$  | `\textquoteright`    | $\blacksquare$       | `\blacksquare`       | $\measuredangle$  | `\measuredangle`  |
-|                    |                      | $\triangle$          | `\triangle`          | $\sphericalangle$ | `\sphericalangle` |
-|                    | `\textquotedblleft`  | $\triangledown$      | `\triangledown`      | $\top$            | `\top`            |
-| $"$                | `"`                  | $\triangleleft$      | `\triangleleft`      | $\bot$            | `\bot`            |
-|                    | `\textquotedblright` | $\triangleright$     | `\triangleright`     | $\$$              | `\$`              |
-| $\colon$           | `\colon`             | $\bigtriangledown$   | `\bigtriangledown`   | $\textdollar$     | `\textdollar`     |
-| $\backprime$       | `\backprime`         | $\bigtriangleup$     | `\bigtriangleup`     |                   |                   |
-| $\prime$           | `\prime`             | $\blacktriangle$     | `\blacktriangle`     |                   |                   |
-| $\textless$        | `\textless`          | $\blacktriangledown$ | `\blacktriangledown` | $\textsterling$   | `\textsterling`   |
-| $\textgreater$     | `\textgreater`       | $\blacktriangleleft$ | `\blacktriangleleft` | $\yen$            | `\yen`            |
-| $\textbar$         | `\textbar`           | $\blacktriangleleft$ | `\blacktriangleleft` | $\surd$           | `\surd`           |
-| $\textbardbl$      | `\textbardbl`        | $\diamond$           | `\diamond`           | $\degree$         | `\degree`         |
-| $\textbraceleft$   | `\textbraceleft`     | $\Diamond$           | `\Diamond`           | $\textdegree$     | `\textdegree`     |
-| $\textbraceright$  | `\textbraceright`    | $\lozenge$           | `\lozenge`           | $\mho$            | `\mho`            |
-| $\textbackslash$   | `\textbackslash`     | $\blacklozenge$      | `\blacklozenge`      | $\diagdown$       | `\diagdown`       |
-|                    |                      | $\star$              | `\star`              | $\diagup$         | `\diagup`         |
-| $\text{\S}$        | `\text{\S}` or `\S`  | $\bigstar$           | `\bigstar`           | $\flat$           | `\flat`           |
-|                    |                      | $\clubsuit$          | `\clubsuit`          | $\natural$        | `\natural`        |
-|                    |                      |                      |                      | $\sharp$          | `\sharp`          |
-| $\circledR$        | `\circledR`          | $\diamondsuit$       | `\diamondsuit`       | $\heartsuit$      | `\heartsuit`      |
-| $\textregistered$  | `\textregistered`    |                      |                      |                   |                   |
-| $\circledS$        | `\circledS`          | $\spadesuit$         | `\spadesuit`         |                   |                   |
-|                    |                      | $\maltese$           | `\maltese`           |                   |                   |
+|       Output       |        Input         |        Output        |        Input         |      Output       |       Input       |
+| :----------------: | :------------------: | :------------------: | :------------------: | :---------------: | :---------------: |
+|                    |     `% comment`      |       $\dots$        |       `\dots`        |                   |                   |
+|        $\%$        |         `\%`         |       $\cdots$       |       `\cdots`       |     $\LaTeX$      |     `\LaTeX`      |
+|        $\#$        |         `\#`         |       $\ddots$       |       `\ddots`       |                   |                   |
+|        $\&$        |         `\&`         |       $\ldots$       |       `\ldots`       |     $\nabla$      |     `\nabla`      |
+|        $\_$        |         `\_`         |       $\vdots$       |       `\vdots`       |     $\infty$      |     `\infty`      |
+|    $\text{\_}$     |  `\textunderscore`   |       $\dotsb$       |       `\dotsb`       |                   |                   |
+|    $\text{--}$     |     `\text{--}`      |       $\dotsc$       |       `\dotsc`       |                   |                   |
+|   $\textendash$    |    `\textendash`     |       $\dotsi$       |       `\dotsi`       |                   |                   |
+|    $\text{---}$    |     `\text{---}`     |       $\dotsm$       |       `\dotsm`       |     $\dagger$     |     `\dagger`     |
+|   $\textemdash$    |    `\textemdash`     |       $\dotso$       |       `\dotso`       |   $\textdagger$   |   `\textdagger`   |
+| $\textasciitilde$  |  `\textasciitilde`   |                      |                      |                   |                   |
+| $\textasciicircum$ |  `\textasciicircum`  |                      |                      |    $\ddagger$     |    `\ddagger`     |
+|        $`$         |          `           |   $\textellipsis$    |   `\textellipsis`    | $\textdaggerdbl$  | `\textdaggerdbl`  |
+|  $\textquoteleft$  |   `\textquoteleft`   |        $\Box$        |        `\Box`        |                   |                   |
+|                    |                      |      $\square$       |      `\square`       |     $\angle$      |     `\angle`      |
+| $\textquoteright$  |  `\textquoteright`   |    $\blacksquare$    |    `\blacksquare`    | $\measuredangle$  | `\measuredangle`  |
+|                    |                      |     $\triangle$      |     `\triangle`      | $\sphericalangle$ | `\sphericalangle` |
+|                    | `\textquotedblleft`  |   $\triangledown$    |   `\triangledown`    |      $\top$       |      `\top`       |
+|        $"$         |         `"`          |   $\triangleleft$    |   `\triangleleft`    |      $\bot$       |      `\bot`       |
+|                    | `\textquotedblright` |   $\triangleright$   |   `\triangleright`   |       $\$$        |       `\$`        |
+|      $\colon$      |       `\colon`       |  $\bigtriangledown$  |  `\bigtriangledown`  |   $\textdollar$   |   `\textdollar`   |
+|    $\backprime$    |     `\backprime`     |   $\bigtriangleup$   |   `\bigtriangleup`   |                   |                   |
+|      $\prime$      |       `\prime`       |   $\blacktriangle$   |   `\blacktriangle`   |                   |                   |
+|    $\textless$     |     `\textless`      | $\blacktriangledown$ | `\blacktriangledown` |  $\textsterling$  |  `\textsterling`  |
+|   $\textgreater$   |    `\textgreater`    | $\blacktriangleleft$ | `\blacktriangleleft` |      $\yen$       |      `\yen`       |
+|     $\textbar$     |      `\textbar`      | $\blacktriangleleft$ | `\blacktriangleleft` |      $\surd$      |      `\surd`      |
+|   $\textbardbl$    |    `\textbardbl`     |      $\diamond$      |      `\diamond`      |     $\degree$     |     `\degree`     |
+|  $\textbraceleft$  |   `\textbraceleft`   |      $\Diamond$      |      `\Diamond`      |   $\textdegree$   |   `\textdegree`   |
+| $\textbraceright$  |  `\textbraceright`   |      $\lozenge$      |      `\lozenge`      |      $\mho$       |      `\mho`       |
+|  $\textbackslash$  |   `\textbackslash`   |   $\blacklozenge$    |   `\blacklozenge`    |    $\diagdown$    |    `\diagdown`    |
+|                    |                      |       $\star$        |       `\star`        |     $\diagup$     |     `\diagup`     |
+|    $\text{\S}$     | `\text{\S}` or `\S`  |      $\bigstar$      |      `\bigstar`      |      $\flat$      |      `\flat`      |
+|                    |                      |     $\clubsuit$      |     `\clubsuit`      |    $\natural$     |    `\natural`     |
+|                    |                      |                      |                      |     $\sharp$      |     `\sharp`      |
+|    $\circledR$     |     `\circledR`      |    $\diamondsuit$    |    `\diamondsuit`    |   $\heartsuit$    |   `\heartsuit`    |
+| $\textregistered$  |  `\textregistered`   |                      |                      |                   |                   |
+|    $\circledS$     |     `\circledS`      |     $\spadesuit$     |     `\spadesuit`     |                   |                   |
+|                    |                      |      $\maltese$      |      `\maltese`      |                   |                   |
 # Expandable Arrows
-|                            |                            |                             |                             |
-| -------------------------- | -------------------------- | --------------------------- | --------------------------- |
-| $\xleftarrow{abc}$         | `\xleftarrow{abc}`         | $\xrightarrow[under]{over}$ | `\xrightarrow[under]{over}` |
-| $\xLeftarrow{abc}$         | `\xLeftarrow{abc}`         | $\xRightarrow{abc}$         | `\xRightarrow{abc}`         |
-| $\xleftrightarrow{abc}$    | `\xleftrightarrow{abc}`    | $\xLeftrightarrow{abc}$     | `\xLeftrightarrow{abc}`     |
-| $\xhookleftarrow{abc}$     | `\xhookleftarrow{abc}`     | $\xhookrightarrow{abc}$     | `\xhookrightarrow{abc}`     |
+|           Output           |           Input            |           Output            |            Input            |
+|:--------------------------:|:--------------------------:|:---------------------------:|:---------------------------:|
+|     $\xleftarrow{abc}$     |     `\xleftarrow{abc}`     | $\xrightarrow[under]{over}$ | `\xrightarrow[under]{over}` |
+|     $\xLeftarrow{abc}$     |     `\xLeftarrow{abc}`     |     $\xRightarrow{abc}$     |     `\xRightarrow{abc}`     |
+|  $\xleftrightarrow{abc}$   |  `\xleftrightarrow{abc}`   |   $\xLeftrightarrow{abc}$   |   `\xLeftrightarrow{abc}`   |
+|   $\xhookleftarrow{abc}$   |   `\xhookleftarrow{abc}`   |   $\xhookrightarrow{abc}$   |   `\xhookrightarrow{abc}`   |
 | $\xtwoheadleftarrow{abc}$  | `\xtwoheadleftarrow{abc}`  | $\xtwoheadrightarrow{abc}$  | `\xtwoheadrightarrow{abc}`  |
-| $\xleftharpoonup{abc}$     | `\xleftharpoonup{abc}`     | $\xrightharpoonup{abc}$     | `\xrightharpoonup{abc}`     |
-| $\xleftharpoondown{abc}$   | `\xleftharpoondown{abc}`   | $\xrightharpoondown{abc}$   | `\xrightharpoondown{abc}`   |
+|   $\xleftharpoonup{abc}$   |   `\xleftharpoonup{abc}`   |   $\xrightharpoonup{abc}$   |   `\xrightharpoonup{abc}`   |
+|  $\xleftharpoondown{abc}$  |  `\xleftharpoondown{abc}`  |  $\xrightharpoondown{abc}$  |  `\xrightharpoondown{abc}`  |
 | $\xleftrightharpoons{abc}$ | `\xleftrightharpoons{abc}` | $\xrightleftharpoons{abc}$  | `\xrightleftharpoons{abc}`  |
-| $\xtofrom{abc}$            | `\xtofrom{abc}`            | $\xmapsto{abc}$             | `\xmapsto{abc}`             |
-| $\xlongequal{abc}$         | `\xlongequal{abc}`         |                             |                             |
+|      $\xtofrom{abc}$       |      `\xtofrom{abc}`       |       $\xmapsto{abc}$       |       `\xmapsto{abc}`       |
+|     $\xlongequal{abc}$     |     `\xlongequal{abc}`     |                             |                             |
 # Arrows
-|                     |                     |                        |                        |                      |                      |
-| ------------------- | ------------------- | ---------------------- | ---------------------- | -------------------- | -------------------- |
-| $\circlearrowleft$  | `\circlearrowleft`  | $\leftharpoonup$       | `\leftharpoonup`       | $\Rightarrow$        | `\Rightarrow`        |
-| $\circlearrowright$ | `\circlearrowright` | $\leftleftarrows$      | `\leftleftarrows`      | $\rightarrowtail$    | `\rightarrowtail`    |
-| $\curvearrowleft$   | `\curvearrowleft`   | $\leftrightarrow$      | `\leftrightarrow`      | \rightharpoondown  | `\rightharpoondown`  |
-| $\curvearrowright$  | `\curvearrowright`  | $\Leftrightarrow$      | `\Leftrightarrow`      | $\rightharpoonup$    | `\rightharpoonup`    |
-| $\dashleftarrow$    | `\dashleftarrow`    | $\leftrightarrows$     | `\leftrightarrows`     | $\rightleftarrows$   | `\rightleftarrows`   |
-| $\dashrightarrow$   | `\dashrightarrow`   | $\leftrightharpoons$   | `\leftrightharpoons`   | $\rightleftharpoons$ | `\rightleftharpoons` |
-| $\downarrow$        | `\downarrow`        | $\leftrightsquigarrow$ | `\leftrightsquigarrow` | $\rightrightarrows$  | `\rightrightarrows`  |
-| $\Downarrow$        | `\Downarrow`        | $\Lleftarrow$          | `\Lleftarrow`          | $\rightsquigarrow$   | `\rightsquigarrow`   |
-| $\downdownarrows$   | `\downdownarrows`   | $\longleftarrow$       | `\longleftarrow`       | $\Rightarrow$        | `\Rrightarrow`       |
-| $\downharpoonleft$  | `\downharpoonleft`  | $\Longleftarrow$       | `\Longleftarrow`       | $\Rsh$               | `\Rsh`               |
-| $\downharpoonright$ | `\downharpoonright` | $\longleftrightarrow$  | `\longleftrightarrow`  | $\searrow$           | `\searrow`           |
-| $\gets$             | `\gets`             | $\Longleftrightarrow$  | `\Longleftrightarrow`  | $\swarrow$           | `\swarrow`           |
-| $\hookleftarrow$    | `\hookleftarrow`    | $\longmapsto$          | `\longmapsto`          | $\to$                | `\to`                |
-| $\hookrightarrow$   | `\hookrightarrow`   | $\longrightarrow$      | `\longrightarrow`      | $\twoheadleftarrow$  | `\twoheadleftarrow`  |
-| $\iff$              | `\iff`              | $\Longrightarrow$      | `\Longrightarrow`      | $\twoheadrightarrow$ | `\twoheadrightarrow` |
-| $\impliedby$        | `\impliedby`        | $\looparrowleft$       | `\looparrowleft`       |                      |                      |
-| $\implies$          | `\implies`          | $\looparrowright$      | `\looparrowright`      |                      |                      |
-| $\leadsto$          | `\leadsto`          | $\Lsh$                 | `\Lsh`                 |                      |                      |
-| $\leftarrow$        | `\leftarrow`        | $\mapsto$              | `\mapsto`              |                      |                      |
-| $\Leftarrow$        | `\Leftarrow`        | $\nearrow$             | `\nearrow`             |                      |                      |
-| $\leftarrowtail$    | `\leftarrowtail`    | $\nleftarrow$          | `\nleftarrow`          |                      |                      |
-| $\leftharpoondown$  | `\leftharpoondown`  | $\nLeftarrow$          | `\nLeftarrow`          |                      |                      |
-| $\uparrow$          | `\uparrow`          | $\nleftrightarrow$     | `\nleftrightarrow`     |                      |                      |
-| $\Uparrow$          | `\Uparrow`          | $\nLeftrightarrow$     | `\nLeftrightarrow`     |                      |                      |
-| $\updownarrow$      | `\updownarrow`      | $\nrightarrow$         | `\nrightarrow`         |                      |                      |
-| $\Updownarrow$      | `\Updownarrow`      | $\nRightarrow$         | `\nRightarrow`         |                      |                      |
-| $\upharpoonleft$    | `\upharpoonleft`    | $\nwarrow$             | `\nwarrow`             |                      |                      |
-| $\upharpoonright$   | `\upharpoonright`   | $\restriction$         | `\restriction`         |                      |                      |
-| $\upuparrows$       | `\upuparrows`       | $\rightarrow$          | `\rightarrow`          |                      |                      |
+|       Output        |        Input        |         Output         |         Input          |        Output        |        Input         |
+|:-------------------:|:-------------------:|:----------------------:|:----------------------:|:--------------------:|:--------------------:|
+| $\circlearrowleft$  | `\circlearrowleft`  |    $\leftharpoonup$    |    `\leftharpoonup`    |    $\Rightarrow$     |    `\Rightarrow`     |
+| $\circlearrowright$ | `\circlearrowright` |   $\leftleftarrows$    |   `\leftleftarrows`    |  $\rightarrowtail$   |  `\rightarrowtail`   |
+|  $\curvearrowleft$  |  `\curvearrowleft`  |   $\leftrightarrow$    |   `\leftrightarrow`    | $\rightharpoondown$  | `\rightharpoondown`  |
+| $\curvearrowright$  | `\curvearrowright`  |   $\Leftrightarrow$    |   `\Leftrightarrow`    |  $\rightharpoonup$   |  `\rightharpoonup`   |
+|  $\dashleftarrow$   |  `\dashleftarrow`   |   $\leftrightarrows$   |   `\leftrightarrows`   |  $\rightleftarrows$  |  `\rightleftarrows`  |
+|  $\dashrightarrow$  |  `\dashrightarrow`  |  $\leftrightharpoons$  |  `\leftrightharpoons`  | $\rightleftharpoons$ | `\rightleftharpoons` |
+|    $\downarrow$     |    `\downarrow`     | $\leftrightsquigarrow$ | `\leftrightsquigarrow` | $\rightrightarrows$  | `\rightrightarrows`  |
+|    $\Downarrow$     |    `\Downarrow`     |     $\Lleftarrow$      |     `\Lleftarrow`      |  $\rightsquigarrow$  |  `\rightsquigarrow`  |
+|  $\downdownarrows$  |  `\downdownarrows`  |    $\longleftarrow$    |    `\longleftarrow`    |    $\Rightarrow$     |    `\Rrightarrow`    |
+| $\downharpoonleft$  | `\downharpoonleft`  |    $\Longleftarrow$    |    `\Longleftarrow`    |        $\Rsh$        |        `\Rsh`        |
+| $\downharpoonright$ | `\downharpoonright` | $\longleftrightarrow$  | `\longleftrightarrow`  |      $\searrow$      |      `\searrow`      |
+|       $\gets$       |       `\gets`       | $\Longleftrightarrow$  | `\Longleftrightarrow`  |      $\swarrow$      |      `\swarrow`      |
+|  $\hookleftarrow$   |  `\hookleftarrow`   |     $\longmapsto$      |     `\longmapsto`      |        $\to$         |        `\to`         |
+|  $\hookrightarrow$  |  `\hookrightarrow`  |   $\longrightarrow$    |   `\longrightarrow`    | $\twoheadleftarrow$  | `\twoheadleftarrow`  |
+|       $\iff$        |       `\iff`        |   $\Longrightarrow$    |   `\Longrightarrow`    | $\twoheadrightarrow$ | `\twoheadrightarrow` |
+|    $\impliedby$     |    `\impliedby`     |    $\looparrowleft$    |    `\looparrowleft`    |                      |                      |
+|     $\implies$      |     `\implies`      |   $\looparrowright$    |   `\looparrowright`    |                      |                      |
+|     $\leadsto$      |     `\leadsto`      |         $\Lsh$         |         `\Lsh`         |                      |                      |
+|    $\leftarrow$     |    `\leftarrow`     |       $\mapsto$        |       `\mapsto`        |                      |                      |
+|    $\Leftarrow$     |    `\Leftarrow`     |       $\nearrow$       |       `\nearrow`       |                      |                      |
+|  $\leftarrowtail$   |  `\leftarrowtail`   |     $\nleftarrow$      |     `\nleftarrow`      |                      |                      |
+| $\leftharpoondown$  | `\leftharpoondown`  |     $\nLeftarrow$      |     `\nLeftarrow`      |                      |                      |
+|     $\uparrow$      |     `\uparrow`      |   $\nleftrightarrow$   |   `\nleftrightarrow`   |                      |                      |
+|     $\Uparrow$      |     `\Uparrow`      |   $\nLeftrightarrow$   |   `\nLeftrightarrow`   |                      |                      |
+|   $\updownarrow$    |   `\updownarrow`    |     $\nrightarrow$     |     `\nrightarrow`     |                      |                      |
+|   $\Updownarrow$    |   `\Updownarrow`    |     $\nRightarrow$     |     `\nRightarrow`     |                      |                      |
+|  $\upharpoonleft$   |  `\upharpoonleft`   |       $\nwarrow$       |       `\nwarrow`       |                      |                      |
+|  $\upharpoonright$  |  `\upharpoonright`  |     $\restriction$     |     `\restriction`     |                      |                      |
+|    $\upuparrows$    |    `\upuparrows`    |     $\rightarrow$      |     `\rightarrow`      |                      |                      |
 
 $$
 \begin{align}

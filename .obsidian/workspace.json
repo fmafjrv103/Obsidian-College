@@ -340,7 +340,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "6f79939fd4bb2213",
@@ -473,10 +473,10 @@
       "workspaces:Manage workspace layouts": false,
       "homepage:Open homepage": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "timer:Open timer": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "5ec7a071ec894ab6",
