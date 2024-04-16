@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 13:30:47
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters W]]
+
+---
+
 ## Wight
 
 *Medium undead, neutral evil*

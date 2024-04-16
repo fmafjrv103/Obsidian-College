@@ -19,3 +19,4 @@ Links: [[Monsters]]
 ![[Owl (Creature)#Owl]]
 
 ---
+Links: [[Creatures A-C]], [[Creatures D-F]], [[Creatures G-I]], [[Creatures J-L]], [[Creatures P-R]], [[Creatures S-U]], [[Creatures V-Z]]

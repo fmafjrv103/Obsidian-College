@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 13:26:32
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures D-F]]
+
+---
+
 ### Deer
 
 *Medium beast, unaligned*

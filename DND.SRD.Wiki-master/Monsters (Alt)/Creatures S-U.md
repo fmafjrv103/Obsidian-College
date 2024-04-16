@@ -31,3 +31,4 @@ Links: [[Monsters]]
 ![[Tiger (Creature)#Tiger]]
 
 ---
+Links: [[Creatures A-C]], [[Creatures D-F]], [[Creatures G-I]], [[Creatures J-L]], [[Creatures M-O]], [[Creatures P-R]], [[Creatures V-Z]]

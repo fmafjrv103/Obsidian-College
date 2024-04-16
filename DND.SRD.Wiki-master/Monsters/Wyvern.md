@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 13:31:19
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters W]]
+
+---
+
 ## Wyvern
 
 *Large dragon, unaligned*

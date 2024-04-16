@@ -73,3 +73,4 @@ Links: [[Monsters]]
 ![[Hyena (Creature)#Hyena]]
 
 ---
+Links:[[Creatures A-C]], [[Creatures D-F]], [[Creatures J-L]], [[Creatures M-O]], [[Creatures P-R]], [[Creatures S-U]], [[Creatures V-Z]]

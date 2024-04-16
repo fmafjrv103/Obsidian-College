@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 13:16:49
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures D-F]]
+
+---
+
 ### Death Dog
 
 *Medium monstrosity, neutral evil*

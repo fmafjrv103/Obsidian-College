@@ -4,7 +4,7 @@ tags:
   - rpg
   - dnd
 ---
-Links: [[Monsters]]
+ZLinks: [[Monsters]]
 
 ---
 
@@ -27,3 +27,4 @@ Links: [[Monsters]]
 ![[Frog (Creature)#Frog]]
 
 ---
+Links: [[Creatures A-C]], [[Creatures G-I]], [[Creatures J-L]], [[Creatures M-O]], [[Creatures P-R]], [[Creatures S-U]], [[Creatures V-Z]]

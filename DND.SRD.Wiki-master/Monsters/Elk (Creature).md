@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 13:17:17
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures D-F]]
+
+---
+
 ### Elk
 
 *Large beast, unaligned*

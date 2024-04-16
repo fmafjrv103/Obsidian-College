@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 13:15:44
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures D-F]]
+
+---
+
 ### Eagle
 
 *Small beast, unaligned*

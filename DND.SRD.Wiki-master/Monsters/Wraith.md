@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 13:29:50
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters W]]
+
+---
+
 ## Wraith
 
 *Medium undead, neutral evil*

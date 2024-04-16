@@ -17,3 +17,4 @@ Links: [[Monsters]]
 ![[Lizard (Creature)#Lizard]]
 
 ---
+Links: [[Creatures A-C]], [[Creatures D-F]], [[Creatures G-I]], [[Creatures M-O]], [[Creatures P-R]], [[Creatures S-U]], [[Creatures V-Z]]
