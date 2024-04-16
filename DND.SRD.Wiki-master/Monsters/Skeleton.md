@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 15:47:52
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters S]]
+
+---
+
 ### Skeleton
 
 *Medium undead, lawful evil*

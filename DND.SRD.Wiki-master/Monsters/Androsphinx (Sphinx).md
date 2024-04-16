@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 15:51:39
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters S]]
+
+---
+
 ### Androsphinx (Sphinx)
 
 *Large monstrosity, lawful neutral*

@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 15:45:09
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures V-Z]]
+
+---
+
 ### Warhorse
 
 *Large beast, unaligned*

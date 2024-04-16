@@ -460,6 +460,150 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Zombie",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Zombie.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":35},\"to\":{\"line\":5,\"ch\":35}}}"
+                },
+                {
+                  "title": "Vampire",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Vampire.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":35},\"to\":{\"line\":5,\"ch\":35}}}"
+                },
+                {
+                  "title": "Ogre Zombie",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Ogre Zombie.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":35},\"to\":{\"line\":5,\"ch\":35}}}"
+                },
+                {
+                  "title": "Vampire Spawn",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Vampire Spawn.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":35},\"to\":{\"line\":5,\"ch\":35}}}"
+                },
+                {
+                  "title": "Specter",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Specter.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":35},\"to\":{\"line\":5,\"ch\":35}}}"
+                },
+                {
+                  "title": "Satyr",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Satyr.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":35},\"to\":{\"line\":5,\"ch\":35}}}"
+                },
+                {
+                  "title": "Shadow",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Shadow.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":35},\"to\":{\"line\":5,\"ch\":35}}}"
+                },
+                {
+                  "title": "Sprite",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Sprite.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":35},\"to\":{\"line\":5,\"ch\":35}}}"
+                },
+                {
+                  "title": "Shield Guardian",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Shield Guardian.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":35},\"to\":{\"line\":5,\"ch\":35}}}"
+                },
+                {
+                  "title": "Shambling Mound",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Shambling Mound.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":35},\"to\":{\"line\":5,\"ch\":35}}}"
+                },
+                {
+                  "title": "Succubus-Incubus",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Succubus-Incubus.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":35},\"to\":{\"line\":5,\"ch\":35}}}"
+                },
+                {
+                  "title": "Androsphinx (Sphinx)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Androsphinx (Sphinx).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":35},\"to\":{\"line\":5,\"ch\":35}}}"
+                },
+                {
+                  "title": "Stirge",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Stirge.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":35},\"to\":{\"line\":5,\"ch\":35}}}"
+                },
+                {
+                  "title": "Salamander",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Salamander.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":35},\"to\":{\"line\":5,\"ch\":35}}}"
+                },
+                {
+                  "title": "Gynosphinx (Sphinx)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Gynosphinx (Sphinx).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":31},\"to\":{\"line\":5,\"ch\":31}}}"
+                },
+                {
+                  "title": "Sahuagin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Sahuagin.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":35},\"to\":{\"line\":5,\"ch\":35}}}"
+                },
+                {
+                  "title": "Warhorse Skeleton",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Warhorse Skeleton.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":35},\"to\":{\"line\":5,\"ch\":35}}}"
+                },
+                {
+                  "title": "Skeleton",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Skeleton.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":35},\"to\":{\"line\":5,\"ch\":35}}}"
+                },
+                {
+                  "title": "Minotaur Skeleton",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Minotaur Skeleton.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":35},\"to\":{\"line\":5,\"ch\":35}}}"
+                },
+                {
+                  "title": "Reef Shark (Creature)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Reef Shark (Creature).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":19},\"to\":{\"line\":5,\"ch\":19}}}"
+                },
+                {
+                  "title": "Wolf (Creature)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Wolf (Creature).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":16},\"to\":{\"line\":17,\"ch\":16}}}"
+                },
+                {
+                  "title": "Winter Wolf (Creature)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Winter Wolf (Creature).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":38},\"to\":{\"line\":5,\"ch\":38}}}"
+                },
+                {
+                  "title": "Warhorse (Creature)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Warhorse (Creature).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":38},\"to\":{\"line\":5,\"ch\":38}}}"
+                },
+                {
+                  "title": "Weasel (Creature)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Weasel (Creature).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":38},\"to\":{\"line\":5,\"ch\":38}}}"
+                },
+                {
                   "title": "Worg (Creature)",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Worg (Creature).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -1610,7 +1754,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND.SRD.Wiki-master/Monsters/Weasel (Creature).md",
+                "file": "DND.SRD.Wiki-master/Monsters/Weretiger (Lycanthrope).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -1896,7 +2040,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DND.SRD.Wiki-master/Monsters/Weasel (Creature).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -1989,34 +2132,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "250b8791c6256c05",
+  "active": "53a91095c0f3296c",
   "lastOpenFiles": [
-    "DND.SRD.Wiki-master/Monsters/Worg (Creature).md",
-    "DND.SRD.Wiki-master/Monsters/Polar Bear (Creature).md",
-    "DND.SRD.Wiki-master/Monsters/Quipper (Creature).md",
-    "DND.SRD.Wiki-master/Monsters/Poisonous Snake (Creature).md",
+    "DND.SRD.Wiki-master/Monsters/Weretiger (Lycanthrope).md",
+    "DND.SRD.Wiki-master/Monsters/Zombie.md",
+    "DND.SRD.Wiki-master/Monsters/Vampire.md",
+    "DND.SRD.Wiki-master/Monsters/Ogre Zombie.md",
+    "DND.SRD.Wiki-master/Monsters/Vampire Spawn.md",
+    "DND.SRD.Wiki-master/Monsters/Specter.md",
+    "DND.SRD.Wiki-master/Monsters/Satyr.md",
+    "DND.SRD.Wiki-master/Monsters/Shadow.md",
+    "DND.SRD.Wiki-master/Monsters/Sprite.md",
+    "DND.SRD.Wiki-master/Monsters/Shield Guardian.md",
+    "DND.SRD.Wiki-master/Monsters/Shambling Mound.md",
+    "DND.SRD.Wiki-master/Monsters/Succubus-Incubus.md",
+    "DND.SRD.Wiki-master/Monsters/Androsphinx (Sphinx).md",
+    "DND.SRD.Wiki-master/Monsters/Stirge.md",
+    "DND.SRD.Wiki-master/Monsters/Salamander.md",
+    "DND.SRD.Wiki-master/Monsters/Gynosphinx (Sphinx).md",
+    "DND.SRD.Wiki-master/Monsters/Sahuagin.md",
+    "DND.SRD.Wiki-master/Monsters/Warhorse Skeleton.md",
+    "DND.SRD.Wiki-master/Monsters/Skeleton.md",
+    "DND.SRD.Wiki-master/Monsters/Minotaur Skeleton.md",
     "DND.SRD.Wiki-master/Monsters/Reef Shark (Creature).md",
-    "DND.SRD.Wiki-master/Monsters/Riding Horse (Creature).md",
-    "DND.SRD.Wiki-master/Monsters/Vulture (Creature).md",
-    "DND.SRD.Wiki-master/Monsters/Phase Spider (Creature).md",
-    "DND.SRD.Wiki-master/Monsters/Raven (Creature).md",
-    "DND.SRD.Wiki-master/Monsters/Panther (Creature).md",
-    "DND.SRD.Wiki-master/Monsters/Rhinoceros (Creature).md",
-    "DND.SRD.Wiki-master/Monsters/Rat (Creature).md",
-    "Templates/Regular Template.md",
-    "DND.SRD.Wiki-master/Monsters/Pony (Creature).md",
-    "DND.SRD.Wiki-master/Monsters (Alt)/Creatures P-R.md",
-    "DND.SRD.Wiki-master/Monsters (Alt)/Creatures S-U.md",
-    "DND.SRD.Wiki-master/Monsters/Scorpion (Creature).md",
-    "DND.SRD.Wiki-master/Monsters/Tiger (Creature).md",
-    "DND.SRD.Wiki-master/Monsters/Swarm of Bats (Creature).md",
-    "DND.SRD.Wiki-master/Monsters/Swarm of Quippers (Creature).md",
-    "DND.SRD.Wiki-master/Monsters/Sea Horse (Creature).md",
-    "DND.SRD.Wiki-master/Monsters/Swarm of Insects (Creature).md",
-    "DND.SRD.Wiki-master/Monsters/Swarm of Rats (Creature).md",
-    "DND.SRD.Wiki-master/Monsters/Spider (Creature).md",
-    "DND.SRD.Wiki-master/Monsters/Saber-Toothed Tiger (Creature).md",
-    "DND.SRD.Wiki-master/Monsters/Swarm of Ravens (Creature).md",
+    "DND.SRD.Wiki-master/Monsters/Wolf (Creature).md",
+    "DND.SRD.Wiki-master/Monsters/Winter Wolf (Creature).md",
+    "DND.SRD.Wiki-master/Monsters/Warhorse (Creature).md",
+    "DND.SRD.Wiki-master/Monsters/Weasel (Creature).md",
+    "DND.SRD.Wiki-master/Monsters/Worg (Creature).md",
     "Media/D&D 5E - Player's Handbook.pdf",
     "Media/dragon-size-chart-3-1small.jpg",
     "Media/a9y8f7f48bc51.jpg",

@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 15:55:18
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters V]]
+
+---
+
 ### Vampire
 
 *Medium undead (shapechanger), lawful evil*

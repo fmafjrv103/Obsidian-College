@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 15:54:45
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters Z]]
+
+---
+
 ### Ogre Zombie
 
 *Large undead, neutral evil*

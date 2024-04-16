@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 15:49:17
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters S]]
+
+---
+
 ### Gynosphinx (Sphinx)
 
 *Large monstrosity, lawful neutral*

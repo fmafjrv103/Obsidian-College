@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 15:52:19
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters S]]
+
+---
+
 ## Shambling Mound
 
 *Large plant, unaligned*

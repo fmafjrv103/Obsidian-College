@@ -3,7 +3,7 @@ date: 2024-04-16 15:38:48
 tags:
   - dnd
 ---
-Links: [[Monk]], [[Creatures P-R]]
+Links: [[Monsters]], [[Creatures P-R]]
 
 ---
 

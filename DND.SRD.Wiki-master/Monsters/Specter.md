@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 15:53:53
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters S]]
+
+---
+
 ## Specter
 
 *Medium undead, chaotic evil*

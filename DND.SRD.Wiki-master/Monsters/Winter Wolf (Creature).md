@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 15:45:31
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Creatures V-Z]]
+
+---
+
 ### Winter Wolf
 
 *Large monstrosity, neutral evil*

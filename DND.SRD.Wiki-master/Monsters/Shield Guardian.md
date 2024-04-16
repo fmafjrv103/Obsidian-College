@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 15:52:39
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters S]]
+
+---
+
 ## Shield Guardian
 
 *Large construct, unaligned*

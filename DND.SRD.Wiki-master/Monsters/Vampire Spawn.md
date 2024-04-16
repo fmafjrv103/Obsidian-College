@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 15:54:22
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters V]]
+
+---
+
 ### Vampire Spawn
 
 *Medium undead, neutral evil*

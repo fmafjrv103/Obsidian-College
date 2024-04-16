@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 15:52:56
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters S]]
+
+---
+
 ## Sprite
 
 *Tiny fey, neutral good*

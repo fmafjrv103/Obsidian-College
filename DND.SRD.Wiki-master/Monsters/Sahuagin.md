@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 15:48:44
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters S]]
+
+---
+
 ## Sahuagin
 
 *Medium humanoid (sahuagin), lawful evil*

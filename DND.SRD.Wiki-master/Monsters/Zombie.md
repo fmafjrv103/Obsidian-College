@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 15:55:40
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters Z]]
+
+---
+
 ### Zombie
 
 *Medium undead, neutral evil*

@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 15:51:15
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters S]]
+
+---
+
 ## Stirge
 
 *Tiny beast, unaligned*

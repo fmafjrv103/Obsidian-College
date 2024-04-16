@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 15:48:21
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters S]]
+
+---
+
 ### Warhorse Skeleton
 
 *Large undead, lawful evil*
