@@ -1,3 +1,11 @@
+---
+date: 2024-04-17 08:54:00
+tags:
+---
+Links: [[Monsters]], [[Monsters A]]
+
+---
+
 ### Planetar (Angel)
 
 *Large celestial, lawful good*
