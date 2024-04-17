@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 17:11:57
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters G]]
+
+---
+
 ## Grick
 
 *Medium monstrosity, neutral*

@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 16:59:50
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters G]]
+
+---
+
 ## Grimlock
 
 *Medium humanoid (grimlock), neutral evil*

@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 16:58:12
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters G]]
+
+---
+
 ## Gargoyle
 
 *Medium elemental, chaotic evil*

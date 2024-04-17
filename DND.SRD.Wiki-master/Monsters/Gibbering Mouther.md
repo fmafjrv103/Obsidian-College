@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 16:58:45
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters G]]
+
+---
+
 ## Gibbering Mouther
 
 *Medium aberration, neutral*

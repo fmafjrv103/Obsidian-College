@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 17:09:52
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters G]]
+
+---
+
 ### Djinni (Genie)
 
 *Large elemental, chaotic good*

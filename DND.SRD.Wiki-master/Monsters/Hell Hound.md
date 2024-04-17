@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 17:13:09
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters H]]
+
+---
+
 ## Hell Hound
 
 *Medium fiend, lawful evil*

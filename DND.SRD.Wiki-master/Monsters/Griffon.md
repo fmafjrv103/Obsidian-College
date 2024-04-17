@@ -1,3 +1,12 @@
+---
+date: 2024-04-16 17:10:51
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters G]]
+
+---
+
 ## Griffon
 
 *Large monstrosity, unaligned*
