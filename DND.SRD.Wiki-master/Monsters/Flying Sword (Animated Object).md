@@ -1,3 +1,12 @@
+---
+date: 2024-04-17 09:14:19
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters A]]
+
+---
+
 ### Flying Sword (Animated Object)
 
 *Small construct, unaligned*

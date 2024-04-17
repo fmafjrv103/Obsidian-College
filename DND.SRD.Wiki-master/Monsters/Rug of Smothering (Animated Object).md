@@ -1,3 +1,12 @@
+---
+date: 2024-04-17 09:18:31
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters A]]
+
+---
+
 ### Rug of Smothering (Animated Object)
 
 *Large construct, unaligned*

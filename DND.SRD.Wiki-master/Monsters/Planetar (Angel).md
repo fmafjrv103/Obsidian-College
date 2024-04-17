@@ -1,6 +1,7 @@
 ---
 date: 2024-04-17 08:54:00
 tags:
+  - dnd
 ---
 Links: [[Monsters]], [[Monsters A]]
 

@@ -1,3 +1,12 @@
+---
+date: 2024-04-17 09:12:44
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters A]]
+
+---
+
 ## Azer
 
 *Medium elemental, lawful neutral*

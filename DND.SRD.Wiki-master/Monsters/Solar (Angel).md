@@ -1,3 +1,11 @@
+---
+date: 2024-04-17 09:19:29
+tags:
+---
+Links: 
+
+---
+
 ### Solar (Angel)
 
 *Large celestial, lawful good*
