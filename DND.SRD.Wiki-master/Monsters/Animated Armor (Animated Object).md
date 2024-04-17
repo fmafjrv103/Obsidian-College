@@ -1,3 +1,12 @@
+---
+date: 2024-04-17 12:12:43
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters A]]
+
+---
+
 ### Animated Armor (Animated Object)
 
 *Medium construct, unaligned*

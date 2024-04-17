@@ -1,3 +1,12 @@
+---
+date: 2024-04-17 12:15:16
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters B]]
+
+---
+
 ## Bugbear
 
 *Medium humanoid (goblinoid), chaotic evil*

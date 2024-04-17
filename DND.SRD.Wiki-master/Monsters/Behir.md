@@ -1,3 +1,12 @@
+---
+date: 2024-04-17 12:16:27
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters B]]
+
+---
+
 ## Behir
 
 *Huge monstrosity, neutral evil*

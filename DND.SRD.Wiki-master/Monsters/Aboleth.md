@@ -1,3 +1,12 @@
+---
+date: 2024-04-17 12:13:17
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters A]]
+
+---
+
 ## Aboleth
 
 *Large aberration, lawful evil*

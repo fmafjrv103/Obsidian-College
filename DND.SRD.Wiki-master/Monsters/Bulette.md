@@ -1,3 +1,12 @@
+---
+date: 2024-04-17 12:14:40
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters B]]
+
+---
+
 ## Bulette
 
 *Large monstrosity, unaligned*
