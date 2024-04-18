@@ -1,3 +1,12 @@
+---
+date: 2024-04-17 15:54:38
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters C]]
+
+---
+
 ## Chimera
 
 *Large monstrosity, chaotic evil*

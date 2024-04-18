@@ -1,3 +1,12 @@
+---
+date: 2024-04-17 15:56:38
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 # Adult Gold Dragon (Metallic)
 
 *Huge dragon, lawful good*

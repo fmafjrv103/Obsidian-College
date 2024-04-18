@@ -1,3 +1,12 @@
+---
+date: 2024-04-17 15:57:30
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 ### Ice Devil
 
 *Large fiend (devil), lawful evil*

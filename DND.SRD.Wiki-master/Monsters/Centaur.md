@@ -1,3 +1,12 @@
+---
+date: 2024-04-17 15:53:16
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters C]]
+
+---
+
 ## Centaur
 
 *Large monstrosity, neutral good*

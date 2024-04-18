@@ -1,3 +1,12 @@
+---
+date: 2024-04-17 15:52:34
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters C]]
+
+---
+
 ## Couatl
 
 *Medium celestial, lawful good*

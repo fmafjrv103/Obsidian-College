@@ -1,3 +1,12 @@
+---
+date: 2024-04-17 15:55:48
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters C]]
+
+---
+
 ## Chuul
 
 *Large aberration, chaotic evil*

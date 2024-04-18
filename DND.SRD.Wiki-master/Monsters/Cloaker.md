@@ -1,3 +1,12 @@
+---
+date: 2024-04-17 15:54:58
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters C]]
+
+---
+
 ## Cloaker
 
 *Large aberration, chaotic neutral*
