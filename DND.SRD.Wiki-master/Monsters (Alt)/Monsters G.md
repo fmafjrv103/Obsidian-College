@@ -4,7 +4,7 @@ tags:
   - rpg
   - dnd
 ---
-1§§Links: [[Monsters]]
+Links: [[Monsters]]
 
 ---
 

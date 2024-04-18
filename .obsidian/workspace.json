@@ -18,6 +18,54 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Monsters D",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":19},\"to\":{\"line\":6,\"ch\":19}}}"
+                },
+                {
+                  "title": "Monsters",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monsters.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":8},\"to\":{\"line\":22,\"ch\":8}}}"
+                },
+                {
+                  "title": "Monsters G",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Monsters G.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":14},\"to\":{\"line\":6,\"ch\":14}}}"
+                },
+                {
+                  "title": "Monsters",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monsters.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":10},\"to\":{\"line\":25,\"ch\":10}},\"scroll\":6}"
+                },
+                {
+                  "title": "DND MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":57,\"ch\":8},\"to\":{\"line\":57,\"ch\":8}},\"scroll\":24.181986871533457}"
+                },
+                {
+                  "title": "040 Interests MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":8},\"to\":{\"line\":46,\"ch\":8}},\"scroll\":6}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":36},\"to\":{\"line\":20,\"ch\":36}}}"
+                },
+                {
+                  "title": "202404181229 Math Notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"202404181229 Math Notes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":74,\"ch\":0},\"to\":{\"line\":74,\"ch\":0}},\"scroll\":6}"
+                },
+                {
                   "title": "Ettin",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Ettin.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -466,7 +514,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202404181229 Math Notes.md",
+                "file": "202404181558 Psychology Notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -734,7 +782,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "202404181229 Math Notes.md",
+                "file": "202404181558 Psychology Notes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -793,7 +841,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.9763983239783475,
+                  "scale": 1.1898321629210502,
                   "close": true
                 }
               }
@@ -829,13 +877,18 @@
   },
   "active": "7d1ec5781e03eba8",
   "lastOpenFiles": [
-    "DND.SRD.Wiki-master/Monsters/Ettin.md",
+    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md",
+    "202404181558 Psychology Notes.md",
+    "DND.SRD.Wiki-master/Monsters/Monsters.md",
+    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters G.md",
+    "DND MOC.md",
+    "040 Interests MOC.md",
+    "000 Home.md",
     "202404181229 Math Notes.md",
+    "DND.SRD.Wiki-master/Monsters/Ettin.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters E.md",
     "DND.SRD.Wiki-master/Monsters/Ettercap.md",
     "DND.SRD.Wiki-master/Monsters/Fire Elemental.md",
-    "DND.SRD.Wiki-master/Monsters/Monsters.md",
-    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md",
     "DND.SRD.Wiki-master/Monsters/Wyrmling Red Dragon (Chromatic).md",
     "DND.SRD.Wiki-master/Monsters/Young Silver Dragon (Metallic).md",
     "DND.SRD.Wiki-master/Monsters/Wyrmling White Dragon (Chromatic).md",
@@ -850,11 +903,6 @@
     "DND.SRD.Wiki-master/Monsters/Cockatrice.md",
     "DND.SRD.Wiki-master/Monsters/Centaur.md",
     "DND.SRD.Wiki-master/Monsters/Couatl.md",
-    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters B.md",
-    "DND.SRD.Wiki-master/Monsters/Behir.md",
-    "DND.SRD.Wiki-master/Monsters/Basilisk.md",
-    "DND.SRD.Wiki-master/Monsters/Bugbear.md",
-    "DND.SRD.Wiki-master/Monsters/Bulette.md",
     "Media/D&D 5E - Player's Handbook.pdf",
     "Media/dragon-size-chart-3-1small.jpg",
     "Media/a9y8f7f48bc51.jpg",
