@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Ettin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Ettin.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":35},\"to\":{\"line\":5,\"ch\":35}}}"
+                },
+                {
+                  "title": "Monsters E",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Monsters E.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":1},\"to\":{\"line\":6,\"ch\":1}}}"
+                },
+                {
                   "title": "Ettercap",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Ettercap.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -454,7 +466,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Monsters E.md",
+                "file": "202404181229 Math Notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -661,6 +673,15 @@
           {
             "id": "1cbef15b0e579538",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {}
@@ -713,7 +734,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Monsters E.md",
+                "file": "202404181229 Math Notes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -808,8 +829,10 @@
   },
   "active": "7d1ec5781e03eba8",
   "lastOpenFiles": [
-    "DND.SRD.Wiki-master/Monsters/Ettercap.md",
+    "DND.SRD.Wiki-master/Monsters/Ettin.md",
+    "202404181229 Math Notes.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters E.md",
+    "DND.SRD.Wiki-master/Monsters/Ettercap.md",
     "DND.SRD.Wiki-master/Monsters/Fire Elemental.md",
     "DND.SRD.Wiki-master/Monsters/Monsters.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md",
@@ -832,8 +855,6 @@
     "DND.SRD.Wiki-master/Monsters/Basilisk.md",
     "DND.SRD.Wiki-master/Monsters/Bugbear.md",
     "DND.SRD.Wiki-master/Monsters/Bulette.md",
-    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters A.md",
-    "DND.SRD.Wiki-master/Monsters/Aboleth.md",
     "Media/D&D 5E - Player's Handbook.pdf",
     "Media/dragon-size-chart-3-1small.jpg",
     "Media/a9y8f7f48bc51.jpg",
