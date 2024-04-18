@@ -1,3 +1,12 @@
+---
+date: 2024-04-18 08:41:28
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 # Young Silver Dragon (Metallic)
 
 *Large dragon, lawful good*

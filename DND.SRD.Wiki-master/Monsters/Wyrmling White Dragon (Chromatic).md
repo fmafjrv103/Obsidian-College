@@ -1,3 +1,12 @@
+---
+date: 2024-04-18 08:40:27
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 # White Dragon Wyrmling (Chromatic)
 
 *Medium dragon, chaotic evil*

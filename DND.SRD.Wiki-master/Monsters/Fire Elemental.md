@@ -1,3 +1,12 @@
+---
+date: 2024-04-18 08:43:20
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters E]]
+
+---
+
 ### Fire Elemental
 
 *Large elemental, neutral*

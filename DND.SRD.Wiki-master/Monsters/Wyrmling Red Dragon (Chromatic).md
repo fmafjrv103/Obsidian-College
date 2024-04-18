@@ -1,3 +1,12 @@
+---
+date: 2024-04-18 08:42:20
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 # Red Dragon Wyrmling (Chromatic)
 
 *Medium dragon, chaotic evil*

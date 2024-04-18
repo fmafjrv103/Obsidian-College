@@ -18,6 +18,102 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Ettercap",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Ettercap.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":35},\"to\":{\"line\":5,\"ch\":35}}}"
+                },
+                {
+                  "title": "Monsters E",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Monsters E.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Fire Elemental",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Fire Elemental.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":35},\"to\":{\"line\":5,\"ch\":35}},\"scroll\":0}"
+                },
+                {
+                  "title": "Monsters E",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Monsters E.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":12.076337739601035}"
+                },
+                {
+                  "title": "Monsters",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Monsters.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":10},\"to\":{\"line\":23,\"ch\":10}}}"
+                },
+                {
+                  "title": "Monsters D",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Wyrmling Red Dragon (Chromatic)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Wyrmling Red Dragon (Chromatic).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":35},\"to\":{\"line\":5,\"ch\":35}}}"
+                },
+                {
+                  "title": "Monsters D",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Young Silver Dragon (Metallic)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Young Silver Dragon (Metallic).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":35},\"to\":{\"line\":5,\"ch\":35}}}"
+                },
+                {
+                  "title": "Monsters D",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Wyrmling White Dragon (Chromatic)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Wyrmling White Dragon (Chromatic).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":35},\"to\":{\"line\":5,\"ch\":35}}}"
+                },
+                {
+                  "title": "Monsters D",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Quasit (Demon)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Quasit (Demon).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":35},\"to\":{\"line\":5,\"ch\":35}}}"
+                },
+                {
+                  "title": "Monsters D",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ancient Bronze Dragon (Metallic)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Ancient Bronze Dragon (Metallic).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":35},\"to\":{\"line\":5,\"ch\":35}}}"
+                },
+                {
+                  "title": "Monsters D",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
                   "title": "Ice Devil (Devil)",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Ice Devil (Devil).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -358,7 +454,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md",
+                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Monsters E.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -437,23 +533,6 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "016934c0b492b664",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {}
-            }
           }
         ]
       }
@@ -484,23 +563,6 @@
             },
             "state": {
               "type": "online.tokuhirom.obsidian-pomodoro-plugin",
-              "state": {}
-            }
-          },
-          {
-            "id": "39452885ae1fa925",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
           },
@@ -595,9 +657,17 @@
               "type": "Timer",
               "state": {}
             }
+          },
+          {
+            "id": "1cbef15b0e579538",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "6f79939fd4bb2213",
@@ -643,7 +713,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md",
+                "file": "DND.SRD.Wiki-master/Monsters (Alt)/Monsters E.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -716,7 +786,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-5e-statblocks:Open Creature pane": false,
       "excel:Create Excel File": false,
       "obsidian-spaced-repetition:Review flashcards": true,
       "templater-obsidian:Templater": false,
@@ -733,15 +802,24 @@
       "obsidian-book-search-plugin:Create new book note": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "timer:Open timer": false
+      "timer:Open timer": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
   "active": "7d1ec5781e03eba8",
   "lastOpenFiles": [
-    "DND.SRD.Wiki-master/Monsters/Ice Devil (Devil).md",
-    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md",
-    "DND.SRD.Wiki-master/Monsters/Adult Gold Dragon (Metallic).md",
+    "DND.SRD.Wiki-master/Monsters/Ettercap.md",
+    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters E.md",
+    "DND.SRD.Wiki-master/Monsters/Fire Elemental.md",
     "DND.SRD.Wiki-master/Monsters/Monsters.md",
+    "DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md",
+    "DND.SRD.Wiki-master/Monsters/Wyrmling Red Dragon (Chromatic).md",
+    "DND.SRD.Wiki-master/Monsters/Young Silver Dragon (Metallic).md",
+    "DND.SRD.Wiki-master/Monsters/Wyrmling White Dragon (Chromatic).md",
+    "DND.SRD.Wiki-master/Monsters/Quasit (Demon).md",
+    "DND.SRD.Wiki-master/Monsters/Ancient Bronze Dragon (Metallic).md",
+    "DND.SRD.Wiki-master/Monsters/Ice Devil (Devil).md",
+    "DND.SRD.Wiki-master/Monsters/Adult Gold Dragon (Metallic).md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters C.md",
     "DND.SRD.Wiki-master/Monsters/Chuul.md",
     "DND.SRD.Wiki-master/Monsters/Cloaker.md",
@@ -756,14 +834,6 @@
     "DND.SRD.Wiki-master/Monsters/Bulette.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters A.md",
     "DND.SRD.Wiki-master/Monsters/Aboleth.md",
-    "DND.SRD.Wiki-master/Monsters/Animated Armor (Animated Object).md",
-    "DND.SRD.Wiki-master/Monsters/Solar (Angel).md",
-    "DND.SRD.Wiki-master/Monsters/Rug of Smothering (Animated Object).md",
-    "DND.SRD.Wiki-master/Monsters/Flying Sword (Animated Object).md",
-    "DND.SRD.Wiki-master/Monsters/Azer.md",
-    "DND.SRD.Wiki-master/Monsters/Planetar (Angel).md",
-    "DND.SRD.Wiki-master/Monsters/Ankheg.md",
-    "DND.SRD.Wiki-master/Monsters/Deva (Angel).md",
     "Media/D&D 5E - Player's Handbook.pdf",
     "Media/dragon-size-chart-3-1small.jpg",
     "Media/a9y8f7f48bc51.jpg",
