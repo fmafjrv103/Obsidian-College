@@ -1,3 +1,12 @@
+---
+date: 2024-04-19 07:59:49
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 # Young Gold Dragon (Metallic)
 
 *Large dragon, lawful good*

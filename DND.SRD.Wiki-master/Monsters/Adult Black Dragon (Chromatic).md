@@ -1,3 +1,12 @@
+---
+date: 2024-04-18 17:33:30
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 # Adult Black Dragon (Chromatic)
 
 *Huge dragon, chaotic evil*

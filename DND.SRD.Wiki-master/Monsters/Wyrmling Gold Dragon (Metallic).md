@@ -1,3 +1,12 @@
+---
+date: 2024-04-18 17:30:35
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 # Gold Dragon Wyrmling (Metallic)
 
 *Medium dragon, lawful good*

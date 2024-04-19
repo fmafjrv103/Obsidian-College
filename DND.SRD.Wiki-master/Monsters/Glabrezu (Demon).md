@@ -1,3 +1,12 @@
+---
+date: 2024-04-18 17:28:31
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 ### Glabrezu (Demon)
 
 *Large fiend (demon), chaotic evil*

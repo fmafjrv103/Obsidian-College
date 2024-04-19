@@ -1,3 +1,12 @@
+---
+date: 2024-04-18 17:32:22
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 # Adult Copper Dragon (Metallic)
 
 *Huge dragon, chaotic good*

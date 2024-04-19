@@ -1,3 +1,12 @@
+---
+date: 2024-04-19 08:00:53
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 # Ancient Brass Dragon (Metallic)
 
 *Gargantuan dragon, chaotic good*
