@@ -1,3 +1,12 @@
+---
+date: 2024-04-19 08:22:32
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 # Young Red Dragon (Chromatic)
 
 Large dragon, chaotic evil

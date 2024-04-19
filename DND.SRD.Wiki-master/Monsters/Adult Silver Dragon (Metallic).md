@@ -1,3 +1,12 @@
+---
+date: 2024-04-19 08:13:18
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 # Adult Silver Dragon (Metallic)
 
 *Huge dragon, lawful good*

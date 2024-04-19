@@ -1,3 +1,12 @@
+---
+date: 2024-04-19 08:01:48
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 ### Bearded Devil
 
 *Medium fiend (devil), lawful evil*

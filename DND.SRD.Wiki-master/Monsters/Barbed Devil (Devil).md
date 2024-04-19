@@ -1,3 +1,12 @@
+---
+date: 2024-04-19 08:06:23
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 ### Barbed Devil
 
 *Medium fiend (devil), lawful evil*

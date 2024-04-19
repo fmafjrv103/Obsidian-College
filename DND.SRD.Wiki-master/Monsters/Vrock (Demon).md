@@ -1,3 +1,12 @@
+---
+date: 2024-04-19 08:12:40
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 ### Vrock (Demon)
 
 *Large fiend (demon), chaotic evil*

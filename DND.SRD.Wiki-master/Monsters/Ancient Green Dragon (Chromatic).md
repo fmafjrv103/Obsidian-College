@@ -1,3 +1,12 @@
+---
+date: 2024-04-19 08:20:29
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 # Ancient Green Dragon (Chromatic)
 
 *Gargantuan dragon, lawful evil*

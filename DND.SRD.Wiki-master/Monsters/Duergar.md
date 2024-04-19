@@ -1,3 +1,12 @@
+---
+date: 2024-04-19 08:18:22
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 ## Duergar
 
 *Medium humanoid (dwarf), lawful evil*

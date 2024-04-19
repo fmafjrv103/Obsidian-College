@@ -1,3 +1,12 @@
+---
+date: 2024-04-19 08:02:18
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 ### Imp (Devil)
 
 *Tiny fiend (devil, shapechanger), lawful evil*
