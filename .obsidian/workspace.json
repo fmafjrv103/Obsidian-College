@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Ancient Black Dragon (Chromatic)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Ancient Black Dragon (Chromatic).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":35},\"to\":{\"line\":5,\"ch\":35}}}"
+                },
+                {
+                  "title": "Monsters D",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
                   "title": "Young Red Dragon (Chromatic)",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Monsters/Young Red Dragon (Chromatic).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -1093,8 +1105,9 @@
   },
   "active": "7d1ec5781e03eba8",
   "lastOpenFiles": [
-    "DND.SRD.Wiki-master/Monsters/Young Red Dragon (Chromatic).md",
+    "DND.SRD.Wiki-master/Monsters/Ancient Black Dragon (Chromatic).md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Monsters D.md",
+    "DND.SRD.Wiki-master/Monsters/Young Red Dragon (Chromatic).md",
     "DND.SRD.Wiki-master/Monsters/Ancient Green Dragon (Chromatic).md",
     "DND.SRD.Wiki-master/Monsters/Duergar.md",
     "DND.SRD.Wiki-master/Monsters/Adult Silver Dragon (Metallic).md",
@@ -1118,7 +1131,6 @@
     "040 Interests MOC.md",
     "000 Home.md",
     "202404181229 Math Notes.md",
-    "DND.SRD.Wiki-master/Monsters/Ettin.md",
     "Media/D&D 5E - Player's Handbook.pdf",
     "Media/dragon-size-chart-3-1small.jpg",
     "Media/a9y8f7f48bc51.jpg",
