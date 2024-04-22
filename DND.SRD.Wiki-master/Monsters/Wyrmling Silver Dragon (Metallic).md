@@ -1,3 +1,12 @@
+---
+date: 2024-04-21 11:06:21
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 # Silver Dragon Wyrmling (Metallic)
 
 *Medium dragon, lawful good*

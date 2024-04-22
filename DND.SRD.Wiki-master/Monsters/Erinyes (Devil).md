@@ -1,3 +1,12 @@
+---
+date: 2024-04-21 11:05:43
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 ### Erinyes (Devil)
 
 *Medium fiend (devil), lawful evil*

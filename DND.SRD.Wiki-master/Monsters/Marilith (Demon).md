@@ -1,3 +1,12 @@
+---
+date: 2024-04-21 18:11:52
+tags:
+  - dnd
+---
+Links:[[Monsters]], [[Monsters D]]
+
+---
+
 ### Marilith (Demon)
 
 *Large fiend (demon), chaotic evil*
