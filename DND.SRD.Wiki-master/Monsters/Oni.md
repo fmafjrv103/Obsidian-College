@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:53:08
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters O]]
+
+---
 ## Oni
 
 *Large giant, lawful evil*

@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:47:26
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters M]]
+
+---
 ### Magma Mephit
 
 *Small elemental, neutral evil*

@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:52:42
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters O]]
+
+---
 ### Gray Ooze
 
 *Medium ooze, unaligned*

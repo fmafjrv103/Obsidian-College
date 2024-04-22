@@ -1,3 +1,10 @@
+---
+date: 2024-04-22 12:41:40
+tags:
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
 ## Dragon Turtle
 
 *Gargantuan dragon, neutral*

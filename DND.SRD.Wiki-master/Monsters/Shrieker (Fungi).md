@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:51:38
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters F]]
+
+---
 ### Shrieker (Fungi)
 
 *Medium plant, unaligned*

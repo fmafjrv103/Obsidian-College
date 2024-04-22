@@ -1,11 +1,11 @@
 ---
-date: 2024-04-16 17:13:38
+date: 2024-04-22 12:54:08
 tags:
+  - dnd
 ---
-Links: 
+Links: [[Monsters]], [[Monsters H]]
 
 ---
-
 ## Hydra
 
 *Huge monstrosity, unaligned*

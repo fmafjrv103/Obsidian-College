@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:54:16
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters H]]
+
+---
 ## Hippogriff
 
 *Large monstrosity, unaligned*

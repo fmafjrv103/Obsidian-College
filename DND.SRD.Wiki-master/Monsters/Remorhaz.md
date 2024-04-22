@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:48:48
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters R]]
+
+---
 ## Remorhaz
 
 *Huge monstrosity, unaligned*

@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:47:31
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters M]]
+
+---
 ## Mimic
 
 *Medium monstrosity (shapechanger), neutral*

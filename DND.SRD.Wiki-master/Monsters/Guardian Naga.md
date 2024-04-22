@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:56:27
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters N]]
+
+---
 ### Guardian Naga
 
 *Large monstrosity, lawful good*

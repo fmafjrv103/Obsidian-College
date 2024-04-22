@@ -1,3 +1,12 @@
+---
+date: 2024-04-22 12:32:44
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters E]]
+
+---
+
 ## Elf, Drow
 
 *Medium humanoid (elf), neutral evil*

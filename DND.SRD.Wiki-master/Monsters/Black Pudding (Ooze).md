@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:53:02
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters O]]
+
+---
 ### Black Pudding (Ooze)
 
 *Large ooze, unaligned*

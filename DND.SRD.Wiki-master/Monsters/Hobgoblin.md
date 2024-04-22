@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:54:30
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters H]]
+
+---
 ## Hobgoblin
 
 *Medium humanoid (goblinoid), lawful evil*

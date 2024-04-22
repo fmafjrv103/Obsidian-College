@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:53:21
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters K]]
+
+---
 ## Kraken
 
 *Gargantuan monstrosity (titan), chaotic evil*

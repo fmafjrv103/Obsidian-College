@@ -1,3 +1,12 @@
+---
+date: 2024-04-22 12:33:09
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters L]]
+
+---
+
 ### Werewolf (Lycanthrope)
 
 *Medium humanoid (human, shapechanger), chaotic evil*

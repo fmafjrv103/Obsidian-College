@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:48:40
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters R]]
+
+---
 ## Rust Monster
 
 *Medium monstrosity, unaligned*

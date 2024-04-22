@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:49:13
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters R]]
+
+---
 ## Rakshasa
 
 *Medium fiend, lawful evil*

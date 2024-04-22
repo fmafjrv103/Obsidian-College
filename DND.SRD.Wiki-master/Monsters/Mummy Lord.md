@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:47:04
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters M]]
+
+---
 ### Mummy Lord
 
 *Medium undead, lawful evil*

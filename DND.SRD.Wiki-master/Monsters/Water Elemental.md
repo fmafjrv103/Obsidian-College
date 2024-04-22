@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:55:37
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters E]]
+
+---
 ### Water Elemental
 
 *Large elemental, neutral*

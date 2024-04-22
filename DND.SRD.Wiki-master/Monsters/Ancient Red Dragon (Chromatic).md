@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:43:37
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
 # Ancient Red Dragon (Chromatic)
 
 *Gargantuan dragon, chaotic evil*

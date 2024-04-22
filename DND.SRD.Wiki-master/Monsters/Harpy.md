@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:54:41
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters H]]
+
+---
 ## Harpy
 
 *Medium monstrosity, chaotic evil*

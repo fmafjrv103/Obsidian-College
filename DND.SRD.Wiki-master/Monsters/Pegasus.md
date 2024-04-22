@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:56:53
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters P]]
+
+---
 ## Pegasus
 
 *Large celestial, chaotic good*

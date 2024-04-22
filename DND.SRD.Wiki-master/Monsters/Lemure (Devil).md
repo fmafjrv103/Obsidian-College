@@ -1,3 +1,10 @@
+---
+date: 2024-04-22 12:42:46
+tags:
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
 ### Lemure (Devil)
 
 *Medium fiend (devil), lawful evil*

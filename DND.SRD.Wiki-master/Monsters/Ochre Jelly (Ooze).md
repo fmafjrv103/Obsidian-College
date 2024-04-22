@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:52:09
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters O]]
+
+---
 ### Ochre Jelly (Ooze)
 
 *Large ooze, unaligned*

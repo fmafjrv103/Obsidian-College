@@ -3,7 +3,7 @@ date: 2024-04-22 08:43:13
 tags:
   - dnd
 ---
-Links: [[Monsters]], [[Monsters D]]
+Links: [[Monsters]], [[DND.SRD.Wiki-master/Monsters (Alt)/Monsters D]]
 
 ---
 

@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:54:36
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters H]]
+
+---
 ## Homunculus
 
 *Tiny construct, neutral*

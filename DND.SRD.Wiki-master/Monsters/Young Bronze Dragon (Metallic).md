@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:43:25
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
 # Young Bronze Dragon (Metallic)
 
 *Large dragon, lawful good*

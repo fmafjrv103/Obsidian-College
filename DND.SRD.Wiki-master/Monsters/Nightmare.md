@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:56:34
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters N]]
+
+---
 ## Nightmare
 
 *Large fiend, neutral evil*

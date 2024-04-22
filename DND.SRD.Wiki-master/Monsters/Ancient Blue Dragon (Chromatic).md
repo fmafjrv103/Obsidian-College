@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:41:46
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
 # Ancient Blue Dragon (Chromatic)
 
 *Gargantuan dragon, lawful evil*

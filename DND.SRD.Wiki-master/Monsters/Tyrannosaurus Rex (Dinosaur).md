@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:42:07
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
 ### Tyrannosaurus Rex (Dinosaur)
 
 *Huge beast, unaligned*

@@ -1,3 +1,10 @@
+---
+date: 2024-04-22 12:41:32
+tags:
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
 # Copper Dragon Wyrmling (Metallic)
 
 *Medium dragon, chaotic good*

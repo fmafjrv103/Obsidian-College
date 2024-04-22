@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:42:25
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
 # Adult Brass Dragon (Metallic)
 
 *Huge dragon, chaotic good*

@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:52:52
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters O]]
+
+---
 ### Gelatinous Cube (Ooze)
 
 *Large ooze, unaligned*

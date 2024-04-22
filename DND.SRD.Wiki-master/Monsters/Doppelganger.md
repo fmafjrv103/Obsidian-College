@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:42:17
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
 ## Doppelganger
 
 *Medium monstrosity (shapechanger), neutral*

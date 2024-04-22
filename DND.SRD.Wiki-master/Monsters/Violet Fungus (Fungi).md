@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:46:19
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters M]]
+
+---
 ### Violet Fungus (Fungi)
 
 *Medium plant, unaligned*

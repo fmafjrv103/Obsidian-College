@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:47:16
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters M]]
+
+---
 ### Dust Mephit
 
 *Small elemental, neutral evil*

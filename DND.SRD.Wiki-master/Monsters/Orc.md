@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:52:38
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters O]]
+
+---
 ## Orc
 
 *Medium humanoid (orc), chaotic evil*

@@ -1,3 +1,12 @@
+---
+date: 2024-04-22 12:30:49
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[DND.SRD.Wiki-master/Monsters (Alt)/Monsters D]]
+
+---
+
 # Young Copper Dragon (Metallic)
 
 *Large dragon, chaotic good*

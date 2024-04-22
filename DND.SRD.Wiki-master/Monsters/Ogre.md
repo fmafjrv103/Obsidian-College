@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:52:34
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters O]]
+
+---
 ## Ogre
 
 *Large giant, chaotic evil*

@@ -1,3 +1,12 @@
+---
+date: 2024-04-22 12:34:47
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters L]]
+
+---
+
 ## Lich
 
 *Medium undead, any evil alignment*

@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:52:16
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters O]]
+
+---
 ## Otyugh
 
 *Large aberration, neutral*

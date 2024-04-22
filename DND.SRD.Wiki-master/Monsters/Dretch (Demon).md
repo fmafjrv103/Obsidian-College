@@ -1,3 +1,10 @@
+---
+date: 2024-04-22 12:41:24
+tags:
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
 ### Dretch (Demon)
 
 *Small fiend (demon), chaotic evil*

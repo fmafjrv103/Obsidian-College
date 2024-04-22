@@ -1,3 +1,12 @@
+---
+date: 2024-04-22 12:34:25
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters L]]
+
+---
+
 ### Werebear (Lycanthrope)
 
 *Medium humanoid (human, shapechanger), neutral good*

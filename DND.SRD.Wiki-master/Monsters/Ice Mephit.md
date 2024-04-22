@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:47:21
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters M]]
+
+---
 ### Ice Mephit
 
 *Small elemental, neutral evil*

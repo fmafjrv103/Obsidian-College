@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:51:12
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters I]]
+
+---
 ## Invisible Stalker
 
 *Medium elemental, neutral*

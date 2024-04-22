@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:55:41
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters E]]
+
+---
 ### Earth Elemental
 
 *Large elemental, neutral*

@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:41:55
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
 ### Bone Devil
 
 *Large fiend (devil), lawful evil*

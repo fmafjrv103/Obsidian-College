@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:52:27
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters O]]
+
+---
 ## Owlbear
 
 *Large monstrosity, unaligned*

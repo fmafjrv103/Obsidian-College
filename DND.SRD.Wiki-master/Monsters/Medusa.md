@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:46:11
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters M]]
+
+---
 ## Medusa
 
 *Medium monstrosity, lawful evil*

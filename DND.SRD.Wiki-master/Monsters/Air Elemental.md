@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:55:31
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters E]]
+
+---
 ### Air Elemental
 
 *Large elemental, neutral*

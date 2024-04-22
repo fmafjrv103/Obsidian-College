@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:38:54
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[NPCs]]
+
+---
 ### Assassin
 
 *Medium humanoid (any race), any non-good alignment*

@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:48:55
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters R]]
+
+---
 ## Roper
 
 *Large monstrosity, neutral evil*

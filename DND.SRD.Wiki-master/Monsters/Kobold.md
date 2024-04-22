@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:53:34
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters K]]
+
+---
 ## Kobold
 
 *Small humanoid (kobold), lawful evil*

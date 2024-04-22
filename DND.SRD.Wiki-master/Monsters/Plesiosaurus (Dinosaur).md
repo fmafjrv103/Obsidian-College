@@ -1,3 +1,10 @@
+---
+date: 2024-04-22 12:41:16
+tags:
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
 ### Plesiosaurus (Dinosaur)
 
 *Large beast, unaligned*

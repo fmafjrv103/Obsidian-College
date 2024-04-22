@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:42:13
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
 ### Chain Devil
 
 *Medium fiend (devil), lawful evil*

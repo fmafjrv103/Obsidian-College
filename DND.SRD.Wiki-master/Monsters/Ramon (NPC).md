@@ -1,3 +1,12 @@
+---
+date: 2024-04-22 12:38:32
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[NPCs]]
+
+---
+
 ### Ramon
 _Human Tiefling(50/50), Chaotic Neutral_
 

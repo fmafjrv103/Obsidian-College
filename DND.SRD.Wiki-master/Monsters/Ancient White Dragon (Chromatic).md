@@ -1,3 +1,10 @@
+---
+date: 2024-04-22 12:43:01
+tags:
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
 # Ancient White Dragon (Chromatic)
 
 *Gargantuan dragon, chaotic evil*

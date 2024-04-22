@@ -1,3 +1,12 @@
+---
+date: 2024-04-22 12:37:20
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[DND.SRD.Wiki-master/Monsters (Alt)/Monsters D]]
+
+---
+
 # Adult Bronze Dragon (Metallic)
 
 *Huge dragon, lawful good*

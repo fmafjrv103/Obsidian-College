@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:46:58
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters M]]
+
+---
 ## Minotaur
 
 *Large monstrosity, chaotic evil*

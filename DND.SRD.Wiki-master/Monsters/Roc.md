@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:49:06
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters R]]
+
+---
 ## Roc
 
 *Gargantuan monstrosity, unaligned*
