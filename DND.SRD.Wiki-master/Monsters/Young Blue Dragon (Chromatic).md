@@ -1,3 +1,12 @@
+---
+date: 2024-04-22 08:43:13
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 # Young Blue Dragon (Chromatic)
 
 *Large dragon, lawful evil*

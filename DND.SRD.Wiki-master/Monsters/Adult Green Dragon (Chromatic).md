@@ -1,3 +1,12 @@
+---
+date: 2024-04-22 08:39:47
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 # Adult Green Dragon (Chromatic)
 
 *Huge dragon, lawful evil*

@@ -1,3 +1,12 @@
+---
+date: 2024-04-22 12:24:12
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 ### Pit Fiend (Devil)
 
 *Large fiend (devil), lawful evil*

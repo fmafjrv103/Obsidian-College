@@ -1,3 +1,12 @@
+---
+date: 2024-04-22 12:20:00
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 # Adult Blue Dragon (Chromatic)
 
 *Huge dragon, lawful evil*

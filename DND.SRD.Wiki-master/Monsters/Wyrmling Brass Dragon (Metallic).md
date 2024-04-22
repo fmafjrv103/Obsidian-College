@@ -1,3 +1,12 @@
+---
+date: 2024-04-22 08:43:49
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 # Brass Dragon Wyrmling (Metallic)
 
 *Medium dragon, chaotic good*

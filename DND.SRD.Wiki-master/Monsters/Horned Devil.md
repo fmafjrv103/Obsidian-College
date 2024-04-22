@@ -1,3 +1,12 @@
+---
+date: 2024-04-22 12:25:45
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 ### Horned Devil
 
 *Large fiend (devil), lawful evil*

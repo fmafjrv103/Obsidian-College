@@ -1,3 +1,12 @@
+---
+date: 2024-04-22 08:40:55
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 # Ancient Gold Dragon (Metallic)
 
 *Gargantuan dragon, lawful good*

@@ -1,3 +1,12 @@
+---
+date: 2024-04-22 12:24:42
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 # Bronze Dragon Wyrmling (Metallic)
 
 *Medium dragon, lawful good*

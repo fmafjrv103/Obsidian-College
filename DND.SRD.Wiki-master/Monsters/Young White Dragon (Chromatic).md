@@ -1,3 +1,12 @@
+---
+date: 2024-04-22 08:28:32
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 # Young White Dragon (Chromatic)
 
 *Large dragon, chaotic evil*

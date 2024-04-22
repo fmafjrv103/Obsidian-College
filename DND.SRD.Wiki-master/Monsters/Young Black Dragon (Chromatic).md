@@ -1,3 +1,12 @@
+---
+date: 2024-04-22 08:41:53
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 # Young Black Dragon (Chromatic)
 
 *Large dragon, chaotic evil*

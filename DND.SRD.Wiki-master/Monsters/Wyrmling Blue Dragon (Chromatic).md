@@ -1,3 +1,12 @@
+---
+date: 2024-04-22 12:21:16
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 # Blue Dragon Wyrmling (Chromatic)
 
 *Medium dragon, lawful evil*

@@ -1,3 +1,12 @@
+---
+date: 2024-04-22 08:29:56
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 # Ancient Copper Dragon (Metallic)
 
 *Gargantuan dragon, chaotic good*
