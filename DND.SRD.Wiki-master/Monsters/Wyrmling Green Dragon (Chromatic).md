@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 07:58:07
+tags:
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 # Green Dragon Wyrmling (Chromatic)
 
 *Medium dragon, lawful evil*

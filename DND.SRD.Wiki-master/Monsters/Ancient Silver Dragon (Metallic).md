@@ -1,3 +1,12 @@
+---
+date: 2024-04-22 07:57:41
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 # Ancient Silver Dragon (Metallic)
 
 *Gargantuan dragon, lawful good*

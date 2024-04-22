@@ -1,3 +1,12 @@
+---
+date: 2024-04-22 08:10:03
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 # Young Green Dragon (Chromatic)
 
 *Large dragon, lawful evil*

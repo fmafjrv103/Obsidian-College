@@ -1,3 +1,12 @@
+---
+date: 2024-04-22 07:57:19
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 # Adult White Dragon (Chromatic)
 
 *Huge dragon, chaotic evil*

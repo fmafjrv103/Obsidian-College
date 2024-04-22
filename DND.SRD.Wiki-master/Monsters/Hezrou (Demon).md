@@ -1,3 +1,12 @@
+---
+date: 2024-04-22 08:24:03
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
+
 ### Hezrou (Demon)
 
 *Large fiend (demon), chaotic evil*
