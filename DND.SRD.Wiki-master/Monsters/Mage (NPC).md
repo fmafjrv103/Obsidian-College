@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:59:24
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[NPCs]]
+
+---
 ### Mage
 
 *Medium humanoid (any race), any alignment*

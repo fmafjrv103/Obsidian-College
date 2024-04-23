@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 13:04:01
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items E]]
+
+---
 ### Elven Chain
 
 *Armor (chain shirt), rare*

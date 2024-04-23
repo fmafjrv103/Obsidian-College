@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 13:02:17
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items A]]
+
+---
 ### Apparatus of the Crab
 
 *Wondrous item, legendary*

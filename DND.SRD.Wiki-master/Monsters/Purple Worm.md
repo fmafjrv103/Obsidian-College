@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:57:09
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters P]]
+
+---
 ## Purple Worm
 
 *Gargantuan monstrosity, unaligned*

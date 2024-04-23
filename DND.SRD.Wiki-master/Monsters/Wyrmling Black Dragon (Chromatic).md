@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:57:21
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters D]]
+
+---
 # Black Dragon Wyrmling (Chromatic)
 
 *Medium dragon, chaotic evil*

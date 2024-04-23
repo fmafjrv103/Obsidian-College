@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:57:01
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[Monsters P]]
+
+---
 ## Pseudodragon
 
 *Tiny dragon, neutral good*

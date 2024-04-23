@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 13:03:05
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items A]]
+
+---
 ### Animated Shield
 
 *Armor (shield), very rare (requires attunement)*

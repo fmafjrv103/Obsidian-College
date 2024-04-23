@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:59:38
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[NPCs]]
+
+---
 ### Bandit Captain
 
 *Medium humanoid (any race), any non-lawful alignment*

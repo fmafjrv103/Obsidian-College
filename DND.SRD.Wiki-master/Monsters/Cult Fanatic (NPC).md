@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:58:45
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[NPCs]]
+
+---
 ### Cult Fanatic
 
 *Medium humanoid (any race), any non-good alignment*

@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 13:02:13
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items A]]
+
+---
 ### Armor of Resistance
 
 *Armor (light, medium, or heavy), rare (requires attunement)*

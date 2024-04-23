@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 13:01:54
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items A]]
+
+---
 ### Ammunition, +1, +2, or +3
 
 *Weapon (any ammunition), uncommon (+1), rare (+2), or very rare (+3)*

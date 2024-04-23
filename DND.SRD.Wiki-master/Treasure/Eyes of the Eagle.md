@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 13:04:14
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items E]]
+
+---
 ### Eyes of the Eagle
 
 *Wondrous item, uncommon (requires attunement)*

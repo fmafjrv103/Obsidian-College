@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 13:04:42
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items V]]
+
+---
 ### Vorpal Sword
 
 *Weapon (any sword that deals slashing damage), legendary (requires attunement)*

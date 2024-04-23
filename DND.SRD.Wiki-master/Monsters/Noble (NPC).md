@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:59:31
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[NPCs]]
+
+---
 ### Noble
 
 *Medium humanoid (any race), any alignment*

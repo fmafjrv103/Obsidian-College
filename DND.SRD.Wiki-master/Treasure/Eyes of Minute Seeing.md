@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 13:03:34
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items E]]
+
+---
 ### Eyes of Minute Seeing
 
 *Wondrous item, uncommon*

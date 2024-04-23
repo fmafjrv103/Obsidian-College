@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:59:02
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[NPCs]]
+
+---
 ### Berserker
 
 *Medium humanoid (any race), any chaotic alignment*

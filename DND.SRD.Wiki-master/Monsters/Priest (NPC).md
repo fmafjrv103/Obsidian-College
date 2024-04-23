@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:59:21
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[NPCs]]
+
+---
 ### Priest
 
 *Medium humanoid (any race), any alignment*

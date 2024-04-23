@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:58:40
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[NPCs]]
+
+---
 ### Gladiator
 
 *Medium humanoid (any race), any alignment*

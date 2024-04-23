@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:59:07
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[NPCs]]
+
+---
 ### Tribal Warrior
 
 *Medium humanoid (any race), any alignment*

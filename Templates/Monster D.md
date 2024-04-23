@@ -2,6 +2,6 @@
 date: {{date}} {{time}}
 tags: dnd
 ---
-Links: [[Monsters]], [[Monsters P]]
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items E]]
 
 ---

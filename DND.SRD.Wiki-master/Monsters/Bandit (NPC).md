@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:58:35
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[NPCs]]
+
+---
 ### Bandit
 
 *Medium humanoid (any race), any non-lawful alignment*

@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:59:17
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[NPCs]]
+
+---
 ### Archmage
 
 *Medium humanoid (any race), any alignment*

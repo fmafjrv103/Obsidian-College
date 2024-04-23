@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:59:10
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[NPCs]]
+
+---
 ### Spy
 
 *Medium humanoid (any race), any alignment*

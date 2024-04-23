@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:58:58
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[NPCs]]
+
+---
 ### Veteran
 
 *Medium humanoid (any race), any alignment*

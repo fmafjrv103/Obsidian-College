@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:58:49
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[NPCs]]
+
+---
 ### Acolyte
 
 *Medium humanoid (any race), any alignment*

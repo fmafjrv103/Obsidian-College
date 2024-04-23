@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:58:26
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[NPCs]]
+
+---
 ### Cultist
 
 *Medium humanoid (any race), any non-good alignment*

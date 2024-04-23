@@ -1,3 +1,11 @@
+---
+date: 2024-04-22 12:58:31
+tags:
+  - dnd
+---
+Links: [[Monsters]], [[NPCs]]
+
+---
 ### Knight
 
 *Medium humanoid (any race), any alignment*
