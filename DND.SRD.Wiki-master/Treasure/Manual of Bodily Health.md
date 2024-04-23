@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:42:20
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items M]]
+___
 ### Manual of Bodily Health
 
 *Wondrous item, very rare*

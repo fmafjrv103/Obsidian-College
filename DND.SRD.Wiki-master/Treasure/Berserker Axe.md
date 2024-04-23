@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:44:56
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items B]]
+___
 ### Berserker Axe
 
 *Weapon (any axe), rare (requires attunement)*

@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:41:06
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items I]]
+___
 ### Instant Fortress
 
 *Wondrous item, rare*

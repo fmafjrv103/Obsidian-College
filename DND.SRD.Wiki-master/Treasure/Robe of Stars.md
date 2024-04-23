@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:35:18
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items R]]
+___
 ### Robe of Stars
 
 *Wondrous item, very rare (requires attunement)*

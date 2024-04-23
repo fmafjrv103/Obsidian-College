@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 15:28:57
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items W]]
+___
 ### Well of Many Worlds
 
 *Wondrous item, legendary*

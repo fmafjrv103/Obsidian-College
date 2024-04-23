@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:29:40
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items S]]
+___
 ### Shield of Missile Attraction
 
 *Armor (shield), rare (requires attunement)*

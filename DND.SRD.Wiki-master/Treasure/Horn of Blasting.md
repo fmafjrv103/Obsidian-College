@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:39:23
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items H]]
+___
 ### Horn of Blasting
 
 *Wondrous item, rare*

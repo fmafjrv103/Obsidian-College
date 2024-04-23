@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:29:51
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items S]]
+___
 ### Staff of Healing
 
 *Staff, rare (requires attunement by a bard, cleric, or druid)*

@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:30:57
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items S]]
+___
 ### Sword of Wounding
 
 *Weapon (any sword), rare (requires attunement)*

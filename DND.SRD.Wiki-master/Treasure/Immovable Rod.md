@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:40:51
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items I]]
+___
 ### Immovable Rod
 
 *Rod, uncommon*

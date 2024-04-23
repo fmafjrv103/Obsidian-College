@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:40:57
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items I]]
+___
 ### Ioun Stone
 
 *Wondrous item, rarity varies (requires attunement)*

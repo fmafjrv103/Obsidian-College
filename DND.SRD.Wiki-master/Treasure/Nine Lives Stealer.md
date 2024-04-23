@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:33:11
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items N]]
+___
 ### Nine Lives Stealer
 
 *Weapon (any sword), very rare (requires attunement)*

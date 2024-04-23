@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:30:03
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items S]]
+___
 ### Staff of Charming
 
 *Staff, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*

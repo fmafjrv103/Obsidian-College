@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 15:26:38
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items C]]
+___
 ### Cloak of the Bat
 
 *Wondrous item, rare (requires attunement)*

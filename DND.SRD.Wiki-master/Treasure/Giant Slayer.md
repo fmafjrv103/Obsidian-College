@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:42:55
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items G]]
+___
 ### Giant Slayer
 
 *Weapon (any axe or sword), rare*

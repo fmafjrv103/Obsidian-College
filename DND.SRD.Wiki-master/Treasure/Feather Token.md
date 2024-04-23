@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 15:28:04
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items F]]
+___
 ### Feather Token
 
 *Wondrous item, rare*

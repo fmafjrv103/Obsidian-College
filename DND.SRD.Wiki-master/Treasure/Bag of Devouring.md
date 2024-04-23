@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:45:32
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items B]]
+___
 ### Bag of Devouring
 
 *Wondrous item, very rare*

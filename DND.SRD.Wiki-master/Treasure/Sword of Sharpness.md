@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:31:05
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items S]]
+___
 ### Sword of Sharpness
 
 *Weapon (any sword that deals slashing damage), very rare (requires attunement)*

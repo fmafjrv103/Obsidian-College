@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:41:46
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items M]]
+___
 ### Marvelous Pigments
 
 *Wondrous item, very rare*

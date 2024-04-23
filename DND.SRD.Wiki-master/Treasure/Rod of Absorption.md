@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:36:00
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items R]]
+___
 ### Rod of Absorption
 
 *Rod, very rare (requires attunement)*

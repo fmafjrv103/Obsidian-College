@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:35:34
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items R]]
+___
 ### Ring of Elemental Command
 
 *Ring, legendary (requires attunement)*

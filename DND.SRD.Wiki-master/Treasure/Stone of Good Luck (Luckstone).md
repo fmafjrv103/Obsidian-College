@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:30:32
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items S]]
+___
 ### Stone of Good Luck (Luckstone)
 
 *Wondrous item, uncommon (requires attunement)*

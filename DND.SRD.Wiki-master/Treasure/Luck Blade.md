@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 15:26:50
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items L]]
+___
 ### Luck Blade
 
 *Weapon (any sword), legendary (requires attunement)*

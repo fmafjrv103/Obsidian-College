@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:32:01
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items D]]
+___
 ### Deck of Illusions
 
 *Wondrous item, uncommon*

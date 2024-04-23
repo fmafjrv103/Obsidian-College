@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:38:43
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items H]]
+___
 ### Hammer of Thunderbolts
 
 *Weapon (maul), legendary*

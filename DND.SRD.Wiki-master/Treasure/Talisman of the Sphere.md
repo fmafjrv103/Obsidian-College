@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:46:17
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items T]]
+___
 ### Talisman of the Sphere
 
 *Wondrous item, legendary (requires attunement)*

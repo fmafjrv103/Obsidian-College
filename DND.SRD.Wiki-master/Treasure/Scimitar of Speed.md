@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:30:50
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items S]]
+___
 ### Scimitar of Speed
 
 *Weapon (scimitar), very rare (requires attunement)*

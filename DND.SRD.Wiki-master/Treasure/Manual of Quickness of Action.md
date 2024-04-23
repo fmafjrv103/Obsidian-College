@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:41:35
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items M]]
+___
 ### Manual of Quickness of Action
 
 *Wondrous item, very rare*

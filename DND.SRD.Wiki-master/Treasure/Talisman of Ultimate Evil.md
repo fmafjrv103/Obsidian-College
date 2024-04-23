@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:46:21
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items T]]
+___
 ### Talisman of Ultimate Evil
 
 *Wondrous item, legendary (requires attunement by a creature of evil alignment)*

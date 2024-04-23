@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:36:13
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items R]]
+___
 ### Ring of Spell Storing
 
 *Ring, rare (requires attunement)*

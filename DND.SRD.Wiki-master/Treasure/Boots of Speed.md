@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:45:15
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items B]]
+___
 ### Boots of Speed
 
 *Wondrous item, rare (requires attunement)*

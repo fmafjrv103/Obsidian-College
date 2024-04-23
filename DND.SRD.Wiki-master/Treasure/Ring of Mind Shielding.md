@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:35:47
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items R]]
+___
 ### Ring of Mind Shielding
 
 *Ring, uncommon (requires attunement)*

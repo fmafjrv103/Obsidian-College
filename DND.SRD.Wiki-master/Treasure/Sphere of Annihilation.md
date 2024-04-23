@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:31:18
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items S]]
+___
 ### Sphere of Annihilation
 
 *Wondrous item, legendary*

@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 15:29:05
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items W]]
+___
 ### Winged Boots
 
 *Wondrous item, uncommon (requires attunement)*

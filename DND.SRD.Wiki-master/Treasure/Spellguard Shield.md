@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:31:09
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items S]]
+___
 ### Spellguard Shield
 
 *Armor (shield), very rare (requires attunement)*

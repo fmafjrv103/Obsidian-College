@@ -18,6 +18,1230 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "001 Magic Items MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/001 Magic Items MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":68,\"ch\":15},\"to\":{\"line\":68,\"ch\":15}},\"scroll\":58.70608663869175}"
+                },
+                {
+                  "title": "Wand of Enemy Detection",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Wand of Enemy Detection.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Wand of Wonder",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Wand of Wonder.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Wand of Polymorph",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Wand of Polymorph.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Wand of Fear",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Wand of Fear.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Wand of the War Mage, +1, +2, or +3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Wand of the War Mage, +1, +2, or +3.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Wand of Lightning Bolts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Wand of Lightning Bolts.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Weapon, +1, +2, or +3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Weapon, +1, +2, or +3.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Wand of Paralysis",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Wand of Paralysis.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Wind Fan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Wind Fan.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Wand of Fireballs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Wand of Fireballs.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Wand of Magic Missiles",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Wand of Magic Missiles.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Wand of Secrets",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Wand of Secrets.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Wand of Web",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Wand of Web.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Winged Boots",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Winged Boots.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Wings of Flying",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Wings of Flying.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Well of Many Worlds",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Well of Many Worlds.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Wand of Magic Detection",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Wand of Magic Detection.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Wand of Binding",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Wand of Binding.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Monster D",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Monster D.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":61},\"to\":{\"line\":4,\"ch\":61}}}"
+                },
+                {
+                  "title": "Frost Brand",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Frost Brand.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Folding Boat",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Folding Boat.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Flame Tongue",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Flame Tongue.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Feather Token",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Feather Token.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Figurine of Wondrous Power",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Figurine of Wondrous Power.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Monster D",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Monster D.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":61},\"to\":{\"line\":4,\"ch\":61}}}"
+                },
+                {
+                  "title": "Lantern of Revealing",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Lantern of Revealing.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":61},\"to\":{\"line\":5,\"ch\":61}}}"
+                },
+                {
+                  "title": "Luck Blade",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Luck Blade.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":61},\"to\":{\"line\":5,\"ch\":61}}}"
+                },
+                {
+                  "title": "Cloak of the Bat",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Cloak of the Bat.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Cube of Force",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Cube of Force.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Circlet of Blasting",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Circlet of Blasting.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Carpet of Flying",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Carpet of Flying.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Cloak of Protection",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Cloak of Protection.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Cloak of Elvenkind",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Cloak of Elvenkind.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Chime of Opening",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Chime of Opening.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Cloak of the Manta Ray",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Cloak of the Manta Ray.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Cloak of Arachnida",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Cloak of Arachnida.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Candle of Invocation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Candle of Invocation.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Cape of the Mountebank",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Cape of the Mountebank.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Cloak of Displacement",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Cloak of Displacement.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Crystal Ball",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Crystal Ball.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Censer of Controlling Air Elementals",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Censer of Controlling Air Elementals.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Cubic Gate",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Cubic Gate.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Monster D",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Monster D.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":61},\"to\":{\"line\":4,\"ch\":61}}}"
+                },
+                {
+                  "title": "Talisman of Pure Good",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Talisman of Pure Good.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Trident of Fish Command",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Trident of Fish Command.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Tome of Clear Thought",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Tome of Clear Thought.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Tome of Understanding",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Tome of Understanding.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Talisman of Ultimate Evil",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Talisman of Ultimate Evil.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Talisman of the Sphere",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Talisman of the Sphere.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Tome of Leadership and Influence",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Tome of Leadership and Influence.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Monster D",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Monster D.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":61},\"to\":{\"line\":4,\"ch\":61}}}"
+                },
+                {
+                  "title": "Bag of Tricks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Bag of Tricks.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Bag of Devouring",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Bag of Devouring.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Bracers of Archery",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Bracers of Archery.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Bag of Beans",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Bag of Beans.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Boots of Speed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Boots of Speed.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Belt of Giant Strength",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Belt of Giant Strength.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Bead of Force",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Bead of Force.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Bag of Holding",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Bag of Holding.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Berserker Axe",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Berserker Axe.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Bowl of Commanding Water Elementals",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Bowl of Commanding Water Elementals.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Boots of Elvenkind",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Boots of Elvenkind.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Bracers of Defense",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Bracers of Defense.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Broom of Flying",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Broom of Flying.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Brazier of Commanding Fire Elementals",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Brazier of Commanding Fire Elementals.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Belt of Dwarvenkind",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Belt of Dwarvenkind.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Boots of Striding and Springing",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Boots of Striding and Springing.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Brooch of Shielding",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Brooch of Shielding.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Boots of the Winterlands",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Boots of the Winterlands.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Boots of Levitation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Boots of Levitation.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Monster D",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Monster D.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":61},\"to\":{\"line\":4,\"ch\":61}}}"
+                },
+                {
+                  "title": "Gem of Brightness",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Gem of Brightness.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Glamoured Studded Leather",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Glamoured Studded Leather.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Gem of Seeing",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Gem of Seeing.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Goggles of Night",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Goggles of Night.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Gloves of Missile Snaring",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Gloves of Missile Snaring.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Giant Slayer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Giant Slayer.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Gloves of Swimming and Climbing",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Gloves of Swimming and Climbing.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Gauntlets of Ogre Power",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Gauntlets of Ogre Power.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Monster D",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Monster D.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":61},\"to\":{\"line\":4,\"ch\":61}}}"
+                },
+                {
+                  "title": "Mace of Terror",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Mace of Terror.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Manual of Golems",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Manual of Golems.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Manual of Bodily Health",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Manual of Bodily Health.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Mirror of Life Trapping",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Mirror of Life Trapping.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Mithral Armor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Mithral Armor.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Manual of Gainful Exercise",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Manual of Gainful Exercise.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Medallion of Thoughts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Medallion of Thoughts.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Mace of Disruption",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Mace of Disruption.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Mantle of Spell Resistance",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Mantle of Spell Resistance.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Marvelous Pigments",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Marvelous Pigments.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Mace of Smiting",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Mace of Smiting.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Manual of Quickness of Action",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Manual of Quickness of Action.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Monster D",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Monster D.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":61},\"to\":{\"line\":4,\"ch\":61}}}"
+                },
+                {
+                  "title": "Iron Flask",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Iron Flask.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Instant Fortress",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Instant Fortress.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Iron Bands of Binding",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Iron Bands of Binding.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ioun Stone",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Ioun Stone.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Immovable Rod",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Immovable Rod.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Monster D",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Monster D.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":61},\"to\":{\"line\":4,\"ch\":61}}}"
+                },
+                {
+                  "title": "Oil of Slipperiness",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Oil of Slipperiness.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Oil of Sharpness",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Oil of Sharpness.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Oathbow",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Oathbow.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Oil of Etherealness",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Oil of Etherealness.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Monster D",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Monster D.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":61},\"to\":{\"line\":4,\"ch\":61}}}"
+                },
+                {
+                  "title": "Horn of Blasting",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Horn of Blasting.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Holy Avenger",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Holy Avenger.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Helm of Telepathy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Helm of Telepathy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Horseshoes of a Zephyr",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Horseshoes of a Zephyr.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Horn of Valhalla",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Horn of Valhalla.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Handy Haversack",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Handy Haversack.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hat of Disguise",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Hat of Disguise.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hammer of Thunderbolts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Hammer of Thunderbolts.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Headband of Intellect",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Headband of Intellect.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Helm of Teleportation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Helm of Teleportation.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Horseshoes of Speed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Horseshoes of Speed.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Helm of Brilliance",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Helm of Brilliance.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Helm of Comprehending Languages",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Helm of Comprehending Languages.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Monster D",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Monster D.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":61},\"to\":{\"line\":4,\"ch\":61}}}"
+                },
+                {
+                  "title": "Ring of Telekinesis",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Ring of Telekinesis.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ring of Warmth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Ring of Warmth.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ring of Feather Falling",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Ring of Feather Falling.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Rope of Entanglement",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Rope of Entanglement.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ring of X-ray Vision",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Ring of X-ray Vision.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ring of Shooting Stars",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Ring of Shooting Stars.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ring of Jumping",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Ring of Jumping.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Robe of Eyes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Robe of Eyes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Robe of Scintillating Colors",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Robe of Scintillating Colors.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Robe of the Archmagi",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Robe of the Archmagi.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Rod of Lordly Might",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Rod of Lordly Might.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ring of Invisibility",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Ring of Invisibility.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Rod of Security",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Rod of Security.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Rope of Climbing",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Rope of Climbing.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ring of Spell Turning",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Ring of Spell Turning.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ring of Free Action",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Ring of Free Action.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ring of Djinni Summoning",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Ring of Djinni Summoning.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ring of Protection",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Ring of Protection.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Rod of Rulership",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Rod of Rulership.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ring of Three Wishes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Ring of Three Wishes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Rod of Alertness",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Rod of Alertness.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ring of Swimming",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Ring of Swimming.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ring of Regeneration",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Ring of Regeneration.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ring of Spell Storing",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Ring of Spell Storing.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ring of Animal Influence",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Ring of Animal Influence.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Rod of Absorption",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Rod of Absorption.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ring of the Ram",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Ring of the Ram.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Restorative Ointment",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Restorative Ointment.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ring of Mind Shielding",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Ring of Mind Shielding.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ring of Evasion",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Ring of Evasion.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ring of Water Walking",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Ring of Water Walking.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ring of Elemental Command",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Ring of Elemental Command.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Robe of Useful Items",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Robe of Useful Items.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ring of Resistance",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Ring of Resistance.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Robe of Stars",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Robe of Stars.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Monster D",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Monster D.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":61},\"to\":{\"line\":4,\"ch\":61}}}"
+                },
+                {
+                  "title": "Necklace of Fireballs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Necklace of Fireballs.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":61},\"to\":{\"line\":5,\"ch\":61}}}"
+                },
+                {
+                  "title": "Necklace of Adaptation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Necklace of Adaptation.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":61},\"to\":{\"line\":5,\"ch\":61}}}"
+                },
+                {
+                  "title": "Necklace of Prayer Beads",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Necklace of Prayer Beads.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":61},\"to\":{\"line\":5,\"ch\":61}}}"
+                },
+                {
+                  "title": "Nine Lives Stealer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Nine Lives Stealer.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":61},\"to\":{\"line\":5,\"ch\":61}}}"
+                },
+                {
+                  "title": "Dust of Disappearance",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Dust of Disappearance.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Deck of Many Things",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Deck of Many Things.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Dwarven Thrower",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Dwarven Thrower.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Dagger of Venom",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Dagger of Venom.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Dust of Sneezing and Choking",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Dust of Sneezing and Choking.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Dust of Dryness",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Dust of Dryness.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Defender",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Defender.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Dancing Sword",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Dancing Sword.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Demon Armor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Demon Armor.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Dwarven Plate",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Dwarven Plate.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Dragon Scale Mail",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Dragon Scale Mail.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Decanter of Endless Water",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Decanter of Endless Water.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Deck of Illusions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Deck of Illusions.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Dragon Slayer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Dragon Slayer.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Dimensional Shackles",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Dimensional Shackles.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Monster D",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Monster D.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":61},\"to\":{\"line\":4,\"ch\":61}}}"
+                },
+                {
+                  "title": "Staff of Frost",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Staff of Frost.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Staff of Swarming Insects",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Staff of Swarming Insects.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Sphere of Annihilation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Sphere of Annihilation.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Staff of Power",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Staff of Power.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Spellguard Shield",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Spellguard Shield.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Sword of Sharpness",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Sword of Sharpness.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Sovereign Glue",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Sovereign Glue.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Sword of Wounding",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Sword of Wounding.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Stone of Controlling Earth Elementals",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Stone of Controlling Earth Elementals.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scimitar of Speed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Scimitar of Speed.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Staff of Striking",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Staff of Striking.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Staff of Withering",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Staff of Withering.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Staff of Fire",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Staff of Fire.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Shield, +1, +2, or +3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Shield, +1, +2, or +3.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Stone of Good Luck (Luckstone)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Stone of Good Luck (Luckstone).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scarab of Protection",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Scarab of Protection.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Sun Blade",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Sun Blade.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Staff of Thunder and Lightning",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Staff of Thunder and Lightning.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Staff of the Woodlands",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Staff of the Woodlands.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Staff of the Magi",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Staff of the Magi.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Staff of the Python",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Staff of the Python.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Spell Scroll",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Spell Scroll.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Staff of Charming",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Staff of Charming.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Sword of Life Stealing",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Sword of Life Stealing.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Slippers of Spider Climbing",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Slippers of Spider Climbing.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Staff of Healing",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Staff of Healing.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Shield of Missile Attraction",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Shield of Missile Attraction.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Monster D",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Monster D.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":61},\"to\":{\"line\":4,\"ch\":61}}}"
+                },
+                {
+                  "title": "Potion of Poison",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Potion of Poison.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
                   "title": "Potion of Diminution",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Potion of Diminution.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -2200,7 +3424,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND.SRD.Wiki-master/Treasure/Potion of Poison.md",
+                "file": "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items A.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -2468,6 +3692,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items A.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -2560,34 +3785,34 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "53a91095c0f3296c",
+  "active": "7d1ec5781e03eba8",
   "lastOpenFiles": [
-    "DND.SRD.Wiki-master/Treasure/Potion of Poison.md",
-    "DND.SRD.Wiki-master/Treasure/Potion of Diminution.md",
-    "DND.SRD.Wiki-master/Treasure/Potion of Growth.md",
-    "DND.SRD.Wiki-master/Treasure/Philter of Love.md",
-    "DND.SRD.Wiki-master/Treasure/Pearl of Power.md",
-    "DND.SRD.Wiki-master/Treasure/Potion of Mind Reading.md",
-    "DND.SRD.Wiki-master/Treasure/Potion of Animal Friendship.md",
-    "DND.SRD.Wiki-master/Treasure/Pipes of the Sewers.md",
-    "DND.SRD.Wiki-master/Treasure/Periapt of Health.md",
-    "DND.SRD.Wiki-master/Treasure/Periapt of Wound Closure.md",
-    "DND.SRD.Wiki-master/Treasure/Potion of Giant Strength.md",
-    "DND.SRD.Wiki-master/Treasure/Pipes of Haunting.md",
-    "DND.SRD.Wiki-master/Treasure/Potion of Resistance.md",
-    "DND.SRD.Wiki-master/Treasure/Potion of Heroism.md",
-    "DND.SRD.Wiki-master/Treasure/Potion of Gaseous Form.md",
-    "DND.SRD.Wiki-master/Treasure/Periapt of Proof against Poison.md",
-    "DND.SRD.Wiki-master/Treasure/Potion of Flying.md",
-    "DND.SRD.Wiki-master/Treasure/Potion of Climbing.md",
-    "DND.SRD.Wiki-master/Treasure/Potion of Healing.md",
-    "DND.SRD.Wiki-master/Treasure/Plate Armor of Etherealness.md",
-    "DND.SRD.Wiki-master/Treasure/Potion of Water Breathing.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/001 Magic Items MOC.md",
+    "DND.SRD.Wiki-master/Treasure/Wand of Enemy Detection.md",
+    "DND.SRD.Wiki-master/Treasure/Wand of Wonder.md",
+    "DND.SRD.Wiki-master/Treasure/Wand of Polymorph.md",
+    "DND.SRD.Wiki-master/Treasure/Wand of Fear.md",
+    "DND.SRD.Wiki-master/Treasure/Wand of the War Mage, +1, +2, or +3.md",
+    "DND.SRD.Wiki-master/Treasure/Wand of Lightning Bolts.md",
+    "DND.SRD.Wiki-master/Treasure/Weapon, +1, +2, or +3.md",
+    "DND.SRD.Wiki-master/Treasure/Wand of Paralysis.md",
+    "DND.SRD.Wiki-master/Treasure/Wind Fan.md",
+    "DND.SRD.Wiki-master/Treasure/Wand of Fireballs.md",
+    "DND.SRD.Wiki-master/Treasure/Wand of Magic Missiles.md",
+    "DND.SRD.Wiki-master/Treasure/Wand of Secrets.md",
+    "DND.SRD.Wiki-master/Treasure/Wand of Web.md",
+    "DND.SRD.Wiki-master/Treasure/Winged Boots.md",
+    "DND.SRD.Wiki-master/Treasure/Wings of Flying.md",
+    "DND.SRD.Wiki-master/Treasure/Well of Many Worlds.md",
+    "DND.SRD.Wiki-master/Treasure/Wand of Magic Detection.md",
+    "DND.SRD.Wiki-master/Treasure/Wand of Binding.md",
     "Templates/Monster D.md",
-    "DND.SRD.Wiki-master/Treasure/Potion of Clairvoyance.md",
-    "DND.SRD.Wiki-master/Treasure/Potion of Invisibility.md",
-    "202404231230 Math Notes.md",
-    "Math MOC.md",
+    "DND.SRD.Wiki-master/Treasure/Frost Brand.md",
+    "DND.SRD.Wiki-master/Treasure/Folding Boat.md",
+    "DND.SRD.Wiki-master/Treasure/Flame Tongue.md",
+    "DND.SRD.Wiki-master/Treasure/Feather Token.md",
+    "DND.SRD.Wiki-master/Treasure/Figurine of Wondrous Power.md",
+    "DND.SRD.Wiki-master/Treasure/Lantern of Revealing.md",
     "Media/D&D 5E - Player's Handbook.pdf",
     "Media/dragon-size-chart-3-1small.jpg",
     "Media/a9y8f7f48bc51.jpg",

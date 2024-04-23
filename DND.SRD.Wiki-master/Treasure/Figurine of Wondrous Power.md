@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 15:27:59
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items F]]
+___
 ### Figurine of Wondrous Power
 
 *Wondrous item, rarity by figurine*

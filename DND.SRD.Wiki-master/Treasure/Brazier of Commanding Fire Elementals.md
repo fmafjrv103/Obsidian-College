@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:44:34
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items B]]
+___
 ### Brazier of Commanding Fire Elementals
 
 *Wondrous item, rare*

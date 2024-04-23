@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:43:13
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items G]]
+___
 ### Glamoured Studded Leather
 
 *Armor (studded leather), rare*

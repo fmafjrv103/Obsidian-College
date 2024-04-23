@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:30:35
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items S]]
+___
 ### Shield, +1, +2, or +3
 
 *Armor (shield), uncommon (+1), rare (+2), or very rare (+3)*

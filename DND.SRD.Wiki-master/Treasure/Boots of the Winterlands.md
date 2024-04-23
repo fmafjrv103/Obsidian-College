@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:44:18
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items B]]
+___
 ### Boots of the Winterlands
 
 *Wondrous item, uncommon (requires attunement)*

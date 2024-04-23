@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:30:18
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items S]]
+___
 ### Staff of the Woodlands
 
 *Staff, rare (requires attunement by a druid)*

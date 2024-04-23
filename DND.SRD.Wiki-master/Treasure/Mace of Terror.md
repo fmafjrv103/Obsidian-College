@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:42:28
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items M]]
+___
 ### Mace of Terror
 
 *Weapon (mace), rare (requires attunement)*

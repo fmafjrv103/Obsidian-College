@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:45:11
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items B]]
+___
 ### Belt of Giant Strength
 
 *Wondrous item, rarity varies (requires attunement)*

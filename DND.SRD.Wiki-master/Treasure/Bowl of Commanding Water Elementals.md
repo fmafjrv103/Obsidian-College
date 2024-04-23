@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:44:52
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items B]]
+___
 ### Bowl of Commanding Water Elementals
 
 *Wondrous item, rare*

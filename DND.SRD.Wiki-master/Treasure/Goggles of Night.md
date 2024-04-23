@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:43:03
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items G]]
+___
 ### Goggles of Night
 
 *Wondrous item, uncommon*

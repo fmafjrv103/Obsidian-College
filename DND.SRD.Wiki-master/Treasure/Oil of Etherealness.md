@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:39:58
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items O]]
+___
 ### Oil of Etherealness
 
 *Potion, rare*

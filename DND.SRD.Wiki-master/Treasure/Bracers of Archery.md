@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:45:25
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items B]]
+___
 ### Bracers of Archery
 
 *Wondrous item, uncommon (requires attunement)*

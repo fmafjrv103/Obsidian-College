@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 15:26:08
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items C]]
+___
 ### Chime of Opening
 
 *Wondrous item, rare*

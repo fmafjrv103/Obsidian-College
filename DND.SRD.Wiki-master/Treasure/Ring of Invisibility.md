@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:37:01
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items R]]
+___
 ### Ring of Invisibility
 
 *Ring, legendary (requires attunement)*

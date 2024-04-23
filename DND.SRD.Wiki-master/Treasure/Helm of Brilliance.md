@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:38:12
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items H]]
+___
 ### Helm of Brilliance
 
 *Wondrous item, very rare (requires attunement)*

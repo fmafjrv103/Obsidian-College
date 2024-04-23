@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 15:29:46
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items W]]
+___
 ### Wand of Fear
 
 *Wand, rare (requires attunement)*

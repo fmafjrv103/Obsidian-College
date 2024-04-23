@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 15:28:53
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items W]]
+___
 ### Wand of Magic Detection
 
 *Wand, uncommon*

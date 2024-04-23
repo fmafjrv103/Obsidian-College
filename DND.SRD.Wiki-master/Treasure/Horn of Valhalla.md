@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:39:01
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items H]]
+___
 ### Horn of Valhalla
 
 *Wondrous item, rare (silver or brass), very rare (bronze), or legendary (iron)*

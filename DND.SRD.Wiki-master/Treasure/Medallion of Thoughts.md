@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:42:00
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items M]]
+___
 ### Medallion of Thoughts
 
 *Wondrous item, uncommon (requires attunement)*

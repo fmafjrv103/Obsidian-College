@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:40:05
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items O]]
+___
 ### Oathbow
 
 *Weapon (longbow), very rare (requires attunement)*

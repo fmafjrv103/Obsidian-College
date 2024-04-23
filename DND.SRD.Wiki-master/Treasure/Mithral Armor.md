@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:42:10
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items M]]
+___
 ### Mithral Armor
 
 *Armor (medium or heavy, but not hide), uncommon*

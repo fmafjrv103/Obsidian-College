@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:37:07
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items R]]
+___
 ### Rod of Lordly Might
 
 *Rod, legendary (requires attunement)*

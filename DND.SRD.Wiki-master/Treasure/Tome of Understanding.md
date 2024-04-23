@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:46:27
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items T]]
+___
 ### Tome of Understanding
 
 *Wondrous item, very rare*

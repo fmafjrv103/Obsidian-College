@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 15:29:21
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items W]]
+___
 ### Wand of Fireballs
 
 *Wand, rare (requires attunement by a spellcaster)*

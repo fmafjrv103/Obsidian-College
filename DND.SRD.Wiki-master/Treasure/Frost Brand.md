@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 15:28:17
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items F]]
+___
 ### Frost Brand
 
 *Weapon (any sword), very rare (requires attunement)*

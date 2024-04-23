@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:30:10
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items S]]
+___
 ### Staff of the Python
 
 *Staff, uncommon (requires attunement by a cleric, druid, or warlock)*

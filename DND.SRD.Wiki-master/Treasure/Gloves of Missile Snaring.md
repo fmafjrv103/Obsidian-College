@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:42:59
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items G]]
+___
 ### Gloves of Missile Snaring
 
 *Wondrous item, uncommon (requires attunement)*

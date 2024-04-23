@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:37:29
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items R]]
+___
 ### Ring of Shooting Stars
 
 *Ring, very rare (requires attunement outdoors at night)*

@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:43:08
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items G]]
+___
 ### Gem of Seeing
 
 *Wondrous item, rare (requires attunement)*

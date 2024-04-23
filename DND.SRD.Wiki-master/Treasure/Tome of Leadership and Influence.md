@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:46:06
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items T]]
+___
 ### Tome of Leadership and Influence
 
 *Wondrous item, very rare*

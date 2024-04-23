@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:29:55
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items S]]
+___
 ### Slippers of Spider Climbing
 
 *Wondrous item, uncommon (requires attunement)*

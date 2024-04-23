@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:44:39
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items B]]
+___
 ### Broom of Flying
 
 *Wondrous item, uncommon*

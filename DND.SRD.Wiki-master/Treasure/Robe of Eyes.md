@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:37:19
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items R]]
+___
 ### Robe of Eyes
 
 *Wondrous item, rare (requires attunement)*

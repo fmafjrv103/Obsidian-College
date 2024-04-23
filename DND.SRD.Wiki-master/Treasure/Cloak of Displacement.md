@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 15:25:35
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items C]]
+___
 ### Cloak of Displacement
 
 *Wondrous item, rare (requires attunement)*

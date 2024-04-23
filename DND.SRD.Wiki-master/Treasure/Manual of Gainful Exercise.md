@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:42:06
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items M]]
+___
 ### Manual of Gainful Exercise
 
 *Wondrous item, very rare*

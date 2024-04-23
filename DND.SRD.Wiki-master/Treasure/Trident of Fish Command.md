@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:46:37
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items T]]
+___
 ### Trident of Fish Command
 
 *Weapon (trident), uncommon (requires attunement)*

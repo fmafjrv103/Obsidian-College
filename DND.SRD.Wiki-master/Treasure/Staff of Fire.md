@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:30:40
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items S]]
+___
 ### Staff of Fire
 
 *Staff, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*

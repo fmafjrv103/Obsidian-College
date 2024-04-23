@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:33:26
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items N]]
+___
 ### Necklace of Prayer Beads
 
 *Wondrous item, rare (requires attunement by a cleric, druid, or paladin)*

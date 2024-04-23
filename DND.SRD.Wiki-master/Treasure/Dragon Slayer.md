@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:31:58
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items D]]
+___
 ### Dragon Slayer
 
 *Weapon (any sword), rare*

@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:31:14
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items S]]
+___
 ### Staff of Power
 
 *Staff, very rare (requires attunement by a sorcerer, warlock, or wizard)*

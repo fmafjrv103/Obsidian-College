@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:38:55
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items H]]
+___
 ### Handy Haversack
 
 *Wondrous item, rare*

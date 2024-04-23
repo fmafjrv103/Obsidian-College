@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:41:02
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items I]]
+___
 ### Iron Bands of Binding
 
 *Wondrous item, rare*

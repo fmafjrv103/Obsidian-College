@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 15:27:11
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items L]]
+___
 ### Lantern of Revealing
 
 *Wondrous item, uncommon*
