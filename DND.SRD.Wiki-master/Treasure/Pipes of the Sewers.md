@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:28:16
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items P]]
+___
 ### Pipes of the Sewers
 
 *Wondrous item, uncommon (requires attunement)*

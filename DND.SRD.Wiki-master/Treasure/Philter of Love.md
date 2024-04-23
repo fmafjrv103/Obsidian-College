@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:28:35
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items P]]
+___
 ### Philter of Love
 
 *Potion, uncommon*

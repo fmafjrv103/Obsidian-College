@@ -1,3 +1,10 @@
+---
+date: 2024-04-23 13:28:00
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items P]]
+___
 ### Potion of Giant Strength
 
 *Potion, rarity varies*

@@ -219,7 +219,7 @@ $$
    g & h & i
 \end{array}
 $$
-- Example 2 Matrix
+- Example 2 Matrix ^7753fc
 ```latex
 \begin{matrix}
    a & b \\
@@ -262,6 +262,9 @@ $$
    c & d
 \end{bmatrix}
 ```
+
+^222bb5
+
 $$
 \begin{bmatrix}
    a & b \\

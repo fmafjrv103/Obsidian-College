@@ -18,6 +18,156 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Potion of Diminution",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Potion of Diminution.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Potion of Growth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Potion of Growth.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Philter of Love",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Philter of Love.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Pearl of Power",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Pearl of Power.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Potion of Mind Reading",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Potion of Mind Reading.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Potion of Animal Friendship",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Potion of Animal Friendship.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Pipes of the Sewers",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Pipes of the Sewers.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Periapt of Health",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Periapt of Health.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Periapt of Wound Closure",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Periapt of Wound Closure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Potion of Giant Strength",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Potion of Giant Strength.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Pipes of Haunting",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Pipes of Haunting.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Potion of Resistance",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Potion of Resistance.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Potion of Heroism",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Potion of Heroism.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Potion of Gaseous Form",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Potion of Gaseous Form.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Periapt of Proof against Poison",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Periapt of Proof against Poison.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Potion of Flying",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Potion of Flying.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Potion of Climbing",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Potion of Climbing.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Potion of Healing",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Potion of Healing.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Plate Armor of Etherealness",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Plate Armor of Etherealness.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Potion of Water Breathing",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Potion of Water Breathing.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Monster D",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Monster D.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "Potion of Water Breathing",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Potion of Water Breathing.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Potion of Clairvoyance",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Potion of Clairvoyance.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":157},\"to\":{\"line\":11,\"ch\":157}}}"
+                },
+                {
+                  "title": "Potion of Invisibility",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Potion of Invisibility.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":61},\"to\":{\"line\":5,\"ch\":61}}}"
+                },
+                {
+                  "title": "202404231230 Math Notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"202404231230 Math Notes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}}}"
+                },
+                {
                   "title": "Math MOC",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -2050,7 +2200,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202404231230 Math Notes.md",
+                "file": "DND.SRD.Wiki-master/Treasure/Potion of Poison.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -2318,7 +2468,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "202404231230 Math Notes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -2411,34 +2560,34 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7d1ec5781e03eba8",
+  "active": "53a91095c0f3296c",
   "lastOpenFiles": [
-    "Math MOC.md",
-    "202404181229 Math Notes.md",
-    "202404231230 Math Notes.md",
-    "DND.SRD.Wiki-master/Treasure/Portable Hole.md",
-    "DND.SRD.Wiki-master/Treasure/Potion of Speed.md",
+    "DND.SRD.Wiki-master/Treasure/Potion of Poison.md",
+    "DND.SRD.Wiki-master/Treasure/Potion of Diminution.md",
+    "DND.SRD.Wiki-master/Treasure/Potion of Growth.md",
+    "DND.SRD.Wiki-master/Treasure/Philter of Love.md",
+    "DND.SRD.Wiki-master/Treasure/Pearl of Power.md",
+    "DND.SRD.Wiki-master/Treasure/Potion of Mind Reading.md",
+    "DND.SRD.Wiki-master/Treasure/Potion of Animal Friendship.md",
+    "DND.SRD.Wiki-master/Treasure/Pipes of the Sewers.md",
+    "DND.SRD.Wiki-master/Treasure/Periapt of Health.md",
+    "DND.SRD.Wiki-master/Treasure/Periapt of Wound Closure.md",
+    "DND.SRD.Wiki-master/Treasure/Potion of Giant Strength.md",
+    "DND.SRD.Wiki-master/Treasure/Pipes of Haunting.md",
+    "DND.SRD.Wiki-master/Treasure/Potion of Resistance.md",
+    "DND.SRD.Wiki-master/Treasure/Potion of Heroism.md",
+    "DND.SRD.Wiki-master/Treasure/Potion of Gaseous Form.md",
+    "DND.SRD.Wiki-master/Treasure/Periapt of Proof against Poison.md",
+    "DND.SRD.Wiki-master/Treasure/Potion of Flying.md",
+    "DND.SRD.Wiki-master/Treasure/Potion of Climbing.md",
+    "DND.SRD.Wiki-master/Treasure/Potion of Healing.md",
+    "DND.SRD.Wiki-master/Treasure/Plate Armor of Etherealness.md",
+    "DND.SRD.Wiki-master/Treasure/Potion of Water Breathing.md",
     "Templates/Monster D.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items V.md",
-    "DND.SRD.Wiki-master/Treasure/Vicious Weapon.md",
-    "DND.SRD.Wiki-master/Treasure/Vorpal Sword.md",
-    "DND.SRD.Wiki-master/Treasure/Eyes of Charming.md",
-    "DND.SRD.Wiki-master/Treasure/Eyes of the Eagle.md",
-    "DND.SRD.Wiki-master/Treasure/Elemental Gem.md",
-    "DND.SRD.Wiki-master/Treasure/Elven Chain.md",
-    "DND.SRD.Wiki-master/Treasure/Efficient Quiver.md",
-    "DND.SRD.Wiki-master/Treasure/Efreeti Bottle.md",
-    "DND.SRD.Wiki-master/Treasure/Eyes of Minute Seeing.md",
-    "DND.SRD.Wiki-master/Treasure/Eversmoking Bottle.md",
-    "DND.SRD.Wiki-master/Treasure/Animated Shield.md",
-    "DND.SRD.Wiki-master/Treasure/Amulet of the Planes.md",
-    "DND.SRD.Wiki-master/Treasure/Adamantine Armor.md",
-    "DND.SRD.Wiki-master/Treasure/Armor of Vulnerability.md",
-    "DND.SRD.Wiki-master/Treasure/Armor of Invulnerability.md",
-    "DND.SRD.Wiki-master/Treasure/Arrow-Catching Shield.md",
-    "DND.SRD.Wiki-master/Treasure/Amulet of Proof Against Detection and Location.md",
-    "DND.SRD.Wiki-master/Treasure/Apparatus of the Crab.md",
-    "DND.SRD.Wiki-master/Treasure/Armor of Resistance.md",
+    "DND.SRD.Wiki-master/Treasure/Potion of Clairvoyance.md",
+    "DND.SRD.Wiki-master/Treasure/Potion of Invisibility.md",
+    "202404231230 Math Notes.md",
+    "Math MOC.md",
     "Media/D&D 5E - Player's Handbook.pdf",
     "Media/dragon-size-chart-3-1small.jpg",
     "Media/a9y8f7f48bc51.jpg",
