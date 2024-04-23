@@ -1,3 +1,11 @@
+---
+date: 2024-04-23 12:30:27
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items P]]
+
+---
 ### Portable Hole
 
 *Wondrous item, rare*

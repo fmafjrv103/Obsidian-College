@@ -1,3 +1,11 @@
+---
+date: 2024-04-23 12:30:21
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items P]]
+
+---
 ### Potion of Speed
 
 *Potion, very rare*

@@ -18,6 +18,54 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Math MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "title": "202404181229 Math Notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"202404181229 Math Notes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":13},\"to\":{\"line\":6,\"ch\":13}}}"
+                },
+                {
+                  "title": "Math MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "title": "202404231230 Math Notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"202404231230 Math Notes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":10},\"to\":{\"line\":6,\"ch\":10}}}"
+                },
+                {
+                  "title": "Portable Hole",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Portable Hole.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "title": "Potion of Speed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Potion of Speed.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "title": "Monster D",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Monster D.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":61},\"to\":{\"line\":4,\"ch\":61}}}"
+                },
+                {
+                  "title": "Magic Items V",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items V.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
                   "title": "Vicious Weapon",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Vicious Weapon.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -2002,32 +2050,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items V.md",
+                "file": "202404231230 Math Notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "d3cb85c56cabae25",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "swar8080/AVAILABLE_PLUGIN_UPDATES",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -2104,7 +2134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 513.5
+    "width": 513.5,
+    "collapsed": true
   },
   "right": {
     "id": "f90594313b89809e",
@@ -2287,7 +2318,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items V.md",
+                "file": "202404231230 Math Notes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -2380,10 +2411,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "236c2f3e2517e408",
+  "active": "7d1ec5781e03eba8",
   "lastOpenFiles": [
-    "DND.SRD.Wiki-master/Treasure/Vicious Weapon.md",
+    "Math MOC.md",
+    "202404181229 Math Notes.md",
+    "202404231230 Math Notes.md",
+    "DND.SRD.Wiki-master/Treasure/Portable Hole.md",
+    "DND.SRD.Wiki-master/Treasure/Potion of Speed.md",
+    "Templates/Monster D.md",
     "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items V.md",
+    "DND.SRD.Wiki-master/Treasure/Vicious Weapon.md",
     "DND.SRD.Wiki-master/Treasure/Vorpal Sword.md",
     "DND.SRD.Wiki-master/Treasure/Eyes of Charming.md",
     "DND.SRD.Wiki-master/Treasure/Eyes of the Eagle.md",
@@ -2393,7 +2430,6 @@
     "DND.SRD.Wiki-master/Treasure/Efreeti Bottle.md",
     "DND.SRD.Wiki-master/Treasure/Eyes of Minute Seeing.md",
     "DND.SRD.Wiki-master/Treasure/Eversmoking Bottle.md",
-    "Templates/Monster D.md",
     "DND.SRD.Wiki-master/Treasure/Animated Shield.md",
     "DND.SRD.Wiki-master/Treasure/Amulet of the Planes.md",
     "DND.SRD.Wiki-master/Treasure/Adamantine Armor.md",
@@ -2403,11 +2439,6 @@
     "DND.SRD.Wiki-master/Treasure/Amulet of Proof Against Detection and Location.md",
     "DND.SRD.Wiki-master/Treasure/Apparatus of the Crab.md",
     "DND.SRD.Wiki-master/Treasure/Armor of Resistance.md",
-    "DND.SRD.Wiki-master/Treasure/Amulet of Health.md",
-    "DND.SRD.Wiki-master/Treasure/Armor, +1, +2, or +3.md",
-    "DND.SRD.Wiki-master/Treasure/Arrow of Slaying.md",
-    "DND.SRD.Wiki-master/Treasure/Ammunition, +1, +2, or +3.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items A.md",
     "Media/D&D 5E - Player's Handbook.pdf",
     "Media/dragon-size-chart-3-1small.jpg",
     "Media/a9y8f7f48bc51.jpg",
