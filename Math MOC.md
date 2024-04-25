@@ -28,5 +28,3 @@ sort date ASC
 ```
 
 ---
-$[ t = \frac{{\ln(N_f/N_o)}}{{-0.693}} \cdot t_{1/2} ]$
-$r = \frac{{\text{{Cells after 1 hour}} - \text{{Initial cells}}}}{{\text{{Initial cells}}}} = \frac{{4,500 - 3,000}}{{3,000}} = \frac{1}{2}$

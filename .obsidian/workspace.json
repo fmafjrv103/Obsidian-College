@@ -11,23 +11,155 @@
             "id": "7d1ec5781e03eba8",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 2,
+              "pos": 1,
               "stack": [
                 {
-                  "title": "202404181229 Math Notes",
+                  "title": "Monster D",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"202404181229 Math Notes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":6}"
-                },
-                {
-                  "title": "202404231230 Math Notes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"202404231230 Math Notes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Monster D.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Magic Items W",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items W.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":385},\"to\":{\"line\":47,\"ch\":385}},\"scroll\":40.45353913346692}"
+                },
+                {
+                  "title": "Magic Items V",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items V.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":380},\"to\":{\"line\":15,\"ch\":380}}}"
+                },
+                {
+                  "title": "Magic Items U",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items U.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":359},\"to\":{\"line\":13,\"ch\":359}}}"
+                },
+                {
+                  "title": "Universal Solvent",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Universal Solvent.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":50},\"to\":{\"line\":5,\"ch\":50}}}"
+                },
+                {
+                  "title": "Magic Items U",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items U.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Magic Items T",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items T.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":340},\"to\":{\"line\":25,\"ch\":340}},\"scroll\":18.236079402596722}"
+                },
+                {
+                  "title": "Magic Items S",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items S.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":65,\"ch\":322},\"to\":{\"line\":65,\"ch\":322}},\"scroll\":60.01547501550645}"
+                },
+                {
+                  "title": "Magic Items R",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items R.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":81,\"ch\":304},\"to\":{\"line\":81,\"ch\":304}},\"scroll\":76.22072867867803}"
+                },
+                {
+                  "title": "Magic Items P",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items P.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":61,\"ch\":285},\"to\":{\"line\":61,\"ch\":285}},\"scroll\":54.6441772431887}"
+                },
+                {
+                  "title": "Magic Items O",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items O.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":262},\"to\":{\"line\":19,\"ch\":262}},\"scroll\":12.59095493909556}"
+                },
+                {
+                  "title": "Magic Items N",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items N.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":243},\"to\":{\"line\":19,\"ch\":243}},\"scroll\":14.464566706882453}"
+                },
+                {
+                  "title": "Magic Items M",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items M.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":223},\"to\":{\"line\":35,\"ch\":223}},\"scroll\":30.416587088776183}"
+                },
+                {
+                  "title": "Magic Items L",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items L.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":204},\"to\":{\"line\":15,\"ch\":204}}}"
+                },
+                {
+                  "title": "Luck Blade",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Luck Blade.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":55},\"to\":{\"line\":5,\"ch\":55}}}"
+                },
+                {
+                  "title": "Magic Items L",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items L.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Lantern of Revealing",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Lantern of Revealing.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":53},\"to\":{\"line\":5,\"ch\":53}}}"
+                },
+                {
+                  "title": "Magic Items L",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items L.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":385},\"to\":{\"line\":15,\"ch\":385}}}"
+                },
+                {
+                  "title": "Magic Items J",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items J.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":190},\"to\":{\"line\":13,\"ch\":190}},\"scroll\":6}"
+                },
+                {
+                  "title": "Javelin of Lightning",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure/Javelin of Lightning.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":53},\"to\":{\"line\":5,\"ch\":53}}}"
+                },
+                {
+                  "title": "Magic Items J",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items J.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":385},\"to\":{\"line\":13,\"ch\":385}},\"scroll\":6}"
+                },
+                {
+                  "title": "Magic Items I",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items I.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":169},\"to\":{\"line\":21,\"ch\":169}},\"scroll\":18.497246174996754}"
+                },
+                {
+                  "title": "Magic Items A",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/Magic Items A.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":152},\"to\":{\"line\":34,\"ch\":152}},\"scroll\":28.857030349782775}"
+                },
+                {
+                  "title": "Math MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":0},\"to\":{\"line\":30,\"ch\":0}}}"
                 },
                 {
                   "title": "020 School MOC",
@@ -3502,7 +3634,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math MOC.md",
+                "file": "DND.SRD.Wiki-master/Treasure (Alt)/001 Magic Items MOC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -3770,7 +3902,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Math MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -3829,7 +3960,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6476618108933109,
+                  "scale": 0.2791147721107204,
                   "close": true
                 }
               }
@@ -3863,34 +3994,34 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7d1ec5781e03eba8",
+  "active": "53a91095c0f3296c",
   "lastOpenFiles": [
+    "DND.SRD.Wiki-master/Treasure (Alt)/001 Magic Items MOC.md",
+    "Templates/Monster D.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items W.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items V.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items U.md",
+    "DND.SRD.Wiki-master/Treasure/Universal Solvent.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items T.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items S.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items R.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items P.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items O.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items N.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items M.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items L.md",
+    "DND.SRD.Wiki-master/Treasure/Luck Blade.md",
+    "DND.SRD.Wiki-master/Treasure/Lantern of Revealing.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items J.md",
+    "DND.SRD.Wiki-master/Treasure/Javelin of Lightning.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items I.md",
+    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items A.md",
+    "Math MOC.md",
     "202404231230 Math Notes.md",
     "202404181229 Math Notes.md",
-    "Math MOC.md",
     "020 School MOC.md",
     "000 Home.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items I.md",
     "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items H.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items G.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items F.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items E.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items D.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items C.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items B.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items A.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/001 Magic Items MOC.md",
-    "DND.SRD.Wiki-master/Treasure/Wand of Enemy Detection.md",
-    "DND.SRD.Wiki-master/Treasure/Wand of Wonder.md",
-    "DND.SRD.Wiki-master/Treasure/Wand of Polymorph.md",
-    "DND.SRD.Wiki-master/Treasure/Wand of Fear.md",
-    "DND.SRD.Wiki-master/Treasure/Wand of the War Mage, +1, +2, or +3.md",
-    "DND.SRD.Wiki-master/Treasure/Wand of Lightning Bolts.md",
-    "DND.SRD.Wiki-master/Treasure/Weapon, +1, +2, or +3.md",
-    "DND.SRD.Wiki-master/Treasure/Wand of Paralysis.md",
-    "DND.SRD.Wiki-master/Treasure/Wind Fan.md",
-    "DND.SRD.Wiki-master/Treasure/Wand of Fireballs.md",
-    "DND.SRD.Wiki-master/Treasure/Wand of Magic Missiles.md",
     "Media/D&D 5E - Player's Handbook.pdf",
     "Media/dragon-size-chart-3-1small.jpg",
     "Media/a9y8f7f48bc51.jpg",

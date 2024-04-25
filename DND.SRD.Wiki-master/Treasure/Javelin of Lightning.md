@@ -1,3 +1,10 @@
+---
+date: 2024-04-25 08:01:18
+tags:
+  - dnd
+---
+Links: [[001 Magic Items MOC|Magic Items]], [[Magic Items J]]
+___
 ### Javelin of Lightning
 
 *Weapon (javelin), uncommon*
