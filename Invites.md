@@ -6,8 +6,7 @@ tags:
   - tasks
 ---
 Links: [[Graduation|Graduation]], [[095 Lists MOC|Lists MOC]]
-
----
+___
 ```dataviewjs
 const current = dv.current()
 const itemState = {
@@ -22,7 +21,7 @@ current.file.lists.map((item) => {
 })
 
 dv.paragraph(
-	`# Invites Sent: ${itemState.checkedCount}/${itemState.totalItems}`
+	`### Invites Sent: ${itemState.checkedCount}/${itemState.totalItems}`
 );
 ```
 # People to Invite
