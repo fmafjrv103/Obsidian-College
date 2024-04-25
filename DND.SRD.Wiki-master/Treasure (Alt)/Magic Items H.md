@@ -35,3 +35,4 @@ Links: [[001 Magic Items MOC|Magic Items]]
 ![[Horseshoes of Speed#Horseshoes of Speed]]
 
 ---
+ Links: [[Magic Items A]], [[Magic Items B]], [[Magic Items C]], [[Magic Items D]], [[Magic Items E]], [[Magic Items F]], [[Magic Items G]], [[Magic Items I]], [[Magic Items J]], [[Magic Items L]], [[Magic Items M]], [[Magic Items N]], [[Magic Items O]], [[Magic Items P]], [[Magic Items R]], [[Magic Items S]], [[Magic Items T]], [[Magic Items U]], [[Magic Items V]], [[Magic Items W]]
