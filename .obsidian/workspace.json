@@ -11,17 +11,17 @@
             "id": "7d1ec5781e03eba8",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Monster D",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Monster D.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "001 Magic Items MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/001 Magic Items MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":67.80906834589341}"
                 },
                 {
                   "title": "Magic Items W",
@@ -3634,7 +3634,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND.SRD.Wiki-master/Treasure (Alt)/001 Magic Items MOC.md",
+                "file": "202404251229 Math Notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -3902,6 +3902,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "202404251229 Math Notes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -3994,8 +3995,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "53a91095c0f3296c",
+  "active": "7d1ec5781e03eba8",
   "lastOpenFiles": [
+    "Media/Pasted image 20240425123432.png",
+    "202404251229 Math Notes.md",
     "DND.SRD.Wiki-master/Treasure (Alt)/001 Magic Items MOC.md",
     "Templates/Monster D.md",
     "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items W.md",
@@ -4020,8 +4023,6 @@
     "202404231230 Math Notes.md",
     "202404181229 Math Notes.md",
     "020 School MOC.md",
-    "000 Home.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items H.md",
     "Media/D&D 5E - Player's Handbook.pdf",
     "Media/dragon-size-chart-3-1small.jpg",
     "Media/a9y8f7f48bc51.jpg",
