@@ -6,6 +6,6 @@ tags:
 Links: [[Computer MOC]]
 
 ---
-
+- [[Obsidian MOC]]
 
 ---
