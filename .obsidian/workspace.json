@@ -18,6 +18,72 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "202403200202 Time Management",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"202403200202 Time Management.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":23},\"to\":{\"line\":12,\"ch\":23}}}"
+                },
+                {
+                  "title": "Four Virtues",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Four Virtues.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":8},\"to\":{\"line\":3,\"ch\":8}}}"
+                },
+                {
+                  "title": "Flow-Creation MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Flow-Creation MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":12},\"to\":{\"line\":31,\"ch\":12}},\"scroll\":3}"
+                },
+                {
+                  "title": "Flow Map",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Flow Map.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":15.025417043515167}"
+                },
+                {
+                  "title": "Flow-Creation MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Flow-Creation MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":10},\"to\":{\"line\":12,\"ch\":10}}}"
+                },
+                {
+                  "title": "Flow",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Flow.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":91},\"to\":{\"line\":2,\"ch\":91}},\"scroll\":0}"
+                },
+                {
+                  "title": "Concepts MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Concepts MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":13.927069907758204}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "College Packing List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"College Packing List.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":25},\"to\":{\"line\":21,\"ch\":25}}}"
+                },
+                {
+                  "title": "020 School MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"020 School MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "2024032021432 Freshmen Dorms",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2024032021432 Freshmen Dorms.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":15},\"to\":{\"line\":45,\"ch\":15}},\"scroll\":9}"
+                },
+                {
                   "title": "010 Notes MOC",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"010 Notes MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -94,7 +160,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024032021432 Freshmen Dorms.md",
+                "file": "Eisenhower Matrix.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -195,8 +261,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 513.5,
-    "collapsed": true
+    "width": 513.5
   },
   "right": {
     "id": "f90594313b89809e",
@@ -379,7 +444,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024032021432 Freshmen Dorms.md",
+                "file": "Eisenhower Matrix.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -474,8 +539,19 @@
   },
   "active": "7d1ec5781e03eba8",
   "lastOpenFiles": [
-    "010 Notes MOC.md",
+    "202403200202 Time Management.md",
+    "Four Virtues.md",
+    "Wisdom.md",
+    "Courage.md",
+    "Flow-Creation MOC.md",
+    "Flow Map.md",
+    "Flow.md",
+    "Concepts MOC.md",
     "000 Home.md",
+    "College Packing List.md",
+    "020 School MOC.md",
+    "2024032021432 Freshmen Dorms.md",
+    "010 Notes MOC.md",
     "Programs.md",
     "Computer MOC.md",
     "040 Interests MOC.md",
@@ -484,23 +560,12 @@
     "DND MOC.md",
     "DND.SRD.Wiki-master/Classes MOC/Classes MOC.md",
     "Pomodoro technique.md",
-    "202403200202 Time Management.md",
     "Party Configuration.md",
-    "Flow Map.md",
-    "Flow-Creation MOC.md",
     "Invites.md",
     "Graduation.md",
     "Media/Pasted image 20240425123432.png",
     "202404251229 Math Notes.md",
     "DND.SRD.Wiki-master/Treasure (Alt)/001 Magic Items MOC.md",
-    "Templates/Monster D.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items W.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items V.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items U.md",
-    "DND.SRD.Wiki-master/Treasure/Universal Solvent.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items T.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items S.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/Magic Items R.md",
     "Media/D&D 5E - Player's Handbook.pdf",
     "Media/dragon-size-chart-3-1small.jpg",
     "Media/a9y8f7f48bc51.jpg",
