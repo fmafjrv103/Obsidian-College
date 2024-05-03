@@ -18,6 +18,36 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "020 School MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"020 School MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "2024032021432 Freshmen Dorms",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2024032021432 Freshmen Dorms.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":27},\"to\":{\"line\":9,\"ch\":27}},\"scroll\":9}"
+                },
+                {
+                  "title": "010 Notes MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"010 Notes MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":17.030167770975037}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":28},\"to\":{\"line\":17,\"ch\":28}}}"
+                },
+                {
+                  "title": "Eisenhower Matrix",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eisenhower Matrix.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":0},\"to\":{\"line\":25,\"ch\":0}}}"
+                },
+                {
                   "title": "202403200202 Time Management",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"202403200202 Time Management.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -160,14 +190,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eisenhower Matrix.md",
+                "file": "College Packing List.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "0fd2802544d1e72c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "swar8080/AVAILABLE_PLUGIN_UPDATES",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,7 +262,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:📚Book",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -257,7 +305,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -444,7 +493,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Eisenhower Matrix.md",
+                "file": "College Packing List.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -537,8 +586,13 @@
       "timer:Open timer": false
     }
   },
-  "active": "7d1ec5781e03eba8",
+  "active": "0fd2802544d1e72c",
   "lastOpenFiles": [
+    "020 School MOC.md",
+    "2024032021432 Freshmen Dorms.md",
+    "010 Notes MOC.md",
+    "000 Home.md",
+    "Eisenhower Matrix.md",
     "202403200202 Time Management.md",
     "Four Virtues.md",
     "Wisdom.md",
@@ -547,11 +601,7 @@
     "Flow Map.md",
     "Flow.md",
     "Concepts MOC.md",
-    "000 Home.md",
     "College Packing List.md",
-    "020 School MOC.md",
-    "2024032021432 Freshmen Dorms.md",
-    "010 Notes MOC.md",
     "Programs.md",
     "Computer MOC.md",
     "040 Interests MOC.md",
@@ -565,7 +615,6 @@
     "Graduation.md",
     "Media/Pasted image 20240425123432.png",
     "202404251229 Math Notes.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/001 Magic Items MOC.md",
     "Media/D&D 5E - Player's Handbook.pdf",
     "Media/dragon-size-chart-3-1small.jpg",
     "Media/a9y8f7f48bc51.jpg",
