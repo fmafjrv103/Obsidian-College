@@ -14,6 +14,8 @@ Links: [[095 Lists MOC|Lists]]
 - [ ] New blankets
 - [ ] Mattress padding 
 - [ ] Book bag
+	- [ ] Notebooks
+	- [ ] 
 - [ ] Computer/ computer accessories
 	- [ ] Charger
 	- [ ] USB Hub
@@ -26,6 +28,8 @@ Links: [[095 Lists MOC|Lists]]
 	- [ ] Desk(optional if have space)
 	- [ ] Chair(the one in the dorm sucks)
 	- [ ] Phone(hopefully new/asl hopefully Samsung S23 Ultra)
-- 
+- [ ] Bicycle
+	- [ ] Helmet
+	- [ ] 
 
 ---

@@ -196,26 +196,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0fd2802544d1e72c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "swar8080/AVAILABLE_PLUGIN_UPDATES",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -287,23 +269,6 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "016934c0b492b664",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {}
-            }
           }
         ],
         "currentTab": 1
@@ -334,23 +299,6 @@
             },
             "state": {
               "type": "online.tokuhirom.obsidian-pomodoro-plugin",
-              "state": {}
-            }
-          },
-          {
-            "id": "39452885ae1fa925",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
           },
@@ -445,9 +393,17 @@
               "type": "Timer",
               "state": {}
             }
+          },
+          {
+            "id": "6cd8a423cdfdb524",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "6f79939fd4bb2213",
@@ -566,7 +522,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-5e-statblocks:Open Creature pane": false,
       "excel:Create Excel File": false,
       "obsidian-spaced-repetition:Review flashcards": true,
       "templater-obsidian:Templater": false,
@@ -580,13 +535,14 @@
       "zk-prefixer:Create new unique note": false,
       "workspaces:Manage workspace layouts": false,
       "homepage:Open homepage": false,
-      "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "timer:Open timer": false
+      "timer:Open timer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "0fd2802544d1e72c",
+  "active": "7d1ec5781e03eba8",
   "lastOpenFiles": [
     "020 School MOC.md",
     "2024032021432 Freshmen Dorms.md",
