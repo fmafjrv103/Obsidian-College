@@ -20,7 +20,7 @@ Links: [[095 Lists MOC|Lists]]
 	- [ ] Charger
 	- [ ] USB Hub
 	- [ ] Headphones(including JBLs, AirPods, and AirPods Pros, with wired headphones)
-- [ ] Small TV(optional)
+- [ ] ~~Small TV(optional)~~
 - [ ] iMac /w accessories
 	- [ ] Keyboards(including MIDI )
 	- [ ] Mice(magic mouse & G502 Hero)
@@ -30,6 +30,7 @@ Links: [[095 Lists MOC|Lists]]
 	- [ ] Phone(hopefully new/asl hopefully Samsung S23 Ultra)
 - [ ] Bicycle
 	- [ ] Helmet
+	- [ ] Bike Lock
 	- [ ] 
 
 ---
