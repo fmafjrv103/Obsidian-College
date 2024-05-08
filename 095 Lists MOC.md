@@ -14,7 +14,7 @@ Quickly see a list of Powerful Reminders spanning different domains to confident
 ## Top of Mind Lists
 
 ## Figuring Out Life Stuff
-  
+- 
 ## Mind Stuff
 - [[202404072209 Focus Checklist|Focus Checklist]]
 ## Creation Stuff

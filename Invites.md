@@ -40,6 +40,11 @@ dv.paragraph(
 - [ ] Adrie
 - [ ] Henry
 - [ ] Mr. Ray and family
+- [ ] Kenia
+- [ ] Alessandra
+- [ ] Theo
+- [ ] Yachtubelli
+- [ ] 
 - [ ] Ruth and David
 - [ ] Rita and Roy
 - [ ] Tommy and Nora
