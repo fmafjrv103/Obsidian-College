@@ -44,7 +44,6 @@ dv.paragraph(
 - [ ] Alessandra
 - [ ] Theo
 - [ ] Yachtubelli
-- [ ] 
 - [ ] Ruth and David
 - [ ] Rita and Roy
 - [ ] Tommy and Nora

@@ -562,9 +562,9 @@
       "homepage:Open homepage": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "timer:Open timer": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "7d1ec5781e03eba8",
