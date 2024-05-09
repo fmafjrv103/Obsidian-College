@@ -401,7 +401,6 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "excel:Create Excel File": false,
       "obsidian-spaced-repetition:Review flashcards": true,
-      "templater-obsidian:Templater": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": true,
@@ -415,7 +414,8 @@
       "obsidian-book-search-plugin:Create new book note": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "timer:Open timer": false
+      "timer:Open timer": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "7d1ec5781e03eba8",

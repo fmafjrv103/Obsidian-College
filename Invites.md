@@ -21,11 +21,15 @@ current.file.lists.map((item) => {
 })
 
 dv.paragraph(
-	`### Invites Sent: ${itemState.checkedCount}/${itemState.totalItems}`
+	`### Invites Sent: ${itemState.checkedCount}/${itemState.totalItems} of ${100-itemState.totalItems}`
 );
 ```
 # People to Invite
 - [x] Bryan Almeada ✅ 2024-05-08
+- [x] Rayna Vigil ✅ 2024-05-08
+- [x] Christie Archuleta ✅ 2024-05-08
+- [x] Chrisy and paul ✅ 2024-05-08
+- [x] Chelsea ✅ 2024-05-08
 - [x] Anelia ✅ 2024-05-08
 - [x] Kaydance, Dakota Law ✅ 2024-05-08
 - [x] Sarah Chavez ✅ 2024-05-08
@@ -109,5 +113,6 @@ dv.paragraph(
 - [x] Edwina ✅ 2024-05-08
 - [x] Josh ✅ 2024-05-08
 - [x] Mrs. Salaro ✅ 2024-05-08
+
 
 ---
