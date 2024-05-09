@@ -60,51 +60,54 @@ dv.paragraph(
 - [x] Edna and Jazzlynn ✅ 2024-05-08
 - [x] Daniel and Marleen ✅ 2024-05-08
 - [x] Misty and Carlos ✅ 2024-05-08
-- [ ] Jorja and Skyler
-- [ ] Ruben and Antonia
-- [ ] Gerifaith and Omar
-- [ ] Edith Romero
-- [ ] Mark and Marie
-- [ ] Savannah and guest
-- [ ] Suzanne and Michael and family
-- [ ] Robert and Eileen
-- [ ] Tony Romero
-- [ ] Evelyn and Tim and family
-- [ ] Julie and guest
-- [ ] Bobby, Krissy and family
-- [ ] Amy and Ramon
-- [ ] Steven and Andrea and family
-- [ ] David and Christa and family
-- [ ] Amanda and family
-- [ ] Michael and Delilah
-- [ ] Flavio and guest
-- [ ] Rose and Eltin
-- [ ] Melissa and Tony and family
-- [ ] Rachel and Bernie and family
-- [ ] Olivia and Floyd and family
-- [ ] Norma and family
-- [ ] Grampo Rubel
-- [ ] Albert and Wanda
-- [ ] lil Albert and family
-- [ ] Amber and Dustin and family
-- [ ] Tressa and George and family
-- [ ] Tia Terry and Maria
-- [ ] Carrieann and family
-- [ ] Tia Dolores and guest
-- [ ] Tia Agnes and Tio Orlando
-- [ ] Karrie, Mono and family
-- [ ] Jojo and Sofia
-- [ ] Loreen, Michael and family
-- [ ] Tia Elena and guest
-- [ ] Edward and Calista and family
+- [x] Danieal & Buddy ✅ 2024-05-08
+- [x] Seanna ✅ 2024-05-08
+- [x] Jorja and Skyler ✅ 2024-05-08
+- [x] Ruben and Antonia ✅ 2024-05-08
+- [x] Gerifaith and Omar ✅ 2024-05-08
+- [x] Edith Romero ✅ 2024-05-08
+- [x] Mark and Marie ✅ 2024-05-08
+- [x] Savannah and guest ✅ 2024-05-08
+- [x] Suzanne and Michael and family ✅ 2024-05-08
+- [x] Robert and Eileen ✅ 2024-05-08
+- [x] Tony Romero ✅ 2024-05-08
+- [x] Evelyn and Tim and family ✅ 2024-05-08
+- [x] Julie and guest ✅ 2024-05-08
+- [x] Bobby, Krissy and family ✅ 2024-05-08
+- [x] Amy and Ramon ✅ 2024-05-08
+- [x] Steven and Andrea and family ✅ 2024-05-08
+- [x] David and Christa and family ✅ 2024-05-08
+- [x] Amanda and family ✅ 2024-05-08
+- [x] Michael and Delilah ✅ 2024-05-08
+- [x] Flavio and guest ✅ 2024-05-08
+- [x] Rose and Eltin ✅ 2024-05-08
+- [x] Melissa and Tony and family ✅ 2024-05-08
+- [x] Rachel and Bernie and family ✅ 2024-05-08
+- [x] Olivia and Floyd and family ✅ 2024-05-08
+- [x] Norma and family ✅ 2024-05-08
+- [x] Grampo Rubel ✅ 2024-05-08
+- [x] Albert and Wanda ✅ 2024-05-08
+- [x] lil Albert and family ✅ 2024-05-08
+- [x] Amber and Dustin and family ✅ 2024-05-08
+- [x] Tressa and George and family ✅ 2024-05-08
+- [x] Tia Terry and Maria ✅ 2024-05-08
+- [x] Carrieann and family ✅ 2024-05-08
+- [x] Tia Dolores and guest ✅ 2024-05-08
+- [x] Tia Agnes and Tio Orlando ✅ 2024-05-08
+- [x] Karrie, Mono and family ✅ 2024-05-08
+- [x] Jojo and Sofia ✅ 2024-05-08
+- [x] Loreen, Michael and family ✅ 2024-05-08
+- [x] Tia Elena and guest ✅ 2024-05-08
+- [x] Edward and Calista and family ✅ 2024-05-08
 # Invites to Give Teachers
-- [ ] Sandra
-- [ ] Ms. Garcia
-- [ ] Sgt. Romero
-- [ ] Ms. Patal-E
-- [ ] Tobe
-- [ ] Khianna
-- [ ] Edwina
-- [ ] Josh
+- [x] Sandra ✅ 2024-05-08
+- [x] Ms. Garcia ✅ 2024-05-08
+- [x] Sgt. Romero ✅ 2024-05-08
+- [x] Ms. Patal-E ✅ 2024-05-08
+- [x] Tobe ✅ 2024-05-08
+- [x] Khianna ✅ 2024-05-08
+- [x] Edwina ✅ 2024-05-08
+- [x] Josh ✅ 2024-05-08
+- [x] Mrs. Salaro ✅ 2024-05-08
 
 ---
