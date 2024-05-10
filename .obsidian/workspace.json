@@ -11,8 +11,14 @@
             "id": "7d1ec5781e03eba8",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "202404181229 Math Notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"202404181229 Math Notes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":28.473934069461535}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -522,10 +528,10 @@
   },
   "active": "7d1ec5781e03eba8",
   "lastOpenFiles": [
-    "Math Notes 7.md",
-    "Math MOC.md",
     "202404181229 Math Notes.md",
+    "Math MOC.md",
     "202404231230 Math Notes.md",
+    "Math Notes 7.md",
     "202404251229 Math Notes.md",
     "202404111228 Math Notes.md",
     "Math Notes 8.md",
