@@ -433,7 +433,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Math MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -526,10 +525,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7d1ec5781e03eba8",
+  "active": "53a91095c0f3296c",
   "lastOpenFiles": [
-    "202404181229 Math Notes.md",
     "Math MOC.md",
+    "202404181229 Math Notes.md",
     "202404231230 Math Notes.md",
     "Math Notes 7.md",
     "202404251229 Math Notes.md",
