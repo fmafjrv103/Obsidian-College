@@ -80,9 +80,28 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "53a91095c0f3296c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 513.5
+    "width": 513.5,
+    "collapsed": true
   },
   "right": {
     "id": "f90594313b89809e",
@@ -290,31 +310,6 @@
         "currentTab": 5
       },
       {
-        "id": "6f79939fd4bb2213",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "53a91095c0f3296c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          }
-        ]
-      },
-      {
         "id": "ef395338d2a8fa7a",
         "type": "tabs",
         "children": [
@@ -333,7 +328,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bible/Bible.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -426,8 +420,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "906e16441557290c",
+  "active": "53a91095c0f3296c",
   "lastOpenFiles": [
+    "Bible/Bible.md",
     "000 Home.md",
     "Bible/66 Revelation/66 Revelation 22.md",
     "Bible/66 Revelation/66 Revelation 21.md",
@@ -456,7 +451,6 @@
     "Bible/65 Jude",
     "Bible/64 3 John/64 3 John 1.md",
     "Bible/64 3 John",
-    "Bible/63 2 John/63 2 John 1.md",
     "Bible/63 2 John",
     "Bible/62 1 John",
     "Bible/61 2 Peter",
