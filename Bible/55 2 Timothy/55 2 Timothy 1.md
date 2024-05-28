@@ -1,5 +1,5 @@
 
-###### [[55 2 Timothy 1|2 Timothy 1 ⏮]] | [[55 1 Timothy 6|1 Timothy 6 ◀]] | [[2 Timothy]] | [[55 2 Timothy 2|▶ 2 Timothy 2]] | [[55 2 Timothy 4|⏭ 2 Timothy 4|]]
+###### [[55 2 Timothy 1|2 Timothy 1 ⏮]] | [[54 1 Timothy 6|1 Timothy 6 ◀]] | [[2 Timothy]] | [[55 2 Timothy 2|▶ 2 Timothy 2]] | [[55 2 Timothy 4|⏭ 2 Timothy 4|]]
 
 ###### 1
 ``` verse
@@ -74,5 +74,5 @@
 55 1 18 
 ```
 
-###### [[55 2 Timothy 1|2 Timothy 1 ⏮]] | [[55 1 Timothy 6|1 Timothy 6 ◀]] | [[2 Timothy]] | [[55 2 Timothy 2|▶ 2 Timothy 2]] | [[55 2 Timothy 4|⏭ 2 Timothy 4|]]
+###### [[55 2 Timothy 1|2 Timothy 1 ⏮]] | [[54 1 Timothy 6|1 Timothy 6 ◀]] | [[2 Timothy]] | [[55 2 Timothy 2|▶ 2 Timothy 2]] | [[55 2 Timothy 4|⏭ 2 Timothy 4|]]
 

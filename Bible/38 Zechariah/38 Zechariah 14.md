@@ -1,5 +1,5 @@
 
-###### [[38 Zechariah 1|Zechariah 1 ⏮]] | [[38 Zechariah 13|Zechariah 13 ◀]] | [[Zechariah]] | [[38 Malachi 1|▶ Malachi 1]] | [[38 Zechariah 14|⏭ Zechariah 14|]]
+###### [[38 Zechariah 1|Zechariah 1 ⏮]] | [[38 Zechariah 13|Zechariah 13 ◀]] | [[Zechariah]] | [[39 Malachi 1|▶ Malachi 1]] | [[38 Zechariah 14|⏭ Zechariah 14|]]
 
 ###### 1
 ``` verse
@@ -86,5 +86,5 @@
 38 14 21 
 ```
 
-###### [[38 Zechariah 1|Zechariah 1 ⏮]] | [[38 Zechariah 13|Zechariah 13 ◀]] | [[Zechariah]] | [[38 Malachi 1|▶ Malachi 1]] | [[38 Zechariah 14|⏭ Zechariah 14|]]
+###### [[38 Zechariah 1|Zechariah 1 ⏮]] | [[38 Zechariah 13|Zechariah 13 ◀]] | [[Zechariah]] | [[39 Malachi 1|▶ Malachi 1]] | [[38 Zechariah 14|⏭ Zechariah 14|]]
 

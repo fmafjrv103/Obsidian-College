@@ -1,5 +1,5 @@
 
-###### [[57 Philemon 1|Philemon 1 ⏮]] | [[57 Titus 3|Titus 3 ◀]] | [[Philemon]] | [[57 Hebrews 1|▶ Hebrews 1]] | [[57 Philemon 1|⏭ Philemon 1|]]
+###### [[57 Philemon 1|Philemon 1 ⏮]] | [[56 Titus 3|Titus 3 ◀]] | [[Philemon]] | [[58 Hebrews 1|▶ Hebrews 1]] | [[57 Philemon 1|⏭ Philemon 1|]]
 
 ###### 1
 ``` verse
@@ -102,5 +102,5 @@
 57 1 25 
 ```
 
-###### [[57 Philemon 1|Philemon 1 ⏮]] | [[57 Titus 3|Titus 3 ◀]] | [[Philemon]] | [[57 Hebrews 1|▶ Hebrews 1]] | [[57 Philemon 1|⏭ Philemon 1|]]
+###### [[57 Philemon 1|Philemon 1 ⏮]] | [[56 Titus 3|Titus 3 ◀]] | [[Philemon]] | [[58 Hebrews 1|▶ Hebrews 1]] | [[57 Philemon 1|⏭ Philemon 1|]]
 

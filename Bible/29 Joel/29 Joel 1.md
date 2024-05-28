@@ -1,5 +1,5 @@
 
-###### [[29 Joel 1|Joel 1 ⏮]] | [[29 Hosea 14|Hosea 14 ◀]] | [[Joel]] | [[29 Joel 2|▶ Joel 2]] | [[29 Joel 3|⏭ Joel 3|]]
+###### [[29 Joel 1|Joel 1 ⏮]] | [[28 Hosea 14|Hosea 14 ◀]] | [[Joel]] | [[29 Joel 2|▶ Joel 2]] | [[29 Joel 3|⏭ Joel 3|]]
 
 ###### 1
 ``` verse
@@ -82,5 +82,5 @@
 29 1 20 
 ```
 
-###### [[29 Joel 1|Joel 1 ⏮]] | [[29 Hosea 14|Hosea 14 ◀]] | [[Joel]] | [[29 Joel 2|▶ Joel 2]] | [[29 Joel 3|⏭ Joel 3|]]
+###### [[29 Joel 1|Joel 1 ⏮]] | [[28 Hosea 14|Hosea 14 ◀]] | [[Joel]] | [[29 Joel 2|▶ Joel 2]] | [[29 Joel 3|⏭ Joel 3|]]
 

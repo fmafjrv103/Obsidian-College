@@ -1,5 +1,5 @@
 
-###### [[56 Titus 1|Titus 1 ⏮]] | [[56 Titus 2|Titus 2 ◀]] | [[Titus]] | [[56 Philemon 1|▶ Philemon 1]] | [[56 Titus 3|⏭ Titus 3|]]
+###### [[56 Titus 1|Titus 1 ⏮]] | [[56 Titus 2|Titus 2 ◀]] | [[Titus]] | [[57 Philemon 1|▶ Philemon 1]] | [[56 Titus 3|⏭ Titus 3|]]
 
 ###### 1
 ``` verse
@@ -62,5 +62,5 @@
 56 3 15 
 ```
 
-###### [[56 Titus 1|Titus 1 ⏮]] | [[56 Titus 2|Titus 2 ◀]] | [[Titus]] | [[56 Philemon 1|▶ Philemon 1]] | [[56 Titus 3|⏭ Titus 3|]]
+###### [[56 Titus 1|Titus 1 ⏮]] | [[56 Titus 2|Titus 2 ◀]] | [[Titus]] | [[57 Philemon 1|▶ Philemon 1]] | [[56 Titus 3|⏭ Titus 3|]]
 

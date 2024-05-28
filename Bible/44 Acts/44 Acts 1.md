@@ -1,5 +1,5 @@
 
-###### [[44 Acts 1|Acts 1 ⏮]] | [[44 John 21|John 21 ◀]] | [[Acts]] | [[44 Acts 2|▶ Acts 2]] | [[44 Acts 28|⏭ Acts 28|]]
+###### [[44 Acts 1|Acts 1 ⏮]] | [[43 John 21|John 21 ◀]] | [[Acts]] | [[44 Acts 2|▶ Acts 2]] | [[44 Acts 28|⏭ Acts 28|]]
 
 ###### 1
 ``` verse
@@ -106,5 +106,5 @@
 44 1 26 
 ```
 
-###### [[44 Acts 1|Acts 1 ⏮]] | [[44 John 21|John 21 ◀]] | [[Acts]] | [[44 Acts 2|▶ Acts 2]] | [[44 Acts 28|⏭ Acts 28|]]
+###### [[44 Acts 1|Acts 1 ⏮]] | [[43 John 21|John 21 ◀]] | [[Acts]] | [[44 Acts 2|▶ Acts 2]] | [[44 Acts 28|⏭ Acts 28|]]
 

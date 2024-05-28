@@ -1,5 +1,5 @@
 
-###### [[30 Amos 1|Amos 1 ⏮]] | [[30 Joel 3|Joel 3 ◀]] | [[Amos]] | [[30 Amos 2|▶ Amos 2]] | [[30 Amos 9|⏭ Amos 9|]]
+###### [[30 Amos 1|Amos 1 ⏮]] | [[29 Joel 3|Joel 3 ◀]] | [[Amos]] | [[30 Amos 2|▶ Amos 2]] | [[30 Amos 9|⏭ Amos 9|]]
 
 ###### 1
 ``` verse
@@ -62,5 +62,5 @@
 30 1 15 
 ```
 
-###### [[30 Amos 1|Amos 1 ⏮]] | [[30 Joel 3|Joel 3 ◀]] | [[Amos]] | [[30 Amos 2|▶ Amos 2]] | [[30 Amos 9|⏭ Amos 9|]]
+###### [[30 Amos 1|Amos 1 ⏮]] | [[29 Joel 3|Joel 3 ◀]] | [[Amos]] | [[30 Amos 2|▶ Amos 2]] | [[30 Amos 9|⏭ Amos 9|]]
 

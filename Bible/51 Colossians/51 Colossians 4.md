@@ -1,5 +1,5 @@
 
-###### [[51 Colossians 1|Colossians 1 ⏮]] | [[51 Colossians 3|Colossians 3 ◀]] | [[Colossians]] | [[51 1 Thessalonians 1|▶ 1 Thessalonians 1]] | [[51 Colossians 4|⏭ Colossians 4|]]
+###### [[51 Colossians 1|Colossians 1 ⏮]] | [[51 Colossians 3|Colossians 3 ◀]] | [[Colossians]] | [[52 1 Thessalonians 1|▶ 1 Thessalonians 1]] | [[51 Colossians 4|⏭ Colossians 4|]]
 
 ###### 1
 ``` verse
@@ -74,5 +74,5 @@
 51 4 18 
 ```
 
-###### [[51 Colossians 1|Colossians 1 ⏮]] | [[51 Colossians 3|Colossians 3 ◀]] | [[Colossians]] | [[51 1 Thessalonians 1|▶ 1 Thessalonians 1]] | [[51 Colossians 4|⏭ Colossians 4|]]
+###### [[51 Colossians 1|Colossians 1 ⏮]] | [[51 Colossians 3|Colossians 3 ◀]] | [[Colossians]] | [[52 1 Thessalonians 1|▶ 1 Thessalonians 1]] | [[51 Colossians 4|⏭ Colossians 4|]]
 

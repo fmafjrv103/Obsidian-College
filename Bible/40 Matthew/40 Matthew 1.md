@@ -1,5 +1,5 @@
 
-###### [[40 Matthew 1|Matthew 1 ⏮]] | [[40 Malachi 4|Malachi 4 ◀]] | [[Matthew]] | [[40 Matthew 2|▶ Matthew 2]] | [[40 Matthew 28|⏭ Matthew 28|]]
+###### [[40 Matthew 1|Matthew 1 ⏮]] | [[39 Malachi 4|Malachi 4 ◀]] | [[Matthew]] | [[40 Matthew 2|▶ Matthew 2]] | [[40 Matthew 28|⏭ Matthew 28|]]
 
 ###### 1
 ``` verse
@@ -102,5 +102,5 @@
 40 1 25 
 ```
 
-###### [[40 Matthew 1|Matthew 1 ⏮]] | [[40 Malachi 4|Malachi 4 ◀]] | [[Matthew]] | [[40 Matthew 2|▶ Matthew 2]] | [[40 Matthew 28|⏭ Matthew 28|]]
+###### [[40 Matthew 1|Matthew 1 ⏮]] | [[39 Malachi 4|Malachi 4 ◀]] | [[Matthew]] | [[40 Matthew 2|▶ Matthew 2]] | [[40 Matthew 28|⏭ Matthew 28|]]
 

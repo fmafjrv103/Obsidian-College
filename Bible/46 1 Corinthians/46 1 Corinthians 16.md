@@ -1,5 +1,5 @@
 
-###### [[46 1 Corinthians 1|1 Corinthians 1 ⏮]] | [[46 1 Corinthians 15|1 Corinthians 15 ◀]] | [[1 Corinthians]] | [[46 2 Corinthians 1|▶ 2 Corinthians 1]] | [[46 1 Corinthians 16|⏭ 1 Corinthians 16|]]
+###### [[46 1 Corinthians 1|1 Corinthians 1 ⏮]] | [[46 1 Corinthians 15|1 Corinthians 15 ◀]] | [[1 Corinthians]] | [[47 2 Corinthians 1|▶ 2 Corinthians 1]] | [[46 1 Corinthians 16|⏭ 1 Corinthians 16|]]
 
 ###### 1
 ``` verse
@@ -98,5 +98,5 @@
 46 16 24 
 ```
 
-###### [[46 1 Corinthians 1|1 Corinthians 1 ⏮]] | [[46 1 Corinthians 15|1 Corinthians 15 ◀]] | [[1 Corinthians]] | [[46 2 Corinthians 1|▶ 2 Corinthians 1]] | [[46 1 Corinthians 16|⏭ 1 Corinthians 16|]]
+###### [[46 1 Corinthians 1|1 Corinthians 1 ⏮]] | [[46 1 Corinthians 15|1 Corinthians 15 ◀]] | [[1 Corinthians]] | [[47 2 Corinthians 1|▶ 2 Corinthians 1]] | [[46 1 Corinthians 16|⏭ 1 Corinthians 16|]]
 

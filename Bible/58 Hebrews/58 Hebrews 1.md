@@ -1,5 +1,5 @@
 
-###### [[58 Hebrews 1|Hebrews 1 ⏮]] | [[58 Philemon 1|Philemon 1 ◀]] | [[Hebrews]] | [[58 Hebrews 2|▶ Hebrews 2]] | [[58 Hebrews 13|⏭ Hebrews 13|]]
+###### [[58 Hebrews 1|Hebrews 1 ⏮]] | [[57 Philemon 1|Philemon 1 ◀]] | [[Hebrews]] | [[58 Hebrews 2|▶ Hebrews 2]] | [[58 Hebrews 13|⏭ Hebrews 13|]]
 
 ###### 1
 ``` verse
@@ -58,5 +58,5 @@
 58 1 14 
 ```
 
-###### [[58 Hebrews 1|Hebrews 1 ⏮]] | [[58 Philemon 1|Philemon 1 ◀]] | [[Hebrews]] | [[58 Hebrews 2|▶ Hebrews 2]] | [[58 Hebrews 13|⏭ Hebrews 13|]]
+###### [[58 Hebrews 1|Hebrews 1 ⏮]] | [[57 Philemon 1|Philemon 1 ◀]] | [[Hebrews]] | [[58 Hebrews 2|▶ Hebrews 2]] | [[58 Hebrews 13|⏭ Hebrews 13|]]
 

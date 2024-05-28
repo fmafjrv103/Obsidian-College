@@ -1,5 +1,5 @@
 
-###### [[33 Micah 1|Micah 1 ⏮]] | [[33 Micah 6|Micah 6 ◀]] | [[Micah]] | [[33 Nahum 1|▶ Nahum 1]] | [[33 Micah 7|⏭ Micah 7|]]
+###### [[33 Micah 1|Micah 1 ⏮]] | [[33 Micah 6|Micah 6 ◀]] | [[Micah]] | [[34 Nahum 1|▶ Nahum 1]] | [[33 Micah 7|⏭ Micah 7|]]
 
 ###### 1
 ``` verse
@@ -82,5 +82,5 @@
 33 7 20 
 ```
 
-###### [[33 Micah 1|Micah 1 ⏮]] | [[33 Micah 6|Micah 6 ◀]] | [[Micah]] | [[33 Nahum 1|▶ Nahum 1]] | [[33 Micah 7|⏭ Micah 7|]]
+###### [[33 Micah 1|Micah 1 ⏮]] | [[33 Micah 6|Micah 6 ◀]] | [[Micah]] | [[34 Nahum 1|▶ Nahum 1]] | [[33 Micah 7|⏭ Micah 7|]]
 

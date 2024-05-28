@@ -1,5 +1,5 @@
 
-###### [[59 James 1|James 1 ⏮]] | [[59 Hebrews 13|Hebrews 13 ◀]] | [[James]] | [[59 James 2|▶ James 2]] | [[59 James 5|⏭ James 5|]]
+###### [[59 James 1|James 1 ⏮]] | [[58 Hebrews 13|Hebrews 13 ◀]] | [[James]] | [[59 James 2|▶ James 2]] | [[59 James 5|⏭ James 5|]]
 
 ###### 1
 ``` verse
@@ -110,5 +110,5 @@
 59 1 27 
 ```
 
-###### [[59 James 1|James 1 ⏮]] | [[59 Hebrews 13|Hebrews 13 ◀]] | [[James]] | [[59 James 2|▶ James 2]] | [[59 James 5|⏭ James 5|]]
+###### [[59 James 1|James 1 ⏮]] | [[58 Hebrews 13|Hebrews 13 ◀]] | [[James]] | [[59 James 2|▶ James 2]] | [[59 James 5|⏭ James 5|]]
 

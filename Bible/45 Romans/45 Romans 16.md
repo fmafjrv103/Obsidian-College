@@ -1,5 +1,5 @@
 
-###### [[45 Romans 1|Romans 1 ⏮]] | [[45 Romans 15|Romans 15 ◀]] | [[Romans]] | [[45 1 Corinthians 1|▶ 1 Corinthians 1]] | [[45 Romans 16|⏭ Romans 16|]]
+###### [[45 Romans 1|Romans 1 ⏮]] | [[45 Romans 15|Romans 15 ◀]] | [[Romans]] | [[46 1 Corinthians 1|▶ 1 Corinthians 1]] | [[45 Romans 16|⏭ Romans 16|]]
 
 ###### 1
 ``` verse
@@ -110,5 +110,5 @@
 45 16 27 
 ```
 
-###### [[45 Romans 1|Romans 1 ⏮]] | [[45 Romans 15|Romans 15 ◀]] | [[Romans]] | [[45 1 Corinthians 1|▶ 1 Corinthians 1]] | [[45 Romans 16|⏭ Romans 16|]]
+###### [[45 Romans 1|Romans 1 ⏮]] | [[45 Romans 15|Romans 15 ◀]] | [[Romans]] | [[46 1 Corinthians 1|▶ 1 Corinthians 1]] | [[45 Romans 16|⏭ Romans 16|]]
 

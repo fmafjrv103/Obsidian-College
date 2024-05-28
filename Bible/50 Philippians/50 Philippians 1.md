@@ -1,5 +1,5 @@
 
-###### [[50 Philippians 1|Philippians 1 ⏮]] | [[50 Ephesians 6|Ephesians 6 ◀]] | [[Philippians]] | [[50 Philippians 2|▶ Philippians 2]] | [[50 Philippians 4|⏭ Philippians 4|]]
+###### [[50 Philippians 1|Philippians 1 ⏮]] | [[49 Ephesians 6|Ephesians 6 ◀]] | [[Philippians]] | [[50 Philippians 2|▶ Philippians 2]] | [[50 Philippians 4|⏭ Philippians 4|]]
 
 ###### 1
 ``` verse
@@ -122,5 +122,5 @@
 50 1 30 
 ```
 
-###### [[50 Philippians 1|Philippians 1 ⏮]] | [[50 Ephesians 6|Ephesians 6 ◀]] | [[Philippians]] | [[50 Philippians 2|▶ Philippians 2]] | [[50 Philippians 4|⏭ Philippians 4|]]
+###### [[50 Philippians 1|Philippians 1 ⏮]] | [[49 Ephesians 6|Ephesians 6 ◀]] | [[Philippians]] | [[50 Philippians 2|▶ Philippians 2]] | [[50 Philippians 4|⏭ Philippians 4|]]
 

@@ -1,5 +1,5 @@
 
-###### [[37 Haggai 1|Haggai 1 ⏮]] | [[37 Haggai 1|Haggai 1 ◀]] | [[Haggai]] | [[37 Zechariah 1|▶ Zechariah 1]] | [[37 Haggai 2|⏭ Haggai 2|]]
+###### [[37 Haggai 1|Haggai 1 ⏮]] | [[37 Haggai 1|Haggai 1 ◀]] | [[Haggai]] | [[38 Zechariah 1|▶ Zechariah 1]] | [[37 Haggai 2|⏭ Haggai 2|]]
 
 ###### 1
 ``` verse
@@ -94,5 +94,5 @@
 37 2 23 
 ```
 
-###### [[37 Haggai 1|Haggai 1 ⏮]] | [[37 Haggai 1|Haggai 1 ◀]] | [[Haggai]] | [[37 Zechariah 1|▶ Zechariah 1]] | [[37 Haggai 2|⏭ Haggai 2|]]
+###### [[37 Haggai 1|Haggai 1 ⏮]] | [[37 Haggai 1|Haggai 1 ◀]] | [[Haggai]] | [[38 Zechariah 1|▶ Zechariah 1]] | [[37 Haggai 2|⏭ Haggai 2|]]
 

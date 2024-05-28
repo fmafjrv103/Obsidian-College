@@ -1,5 +1,5 @@
 
-###### [[59 James 1|James 1 ⏮]] | [[59 James 4|James 4 ◀]] | [[James]] | [[59 1 Peter 1|▶ 1 Peter 1]] | [[59 James 5|⏭ James 5|]]
+###### [[59 James 1|James 1 ⏮]] | [[59 James 4|James 4 ◀]] | [[James]] | [[60 1 Peter 1|▶ 1 Peter 1]] | [[59 James 5|⏭ James 5|]]
 
 ###### 1
 ``` verse
@@ -82,5 +82,5 @@
 59 5 20 
 ```
 
-###### [[59 James 1|James 1 ⏮]] | [[59 James 4|James 4 ◀]] | [[James]] | [[59 1 Peter 1|▶ 1 Peter 1]] | [[59 James 5|⏭ James 5|]]
+###### [[59 James 1|James 1 ⏮]] | [[59 James 4|James 4 ◀]] | [[James]] | [[60 1 Peter 1|▶ 1 Peter 1]] | [[59 James 5|⏭ James 5|]]
 

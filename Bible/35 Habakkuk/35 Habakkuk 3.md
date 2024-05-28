@@ -1,5 +1,5 @@
 
-###### [[35 Habakkuk 1|Habakkuk 1 ⏮]] | [[35 Habakkuk 2|Habakkuk 2 ◀]] | [[Habakkuk]] | [[35 Zephaniah 1|▶ Zephaniah 1]] | [[35 Habakkuk 3|⏭ Habakkuk 3|]]
+###### [[35 Habakkuk 1|Habakkuk 1 ⏮]] | [[35 Habakkuk 2|Habakkuk 2 ◀]] | [[Habakkuk]] | [[36 Zephaniah 1|▶ Zephaniah 1]] | [[35 Habakkuk 3|⏭ Habakkuk 3|]]
 
 ###### 1
 ``` verse
@@ -78,5 +78,5 @@
 35 3 19 
 ```
 
-###### [[35 Habakkuk 1|Habakkuk 1 ⏮]] | [[35 Habakkuk 2|Habakkuk 2 ◀]] | [[Habakkuk]] | [[35 Zephaniah 1|▶ Zephaniah 1]] | [[35 Habakkuk 3|⏭ Habakkuk 3|]]
+###### [[35 Habakkuk 1|Habakkuk 1 ⏮]] | [[35 Habakkuk 2|Habakkuk 2 ◀]] | [[Habakkuk]] | [[36 Zephaniah 1|▶ Zephaniah 1]] | [[35 Habakkuk 3|⏭ Habakkuk 3|]]
 

@@ -1,5 +1,5 @@
 
-###### [[32 Jonah 1|Jonah 1 ⏮]] | [[32 Obadiah 1|Obadiah 1 ◀]] | [[Jonah]] | [[32 Jonah 2|▶ Jonah 2]] | [[32 Jonah 4|⏭ Jonah 4|]]
+###### [[32 Jonah 1|Jonah 1 ⏮]] | [[31 Obadiah 1|Obadiah 1 ◀]] | [[Jonah]] | [[32 Jonah 2|▶ Jonah 2]] | [[32 Jonah 4|⏭ Jonah 4|]]
 
 ###### 1
 ``` verse
@@ -70,5 +70,5 @@
 32 1 17 
 ```
 
-###### [[32 Jonah 1|Jonah 1 ⏮]] | [[32 Obadiah 1|Obadiah 1 ◀]] | [[Jonah]] | [[32 Jonah 2|▶ Jonah 2]] | [[32 Jonah 4|⏭ Jonah 4|]]
+###### [[32 Jonah 1|Jonah 1 ⏮]] | [[31 Obadiah 1|Obadiah 1 ◀]] | [[Jonah]] | [[32 Jonah 2|▶ Jonah 2]] | [[32 Jonah 4|⏭ Jonah 4|]]
 

@@ -1,5 +1,5 @@
 
-###### [[41 Mark 1|Mark 1 ⏮]] | [[41 Matthew 28|Matthew 28 ◀]] | [[Mark]] | [[41 Mark 2|▶ Mark 2]] | [[41 Mark 16|⏭ Mark 16|]]
+###### [[41 Mark 1|Mark 1 ⏮]] | [[40 Matthew 28|Matthew 28 ◀]] | [[Mark]] | [[41 Mark 2|▶ Mark 2]] | [[41 Mark 16|⏭ Mark 16|]]
 
 ###### 1
 ``` verse
@@ -182,5 +182,5 @@
 41 1 45 
 ```
 
-###### [[41 Mark 1|Mark 1 ⏮]] | [[41 Matthew 28|Matthew 28 ◀]] | [[Mark]] | [[41 Mark 2|▶ Mark 2]] | [[41 Mark 16|⏭ Mark 16|]]
+###### [[41 Mark 1|Mark 1 ⏮]] | [[40 Matthew 28|Matthew 28 ◀]] | [[Mark]] | [[41 Mark 2|▶ Mark 2]] | [[41 Mark 16|⏭ Mark 16|]]
 

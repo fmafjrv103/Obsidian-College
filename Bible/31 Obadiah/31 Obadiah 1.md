@@ -1,5 +1,5 @@
 
-###### [[31 Obadiah 1|Obadiah 1 ⏮]] | [[31 Amos 9|Amos 9 ◀]] | [[Obadiah]] | [[31 Jonah 1|▶ Jonah 1]] | [[31 Obadiah 1|⏭ Obadiah 1|]]
+###### [[31 Obadiah 1|Obadiah 1 ⏮]] | [[30 Amos 9|Amos 9 ◀]] | [[Obadiah]] | [[32 Jonah 1|▶ Jonah 1]] | [[31 Obadiah 1|⏭ Obadiah 1|]]
 
 ###### 1
 ``` verse
@@ -86,5 +86,5 @@
 31 1 21 
 ```
 
-###### [[31 Obadiah 1|Obadiah 1 ⏮]] | [[31 Amos 9|Amos 9 ◀]] | [[Obadiah]] | [[31 Jonah 1|▶ Jonah 1]] | [[31 Obadiah 1|⏭ Obadiah 1|]]
+###### [[31 Obadiah 1|Obadiah 1 ⏮]] | [[30 Amos 9|Amos 9 ◀]] | [[Obadiah]] | [[32 Jonah 1|▶ Jonah 1]] | [[31 Obadiah 1|⏭ Obadiah 1|]]
 

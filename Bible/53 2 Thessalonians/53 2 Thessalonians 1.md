@@ -1,5 +1,5 @@
 
-###### [[53 2 Thessalonians 1|2 Thessalonians 1 ⏮]] | [[53 1 Thessalonians 5|1 Thessalonians 5 ◀]] | [[2 Thessalonians]] | [[53 2 Thessalonians 2|▶ 2 Thessalonians 2]] | [[53 2 Thessalonians 3|⏭ 2 Thessalonians 3|]]
+###### [[53 2 Thessalonians 1|2 Thessalonians 1 ⏮]] | [[52 1 Thessalonians 5|1 Thessalonians 5 ◀]] | [[2 Thessalonians]] | [[53 2 Thessalonians 2|▶ 2 Thessalonians 2]] | [[53 2 Thessalonians 3|⏭ 2 Thessalonians 3|]]
 
 ###### 1
 ``` verse
@@ -50,5 +50,5 @@
 53 1 12 
 ```
 
-###### [[53 2 Thessalonians 1|2 Thessalonians 1 ⏮]] | [[53 1 Thessalonians 5|1 Thessalonians 5 ◀]] | [[2 Thessalonians]] | [[53 2 Thessalonians 2|▶ 2 Thessalonians 2]] | [[53 2 Thessalonians 3|⏭ 2 Thessalonians 3|]]
+###### [[53 2 Thessalonians 1|2 Thessalonians 1 ⏮]] | [[52 1 Thessalonians 5|1 Thessalonians 5 ◀]] | [[2 Thessalonians]] | [[53 2 Thessalonians 2|▶ 2 Thessalonians 2]] | [[53 2 Thessalonians 3|⏭ 2 Thessalonians 3|]]
 

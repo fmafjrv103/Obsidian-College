@@ -1,5 +1,5 @@
 
-###### [[35 Habakkuk 1|Habakkuk 1 ⏮]] | [[35 Nahum 3|Nahum 3 ◀]] | [[Habakkuk]] | [[35 Habakkuk 2|▶ Habakkuk 2]] | [[35 Habakkuk 3|⏭ Habakkuk 3|]]
+###### [[35 Habakkuk 1|Habakkuk 1 ⏮]] | [[34 Nahum 3|Nahum 3 ◀]] | [[Habakkuk]] | [[35 Habakkuk 2|▶ Habakkuk 2]] | [[35 Habakkuk 3|⏭ Habakkuk 3|]]
 
 ###### 1
 ``` verse
@@ -70,5 +70,5 @@
 35 1 17 
 ```
 
-###### [[35 Habakkuk 1|Habakkuk 1 ⏮]] | [[35 Nahum 3|Nahum 3 ◀]] | [[Habakkuk]] | [[35 Habakkuk 2|▶ Habakkuk 2]] | [[35 Habakkuk 3|⏭ Habakkuk 3|]]
+###### [[35 Habakkuk 1|Habakkuk 1 ⏮]] | [[34 Nahum 3|Nahum 3 ◀]] | [[Habakkuk]] | [[35 Habakkuk 2|▶ Habakkuk 2]] | [[35 Habakkuk 3|⏭ Habakkuk 3|]]
 

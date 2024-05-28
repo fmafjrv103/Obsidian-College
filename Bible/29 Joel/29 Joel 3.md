@@ -1,5 +1,5 @@
 
-###### [[29 Joel 1|Joel 1 ⏮]] | [[29 Joel 2|Joel 2 ◀]] | [[Joel]] | [[29 Amos 1|▶ Amos 1]] | [[29 Joel 3|⏭ Joel 3|]]
+###### [[29 Joel 1|Joel 1 ⏮]] | [[29 Joel 2|Joel 2 ◀]] | [[Joel]] | [[30 Amos 1|▶ Amos 1]] | [[29 Joel 3|⏭ Joel 3|]]
 
 ###### 1
 ``` verse
@@ -86,5 +86,5 @@
 29 3 21 
 ```
 
-###### [[29 Joel 1|Joel 1 ⏮]] | [[29 Joel 2|Joel 2 ◀]] | [[Joel]] | [[29 Amos 1|▶ Amos 1]] | [[29 Joel 3|⏭ Joel 3|]]
+###### [[29 Joel 1|Joel 1 ⏮]] | [[29 Joel 2|Joel 2 ◀]] | [[Joel]] | [[30 Amos 1|▶ Amos 1]] | [[29 Joel 3|⏭ Joel 3|]]
 

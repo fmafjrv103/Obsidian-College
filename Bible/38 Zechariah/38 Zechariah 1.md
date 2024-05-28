@@ -1,5 +1,5 @@
 
-###### [[38 Zechariah 1|Zechariah 1 ⏮]] | [[38 Haggai 2|Haggai 2 ◀]] | [[Zechariah]] | [[38 Zechariah 2|▶ Zechariah 2]] | [[38 Zechariah 14|⏭ Zechariah 14|]]
+###### [[38 Zechariah 1|Zechariah 1 ⏮]] | [[37 Haggai 2|Haggai 2 ◀]] | [[Zechariah]] | [[38 Zechariah 2|▶ Zechariah 2]] | [[38 Zechariah 14|⏭ Zechariah 14|]]
 
 ###### 1
 ``` verse
@@ -86,5 +86,5 @@
 38 1 21 
 ```
 
-###### [[38 Zechariah 1|Zechariah 1 ⏮]] | [[38 Haggai 2|Haggai 2 ◀]] | [[Zechariah]] | [[38 Zechariah 2|▶ Zechariah 2]] | [[38 Zechariah 14|⏭ Zechariah 14|]]
+###### [[38 Zechariah 1|Zechariah 1 ⏮]] | [[37 Haggai 2|Haggai 2 ◀]] | [[Zechariah]] | [[38 Zechariah 2|▶ Zechariah 2]] | [[38 Zechariah 14|⏭ Zechariah 14|]]
 

@@ -1,5 +1,5 @@
 
-###### [[50 Philippians 1|Philippians 1 ⏮]] | [[50 Philippians 3|Philippians 3 ◀]] | [[Philippians]] | [[50 Colossians 1|▶ Colossians 1]] | [[50 Philippians 4|⏭ Philippians 4|]]
+###### [[50 Philippians 1|Philippians 1 ⏮]] | [[50 Philippians 3|Philippians 3 ◀]] | [[Philippians]] | [[51 Colossians 1|▶ Colossians 1]] | [[50 Philippians 4|⏭ Philippians 4|]]
 
 ###### 1
 ``` verse
@@ -94,5 +94,5 @@
 50 4 23 
 ```
 
-###### [[50 Philippians 1|Philippians 1 ⏮]] | [[50 Philippians 3|Philippians 3 ◀]] | [[Philippians]] | [[50 Colossians 1|▶ Colossians 1]] | [[50 Philippians 4|⏭ Philippians 4|]]
+###### [[50 Philippians 1|Philippians 1 ⏮]] | [[50 Philippians 3|Philippians 3 ◀]] | [[Philippians]] | [[51 Colossians 1|▶ Colossians 1]] | [[50 Philippians 4|⏭ Philippians 4|]]
 

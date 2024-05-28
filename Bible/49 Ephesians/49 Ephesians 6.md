@@ -1,5 +1,5 @@
 
-###### [[49 Ephesians 1|Ephesians 1 ⏮]] | [[49 Ephesians 5|Ephesians 5 ◀]] | [[Ephesians]] | [[49 Philippians 1|▶ Philippians 1]] | [[49 Ephesians 6|⏭ Ephesians 6|]]
+###### [[49 Ephesians 1|Ephesians 1 ⏮]] | [[49 Ephesians 5|Ephesians 5 ◀]] | [[Ephesians]] | [[50 Philippians 1|▶ Philippians 1]] | [[49 Ephesians 6|⏭ Ephesians 6|]]
 
 ###### 1
 ``` verse
@@ -98,5 +98,5 @@
 49 6 24 
 ```
 
-###### [[49 Ephesians 1|Ephesians 1 ⏮]] | [[49 Ephesians 5|Ephesians 5 ◀]] | [[Ephesians]] | [[49 Philippians 1|▶ Philippians 1]] | [[49 Ephesians 6|⏭ Ephesians 6|]]
+###### [[49 Ephesians 1|Ephesians 1 ⏮]] | [[49 Ephesians 5|Ephesians 5 ◀]] | [[Ephesians]] | [[50 Philippians 1|▶ Philippians 1]] | [[49 Ephesians 6|⏭ Ephesians 6|]]
 

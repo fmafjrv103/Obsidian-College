@@ -1,5 +1,5 @@
 
-###### [[36 Zephaniah 1|Zephaniah 1 ⏮]] | [[36 Zephaniah 2|Zephaniah 2 ◀]] | [[Zephaniah]] | [[36 Haggai 1|▶ Haggai 1]] | [[36 Zephaniah 3|⏭ Zephaniah 3|]]
+###### [[36 Zephaniah 1|Zephaniah 1 ⏮]] | [[36 Zephaniah 2|Zephaniah 2 ◀]] | [[Zephaniah]] | [[37 Haggai 1|▶ Haggai 1]] | [[36 Zephaniah 3|⏭ Zephaniah 3|]]
 
 ###### 1
 ``` verse
@@ -82,5 +82,5 @@
 36 3 20 
 ```
 
-###### [[36 Zephaniah 1|Zephaniah 1 ⏮]] | [[36 Zephaniah 2|Zephaniah 2 ◀]] | [[Zephaniah]] | [[36 Haggai 1|▶ Haggai 1]] | [[36 Zephaniah 3|⏭ Zephaniah 3|]]
+###### [[36 Zephaniah 1|Zephaniah 1 ⏮]] | [[36 Zephaniah 2|Zephaniah 2 ◀]] | [[Zephaniah]] | [[37 Haggai 1|▶ Haggai 1]] | [[36 Zephaniah 3|⏭ Zephaniah 3|]]
 

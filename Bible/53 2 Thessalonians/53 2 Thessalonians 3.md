@@ -1,5 +1,5 @@
 
-###### [[53 2 Thessalonians 1|2 Thessalonians 1 ⏮]] | [[53 2 Thessalonians 2|2 Thessalonians 2 ◀]] | [[2 Thessalonians]] | [[53 1 Timothy 1|▶ 1 Timothy 1]] | [[53 2 Thessalonians 3|⏭ 2 Thessalonians 3|]]
+###### [[53 2 Thessalonians 1|2 Thessalonians 1 ⏮]] | [[53 2 Thessalonians 2|2 Thessalonians 2 ◀]] | [[2 Thessalonians]] | [[54 1 Timothy 1|▶ 1 Timothy 1]] | [[53 2 Thessalonians 3|⏭ 2 Thessalonians 3|]]
 
 ###### 1
 ``` verse
@@ -74,5 +74,5 @@
 53 3 18 
 ```
 
-###### [[53 2 Thessalonians 1|2 Thessalonians 1 ⏮]] | [[53 2 Thessalonians 2|2 Thessalonians 2 ◀]] | [[2 Thessalonians]] | [[53 1 Timothy 1|▶ 1 Timothy 1]] | [[53 2 Thessalonians 3|⏭ 2 Thessalonians 3|]]
+###### [[53 2 Thessalonians 1|2 Thessalonians 1 ⏮]] | [[53 2 Thessalonians 2|2 Thessalonians 2 ◀]] | [[2 Thessalonians]] | [[54 1 Timothy 1|▶ 1 Timothy 1]] | [[53 2 Thessalonians 3|⏭ 2 Thessalonians 3|]]
 

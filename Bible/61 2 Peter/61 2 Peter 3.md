@@ -1,5 +1,5 @@
 
-###### [[61 2 Peter 1|2 Peter 1 ⏮]] | [[61 2 Peter 2|2 Peter 2 ◀]] | [[2 Peter]] | [[61 1 John 1|▶ 1 John 1]] | [[61 2 Peter 3|⏭ 2 Peter 3|]]
+###### [[61 2 Peter 1|2 Peter 1 ⏮]] | [[61 2 Peter 2|2 Peter 2 ◀]] | [[2 Peter]] | [[62 1 John 1|▶ 1 John 1]] | [[61 2 Peter 3|⏭ 2 Peter 3|]]
 
 ###### 1
 ``` verse
@@ -74,5 +74,5 @@
 61 3 18 
 ```
 
-###### [[61 2 Peter 1|2 Peter 1 ⏮]] | [[61 2 Peter 2|2 Peter 2 ◀]] | [[2 Peter]] | [[61 1 John 1|▶ 1 John 1]] | [[61 2 Peter 3|⏭ 2 Peter 3|]]
+###### [[61 2 Peter 1|2 Peter 1 ⏮]] | [[61 2 Peter 2|2 Peter 2 ◀]] | [[2 Peter]] | [[62 1 John 1|▶ 1 John 1]] | [[61 2 Peter 3|⏭ 2 Peter 3|]]
 

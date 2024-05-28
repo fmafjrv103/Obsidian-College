@@ -1,5 +1,5 @@
 
-###### [[34 Nahum 1|Nahum 1 ⏮]] | [[34 Nahum 2|Nahum 2 ◀]] | [[Nahum]] | [[34 Habakkuk 1|▶ Habakkuk 1]] | [[34 Nahum 3|⏭ Nahum 3|]]
+###### [[34 Nahum 1|Nahum 1 ⏮]] | [[34 Nahum 2|Nahum 2 ◀]] | [[Nahum]] | [[35 Habakkuk 1|▶ Habakkuk 1]] | [[34 Nahum 3|⏭ Nahum 3|]]
 
 ###### 1
 ``` verse
@@ -78,5 +78,5 @@
 34 3 19 
 ```
 
-###### [[34 Nahum 1|Nahum 1 ⏮]] | [[34 Nahum 2|Nahum 2 ◀]] | [[Nahum]] | [[34 Habakkuk 1|▶ Habakkuk 1]] | [[34 Nahum 3|⏭ Nahum 3|]]
+###### [[34 Nahum 1|Nahum 1 ⏮]] | [[34 Nahum 2|Nahum 2 ◀]] | [[Nahum]] | [[35 Habakkuk 1|▶ Habakkuk 1]] | [[34 Nahum 3|⏭ Nahum 3|]]
 

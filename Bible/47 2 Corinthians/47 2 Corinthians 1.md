@@ -1,5 +1,5 @@
 
-###### [[47 2 Corinthians 1|2 Corinthians 1 ⏮]] | [[47 1 Corinthians 16|1 Corinthians 16 ◀]] | [[2 Corinthians]] | [[47 2 Corinthians 2|▶ 2 Corinthians 2]] | [[47 2 Corinthians 13|⏭ 2 Corinthians 13|]]
+###### [[47 2 Corinthians 1|2 Corinthians 1 ⏮]] | [[46 1 Corinthians 16|1 Corinthians 16 ◀]] | [[2 Corinthians]] | [[47 2 Corinthians 2|▶ 2 Corinthians 2]] | [[47 2 Corinthians 13|⏭ 2 Corinthians 13|]]
 
 ###### 1
 ``` verse
@@ -98,5 +98,5 @@
 47 1 24 
 ```
 
-###### [[47 2 Corinthians 1|2 Corinthians 1 ⏮]] | [[47 1 Corinthians 16|1 Corinthians 16 ◀]] | [[2 Corinthians]] | [[47 2 Corinthians 2|▶ 2 Corinthians 2]] | [[47 2 Corinthians 13|⏭ 2 Corinthians 13|]]
+###### [[47 2 Corinthians 1|2 Corinthians 1 ⏮]] | [[46 1 Corinthians 16|1 Corinthians 16 ◀]] | [[2 Corinthians]] | [[47 2 Corinthians 2|▶ 2 Corinthians 2]] | [[47 2 Corinthians 13|⏭ 2 Corinthians 13|]]
 

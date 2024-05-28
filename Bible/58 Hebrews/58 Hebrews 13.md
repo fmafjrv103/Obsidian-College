@@ -1,5 +1,5 @@
 
-###### [[58 Hebrews 1|Hebrews 1 ⏮]] | [[58 Hebrews 12|Hebrews 12 ◀]] | [[Hebrews]] | [[58 James 1|▶ James 1]] | [[58 Hebrews 13|⏭ Hebrews 13|]]
+###### [[58 Hebrews 1|Hebrews 1 ⏮]] | [[58 Hebrews 12|Hebrews 12 ◀]] | [[Hebrews]] | [[59 James 1|▶ James 1]] | [[58 Hebrews 13|⏭ Hebrews 13|]]
 
 ###### 1
 ``` verse
@@ -102,5 +102,5 @@
 58 13 25 
 ```
 
-###### [[58 Hebrews 1|Hebrews 1 ⏮]] | [[58 Hebrews 12|Hebrews 12 ◀]] | [[Hebrews]] | [[58 James 1|▶ James 1]] | [[58 Hebrews 13|⏭ Hebrews 13|]]
+###### [[58 Hebrews 1|Hebrews 1 ⏮]] | [[58 Hebrews 12|Hebrews 12 ◀]] | [[Hebrews]] | [[59 James 1|▶ James 1]] | [[58 Hebrews 13|⏭ Hebrews 13|]]
 

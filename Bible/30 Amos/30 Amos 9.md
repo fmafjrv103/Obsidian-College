@@ -1,5 +1,5 @@
 
-###### [[30 Amos 1|Amos 1 ⏮]] | [[30 Amos 8|Amos 8 ◀]] | [[Amos]] | [[30 Obadiah 1|▶ Obadiah 1]] | [[30 Amos 9|⏭ Amos 9|]]
+###### [[30 Amos 1|Amos 1 ⏮]] | [[30 Amos 8|Amos 8 ◀]] | [[Amos]] | [[31 Obadiah 1|▶ Obadiah 1]] | [[30 Amos 9|⏭ Amos 9|]]
 
 ###### 1
 ``` verse
@@ -62,5 +62,5 @@
 30 9 15 
 ```
 
-###### [[30 Amos 1|Amos 1 ⏮]] | [[30 Amos 8|Amos 8 ◀]] | [[Amos]] | [[30 Obadiah 1|▶ Obadiah 1]] | [[30 Amos 9|⏭ Amos 9|]]
+###### [[30 Amos 1|Amos 1 ⏮]] | [[30 Amos 8|Amos 8 ◀]] | [[Amos]] | [[31 Obadiah 1|▶ Obadiah 1]] | [[30 Amos 9|⏭ Amos 9|]]
 

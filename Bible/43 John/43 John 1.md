@@ -1,5 +1,5 @@
 
-###### [[43 John 1|John 1 ⏮]] | [[43 Luke 24|Luke 24 ◀]] | [[John]] | [[43 John 2|▶ John 2]] | [[43 John 21|⏭ John 21|]]
+###### [[43 John 1|John 1 ⏮]] | [[42 Luke 24|Luke 24 ◀]] | [[John]] | [[43 John 2|▶ John 2]] | [[43 John 21|⏭ John 21|]]
 
 ###### 1
 ``` verse
@@ -206,5 +206,5 @@
 43 1 51 
 ```
 
-###### [[43 John 1|John 1 ⏮]] | [[43 Luke 24|Luke 24 ◀]] | [[John]] | [[43 John 2|▶ John 2]] | [[43 John 21|⏭ John 21|]]
+###### [[43 John 1|John 1 ⏮]] | [[42 Luke 24|Luke 24 ◀]] | [[John]] | [[43 John 2|▶ John 2]] | [[43 John 21|⏭ John 21|]]
 

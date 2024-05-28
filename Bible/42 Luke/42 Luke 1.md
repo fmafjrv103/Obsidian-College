@@ -1,5 +1,5 @@
 
-###### [[42 Luke 1|Luke 1 ⏮]] | [[42 Mark 16|Mark 16 ◀]] | [[Luke]] | [[42 Luke 2|▶ Luke 2]] | [[42 Luke 24|⏭ Luke 24|]]
+###### [[42 Luke 1|Luke 1 ⏮]] | [[41 Mark 16|Mark 16 ◀]] | [[Luke]] | [[42 Luke 2|▶ Luke 2]] | [[42 Luke 24|⏭ Luke 24|]]
 
 ###### 1
 ``` verse
@@ -322,5 +322,5 @@
 42 1 80 
 ```
 
-###### [[42 Luke 1|Luke 1 ⏮]] | [[42 Mark 16|Mark 16 ◀]] | [[Luke]] | [[42 Luke 2|▶ Luke 2]] | [[42 Luke 24|⏭ Luke 24|]]
+###### [[42 Luke 1|Luke 1 ⏮]] | [[41 Mark 16|Mark 16 ◀]] | [[Luke]] | [[42 Luke 2|▶ Luke 2]] | [[42 Luke 24|⏭ Luke 24|]]
 

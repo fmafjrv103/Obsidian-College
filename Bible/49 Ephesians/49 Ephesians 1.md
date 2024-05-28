@@ -1,5 +1,5 @@
 
-###### [[49 Ephesians 1|Ephesians 1 ⏮]] | [[49 Galatians 6|Galatians 6 ◀]] | [[Ephesians]] | [[49 Ephesians 2|▶ Ephesians 2]] | [[49 Ephesians 6|⏭ Ephesians 6|]]
+###### [[49 Ephesians 1|Ephesians 1 ⏮]] | [[48 Galatians 6|Galatians 6 ◀]] | [[Ephesians]] | [[49 Ephesians 2|▶ Ephesians 2]] | [[49 Ephesians 6|⏭ Ephesians 6|]]
 
 ###### 1
 ``` verse
@@ -94,5 +94,5 @@
 49 1 23 
 ```
 
-###### [[49 Ephesians 1|Ephesians 1 ⏮]] | [[49 Galatians 6|Galatians 6 ◀]] | [[Ephesians]] | [[49 Ephesians 2|▶ Ephesians 2]] | [[49 Ephesians 6|⏭ Ephesians 6|]]
+###### [[49 Ephesians 1|Ephesians 1 ⏮]] | [[48 Galatians 6|Galatians 6 ◀]] | [[Ephesians]] | [[49 Ephesians 2|▶ Ephesians 2]] | [[49 Ephesians 6|⏭ Ephesians 6|]]
 

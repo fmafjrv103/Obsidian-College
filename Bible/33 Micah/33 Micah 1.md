@@ -1,5 +1,5 @@
 
-###### [[33 Micah 1|Micah 1 ⏮]] | [[33 Jonah 4|Jonah 4 ◀]] | [[Micah]] | [[33 Micah 2|▶ Micah 2]] | [[33 Micah 7|⏭ Micah 7|]]
+###### [[33 Micah 1|Micah 1 ⏮]] | [[32 Jonah 4|Jonah 4 ◀]] | [[Micah]] | [[33 Micah 2|▶ Micah 2]] | [[33 Micah 7|⏭ Micah 7|]]
 
 ###### 1
 ``` verse
@@ -66,5 +66,5 @@
 33 1 16 
 ```
 
-###### [[33 Micah 1|Micah 1 ⏮]] | [[33 Jonah 4|Jonah 4 ◀]] | [[Micah]] | [[33 Micah 2|▶ Micah 2]] | [[33 Micah 7|⏭ Micah 7|]]
+###### [[33 Micah 1|Micah 1 ⏮]] | [[32 Jonah 4|Jonah 4 ◀]] | [[Micah]] | [[33 Micah 2|▶ Micah 2]] | [[33 Micah 7|⏭ Micah 7|]]
 

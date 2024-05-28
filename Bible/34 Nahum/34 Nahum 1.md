@@ -1,5 +1,5 @@
 
-###### [[34 Nahum 1|Nahum 1 ⏮]] | [[34 Micah 7|Micah 7 ◀]] | [[Nahum]] | [[34 Nahum 2|▶ Nahum 2]] | [[34 Nahum 3|⏭ Nahum 3|]]
+###### [[34 Nahum 1|Nahum 1 ⏮]] | [[33 Micah 7|Micah 7 ◀]] | [[Nahum]] | [[34 Nahum 2|▶ Nahum 2]] | [[34 Nahum 3|⏭ Nahum 3|]]
 
 ###### 1
 ``` verse
@@ -62,5 +62,5 @@
 34 1 15 
 ```
 
-###### [[34 Nahum 1|Nahum 1 ⏮]] | [[34 Micah 7|Micah 7 ◀]] | [[Nahum]] | [[34 Nahum 2|▶ Nahum 2]] | [[34 Nahum 3|⏭ Nahum 3|]]
+###### [[34 Nahum 1|Nahum 1 ⏮]] | [[33 Micah 7|Micah 7 ◀]] | [[Nahum]] | [[34 Nahum 2|▶ Nahum 2]] | [[34 Nahum 3|⏭ Nahum 3|]]
 

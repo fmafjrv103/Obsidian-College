@@ -1,5 +1,5 @@
 
-###### [[48 Galatians 1|Galatians 1 ⏮]] | [[48 2 Corinthians 13|2 Corinthians 13 ◀]] | [[Galatians]] | [[48 Galatians 2|▶ Galatians 2]] | [[48 Galatians 6|⏭ Galatians 6|]]
+###### [[48 Galatians 1|Galatians 1 ⏮]] | [[47 2 Corinthians 13|2 Corinthians 13 ◀]] | [[Galatians]] | [[48 Galatians 2|▶ Galatians 2]] | [[48 Galatians 6|⏭ Galatians 6|]]
 
 ###### 1
 ``` verse
@@ -98,5 +98,5 @@
 48 1 24 
 ```
 
-###### [[48 Galatians 1|Galatians 1 ⏮]] | [[48 2 Corinthians 13|2 Corinthians 13 ◀]] | [[Galatians]] | [[48 Galatians 2|▶ Galatians 2]] | [[48 Galatians 6|⏭ Galatians 6|]]
+###### [[48 Galatians 1|Galatians 1 ⏮]] | [[47 2 Corinthians 13|2 Corinthians 13 ◀]] | [[Galatians]] | [[48 Galatians 2|▶ Galatians 2]] | [[48 Galatians 6|⏭ Galatians 6|]]
 
