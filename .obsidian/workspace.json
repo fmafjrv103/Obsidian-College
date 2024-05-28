@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b707785dbb30dfc1",
+        "id": "39689b0a2259a1e1",
         "type": "tabs",
         "children": [
           {
-            "id": "c39e9828e0d0b7fd",
+            "id": "7d1ec5781e03eba8",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -28,8 +28,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ce373b0a8641038c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "swar8080/AVAILABLE_PLUGIN_UPDATES",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,23 +119,6 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "016934c0b492b664",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {}
-            }
           }
         ]
       }
@@ -148,23 +149,6 @@
             },
             "state": {
               "type": "online.tokuhirom.obsidian-pomodoro-plugin",
-              "state": {}
-            }
-          },
-          {
-            "id": "39452885ae1fa925",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
           },
@@ -261,46 +245,40 @@
             }
           },
           {
-            "id": "754d5b610fdbfb67",
+            "id": "b07368cc8250ad6d",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "file": "000 Home.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "61ea3b88bc4a4582",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "000 Home.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "c8d396408c948cc1",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "000 Home.md"
-              }
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
+      },
+      {
+        "id": "6f79939fd4bb2213",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53a91095c0f3296c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
       },
       {
         "id": "ef395338d2a8fa7a",
@@ -394,9 +372,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-5e-statblocks:Open Creature pane": false,
       "excel:Create Excel File": false,
       "obsidian-spaced-repetition:Review flashcards": true,
+      "templater-obsidian:Templater": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": true,
@@ -411,10 +389,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "timer:Open timer": false,
-      "templater-obsidian:Templater": false
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "c39e9828e0d0b7fd",
+  "active": "ce373b0a8641038c",
   "lastOpenFiles": [
     "Math MOC.md",
     "202404181229 Math Notes.md",
