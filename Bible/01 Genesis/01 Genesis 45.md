@@ -1,3 +1,9 @@
+---
+date: 2024-05-28 02:47:37
+tags:
+  - bible
+---
+___
 
 ###### [[01 Genesis 1|Genesis 1 ⏮]] | [[01 Genesis 44|Genesis 44 ◀]] | [[Genesis]] | [[01 Genesis 46|▶ Genesis 46]] | [[01 Genesis 50|⏭ Genesis 50|]]
 

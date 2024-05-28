@@ -1,3 +1,9 @@
+---
+date: 2024-05-28 02:53:31
+tags:
+  - bible
+---
+___
 
 ###### [[03 Leviticus 1|Leviticus 1 ⏮]] | [[03 Leviticus 5|Leviticus 5 ◀]] | [[Leviticus]] | [[03 Leviticus 7|▶ Leviticus 7]] | [[03 Leviticus 27|⏭ Leviticus 27|]]
 

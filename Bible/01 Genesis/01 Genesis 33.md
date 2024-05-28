@@ -1,3 +1,9 @@
+---
+date: 2024-05-28 02:46:06
+tags:
+  - bible
+---
+___
 
 ###### [[01 Genesis 1|Genesis 1 ⏮]] | [[01 Genesis 32|Genesis 32 ◀]] | [[Genesis]] | [[01 Genesis 34|▶ Genesis 34]] | [[01 Genesis 50|⏭ Genesis 50|]]
 

@@ -1,3 +1,9 @@
+---
+date: 2024-05-28 02:55:54
+tags:
+  - bible
+---
+___
 
 ###### [[04 Numbers 1|Numbers 1 ⏮]] | [[03 Leviticus 27|Leviticus 27 ◀]] | [[Numbers]] | [[04 Numbers 2|▶ Numbers 2]] | [[04 Numbers 36|⏭ Numbers 36|]]
 

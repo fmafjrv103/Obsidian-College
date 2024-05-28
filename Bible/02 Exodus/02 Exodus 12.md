@@ -1,3 +1,9 @@
+---
+date: 2024-05-28 02:49:32
+tags:
+  - bible
+---
+___
 
 ###### [[02 Exodus 1|Exodus 1 ⏮]] | [[02 Exodus 11|Exodus 11 ◀]] | [[Exodus]] | [[02 Exodus 13|▶ Exodus 13]] | [[02 Exodus 40|⏭ Exodus 40|]]
 

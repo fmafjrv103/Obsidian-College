@@ -1,3 +1,9 @@
+---
+date: 2024-05-28 02:51:52
+tags:
+  - bible
+---
+___
 
 ###### [[02 Exodus 1|Exodus 1 ⏮]] | [[02 Exodus 39|Exodus 39 ◀]] | [[Exodus]] | [[03 Leviticus 1|▶ Leviticus 1]] | [[02 Exodus 40|⏭ Exodus 40|]]
 

@@ -1,3 +1,9 @@
+---
+date: 2024-05-28 02:48:18
+tags:
+  - bible
+---
+___
 
 ###### [[02 Exodus 1|Exodus 1 ⏮]] | [[01 Genesis 50|Genesis 50 ◀]] | [[Exodus]] | [[02 Exodus 2|▶ Exodus 2]] | [[02 Exodus 40|⏭ Exodus 40|]]
 
