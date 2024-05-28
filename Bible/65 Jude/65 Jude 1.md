@@ -1,5 +1,5 @@
 
-###### [[65 Jude 1|Jude 1 ⏮]] | [[65 3 John 1|3 John 1 ◀]] | [[Jude]] | [[65 Revelation 1|▶ Revelation 1]] | [[65 Jude 1|⏭ Jude 1|]]
+###### [[65 Jude 1|Jude 1 ⏮]] | [[64 3 John 1|3 John 1 ◀]] | [[Jude]] | [[66 Revelation 1|▶ Revelation 1]] | [[65 Jude 1|⏭ Jude 1|]]
 
 ###### 1
 ``` verse
@@ -102,5 +102,5 @@
 65 1 25 
 ```
 
-###### [[65 Jude 1|Jude 1 ⏮]] | [[65 3 John 1|3 John 1 ◀]] | [[Jude]] | [[65 Revelation 1|▶ Revelation 1]] | [[65 Jude 1|⏭ Jude 1|]]
+###### [[65 Jude 1|Jude 1 ⏮]] | [[64 3 John 1|3 John 1 ◀]] | [[Jude]] | [[66 Revelation 1|▶ Revelation 1]] | [[65 Jude 1|⏭ Jude 1|]]
 

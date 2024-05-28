@@ -1,5 +1,5 @@
 
-###### [[66 Revelation 1|Revelation 1 ⏮]] | [[66 Jude 1|Jude 1 ◀]] | [[Revelation]] | [[66 Revelation 2|▶ Revelation 2]] | [[66 Revelation 22|⏭ Revelation 22|]]
+###### [[66 Revelation 1|Revelation 1 ⏮]] | [[65 Jude 1|Jude 1 ◀]] | [[Revelation]] | [[66 Revelation 2|▶ Revelation 2]] | [[66 Revelation 22|⏭ Revelation 22|]]
 
 ###### 1
 ``` verse
@@ -82,5 +82,5 @@
 66 1 20 
 ```
 
-###### [[66 Revelation 1|Revelation 1 ⏮]] | [[66 Jude 1|Jude 1 ◀]] | [[Revelation]] | [[66 Revelation 2|▶ Revelation 2]] | [[66 Revelation 22|⏭ Revelation 22|]]
+###### [[66 Revelation 1|Revelation 1 ⏮]] | [[65 Jude 1|Jude 1 ◀]] | [[Revelation]] | [[66 Revelation 2|▶ Revelation 2]] | [[66 Revelation 22|⏭ Revelation 22|]]
 
