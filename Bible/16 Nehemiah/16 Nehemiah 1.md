@@ -1,3 +1,9 @@
+---
+date: 2024-05-28 13:43:46
+tags:
+  - bible
+---
+___
 
 ###### [[16 Nehemiah 1|Nehemiah 1 ⏮]] | [[15 Ezra 10|Ezra 10 ◀]] | [[Nehemiah]] | [[16 Nehemiah 2|▶ Nehemiah 2]] | [[16 Nehemiah 13|⏭ Nehemiah 13|]]
 

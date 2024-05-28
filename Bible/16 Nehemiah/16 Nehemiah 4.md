@@ -1,3 +1,9 @@
+---
+date: 2024-05-28 13:44:00
+tags:
+  - bible
+---
+___
 
 ###### [[16 Nehemiah 1|Nehemiah 1 ⏮]] | [[16 Nehemiah 3|Nehemiah 3 ◀]] | [[Nehemiah]] | [[16 Nehemiah 5|▶ Nehemiah 5]] | [[16 Nehemiah 13|⏭ Nehemiah 13|]]
 

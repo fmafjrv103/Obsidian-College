@@ -1,3 +1,9 @@
+---
+date: 2024-05-28 13:42:13
+tags:
+  - bible
+---
+___
 
 ###### [[14 2 Chronicles 1|2 Chronicles 1 ⏮]] | [[14 2 Chronicles 25|2 Chronicles 25 ◀]] | [[2 Chronicles]] | [[14 2 Chronicles 27|▶ 2 Chronicles 27]] | [[14 2 Chronicles 36|⏭ 2 Chronicles 36|]]
 

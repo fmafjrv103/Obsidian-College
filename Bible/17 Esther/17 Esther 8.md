@@ -1,3 +1,9 @@
+---
+date: 2024-05-28 13:45:51
+tags:
+  - bible
+---
+___
 
 ###### [[17 Esther 1|Esther 1 ⏮]] | [[17 Esther 7|Esther 7 ◀]] | [[Esther]] | [[17 Esther 9|▶ Esther 9]] | [[17 Esther 10|⏭ Esther 10|]]
 

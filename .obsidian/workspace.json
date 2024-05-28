@@ -18,6 +18,828 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "19 Psalm 9",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 9.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":91},\"to\":{\"line\":7,\"ch\":91}}}"
+                },
+                {
+                  "title": "19 Psalm 8",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 8.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":91},\"to\":{\"line\":7,\"ch\":91}}}"
+                },
+                {
+                  "title": "19 Psalm 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 7.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":91},\"to\":{\"line\":7,\"ch\":91}}}"
+                },
+                {
+                  "title": "19 Psalm 6",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 6.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":90},\"to\":{\"line\":7,\"ch\":90}}}"
+                },
+                {
+                  "title": "19 Psalm 5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 5.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":90},\"to\":{\"line\":7,\"ch\":90}}}"
+                },
+                {
+                  "title": "19 Psalm 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 4.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":89},\"to\":{\"line\":7,\"ch\":89}}}"
+                },
+                {
+                  "title": "19 Psalm 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 3.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":90},\"to\":{\"line\":7,\"ch\":90}}}"
+                },
+                {
+                  "title": "19 Psalm 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 2.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":87},\"to\":{\"line\":7,\"ch\":87}}}"
+                },
+                {
+                  "title": "19 Psalm 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":86},\"to\":{\"line\":7,\"ch\":86}}}"
+                },
+                {
+                  "title": "18 Job 42",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 42.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":83},\"to\":{\"line\":7,\"ch\":83}}}"
+                },
+                {
+                  "title": "18 Job 41",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 41.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":82},\"to\":{\"line\":7,\"ch\":82}}}"
+                },
+                {
+                  "title": "18 Job 40",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 40.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":82},\"to\":{\"line\":7,\"ch\":82}}}"
+                },
+                {
+                  "title": "18 Job 39",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 39.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":82},\"to\":{\"line\":7,\"ch\":82}}}"
+                },
+                {
+                  "title": "18 Job 38",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 38.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":82},\"to\":{\"line\":7,\"ch\":82}}}"
+                },
+                {
+                  "title": "18 Job 37",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 37.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":82},\"to\":{\"line\":7,\"ch\":82}}}"
+                },
+                {
+                  "title": "18 Job 36",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 36.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":83},\"to\":{\"line\":7,\"ch\":83}}}"
+                },
+                {
+                  "title": "18 Job 35",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 35.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":79},\"to\":{\"line\":7,\"ch\":79}}}"
+                },
+                {
+                  "title": "18 Job 34",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 34.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":81},\"to\":{\"line\":7,\"ch\":81}}}"
+                },
+                {
+                  "title": "18 Job 33",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 33.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":80},\"to\":{\"line\":7,\"ch\":80}}}"
+                },
+                {
+                  "title": "18 Job 32",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 32.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":81},\"to\":{\"line\":7,\"ch\":81}}}"
+                },
+                {
+                  "title": "18 Job 31",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 31.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":84},\"to\":{\"line\":7,\"ch\":84}}}"
+                },
+                {
+                  "title": "18 Job 30",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 30.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":80},\"to\":{\"line\":7,\"ch\":80}}}"
+                },
+                {
+                  "title": "18 Job 29",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 29.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":83},\"to\":{\"line\":7,\"ch\":83}}}"
+                },
+                {
+                  "title": "18 Job 28",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 28.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":82},\"to\":{\"line\":7,\"ch\":82}}}"
+                },
+                {
+                  "title": "18 Job 27",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 27.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":82},\"to\":{\"line\":7,\"ch\":82}}}"
+                },
+                {
+                  "title": "18 Job 26",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 26.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":80},\"to\":{\"line\":7,\"ch\":80}}}"
+                },
+                {
+                  "title": "18 Job 25",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 25.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":82},\"to\":{\"line\":7,\"ch\":82}}}"
+                },
+                {
+                  "title": "18 Job 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 24.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":82},\"to\":{\"line\":7,\"ch\":82}}}"
+                },
+                {
+                  "title": "18 Job 23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 23.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":81},\"to\":{\"line\":6,\"ch\":81}}}"
+                },
+                {
+                  "title": "18 Job 22",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 22.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":82},\"to\":{\"line\":7,\"ch\":82}}}"
+                },
+                {
+                  "title": "18 Job 21",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 21.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":79},\"to\":{\"line\":7,\"ch\":79}}}"
+                },
+                {
+                  "title": "18 Job 20",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 20.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":82},\"to\":{\"line\":7,\"ch\":82}}}"
+                },
+                {
+                  "title": "18 Job 19",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 19.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":80},\"to\":{\"line\":7,\"ch\":80}}}"
+                },
+                {
+                  "title": "18 Job 18",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 18.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":83},\"to\":{\"line\":7,\"ch\":83}}}"
+                },
+                {
+                  "title": "18 Job 17",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 17.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":80},\"to\":{\"line\":7,\"ch\":80}}}"
+                },
+                {
+                  "title": "18 Job 16",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 16.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":81},\"to\":{\"line\":7,\"ch\":81}}}"
+                },
+                {
+                  "title": "18 Job 15",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 15.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":80},\"to\":{\"line\":7,\"ch\":80}}}"
+                },
+                {
+                  "title": "18 Job 14",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 14.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":81},\"to\":{\"line\":7,\"ch\":81}}}"
+                },
+                {
+                  "title": "18 Job 13",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 13.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":80},\"to\":{\"line\":7,\"ch\":80}}}"
+                },
+                {
+                  "title": "18 Job 12",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 12.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":80},\"to\":{\"line\":7,\"ch\":80}}}"
+                },
+                {
+                  "title": "18 Job 11",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 11.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":78},\"to\":{\"line\":7,\"ch\":78}}}"
+                },
+                {
+                  "title": "18 Job 10",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 10.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":79},\"to\":{\"line\":7,\"ch\":79}}}"
+                },
+                {
+                  "title": "18 Job 9",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 9.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":80},\"to\":{\"line\":7,\"ch\":80}}}"
+                },
+                {
+                  "title": "18 Job 8",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 8.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":77},\"to\":{\"line\":7,\"ch\":77}}}"
+                },
+                {
+                  "title": "18 Job 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 7.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":78},\"to\":{\"line\":7,\"ch\":78}}}"
+                },
+                {
+                  "title": "18 Job 6",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 6.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":78},\"to\":{\"line\":7,\"ch\":78}}}"
+                },
+                {
+                  "title": "18 Job 5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 5.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":78},\"to\":{\"line\":8,\"ch\":78}}}"
+                },
+                {
+                  "title": "18 Job 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 4.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":79},\"to\":{\"line\":7,\"ch\":79}}}"
+                },
+                {
+                  "title": "18 Job 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 3.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":79},\"to\":{\"line\":7,\"ch\":79}}}"
+                },
+                {
+                  "title": "18 Job 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 2.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":80},\"to\":{\"line\":7,\"ch\":80}}}"
+                },
+                {
+                  "title": "18 Job 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":88},\"to\":{\"line\":7,\"ch\":88}}}"
+                },
+                {
+                  "title": "17 Esther 10",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/17 Esther/17 Esther 10.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":91},\"to\":{\"line\":7,\"ch\":91}}}"
+                },
+                {
+                  "title": "17 Esther 9",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/17 Esther/17 Esther 9.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":101},\"to\":{\"line\":7,\"ch\":101}}}"
+                },
+                {
+                  "title": "17 Esther 8",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/17 Esther/17 Esther 8.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":100},\"to\":{\"line\":7,\"ch\":100}}}"
+                },
+                {
+                  "title": "17 Esther 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/17 Esther/17 Esther 7.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":100},\"to\":{\"line\":7,\"ch\":100}}}"
+                },
+                {
+                  "title": "17 Esther 6",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/17 Esther/17 Esther 6.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":100},\"to\":{\"line\":7,\"ch\":100}}}"
+                },
+                {
+                  "title": "17 Esther 5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/17 Esther/17 Esther 5.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":100},\"to\":{\"line\":7,\"ch\":100}}}"
+                },
+                {
+                  "title": "17 Esther 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/17 Esther/17 Esther 4.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":100},\"to\":{\"line\":7,\"ch\":100}}}"
+                },
+                {
+                  "title": "17 Esther 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/17 Esther/17 Esther 3.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":100},\"to\":{\"line\":7,\"ch\":100}}}"
+                },
+                {
+                  "title": "17 Esther 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/17 Esther/17 Esther 2.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":101},\"to\":{\"line\":7,\"ch\":101}}}"
+                },
+                {
+                  "title": "17 Esther 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/17 Esther/17 Esther 3.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":54},\"to\":{\"line\":1,\"ch\":54}}}"
+                },
+                {
+                  "title": "17 Esther 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/17 Esther/17 Esther 4.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":54},\"to\":{\"line\":1,\"ch\":54}}}"
+                },
+                {
+                  "title": "17 Esther 5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/17 Esther/17 Esther 5.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":54},\"to\":{\"line\":1,\"ch\":54}}}"
+                },
+                {
+                  "title": "17 Esther 6",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/17 Esther/17 Esther 6.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":54},\"to\":{\"line\":1,\"ch\":54}}}"
+                },
+                {
+                  "title": "17 Esther 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/17 Esther/17 Esther 7.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":54},\"to\":{\"line\":1,\"ch\":54}}}"
+                },
+                {
+                  "title": "17 Esther 8",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/17 Esther/17 Esther 8.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":54},\"to\":{\"line\":1,\"ch\":54}}}"
+                },
+                {
+                  "title": "17 Esther 9",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/17 Esther/17 Esther 9.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":54},\"to\":{\"line\":1,\"ch\":54}}}"
+                },
+                {
+                  "title": "17 Esther 10",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/17 Esther/17 Esther 10.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":54},\"to\":{\"line\":1,\"ch\":54}}}"
+                },
+                {
+                  "title": "17 Esther 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/17 Esther/17 Esther 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":128},\"to\":{\"line\":7,\"ch\":128}}}"
+                },
+                {
+                  "title": "16 Nehemiah 13",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/16 Nehemiah/16 Nehemiah 13.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":109},\"to\":{\"line\":7,\"ch\":109}}}"
+                },
+                {
+                  "title": "16 Nehemiah 12",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/16 Nehemiah/16 Nehemiah 12.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":112},\"to\":{\"line\":7,\"ch\":112}}}"
+                },
+                {
+                  "title": "16 Nehemiah 11",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/16 Nehemiah/16 Nehemiah 11.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":112},\"to\":{\"line\":7,\"ch\":112}}}"
+                },
+                {
+                  "title": "16 Nehemiah 10",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/16 Nehemiah/16 Nehemiah 10.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":110},\"to\":{\"line\":7,\"ch\":110}}}"
+                },
+                {
+                  "title": "16 Nehemiah 9",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/16 Nehemiah/16 Nehemiah 9.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":110},\"to\":{\"line\":7,\"ch\":110}}}"
+                },
+                {
+                  "title": "16 Nehemiah 8",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/16 Nehemiah/16 Nehemiah 8.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":109},\"to\":{\"line\":7,\"ch\":109}}}"
+                },
+                {
+                  "title": "16 Nehemiah 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/16 Nehemiah/16 Nehemiah 7.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":108},\"to\":{\"line\":7,\"ch\":108}}}"
+                },
+                {
+                  "title": "16 Nehemiah 6",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/16 Nehemiah/16 Nehemiah 6.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":114},\"to\":{\"line\":7,\"ch\":114}}}"
+                },
+                {
+                  "title": "16 Nehemiah 5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/16 Nehemiah/16 Nehemiah 5.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":114},\"to\":{\"line\":7,\"ch\":114}}}"
+                },
+                {
+                  "title": "16 Nehemiah 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/16 Nehemiah/16 Nehemiah 4.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":114},\"to\":{\"line\":7,\"ch\":114}}}"
+                },
+                {
+                  "title": "16 Nehemiah 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/16 Nehemiah/16 Nehemiah 3.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":114},\"to\":{\"line\":7,\"ch\":114}}}"
+                },
+                {
+                  "title": "16 Nehemiah 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/16 Nehemiah/16 Nehemiah 2.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":115},\"to\":{\"line\":7,\"ch\":115}}}"
+                },
+                {
+                  "title": "16 Nehemiah 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/16 Nehemiah/16 Nehemiah 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":102},\"to\":{\"line\":7,\"ch\":102}}}"
+                },
+                {
+                  "title": "15 Ezra 10",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/15 Ezra/15 Ezra 10.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":86},\"to\":{\"line\":7,\"ch\":86}}}"
+                },
+                {
+                  "title": "15 Ezra 9",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/15 Ezra/15 Ezra 9.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":83},\"to\":{\"line\":7,\"ch\":83}}}"
+                },
+                {
+                  "title": "15 Ezra 8",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/15 Ezra/15 Ezra 8.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":82},\"to\":{\"line\":7,\"ch\":82}}}"
+                },
+                {
+                  "title": "15 Ezra 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/15 Ezra/15 Ezra 7.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":82},\"to\":{\"line\":7,\"ch\":82}}}"
+                },
+                {
+                  "title": "15 Ezra 6",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/15 Ezra/15 Ezra 6.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":82},\"to\":{\"line\":7,\"ch\":82}}}"
+                },
+                {
+                  "title": "15 Ezra 5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/15 Ezra/15 Ezra 5.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":82},\"to\":{\"line\":7,\"ch\":82}}}"
+                },
+                {
+                  "title": "15 Ezra 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/15 Ezra/15 Ezra 4.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":82},\"to\":{\"line\":7,\"ch\":82}}}"
+                },
+                {
+                  "title": "15 Ezra 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/15 Ezra/15 Ezra 3.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":82},\"to\":{\"line\":7,\"ch\":82}}}"
+                },
+                {
+                  "title": "15 Ezra 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/15 Ezra/15 Ezra 2.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":84},\"to\":{\"line\":7,\"ch\":84}}}"
+                },
+                {
+                  "title": "15 Ezra 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/15 Ezra/15 Ezra 3.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":47},\"to\":{\"line\":1,\"ch\":47}}}"
+                },
+                {
+                  "title": "15 Ezra 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/15 Ezra/15 Ezra 4.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":47},\"to\":{\"line\":1,\"ch\":47}}}"
+                },
+                {
+                  "title": "15 Ezra 5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/15 Ezra/15 Ezra 5.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":47},\"to\":{\"line\":1,\"ch\":47}}}"
+                },
+                {
+                  "title": "15 Ezra 6",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/15 Ezra/15 Ezra 6.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":47},\"to\":{\"line\":1,\"ch\":47}}}"
+                },
+                {
+                  "title": "15 Ezra 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/15 Ezra/15 Ezra 7.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":47},\"to\":{\"line\":1,\"ch\":47}}}"
+                },
+                {
+                  "title": "15 Ezra 8",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/15 Ezra/15 Ezra 8.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":47},\"to\":{\"line\":1,\"ch\":47}}}"
+                },
+                {
+                  "title": "15 Ezra 9",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/15 Ezra/15 Ezra 9.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":47},\"to\":{\"line\":1,\"ch\":47}}}"
+                },
+                {
+                  "title": "15 Ezra 10",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/15 Ezra/15 Ezra 10.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":47},\"to\":{\"line\":1,\"ch\":47}}}"
+                },
+                {
+                  "title": "15 Ezra 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/15 Ezra/15 Ezra 2.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":109},\"to\":{\"line\":7,\"ch\":109}}}"
+                },
+                {
+                  "title": "15 Ezra 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/15 Ezra/15 Ezra 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":102},\"to\":{\"line\":7,\"ch\":102}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 36",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 36.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":126},\"to\":{\"line\":7,\"ch\":126}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 35",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 35.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":142},\"to\":{\"line\":7,\"ch\":142}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 36",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 36.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":72},\"to\":{\"line\":7,\"ch\":72}}}"
+                },
+                {
+                  "title": "15 Ezra 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/15 Ezra/15 Ezra 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":63},\"to\":{\"line\":1,\"ch\":63}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 36",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 36.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":126},\"to\":{\"line\":7,\"ch\":126}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 35",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 35.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":135},\"to\":{\"line\":7,\"ch\":135}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 34",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 34.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":135},\"to\":{\"line\":7,\"ch\":135}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 33",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 33.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":135},\"to\":{\"line\":7,\"ch\":135}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 32",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 32.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":136},\"to\":{\"line\":7,\"ch\":136}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 31",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 31.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":135},\"to\":{\"line\":7,\"ch\":135}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 30",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 30.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":135},\"to\":{\"line\":7,\"ch\":135}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 29",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 29.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":135},\"to\":{\"line\":7,\"ch\":135}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 28",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 28.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":136},\"to\":{\"line\":7,\"ch\":136}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 27",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 27.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":135},\"to\":{\"line\":7,\"ch\":135}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 26",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 26.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":135},\"to\":{\"line\":7,\"ch\":135}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 25",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 25.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":135},\"to\":{\"line\":7,\"ch\":135}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 24.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":135},\"to\":{\"line\":7,\"ch\":135}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 23.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":135},\"to\":{\"line\":7,\"ch\":135}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 22",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 22.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":136},\"to\":{\"line\":7,\"ch\":136}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 21",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 21.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":135},\"to\":{\"line\":7,\"ch\":135}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 20",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 20.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":136},\"to\":{\"line\":7,\"ch\":136}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 19",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 19.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":136},\"to\":{\"line\":7,\"ch\":136}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 18",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 18.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":140},\"to\":{\"line\":7,\"ch\":140}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 17",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 17.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":140},\"to\":{\"line\":7,\"ch\":140}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 16",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 16.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":140},\"to\":{\"line\":7,\"ch\":140}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 15",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 15.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":139},\"to\":{\"line\":7,\"ch\":139}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 14",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 14.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":136},\"to\":{\"line\":7,\"ch\":136}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 13",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 13.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":138},\"to\":{\"line\":7,\"ch\":138}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 12",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 12.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":138},\"to\":{\"line\":7,\"ch\":138}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 11",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 11.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":138},\"to\":{\"line\":7,\"ch\":138}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 10",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 10.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":136},\"to\":{\"line\":7,\"ch\":136}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 9",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 9.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":136},\"to\":{\"line\":7,\"ch\":136}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 8",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 8.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":136},\"to\":{\"line\":7,\"ch\":136}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 7.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":136},\"to\":{\"line\":7,\"ch\":136}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 6",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 6.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":136},\"to\":{\"line\":7,\"ch\":136}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 5.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":136},\"to\":{\"line\":7,\"ch\":136}}}"
+                },
+                {
                   "title": "14 2 Chronicles 4",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 4.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -1240,7 +2062,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/14 2 Chronicles/14 2 Chronicles 5.md",
+                "file": "Bible/19 Psalm/19 Psalm 10.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -1508,7 +2330,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bible/14 2 Chronicles/14 2 Chronicles 5.md",
+                "file": "Bible/19 Psalm/19 Psalm 10.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -1610,32 +2432,32 @@
   },
   "active": "7d1ec5781e03eba8",
   "lastOpenFiles": [
-    "Bible/14 2 Chronicles/14 2 Chronicles 4.md",
-    "Bible/14 2 Chronicles/14 2 Chronicles 3.md",
-    "Bible/14 2 Chronicles/14 2 Chronicles 5.md",
-    "Bible/14 2 Chronicles/14 2 Chronicles 6.md",
-    "Bible/14 2 Chronicles/14 2 Chronicles 7.md",
-    "Bible/14 2 Chronicles/14 2 Chronicles 8.md",
-    "Bible/14 2 Chronicles/14 2 Chronicles 9.md",
-    "Bible/14 2 Chronicles/14 2 Chronicles 10.md",
-    "Bible/14 2 Chronicles/14 2 Chronicles 11.md",
-    "Bible/14 2 Chronicles/14 2 Chronicles 12.md",
-    "Bible/14 2 Chronicles/14 2 Chronicles 13.md",
-    "Bible/14 2 Chronicles/14 2 Chronicles 14.md",
-    "Bible/14 2 Chronicles/14 2 Chronicles 15.md",
-    "Bible/14 2 Chronicles/14 2 Chronicles 16.md",
-    "Bible/14 2 Chronicles/14 2 Chronicles 17.md",
-    "Bible/14 2 Chronicles/14 2 Chronicles 18.md",
-    "Bible/14 2 Chronicles/14 2 Chronicles 19.md",
-    "Bible/14 2 Chronicles/14 2 Chronicles 20.md",
-    "Bible/14 2 Chronicles/14 2 Chronicles 21.md",
-    "Bible/14 2 Chronicles/14 2 Chronicles 22.md",
-    "Bible/14 2 Chronicles/14 2 Chronicles 23.md",
-    "Bible/14 2 Chronicles/14 2 Chronicles 24.md",
-    "Bible/14 2 Chronicles/14 2 Chronicles 25.md",
-    "Bible/14 2 Chronicles/14 2 Chronicles 26.md",
-    "Bible/14 2 Chronicles/14 2 Chronicles 27.md",
-    "Bible/14 2 Chronicles/14 2 Chronicles 28.md",
+    "Bible/19 Psalm/19 Psalm 9.md",
+    "Bible/19 Psalm/19 Psalm 8.md",
+    "Bible/19 Psalm/19 Psalm 7.md",
+    "Bible/19 Psalm/19 Psalm 6.md",
+    "Bible/19 Psalm/19 Psalm 5.md",
+    "Bible/19 Psalm/19 Psalm 4.md",
+    "Bible/19 Psalm/19 Psalm 3.md",
+    "Bible/19 Psalm/19 Psalm 2.md",
+    "Bible/19 Psalm/19 Psalm 1.md",
+    "Bible/18 Job/18 Job 42.md",
+    "Bible/18 Job/18 Job 41.md",
+    "Bible/18 Job/18 Job 40.md",
+    "Bible/18 Job/18 Job 39.md",
+    "Bible/18 Job/18 Job 38.md",
+    "Bible/18 Job/18 Job 37.md",
+    "Bible/18 Job/18 Job 36.md",
+    "Bible/18 Job/18 Job 35.md",
+    "Bible/18 Job/18 Job 34.md",
+    "Bible/18 Job/18 Job 33.md",
+    "Bible/18 Job/18 Job 32.md",
+    "Bible/18 Job/18 Job 31.md",
+    "Bible/18 Job/18 Job 30.md",
+    "Bible/18 Job/18 Job 29.md",
+    "Bible/18 Job/18 Job 28.md",
+    "Bible/18 Job/18 Job 27.md",
+    "Bible/18 Job/18 Job 26.md",
     "Bible/66 Revelation",
     "Bible/65 Jude",
     "Bible/64 3 John",

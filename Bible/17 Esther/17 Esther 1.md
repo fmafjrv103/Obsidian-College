@@ -1,3 +1,9 @@
+---
+date: 2024-05-28 13:45:19
+tags:
+  - bible
+---
+___
 
 ###### [[17 Esther 1|Esther 1 ⏮]] | [[16 Nehemiah 13|Nehemiah 13 ◀]] | [[Esther]] | [[17 Esther 2|▶ Esther 2]] | [[17 Esther 10|⏭ Esther 10|]]
 

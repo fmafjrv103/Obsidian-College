@@ -1,3 +1,9 @@
+---
+date: 2024-05-28 13:42:46
+tags:
+  - bible
+---
+___
 
 ###### [[14 2 Chronicles 1|2 Chronicles 1 ⏮]] | [[14 2 Chronicles 35|2 Chronicles 35 ◀]] | [[2 Chronicles]] | [[15 Ezra 1|▶ Ezra 1]] | [[14 2 Chronicles 36|⏭ 2 Chronicles 36|]]
 

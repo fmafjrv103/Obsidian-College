@@ -1,3 +1,9 @@
+---
+date: 2024-05-28 13:43:32
+tags:
+  - bible
+---
+___
 
 ###### [[15 Ezra 1|Ezra 1 ⏮]] | [[15 Ezra 6|Ezra 6 ◀]] | [[Ezra]] | [[15 Ezra 8|▶ Ezra 8]] | [[15 Ezra 10|⏭ Ezra 10|]]
 
