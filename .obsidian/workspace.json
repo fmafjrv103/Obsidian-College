@@ -30,7 +30,7 @@
             }
           },
           {
-            "id": "ce373b0a8641038c",
+            "id": "906e16441557290c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -38,12 +38,47 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":5}"
+                },
+                {
+                  "title": "Bible",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Bible.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":21},\"to\":{\"line\":7,\"ch\":21}},\"scroll\":4}"
+                },
+                {
+                  "title": "040 Interests MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":8},\"to\":{\"line\":22,\"ch\":8}},\"scroll\":12.02259296681489}"
+                },
+                {
+                  "title": "Bible",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Bible.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":50},\"to\":{\"line\":4,\"ch\":50}},\"scroll\":0}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":16.298372694847018}"
                 }
               ]
             },
             "state": {
-              "type": "swar8080/AVAILABLE_PLUGIN_UPDATES",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Bible/Bible.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -124,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 513.5,
-    "collapsed": true
+    "width": 513.5
   },
   "right": {
     "id": "f90594313b89809e",
@@ -299,7 +333,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Home.md",
+                "file": "Bible/Bible.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -374,7 +408,6 @@
     "hiddenItems": {
       "excel:Create Excel File": false,
       "obsidian-spaced-repetition:Review flashcards": true,
-      "templater-obsidian:Templater": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": true,
@@ -386,55 +419,56 @@
       "workspaces:Manage workspace layouts": false,
       "homepage:Open homepage": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "timer:Open timer": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "ce373b0a8641038c",
+  "active": "906e16441557290c",
   "lastOpenFiles": [
-    "Math MOC.md",
-    "202404181229 Math Notes.md",
-    "202404231230 Math Notes.md",
-    "Math Notes 7.md",
-    "202404251229 Math Notes.md",
-    "202404111228 Math Notes.md",
-    "Math Notes 8.md",
-    "010 Notes MOC.md",
     "000 Home.md",
-    "095 Lists MOC.md",
-    "Invites.md",
-    "Graduation.md",
-    "College MOC.md",
-    "Cognitive Bias.md",
-    "202404072209 Focus Checklist.md",
-    "College Packing List.md",
-    "020 School MOC.md",
-    "2024032021432 Freshmen Dorms.md",
-    "Eisenhower Matrix.md",
-    "202403200202 Time Management.md",
-    "Four Virtues.md",
-    "Wisdom.md",
-    "Courage.md",
-    "Flow-Creation MOC.md",
-    "Flow Map.md",
-    "Flow.md",
+    "Bible/66 Revelation/66 Revelation 22.md",
+    "Bible/66 Revelation/66 Revelation 21.md",
+    "Bible/66 Revelation/66 Revelation 20.md",
+    "Bible/66 Revelation/66 Revelation 19.md",
+    "Bible/66 Revelation/66 Revelation 18.md",
+    "Bible/66 Revelation/66 Revelation 17.md",
+    "Bible/66 Revelation/66 Revelation 16.md",
+    "Bible/66 Revelation/66 Revelation 15.md",
+    "Bible/66 Revelation/66 Revelation 14.md",
+    "Bible/66 Revelation/66 Revelation 13.md",
+    "Bible/66 Revelation/66 Revelation 12.md",
+    "Bible/66 Revelation/66 Revelation 11.md",
+    "Bible/66 Revelation/66 Revelation 10.md",
+    "Bible/66 Revelation/66 Revelation 9.md",
+    "Bible/66 Revelation/66 Revelation 8.md",
+    "Bible/66 Revelation/66 Revelation 7.md",
+    "Bible/66 Revelation/66 Revelation 6.md",
+    "Bible/66 Revelation/66 Revelation 5.md",
+    "Bible/66 Revelation/66 Revelation 4.md",
+    "Bible/66 Revelation/66 Revelation 3.md",
+    "Bible/66 Revelation/66 Revelation 2.md",
+    "Bible/66 Revelation/66 Revelation 1.md",
+    "Bible/66 Revelation",
+    "Bible/65 Jude/65 Jude 1.md",
+    "Bible/65 Jude",
+    "Bible/64 3 John/64 3 John 1.md",
+    "Bible/64 3 John",
+    "Bible/63 2 John/63 2 John 1.md",
+    "Bible/63 2 John",
+    "Bible/62 1 John",
+    "Bible/61 2 Peter",
+    "Bible/60 1 Peter",
+    "Bible/59 James",
+    "Bible/58 Hebrews",
+    "Bible/57 Philemon",
     "Media/Pasted image 20240425123432.png",
-    "Media/D&D 5E - Player's Handbook.pdf",
     "Media/dragon-size-chart-3-1small.jpg",
     "Media/a9y8f7f48bc51.jpg",
-    "Media/D&D 5e - DM Guide.pdf",
-    "Media/~$module2Beach.ppt",
-    "Media/~$module 3Beach(1).ppt",
     "Media/DND Maps/The Impireal City of Hiley.png",
-    "Media/DND Maps/The Impireal City of Hiley.png.crdownload",
-    "Media/DND Maps",
     "Media/456029-How_To.jpg",
-    "Media/D&D 5e - HB - School of Geometry.pdf",
-    "Media/D&D 5e - Shop Catalog, V-1.8.pdf",
-    "Media/D&D 5E - Volo's Guide to Monsters.pdf",
-    "Media/D&D 5E - Sword Coast Adventurer's Guide.pdf",
     "Media/Focus Checklist.png",
     "DND.SRD.Wiki-master/RE&.logo.png",
     "Media/DND.SRD.Wiki-master/RE&.logo.png",

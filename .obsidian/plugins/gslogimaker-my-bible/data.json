@@ -1,0 +1,16 @@
+{
+  "translation": "YLT",
+  "bible_folder": "/Bible/",
+  "book_name_format": "{order} {book}",
+  "book_name_delimiter": " ",
+  "chapter_name_format": "{order} {book} {chapter}",
+  "book_name_capitalization": "name_case",
+  "book_name_abbreviated": false,
+  "padded_order": true,
+  "padded_chapter": false,
+  "build_with_dynamic_verses": true,
+  "verse_body_format": "###### {verse}\n{verse_text}",
+  "chapter_body_format": "\n###### [[{first_chapter_name}|{book} 1 ⏮]] | [[{last_chapter_name}|{last_chapter_book} {last_chapter} ◀]] | [[{book}]] | [[{next_chapter_name}|▶ {next_chapter_book} {next_chapter}]] | [[{final_chapter_name}|⏭ {book} {final_chapter}|]]\n\n{verses}\n\n###### [[{first_chapter_name}|{book} 1 ⏮]] | [[{last_chapter_name}|{last_chapter_book} {last_chapter} ◀]] | [[{book}]] | [[{next_chapter_name}|▶ {next_chapter_book} {next_chapter}]] | [[{final_chapter_name}|⏭ {book} {final_chapter}|]]\n\n",
+  "store_locally": false,
+  "_built_translation": "YLT"
+}
