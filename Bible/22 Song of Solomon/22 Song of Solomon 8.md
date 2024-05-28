@@ -1,5 +1,5 @@
 
-###### [[22 Song of Solomon 1|Song of Solomon 1 ⏮]] | [[22 Song of Solomon 7|Song of Solomon 7 ◀]] | [[Song of Solomon]] | [[22 Isaiah 1|▶ Isaiah 1]] | [[22 Song of Solomon 8|⏭ Song of Solomon 8|]]
+###### [[22 Song of Solomon 1|Song of Solomon 1 ⏮]] | [[22 Song of Solomon 7|Song of Solomon 7 ◀]] | [[Song of Solomon]] | [[23 Isaiah 1|▶ Isaiah 1]] | [[22 Song of Solomon 8|⏭ Song of Solomon 8|]]
 
 ###### 1
 ``` verse
@@ -58,5 +58,5 @@
 22 8 14 
 ```
 
-###### [[22 Song of Solomon 1|Song of Solomon 1 ⏮]] | [[22 Song of Solomon 7|Song of Solomon 7 ◀]] | [[Song of Solomon]] | [[22 Isaiah 1|▶ Isaiah 1]] | [[22 Song of Solomon 8|⏭ Song of Solomon 8|]]
+###### [[22 Song of Solomon 1|Song of Solomon 1 ⏮]] | [[22 Song of Solomon 7|Song of Solomon 7 ◀]] | [[Song of Solomon]] | [[23 Isaiah 1|▶ Isaiah 1]] | [[22 Song of Solomon 8|⏭ Song of Solomon 8|]]
 

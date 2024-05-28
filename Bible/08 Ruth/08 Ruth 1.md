@@ -1,5 +1,5 @@
 
-###### [[08 Ruth 1|Ruth 1 ⏮]] | [[08 Judges 21|Judges 21 ◀]] | [[Ruth]] | [[08 Ruth 2|▶ Ruth 2]] | [[08 Ruth 4|⏭ Ruth 4|]]
+###### [[08 Ruth 1|Ruth 1 ⏮]] | [[07 Judges 21|Judges 21 ◀]] | [[Ruth]] | [[08 Ruth 2|▶ Ruth 2]] | [[08 Ruth 4|⏭ Ruth 4|]]
 
 ###### 1
 ``` verse
@@ -90,5 +90,5 @@
 8 1 22 
 ```
 
-###### [[08 Ruth 1|Ruth 1 ⏮]] | [[08 Judges 21|Judges 21 ◀]] | [[Ruth]] | [[08 Ruth 2|▶ Ruth 2]] | [[08 Ruth 4|⏭ Ruth 4|]]
+###### [[08 Ruth 1|Ruth 1 ⏮]] | [[07 Judges 21|Judges 21 ◀]] | [[Ruth]] | [[08 Ruth 2|▶ Ruth 2]] | [[08 Ruth 4|⏭ Ruth 4|]]
 

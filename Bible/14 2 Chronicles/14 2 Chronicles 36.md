@@ -1,5 +1,5 @@
 
-###### [[14 2 Chronicles 1|2 Chronicles 1 ⏮]] | [[14 2 Chronicles 35|2 Chronicles 35 ◀]] | [[2 Chronicles]] | [[14 Ezra 1|▶ Ezra 1]] | [[14 2 Chronicles 36|⏭ 2 Chronicles 36|]]
+###### [[14 2 Chronicles 1|2 Chronicles 1 ⏮]] | [[14 2 Chronicles 35|2 Chronicles 35 ◀]] | [[2 Chronicles]] | [[15 Ezra 1|▶ Ezra 1]] | [[14 2 Chronicles 36|⏭ 2 Chronicles 36|]]
 
 ###### 1
 ``` verse
@@ -94,5 +94,5 @@
 14 36 23 
 ```
 
-###### [[14 2 Chronicles 1|2 Chronicles 1 ⏮]] | [[14 2 Chronicles 35|2 Chronicles 35 ◀]] | [[2 Chronicles]] | [[14 Ezra 1|▶ Ezra 1]] | [[14 2 Chronicles 36|⏭ 2 Chronicles 36|]]
+###### [[14 2 Chronicles 1|2 Chronicles 1 ⏮]] | [[14 2 Chronicles 35|2 Chronicles 35 ◀]] | [[2 Chronicles]] | [[15 Ezra 1|▶ Ezra 1]] | [[14 2 Chronicles 36|⏭ 2 Chronicles 36|]]
 

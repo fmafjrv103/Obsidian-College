@@ -1,5 +1,5 @@
 
-###### [[21 Ecclesiastes 1|Ecclesiastes 1 ⏮]] | [[21 Ecclesiastes 11|Ecclesiastes 11 ◀]] | [[Ecclesiastes]] | [[21 Song of Solomon 1|▶ Song of Solomon 1]] | [[21 Ecclesiastes 12|⏭ Ecclesiastes 12|]]
+###### [[21 Ecclesiastes 1|Ecclesiastes 1 ⏮]] | [[21 Ecclesiastes 11|Ecclesiastes 11 ◀]] | [[Ecclesiastes]] | [[22 Song of Solomon 1|▶ Song of Solomon 1]] | [[21 Ecclesiastes 12|⏭ Ecclesiastes 12|]]
 
 ###### 1
 ``` verse
@@ -58,5 +58,5 @@
 21 12 14 
 ```
 
-###### [[21 Ecclesiastes 1|Ecclesiastes 1 ⏮]] | [[21 Ecclesiastes 11|Ecclesiastes 11 ◀]] | [[Ecclesiastes]] | [[21 Song of Solomon 1|▶ Song of Solomon 1]] | [[21 Ecclesiastes 12|⏭ Ecclesiastes 12|]]
+###### [[21 Ecclesiastes 1|Ecclesiastes 1 ⏮]] | [[21 Ecclesiastes 11|Ecclesiastes 11 ◀]] | [[Ecclesiastes]] | [[22 Song of Solomon 1|▶ Song of Solomon 1]] | [[21 Ecclesiastes 12|⏭ Ecclesiastes 12|]]
 

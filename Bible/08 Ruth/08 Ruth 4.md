@@ -1,5 +1,5 @@
 
-###### [[08 Ruth 1|Ruth 1 ⏮]] | [[08 Ruth 3|Ruth 3 ◀]] | [[Ruth]] | [[08 1 Samuel 1|▶ 1 Samuel 1]] | [[08 Ruth 4|⏭ Ruth 4|]]
+###### [[08 Ruth 1|Ruth 1 ⏮]] | [[08 Ruth 3|Ruth 3 ◀]] | [[Ruth]] | [[09 1 Samuel 1|▶ 1 Samuel 1]] | [[08 Ruth 4|⏭ Ruth 4|]]
 
 ###### 1
 ``` verse
@@ -90,5 +90,5 @@
 8 4 22 
 ```
 
-###### [[08 Ruth 1|Ruth 1 ⏮]] | [[08 Ruth 3|Ruth 3 ◀]] | [[Ruth]] | [[08 1 Samuel 1|▶ 1 Samuel 1]] | [[08 Ruth 4|⏭ Ruth 4|]]
+###### [[08 Ruth 1|Ruth 1 ⏮]] | [[08 Ruth 3|Ruth 3 ◀]] | [[Ruth]] | [[09 1 Samuel 1|▶ 1 Samuel 1]] | [[08 Ruth 4|⏭ Ruth 4|]]
 

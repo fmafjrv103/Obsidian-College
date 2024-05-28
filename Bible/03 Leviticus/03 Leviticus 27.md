@@ -1,5 +1,5 @@
 
-###### [[03 Leviticus 1|Leviticus 1 ⏮]] | [[03 Leviticus 26|Leviticus 26 ◀]] | [[Leviticus]] | [[03 Numbers 1|▶ Numbers 1]] | [[03 Leviticus 27|⏭ Leviticus 27|]]
+###### [[03 Leviticus 1|Leviticus 1 ⏮]] | [[03 Leviticus 26|Leviticus 26 ◀]] | [[Leviticus]] | [[04 Numbers 1|▶ Numbers 1]] | [[03 Leviticus 27|⏭ Leviticus 27|]]
 
 ###### 1
 ``` verse
@@ -138,5 +138,5 @@
 3 27 34 
 ```
 
-###### [[03 Leviticus 1|Leviticus 1 ⏮]] | [[03 Leviticus 26|Leviticus 26 ◀]] | [[Leviticus]] | [[03 Numbers 1|▶ Numbers 1]] | [[03 Leviticus 27|⏭ Leviticus 27|]]
+###### [[03 Leviticus 1|Leviticus 1 ⏮]] | [[03 Leviticus 26|Leviticus 26 ◀]] | [[Leviticus]] | [[04 Numbers 1|▶ Numbers 1]] | [[03 Leviticus 27|⏭ Leviticus 27|]]
 

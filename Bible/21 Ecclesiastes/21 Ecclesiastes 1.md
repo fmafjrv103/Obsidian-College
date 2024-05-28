@@ -1,5 +1,5 @@
 
-###### [[21 Ecclesiastes 1|Ecclesiastes 1 ⏮]] | [[21 Proverbs 31|Proverbs 31 ◀]] | [[Ecclesiastes]] | [[21 Ecclesiastes 2|▶ Ecclesiastes 2]] | [[21 Ecclesiastes 12|⏭ Ecclesiastes 12|]]
+###### [[21 Ecclesiastes 1|Ecclesiastes 1 ⏮]] | [[20 Proverbs 31|Proverbs 31 ◀]] | [[Ecclesiastes]] | [[21 Ecclesiastes 2|▶ Ecclesiastes 2]] | [[21 Ecclesiastes 12|⏭ Ecclesiastes 12|]]
 
 ###### 1
 ``` verse
@@ -74,5 +74,5 @@
 21 1 18 
 ```
 
-###### [[21 Ecclesiastes 1|Ecclesiastes 1 ⏮]] | [[21 Proverbs 31|Proverbs 31 ◀]] | [[Ecclesiastes]] | [[21 Ecclesiastes 2|▶ Ecclesiastes 2]] | [[21 Ecclesiastes 12|⏭ Ecclesiastes 12|]]
+###### [[21 Ecclesiastes 1|Ecclesiastes 1 ⏮]] | [[20 Proverbs 31|Proverbs 31 ◀]] | [[Ecclesiastes]] | [[21 Ecclesiastes 2|▶ Ecclesiastes 2]] | [[21 Ecclesiastes 12|⏭ Ecclesiastes 12|]]
 

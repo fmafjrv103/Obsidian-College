@@ -1,5 +1,5 @@
 
-###### [[16 Nehemiah 1|Nehemiah 1 ⏮]] | [[16 Ezra 10|Ezra 10 ◀]] | [[Nehemiah]] | [[16 Nehemiah 2|▶ Nehemiah 2]] | [[16 Nehemiah 13|⏭ Nehemiah 13|]]
+###### [[16 Nehemiah 1|Nehemiah 1 ⏮]] | [[15 Ezra 10|Ezra 10 ◀]] | [[Nehemiah]] | [[16 Nehemiah 2|▶ Nehemiah 2]] | [[16 Nehemiah 13|⏭ Nehemiah 13|]]
 
 ###### 1
 ``` verse
@@ -46,5 +46,5 @@
 16 1 11 
 ```
 
-###### [[16 Nehemiah 1|Nehemiah 1 ⏮]] | [[16 Ezra 10|Ezra 10 ◀]] | [[Nehemiah]] | [[16 Nehemiah 2|▶ Nehemiah 2]] | [[16 Nehemiah 13|⏭ Nehemiah 13|]]
+###### [[16 Nehemiah 1|Nehemiah 1 ⏮]] | [[15 Ezra 10|Ezra 10 ◀]] | [[Nehemiah]] | [[16 Nehemiah 2|▶ Nehemiah 2]] | [[16 Nehemiah 13|⏭ Nehemiah 13|]]
 

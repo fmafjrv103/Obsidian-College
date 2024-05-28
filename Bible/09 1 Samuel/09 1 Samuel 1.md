@@ -1,5 +1,5 @@
 
-###### [[09 1 Samuel 1|1 Samuel 1 ⏮]] | [[09 Ruth 4|Ruth 4 ◀]] | [[1 Samuel]] | [[09 1 Samuel 2|▶ 1 Samuel 2]] | [[09 1 Samuel 31|⏭ 1 Samuel 31|]]
+###### [[09 1 Samuel 1|1 Samuel 1 ⏮]] | [[08 Ruth 4|Ruth 4 ◀]] | [[1 Samuel]] | [[09 1 Samuel 2|▶ 1 Samuel 2]] | [[09 1 Samuel 31|⏭ 1 Samuel 31|]]
 
 ###### 1
 ``` verse
@@ -114,5 +114,5 @@
 9 1 28 
 ```
 
-###### [[09 1 Samuel 1|1 Samuel 1 ⏮]] | [[09 Ruth 4|Ruth 4 ◀]] | [[1 Samuel]] | [[09 1 Samuel 2|▶ 1 Samuel 2]] | [[09 1 Samuel 31|⏭ 1 Samuel 31|]]
+###### [[09 1 Samuel 1|1 Samuel 1 ⏮]] | [[08 Ruth 4|Ruth 4 ◀]] | [[1 Samuel]] | [[09 1 Samuel 2|▶ 1 Samuel 2]] | [[09 1 Samuel 31|⏭ 1 Samuel 31|]]
 

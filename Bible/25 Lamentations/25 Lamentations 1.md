@@ -1,5 +1,5 @@
 
-###### [[25 Lamentations 1|Lamentations 1 ⏮]] | [[25 Jeremiah 52|Jeremiah 52 ◀]] | [[Lamentations]] | [[25 Lamentations 2|▶ Lamentations 2]] | [[25 Lamentations 5|⏭ Lamentations 5|]]
+###### [[25 Lamentations 1|Lamentations 1 ⏮]] | [[24 Jeremiah 52|Jeremiah 52 ◀]] | [[Lamentations]] | [[25 Lamentations 2|▶ Lamentations 2]] | [[25 Lamentations 5|⏭ Lamentations 5|]]
 
 ###### 1
 ``` verse
@@ -90,5 +90,5 @@
 25 1 22 
 ```
 
-###### [[25 Lamentations 1|Lamentations 1 ⏮]] | [[25 Jeremiah 52|Jeremiah 52 ◀]] | [[Lamentations]] | [[25 Lamentations 2|▶ Lamentations 2]] | [[25 Lamentations 5|⏭ Lamentations 5|]]
+###### [[25 Lamentations 1|Lamentations 1 ⏮]] | [[24 Jeremiah 52|Jeremiah 52 ◀]] | [[Lamentations]] | [[25 Lamentations 2|▶ Lamentations 2]] | [[25 Lamentations 5|⏭ Lamentations 5|]]
 

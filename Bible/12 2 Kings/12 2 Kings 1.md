@@ -1,5 +1,5 @@
 
-###### [[12 2 Kings 1|2 Kings 1 ⏮]] | [[12 1 Kings 22|1 Kings 22 ◀]] | [[2 Kings]] | [[12 2 Kings 2|▶ 2 Kings 2]] | [[12 2 Kings 25|⏭ 2 Kings 25|]]
+###### [[12 2 Kings 1|2 Kings 1 ⏮]] | [[11 1 Kings 22|1 Kings 22 ◀]] | [[2 Kings]] | [[12 2 Kings 2|▶ 2 Kings 2]] | [[12 2 Kings 25|⏭ 2 Kings 25|]]
 
 ###### 1
 ``` verse
@@ -74,5 +74,5 @@
 12 1 18 
 ```
 
-###### [[12 2 Kings 1|2 Kings 1 ⏮]] | [[12 1 Kings 22|1 Kings 22 ◀]] | [[2 Kings]] | [[12 2 Kings 2|▶ 2 Kings 2]] | [[12 2 Kings 25|⏭ 2 Kings 25|]]
+###### [[12 2 Kings 1|2 Kings 1 ⏮]] | [[11 1 Kings 22|1 Kings 22 ◀]] | [[2 Kings]] | [[12 2 Kings 2|▶ 2 Kings 2]] | [[12 2 Kings 25|⏭ 2 Kings 25|]]
 

@@ -1,5 +1,5 @@
 
-###### [[28 Hosea 1|Hosea 1 ⏮]] | [[28 Daniel 12|Daniel 12 ◀]] | [[Hosea]] | [[28 Hosea 2|▶ Hosea 2]] | [[28 Hosea 14|⏭ Hosea 14|]]
+###### [[28 Hosea 1|Hosea 1 ⏮]] | [[27 Daniel 12|Daniel 12 ◀]] | [[Hosea]] | [[28 Hosea 2|▶ Hosea 2]] | [[28 Hosea 14|⏭ Hosea 14|]]
 
 ###### 1
 ``` verse
@@ -46,5 +46,5 @@
 28 1 11 
 ```
 
-###### [[28 Hosea 1|Hosea 1 ⏮]] | [[28 Daniel 12|Daniel 12 ◀]] | [[Hosea]] | [[28 Hosea 2|▶ Hosea 2]] | [[28 Hosea 14|⏭ Hosea 14|]]
+###### [[28 Hosea 1|Hosea 1 ⏮]] | [[27 Daniel 12|Daniel 12 ◀]] | [[Hosea]] | [[28 Hosea 2|▶ Hosea 2]] | [[28 Hosea 14|⏭ Hosea 14|]]
 

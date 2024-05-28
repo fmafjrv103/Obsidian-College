@@ -1,5 +1,5 @@
 
-###### [[20 Proverbs 1|Proverbs 1 ⏮]] | [[20 Proverbs 30|Proverbs 30 ◀]] | [[Proverbs]] | [[20 Ecclesiastes 1|▶ Ecclesiastes 1]] | [[20 Proverbs 31|⏭ Proverbs 31|]]
+###### [[20 Proverbs 1|Proverbs 1 ⏮]] | [[20 Proverbs 30|Proverbs 30 ◀]] | [[Proverbs]] | [[21 Ecclesiastes 1|▶ Ecclesiastes 1]] | [[20 Proverbs 31|⏭ Proverbs 31|]]
 
 ###### 1
 ``` verse
@@ -126,5 +126,5 @@
 20 31 31 
 ```
 
-###### [[20 Proverbs 1|Proverbs 1 ⏮]] | [[20 Proverbs 30|Proverbs 30 ◀]] | [[Proverbs]] | [[20 Ecclesiastes 1|▶ Ecclesiastes 1]] | [[20 Proverbs 31|⏭ Proverbs 31|]]
+###### [[20 Proverbs 1|Proverbs 1 ⏮]] | [[20 Proverbs 30|Proverbs 30 ◀]] | [[Proverbs]] | [[21 Ecclesiastes 1|▶ Ecclesiastes 1]] | [[20 Proverbs 31|⏭ Proverbs 31|]]
 

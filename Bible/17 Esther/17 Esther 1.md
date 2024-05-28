@@ -1,5 +1,5 @@
 
-###### [[17 Esther 1|Esther 1 ⏮]] | [[17 Nehemiah 13|Nehemiah 13 ◀]] | [[Esther]] | [[17 Esther 2|▶ Esther 2]] | [[17 Esther 10|⏭ Esther 10|]]
+###### [[17 Esther 1|Esther 1 ⏮]] | [[16 Nehemiah 13|Nehemiah 13 ◀]] | [[Esther]] | [[17 Esther 2|▶ Esther 2]] | [[17 Esther 10|⏭ Esther 10|]]
 
 ###### 1
 ``` verse
@@ -90,5 +90,5 @@
 17 1 22 
 ```
 
-###### [[17 Esther 1|Esther 1 ⏮]] | [[17 Nehemiah 13|Nehemiah 13 ◀]] | [[Esther]] | [[17 Esther 2|▶ Esther 2]] | [[17 Esther 10|⏭ Esther 10|]]
+###### [[17 Esther 1|Esther 1 ⏮]] | [[16 Nehemiah 13|Nehemiah 13 ◀]] | [[Esther]] | [[17 Esther 2|▶ Esther 2]] | [[17 Esther 10|⏭ Esther 10|]]
 

@@ -1,5 +1,5 @@
 
-###### [[07 Judges 1|Judges 1 ⏮]] | [[07 Joshua 24|Joshua 24 ◀]] | [[Judges]] | [[07 Judges 2|▶ Judges 2]] | [[07 Judges 21|⏭ Judges 21|]]
+###### [[07 Judges 1|Judges 1 ⏮]] | [[06 Joshua 24|Joshua 24 ◀]] | [[Judges]] | [[07 Judges 2|▶ Judges 2]] | [[07 Judges 21|⏭ Judges 21|]]
 
 ###### 1
 ``` verse
@@ -146,5 +146,5 @@
 7 1 36 
 ```
 
-###### [[07 Judges 1|Judges 1 ⏮]] | [[07 Joshua 24|Joshua 24 ◀]] | [[Judges]] | [[07 Judges 2|▶ Judges 2]] | [[07 Judges 21|⏭ Judges 21|]]
+###### [[07 Judges 1|Judges 1 ⏮]] | [[06 Joshua 24|Joshua 24 ◀]] | [[Judges]] | [[07 Judges 2|▶ Judges 2]] | [[07 Judges 21|⏭ Judges 21|]]
 

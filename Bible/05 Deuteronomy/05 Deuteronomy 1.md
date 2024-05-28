@@ -1,5 +1,5 @@
 
-###### [[05 Deuteronomy 1|Deuteronomy 1 ⏮]] | [[05 Numbers 36|Numbers 36 ◀]] | [[Deuteronomy]] | [[05 Deuteronomy 2|▶ Deuteronomy 2]] | [[05 Deuteronomy 34|⏭ Deuteronomy 34|]]
+###### [[05 Deuteronomy 1|Deuteronomy 1 ⏮]] | [[04 Numbers 36|Numbers 36 ◀]] | [[Deuteronomy]] | [[05 Deuteronomy 2|▶ Deuteronomy 2]] | [[05 Deuteronomy 34|⏭ Deuteronomy 34|]]
 
 ###### 1
 ``` verse
@@ -186,5 +186,5 @@
 5 1 46 
 ```
 
-###### [[05 Deuteronomy 1|Deuteronomy 1 ⏮]] | [[05 Numbers 36|Numbers 36 ◀]] | [[Deuteronomy]] | [[05 Deuteronomy 2|▶ Deuteronomy 2]] | [[05 Deuteronomy 34|⏭ Deuteronomy 34|]]
+###### [[05 Deuteronomy 1|Deuteronomy 1 ⏮]] | [[04 Numbers 36|Numbers 36 ◀]] | [[Deuteronomy]] | [[05 Deuteronomy 2|▶ Deuteronomy 2]] | [[05 Deuteronomy 34|⏭ Deuteronomy 34|]]
 

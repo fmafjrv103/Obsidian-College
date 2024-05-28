@@ -1,5 +1,5 @@
 
-###### [[05 Deuteronomy 1|Deuteronomy 1 ⏮]] | [[05 Deuteronomy 33|Deuteronomy 33 ◀]] | [[Deuteronomy]] | [[05 Joshua 1|▶ Joshua 1]] | [[05 Deuteronomy 34|⏭ Deuteronomy 34|]]
+###### [[05 Deuteronomy 1|Deuteronomy 1 ⏮]] | [[05 Deuteronomy 33|Deuteronomy 33 ◀]] | [[Deuteronomy]] | [[06 Joshua 1|▶ Joshua 1]] | [[05 Deuteronomy 34|⏭ Deuteronomy 34|]]
 
 ###### 1
 ``` verse
@@ -50,5 +50,5 @@
 5 34 12 
 ```
 
-###### [[05 Deuteronomy 1|Deuteronomy 1 ⏮]] | [[05 Deuteronomy 33|Deuteronomy 33 ◀]] | [[Deuteronomy]] | [[05 Joshua 1|▶ Joshua 1]] | [[05 Deuteronomy 34|⏭ Deuteronomy 34|]]
+###### [[05 Deuteronomy 1|Deuteronomy 1 ⏮]] | [[05 Deuteronomy 33|Deuteronomy 33 ◀]] | [[Deuteronomy]] | [[06 Joshua 1|▶ Joshua 1]] | [[05 Deuteronomy 34|⏭ Deuteronomy 34|]]
 

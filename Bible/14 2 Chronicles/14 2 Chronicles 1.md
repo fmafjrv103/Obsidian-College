@@ -1,5 +1,5 @@
 
-###### [[14 2 Chronicles 1|2 Chronicles 1 ⏮]] | [[14 1 Chronicles 29|1 Chronicles 29 ◀]] | [[2 Chronicles]] | [[14 2 Chronicles 2|▶ 2 Chronicles 2]] | [[14 2 Chronicles 36|⏭ 2 Chronicles 36|]]
+###### [[14 2 Chronicles 1|2 Chronicles 1 ⏮]] | [[13 1 Chronicles 29|1 Chronicles 29 ◀]] | [[2 Chronicles]] | [[14 2 Chronicles 2|▶ 2 Chronicles 2]] | [[14 2 Chronicles 36|⏭ 2 Chronicles 36|]]
 
 ###### 1
 ``` verse
@@ -70,5 +70,5 @@
 14 1 17 
 ```
 
-###### [[14 2 Chronicles 1|2 Chronicles 1 ⏮]] | [[14 1 Chronicles 29|1 Chronicles 29 ◀]] | [[2 Chronicles]] | [[14 2 Chronicles 2|▶ 2 Chronicles 2]] | [[14 2 Chronicles 36|⏭ 2 Chronicles 36|]]
+###### [[14 2 Chronicles 1|2 Chronicles 1 ⏮]] | [[13 1 Chronicles 29|1 Chronicles 29 ◀]] | [[2 Chronicles]] | [[14 2 Chronicles 2|▶ 2 Chronicles 2]] | [[14 2 Chronicles 36|⏭ 2 Chronicles 36|]]
 

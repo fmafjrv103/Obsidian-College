@@ -1,5 +1,5 @@
 
-###### [[02 Exodus 1|Exodus 1 ⏮]] | [[02 Genesis 50|Genesis 50 ◀]] | [[Exodus]] | [[02 Exodus 2|▶ Exodus 2]] | [[02 Exodus 40|⏭ Exodus 40|]]
+###### [[02 Exodus 1|Exodus 1 ⏮]] | [[01 Genesis 50|Genesis 50 ◀]] | [[Exodus]] | [[02 Exodus 2|▶ Exodus 2]] | [[02 Exodus 40|⏭ Exodus 40|]]
 
 ###### 1
 ``` verse
@@ -90,5 +90,5 @@
 2 1 22 
 ```
 
-###### [[02 Exodus 1|Exodus 1 ⏮]] | [[02 Genesis 50|Genesis 50 ◀]] | [[Exodus]] | [[02 Exodus 2|▶ Exodus 2]] | [[02 Exodus 40|⏭ Exodus 40|]]
+###### [[02 Exodus 1|Exodus 1 ⏮]] | [[01 Genesis 50|Genesis 50 ◀]] | [[Exodus]] | [[02 Exodus 2|▶ Exodus 2]] | [[02 Exodus 40|⏭ Exodus 40|]]
 

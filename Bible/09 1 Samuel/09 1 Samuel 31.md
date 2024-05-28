@@ -1,5 +1,5 @@
 
-###### [[09 1 Samuel 1|1 Samuel 1 ⏮]] | [[09 1 Samuel 30|1 Samuel 30 ◀]] | [[1 Samuel]] | [[09 2 Samuel 1|▶ 2 Samuel 1]] | [[09 1 Samuel 31|⏭ 1 Samuel 31|]]
+###### [[09 1 Samuel 1|1 Samuel 1 ⏮]] | [[09 1 Samuel 30|1 Samuel 30 ◀]] | [[1 Samuel]] | [[10 2 Samuel 1|▶ 2 Samuel 1]] | [[09 1 Samuel 31|⏭ 1 Samuel 31|]]
 
 ###### 1
 ``` verse
@@ -54,5 +54,5 @@
 9 31 13 
 ```
 
-###### [[09 1 Samuel 1|1 Samuel 1 ⏮]] | [[09 1 Samuel 30|1 Samuel 30 ◀]] | [[1 Samuel]] | [[09 2 Samuel 1|▶ 2 Samuel 1]] | [[09 1 Samuel 31|⏭ 1 Samuel 31|]]
+###### [[09 1 Samuel 1|1 Samuel 1 ⏮]] | [[09 1 Samuel 30|1 Samuel 30 ◀]] | [[1 Samuel]] | [[10 2 Samuel 1|▶ 2 Samuel 1]] | [[09 1 Samuel 31|⏭ 1 Samuel 31|]]
 

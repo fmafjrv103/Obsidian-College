@@ -1,5 +1,5 @@
 
-###### [[20 Proverbs 1|Proverbs 1 ⏮]] | [[20 Psalm 150|Psalm 150 ◀]] | [[Proverbs]] | [[20 Proverbs 2|▶ Proverbs 2]] | [[20 Proverbs 31|⏭ Proverbs 31|]]
+###### [[20 Proverbs 1|Proverbs 1 ⏮]] | [[19 Psalm 150|Psalm 150 ◀]] | [[Proverbs]] | [[20 Proverbs 2|▶ Proverbs 2]] | [[20 Proverbs 31|⏭ Proverbs 31|]]
 
 ###### 1
 ``` verse
@@ -134,5 +134,5 @@
 20 1 33 
 ```
 
-###### [[20 Proverbs 1|Proverbs 1 ⏮]] | [[20 Psalm 150|Psalm 150 ◀]] | [[Proverbs]] | [[20 Proverbs 2|▶ Proverbs 2]] | [[20 Proverbs 31|⏭ Proverbs 31|]]
+###### [[20 Proverbs 1|Proverbs 1 ⏮]] | [[19 Psalm 150|Psalm 150 ◀]] | [[Proverbs]] | [[20 Proverbs 2|▶ Proverbs 2]] | [[20 Proverbs 31|⏭ Proverbs 31|]]
 

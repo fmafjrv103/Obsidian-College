@@ -1,5 +1,5 @@
 
-###### [[13 1 Chronicles 1|1 Chronicles 1 ⏮]] | [[13 2 Kings 25|2 Kings 25 ◀]] | [[1 Chronicles]] | [[13 1 Chronicles 2|▶ 1 Chronicles 2]] | [[13 1 Chronicles 29|⏭ 1 Chronicles 29|]]
+###### [[13 1 Chronicles 1|1 Chronicles 1 ⏮]] | [[12 2 Kings 25|2 Kings 25 ◀]] | [[1 Chronicles]] | [[13 1 Chronicles 2|▶ 1 Chronicles 2]] | [[13 1 Chronicles 29|⏭ 1 Chronicles 29|]]
 
 ###### 1
 ``` verse
@@ -218,5 +218,5 @@
 13 1 54 
 ```
 
-###### [[13 1 Chronicles 1|1 Chronicles 1 ⏮]] | [[13 2 Kings 25|2 Kings 25 ◀]] | [[1 Chronicles]] | [[13 1 Chronicles 2|▶ 1 Chronicles 2]] | [[13 1 Chronicles 29|⏭ 1 Chronicles 29|]]
+###### [[13 1 Chronicles 1|1 Chronicles 1 ⏮]] | [[12 2 Kings 25|2 Kings 25 ◀]] | [[1 Chronicles]] | [[13 1 Chronicles 2|▶ 1 Chronicles 2]] | [[13 1 Chronicles 29|⏭ 1 Chronicles 29|]]
 

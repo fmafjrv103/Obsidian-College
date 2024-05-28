@@ -1,5 +1,5 @@
 
-###### [[23 Isaiah 1|Isaiah 1 ⏮]] | [[23 Isaiah 65|Isaiah 65 ◀]] | [[Isaiah]] | [[23 Jeremiah 1|▶ Jeremiah 1]] | [[23 Isaiah 66|⏭ Isaiah 66|]]
+###### [[23 Isaiah 1|Isaiah 1 ⏮]] | [[23 Isaiah 65|Isaiah 65 ◀]] | [[Isaiah]] | [[24 Jeremiah 1|▶ Jeremiah 1]] | [[23 Isaiah 66|⏭ Isaiah 66|]]
 
 ###### 1
 ``` verse
@@ -98,5 +98,5 @@
 23 66 24 
 ```
 
-###### [[23 Isaiah 1|Isaiah 1 ⏮]] | [[23 Isaiah 65|Isaiah 65 ◀]] | [[Isaiah]] | [[23 Jeremiah 1|▶ Jeremiah 1]] | [[23 Isaiah 66|⏭ Isaiah 66|]]
+###### [[23 Isaiah 1|Isaiah 1 ⏮]] | [[23 Isaiah 65|Isaiah 65 ◀]] | [[Isaiah]] | [[24 Jeremiah 1|▶ Jeremiah 1]] | [[23 Isaiah 66|⏭ Isaiah 66|]]
 

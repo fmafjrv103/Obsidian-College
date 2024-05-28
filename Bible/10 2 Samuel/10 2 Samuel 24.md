@@ -1,5 +1,5 @@
 
-###### [[10 2 Samuel 1|2 Samuel 1 ⏮]] | [[10 2 Samuel 23|2 Samuel 23 ◀]] | [[2 Samuel]] | [[10 1 Kings 1|▶ 1 Kings 1]] | [[10 2 Samuel 24|⏭ 2 Samuel 24|]]
+###### [[10 2 Samuel 1|2 Samuel 1 ⏮]] | [[10 2 Samuel 23|2 Samuel 23 ◀]] | [[2 Samuel]] | [[11 1 Kings 1|▶ 1 Kings 1]] | [[10 2 Samuel 24|⏭ 2 Samuel 24|]]
 
 ###### 1
 ``` verse
@@ -102,5 +102,5 @@
 10 24 25 
 ```
 
-###### [[10 2 Samuel 1|2 Samuel 1 ⏮]] | [[10 2 Samuel 23|2 Samuel 23 ◀]] | [[2 Samuel]] | [[10 1 Kings 1|▶ 1 Kings 1]] | [[10 2 Samuel 24|⏭ 2 Samuel 24|]]
+###### [[10 2 Samuel 1|2 Samuel 1 ⏮]] | [[10 2 Samuel 23|2 Samuel 23 ◀]] | [[2 Samuel]] | [[11 1 Kings 1|▶ 1 Kings 1]] | [[10 2 Samuel 24|⏭ 2 Samuel 24|]]
 

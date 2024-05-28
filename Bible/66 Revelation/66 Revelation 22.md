@@ -1,5 +1,5 @@
 
-###### [[66 Revelation 1|Revelation 1 ⏮]] | [[66 Revelation 21|Revelation 21 ◀]] | [[Revelation]] | [[66 Genesis 1|▶ Genesis 1]] | [[66 Revelation 22|⏭ Revelation 22|]]
+###### [[66 Revelation 1|Revelation 1 ⏮]] | [[66 Revelation 21|Revelation 21 ◀]] | [[Revelation]] | [[01 Genesis 1|▶ Genesis 1]] | [[66 Revelation 22|⏭ Revelation 22|]]
 
 ###### 1
 ``` verse
@@ -86,5 +86,5 @@
 66 22 21 
 ```
 
-###### [[66 Revelation 1|Revelation 1 ⏮]] | [[66 Revelation 21|Revelation 21 ◀]] | [[Revelation]] | [[66 Genesis 1|▶ Genesis 1]] | [[66 Revelation 22|⏭ Revelation 22|]]
+###### [[66 Revelation 1|Revelation 1 ⏮]] | [[66 Revelation 21|Revelation 21 ◀]] | [[Revelation]] | [[01 Genesis 1|▶ Genesis 1]] | [[66 Revelation 22|⏭ Revelation 22|]]
 

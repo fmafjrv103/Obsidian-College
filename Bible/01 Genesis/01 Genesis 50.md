@@ -1,5 +1,5 @@
 
-###### [[01 Genesis 1|Genesis 1 ⏮]] | [[01 Genesis 49|Genesis 49 ◀]] | [[Genesis]] | [[01 Exodus 1|▶ Exodus 1]] | [[01 Genesis 50|⏭ Genesis 50|]]
+###### [[01 Genesis 1|Genesis 1 ⏮]] | [[01 Genesis 49|Genesis 49 ◀]] | [[Genesis]] | [[02 Exodus 1|▶ Exodus 1]] | [[01 Genesis 50|⏭ Genesis 50|]]
 
 ###### 1
 ``` verse
@@ -106,5 +106,5 @@
 1 50 26 
 ```
 
-###### [[01 Genesis 1|Genesis 1 ⏮]] | [[01 Genesis 49|Genesis 49 ◀]] | [[Genesis]] | [[01 Exodus 1|▶ Exodus 1]] | [[01 Genesis 50|⏭ Genesis 50|]]
+###### [[01 Genesis 1|Genesis 1 ⏮]] | [[01 Genesis 49|Genesis 49 ◀]] | [[Genesis]] | [[02 Exodus 1|▶ Exodus 1]] | [[01 Genesis 50|⏭ Genesis 50|]]
 

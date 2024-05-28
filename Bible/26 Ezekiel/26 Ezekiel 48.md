@@ -1,5 +1,5 @@
 
-###### [[26 Ezekiel 1|Ezekiel 1 ⏮]] | [[26 Ezekiel 47|Ezekiel 47 ◀]] | [[Ezekiel]] | [[26 Daniel 1|▶ Daniel 1]] | [[26 Ezekiel 48|⏭ Ezekiel 48|]]
+###### [[26 Ezekiel 1|Ezekiel 1 ⏮]] | [[26 Ezekiel 47|Ezekiel 47 ◀]] | [[Ezekiel]] | [[27 Daniel 1|▶ Daniel 1]] | [[26 Ezekiel 48|⏭ Ezekiel 48|]]
 
 ###### 1
 ``` verse
@@ -142,5 +142,5 @@
 26 48 35 
 ```
 
-###### [[26 Ezekiel 1|Ezekiel 1 ⏮]] | [[26 Ezekiel 47|Ezekiel 47 ◀]] | [[Ezekiel]] | [[26 Daniel 1|▶ Daniel 1]] | [[26 Ezekiel 48|⏭ Ezekiel 48|]]
+###### [[26 Ezekiel 1|Ezekiel 1 ⏮]] | [[26 Ezekiel 47|Ezekiel 47 ◀]] | [[Ezekiel]] | [[27 Daniel 1|▶ Daniel 1]] | [[26 Ezekiel 48|⏭ Ezekiel 48|]]
 

@@ -1,5 +1,5 @@
 
-###### [[24 Jeremiah 1|Jeremiah 1 ⏮]] | [[24 Isaiah 66|Isaiah 66 ◀]] | [[Jeremiah]] | [[24 Jeremiah 2|▶ Jeremiah 2]] | [[24 Jeremiah 52|⏭ Jeremiah 52|]]
+###### [[24 Jeremiah 1|Jeremiah 1 ⏮]] | [[23 Isaiah 66|Isaiah 66 ◀]] | [[Jeremiah]] | [[24 Jeremiah 2|▶ Jeremiah 2]] | [[24 Jeremiah 52|⏭ Jeremiah 52|]]
 
 ###### 1
 ``` verse
@@ -78,5 +78,5 @@
 24 1 19 
 ```
 
-###### [[24 Jeremiah 1|Jeremiah 1 ⏮]] | [[24 Isaiah 66|Isaiah 66 ◀]] | [[Jeremiah]] | [[24 Jeremiah 2|▶ Jeremiah 2]] | [[24 Jeremiah 52|⏭ Jeremiah 52|]]
+###### [[24 Jeremiah 1|Jeremiah 1 ⏮]] | [[23 Isaiah 66|Isaiah 66 ◀]] | [[Jeremiah]] | [[24 Jeremiah 2|▶ Jeremiah 2]] | [[24 Jeremiah 52|⏭ Jeremiah 52|]]
 

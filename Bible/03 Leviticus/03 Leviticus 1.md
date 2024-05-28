@@ -1,5 +1,5 @@
 
-###### [[03 Leviticus 1|Leviticus 1 ⏮]] | [[03 Exodus 40|Exodus 40 ◀]] | [[Leviticus]] | [[03 Leviticus 2|▶ Leviticus 2]] | [[03 Leviticus 27|⏭ Leviticus 27|]]
+###### [[03 Leviticus 1|Leviticus 1 ⏮]] | [[02 Exodus 40|Exodus 40 ◀]] | [[Leviticus]] | [[03 Leviticus 2|▶ Leviticus 2]] | [[03 Leviticus 27|⏭ Leviticus 27|]]
 
 ###### 1
 ``` verse
@@ -70,5 +70,5 @@
 3 1 17 
 ```
 
-###### [[03 Leviticus 1|Leviticus 1 ⏮]] | [[03 Exodus 40|Exodus 40 ◀]] | [[Leviticus]] | [[03 Leviticus 2|▶ Leviticus 2]] | [[03 Leviticus 27|⏭ Leviticus 27|]]
+###### [[03 Leviticus 1|Leviticus 1 ⏮]] | [[02 Exodus 40|Exodus 40 ◀]] | [[Leviticus]] | [[03 Leviticus 2|▶ Leviticus 2]] | [[03 Leviticus 27|⏭ Leviticus 27|]]
 

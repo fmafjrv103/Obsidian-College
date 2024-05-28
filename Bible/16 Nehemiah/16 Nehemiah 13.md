@@ -1,5 +1,5 @@
 
-###### [[16 Nehemiah 1|Nehemiah 1 ⏮]] | [[16 Nehemiah 12|Nehemiah 12 ◀]] | [[Nehemiah]] | [[16 Esther 1|▶ Esther 1]] | [[16 Nehemiah 13|⏭ Nehemiah 13|]]
+###### [[16 Nehemiah 1|Nehemiah 1 ⏮]] | [[16 Nehemiah 12|Nehemiah 12 ◀]] | [[Nehemiah]] | [[17 Esther 1|▶ Esther 1]] | [[16 Nehemiah 13|⏭ Nehemiah 13|]]
 
 ###### 1
 ``` verse
@@ -126,5 +126,5 @@
 16 13 31 
 ```
 
-###### [[16 Nehemiah 1|Nehemiah 1 ⏮]] | [[16 Nehemiah 12|Nehemiah 12 ◀]] | [[Nehemiah]] | [[16 Esther 1|▶ Esther 1]] | [[16 Nehemiah 13|⏭ Nehemiah 13|]]
+###### [[16 Nehemiah 1|Nehemiah 1 ⏮]] | [[16 Nehemiah 12|Nehemiah 12 ◀]] | [[Nehemiah]] | [[17 Esther 1|▶ Esther 1]] | [[16 Nehemiah 13|⏭ Nehemiah 13|]]
 

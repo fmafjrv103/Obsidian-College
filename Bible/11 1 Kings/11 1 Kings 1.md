@@ -1,5 +1,5 @@
 
-###### [[11 1 Kings 1|1 Kings 1 ⏮]] | [[11 2 Samuel 24|2 Samuel 24 ◀]] | [[1 Kings]] | [[11 1 Kings 2|▶ 1 Kings 2]] | [[11 1 Kings 22|⏭ 1 Kings 22|]]
+###### [[11 1 Kings 1|1 Kings 1 ⏮]] | [[10 2 Samuel 24|2 Samuel 24 ◀]] | [[1 Kings]] | [[11 1 Kings 2|▶ 1 Kings 2]] | [[11 1 Kings 22|⏭ 1 Kings 22|]]
 
 ###### 1
 ``` verse
@@ -214,5 +214,5 @@
 11 1 53 
 ```
 
-###### [[11 1 Kings 1|1 Kings 1 ⏮]] | [[11 2 Samuel 24|2 Samuel 24 ◀]] | [[1 Kings]] | [[11 1 Kings 2|▶ 1 Kings 2]] | [[11 1 Kings 22|⏭ 1 Kings 22|]]
+###### [[11 1 Kings 1|1 Kings 1 ⏮]] | [[10 2 Samuel 24|2 Samuel 24 ◀]] | [[1 Kings]] | [[11 1 Kings 2|▶ 1 Kings 2]] | [[11 1 Kings 22|⏭ 1 Kings 22|]]
 

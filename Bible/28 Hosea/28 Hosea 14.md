@@ -1,5 +1,5 @@
 
-###### [[28 Hosea 1|Hosea 1 ⏮]] | [[28 Hosea 13|Hosea 13 ◀]] | [[Hosea]] | [[28 Joel 1|▶ Joel 1]] | [[28 Hosea 14|⏭ Hosea 14|]]
+###### [[28 Hosea 1|Hosea 1 ⏮]] | [[28 Hosea 13|Hosea 13 ◀]] | [[Hosea]] | [[29 Joel 1|▶ Joel 1]] | [[28 Hosea 14|⏭ Hosea 14|]]
 
 ###### 1
 ``` verse
@@ -38,5 +38,5 @@
 28 14 9 
 ```
 
-###### [[28 Hosea 1|Hosea 1 ⏮]] | [[28 Hosea 13|Hosea 13 ◀]] | [[Hosea]] | [[28 Joel 1|▶ Joel 1]] | [[28 Hosea 14|⏭ Hosea 14|]]
+###### [[28 Hosea 1|Hosea 1 ⏮]] | [[28 Hosea 13|Hosea 13 ◀]] | [[Hosea]] | [[29 Joel 1|▶ Joel 1]] | [[28 Hosea 14|⏭ Hosea 14|]]
 

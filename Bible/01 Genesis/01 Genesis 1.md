@@ -1,5 +1,5 @@
 
-###### [[01 Genesis 1|Genesis 1 ⏮]] | [[01 Revelation 22|Revelation 22 ◀]] | [[Genesis]] | [[01 Genesis 2|▶ Genesis 2]] | [[01 Genesis 50|⏭ Genesis 50|]]
+###### [[01 Genesis 1|Genesis 1 ⏮]] | [[66 Revelation 22|Revelation 22 ◀]] | [[Genesis]] | [[01 Genesis 2|▶ Genesis 2]] | [[01 Genesis 50|⏭ Genesis 50|]]
 
 ###### 1
 ``` verse
@@ -126,5 +126,5 @@
 1 1 31 
 ```
 
-###### [[01 Genesis 1|Genesis 1 ⏮]] | [[01 Revelation 22|Revelation 22 ◀]] | [[Genesis]] | [[01 Genesis 2|▶ Genesis 2]] | [[01 Genesis 50|⏭ Genesis 50|]]
+###### [[01 Genesis 1|Genesis 1 ⏮]] | [[66 Revelation 22|Revelation 22 ◀]] | [[Genesis]] | [[01 Genesis 2|▶ Genesis 2]] | [[01 Genesis 50|⏭ Genesis 50|]]
 

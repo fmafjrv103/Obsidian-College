@@ -1,5 +1,5 @@
 
-###### [[24 Jeremiah 1|Jeremiah 1 ⏮]] | [[24 Jeremiah 51|Jeremiah 51 ◀]] | [[Jeremiah]] | [[24 Lamentations 1|▶ Lamentations 1]] | [[24 Jeremiah 52|⏭ Jeremiah 52|]]
+###### [[24 Jeremiah 1|Jeremiah 1 ⏮]] | [[24 Jeremiah 51|Jeremiah 51 ◀]] | [[Jeremiah]] | [[25 Lamentations 1|▶ Lamentations 1]] | [[24 Jeremiah 52|⏭ Jeremiah 52|]]
 
 ###### 1
 ``` verse
@@ -138,5 +138,5 @@
 24 52 34 
 ```
 
-###### [[24 Jeremiah 1|Jeremiah 1 ⏮]] | [[24 Jeremiah 51|Jeremiah 51 ◀]] | [[Jeremiah]] | [[24 Lamentations 1|▶ Lamentations 1]] | [[24 Jeremiah 52|⏭ Jeremiah 52|]]
+###### [[24 Jeremiah 1|Jeremiah 1 ⏮]] | [[24 Jeremiah 51|Jeremiah 51 ◀]] | [[Jeremiah]] | [[25 Lamentations 1|▶ Lamentations 1]] | [[24 Jeremiah 52|⏭ Jeremiah 52|]]
 

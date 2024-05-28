@@ -1,5 +1,5 @@
 
-###### [[26 Ezekiel 1|Ezekiel 1 ⏮]] | [[26 Lamentations 5|Lamentations 5 ◀]] | [[Ezekiel]] | [[26 Ezekiel 2|▶ Ezekiel 2]] | [[26 Ezekiel 48|⏭ Ezekiel 48|]]
+###### [[26 Ezekiel 1|Ezekiel 1 ⏮]] | [[25 Lamentations 5|Lamentations 5 ◀]] | [[Ezekiel]] | [[26 Ezekiel 2|▶ Ezekiel 2]] | [[26 Ezekiel 48|⏭ Ezekiel 48|]]
 
 ###### 1
 ``` verse
@@ -114,5 +114,5 @@
 26 1 28 
 ```
 
-###### [[26 Ezekiel 1|Ezekiel 1 ⏮]] | [[26 Lamentations 5|Lamentations 5 ◀]] | [[Ezekiel]] | [[26 Ezekiel 2|▶ Ezekiel 2]] | [[26 Ezekiel 48|⏭ Ezekiel 48|]]
+###### [[26 Ezekiel 1|Ezekiel 1 ⏮]] | [[25 Lamentations 5|Lamentations 5 ◀]] | [[Ezekiel]] | [[26 Ezekiel 2|▶ Ezekiel 2]] | [[26 Ezekiel 48|⏭ Ezekiel 48|]]
 

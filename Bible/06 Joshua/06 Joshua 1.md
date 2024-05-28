@@ -1,5 +1,5 @@
 
-###### [[06 Joshua 1|Joshua 1 ⏮]] | [[06 Deuteronomy 34|Deuteronomy 34 ◀]] | [[Joshua]] | [[06 Joshua 2|▶ Joshua 2]] | [[06 Joshua 24|⏭ Joshua 24|]]
+###### [[06 Joshua 1|Joshua 1 ⏮]] | [[05 Deuteronomy 34|Deuteronomy 34 ◀]] | [[Joshua]] | [[06 Joshua 2|▶ Joshua 2]] | [[06 Joshua 24|⏭ Joshua 24|]]
 
 ###### 1
 ``` verse
@@ -74,5 +74,5 @@
 6 1 18 
 ```
 
-###### [[06 Joshua 1|Joshua 1 ⏮]] | [[06 Deuteronomy 34|Deuteronomy 34 ◀]] | [[Joshua]] | [[06 Joshua 2|▶ Joshua 2]] | [[06 Joshua 24|⏭ Joshua 24|]]
+###### [[06 Joshua 1|Joshua 1 ⏮]] | [[05 Deuteronomy 34|Deuteronomy 34 ◀]] | [[Joshua]] | [[06 Joshua 2|▶ Joshua 2]] | [[06 Joshua 24|⏭ Joshua 24|]]
 

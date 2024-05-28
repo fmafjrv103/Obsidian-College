@@ -1,5 +1,5 @@
 
-###### [[27 Daniel 1|Daniel 1 ⏮]] | [[27 Daniel 11|Daniel 11 ◀]] | [[Daniel]] | [[27 Hosea 1|▶ Hosea 1]] | [[27 Daniel 12|⏭ Daniel 12|]]
+###### [[27 Daniel 1|Daniel 1 ⏮]] | [[27 Daniel 11|Daniel 11 ◀]] | [[Daniel]] | [[28 Hosea 1|▶ Hosea 1]] | [[27 Daniel 12|⏭ Daniel 12|]]
 
 ###### 1
 ``` verse
@@ -54,5 +54,5 @@
 27 12 13 
 ```
 
-###### [[27 Daniel 1|Daniel 1 ⏮]] | [[27 Daniel 11|Daniel 11 ◀]] | [[Daniel]] | [[27 Hosea 1|▶ Hosea 1]] | [[27 Daniel 12|⏭ Daniel 12|]]
+###### [[27 Daniel 1|Daniel 1 ⏮]] | [[27 Daniel 11|Daniel 11 ◀]] | [[Daniel]] | [[28 Hosea 1|▶ Hosea 1]] | [[27 Daniel 12|⏭ Daniel 12|]]
 

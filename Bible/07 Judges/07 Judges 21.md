@@ -1,5 +1,5 @@
 
-###### [[07 Judges 1|Judges 1 ⏮]] | [[07 Judges 20|Judges 20 ◀]] | [[Judges]] | [[07 Ruth 1|▶ Ruth 1]] | [[07 Judges 21|⏭ Judges 21|]]
+###### [[07 Judges 1|Judges 1 ⏮]] | [[07 Judges 20|Judges 20 ◀]] | [[Judges]] | [[08 Ruth 1|▶ Ruth 1]] | [[07 Judges 21|⏭ Judges 21|]]
 
 ###### 1
 ``` verse
@@ -102,5 +102,5 @@
 7 21 25 
 ```
 
-###### [[07 Judges 1|Judges 1 ⏮]] | [[07 Judges 20|Judges 20 ◀]] | [[Judges]] | [[07 Ruth 1|▶ Ruth 1]] | [[07 Judges 21|⏭ Judges 21|]]
+###### [[07 Judges 1|Judges 1 ⏮]] | [[07 Judges 20|Judges 20 ◀]] | [[Judges]] | [[08 Ruth 1|▶ Ruth 1]] | [[07 Judges 21|⏭ Judges 21|]]
 

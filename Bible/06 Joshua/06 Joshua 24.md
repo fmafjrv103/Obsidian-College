@@ -1,5 +1,5 @@
 
-###### [[06 Joshua 1|Joshua 1 ⏮]] | [[06 Joshua 23|Joshua 23 ◀]] | [[Joshua]] | [[06 Judges 1|▶ Judges 1]] | [[06 Joshua 24|⏭ Joshua 24|]]
+###### [[06 Joshua 1|Joshua 1 ⏮]] | [[06 Joshua 23|Joshua 23 ◀]] | [[Joshua]] | [[07 Judges 1|▶ Judges 1]] | [[06 Joshua 24|⏭ Joshua 24|]]
 
 ###### 1
 ``` verse
@@ -134,5 +134,5 @@
 6 24 33 
 ```
 
-###### [[06 Joshua 1|Joshua 1 ⏮]] | [[06 Joshua 23|Joshua 23 ◀]] | [[Joshua]] | [[06 Judges 1|▶ Judges 1]] | [[06 Joshua 24|⏭ Joshua 24|]]
+###### [[06 Joshua 1|Joshua 1 ⏮]] | [[06 Joshua 23|Joshua 23 ◀]] | [[Joshua]] | [[07 Judges 1|▶ Judges 1]] | [[06 Joshua 24|⏭ Joshua 24|]]
 

@@ -1,5 +1,5 @@
 
-###### [[04 Numbers 1|Numbers 1 ⏮]] | [[04 Leviticus 27|Leviticus 27 ◀]] | [[Numbers]] | [[04 Numbers 2|▶ Numbers 2]] | [[04 Numbers 36|⏭ Numbers 36|]]
+###### [[04 Numbers 1|Numbers 1 ⏮]] | [[03 Leviticus 27|Leviticus 27 ◀]] | [[Numbers]] | [[04 Numbers 2|▶ Numbers 2]] | [[04 Numbers 36|⏭ Numbers 36|]]
 
 ###### 1
 ``` verse
@@ -218,5 +218,5 @@
 4 1 54 
 ```
 
-###### [[04 Numbers 1|Numbers 1 ⏮]] | [[04 Leviticus 27|Leviticus 27 ◀]] | [[Numbers]] | [[04 Numbers 2|▶ Numbers 2]] | [[04 Numbers 36|⏭ Numbers 36|]]
+###### [[04 Numbers 1|Numbers 1 ⏮]] | [[03 Leviticus 27|Leviticus 27 ◀]] | [[Numbers]] | [[04 Numbers 2|▶ Numbers 2]] | [[04 Numbers 36|⏭ Numbers 36|]]
 

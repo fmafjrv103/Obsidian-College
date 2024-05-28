@@ -1,5 +1,5 @@
 
-###### [[02 Exodus 1|Exodus 1 ⏮]] | [[02 Exodus 39|Exodus 39 ◀]] | [[Exodus]] | [[02 Leviticus 1|▶ Leviticus 1]] | [[02 Exodus 40|⏭ Exodus 40|]]
+###### [[02 Exodus 1|Exodus 1 ⏮]] | [[02 Exodus 39|Exodus 39 ◀]] | [[Exodus]] | [[03 Leviticus 1|▶ Leviticus 1]] | [[02 Exodus 40|⏭ Exodus 40|]]
 
 ###### 1
 ``` verse
@@ -154,5 +154,5 @@
 2 40 38 
 ```
 
-###### [[02 Exodus 1|Exodus 1 ⏮]] | [[02 Exodus 39|Exodus 39 ◀]] | [[Exodus]] | [[02 Leviticus 1|▶ Leviticus 1]] | [[02 Exodus 40|⏭ Exodus 40|]]
+###### [[02 Exodus 1|Exodus 1 ⏮]] | [[02 Exodus 39|Exodus 39 ◀]] | [[Exodus]] | [[03 Leviticus 1|▶ Leviticus 1]] | [[02 Exodus 40|⏭ Exodus 40|]]
 

@@ -1,5 +1,5 @@
 
-###### [[25 Lamentations 1|Lamentations 1 ⏮]] | [[25 Lamentations 4|Lamentations 4 ◀]] | [[Lamentations]] | [[25 Ezekiel 1|▶ Ezekiel 1]] | [[25 Lamentations 5|⏭ Lamentations 5|]]
+###### [[25 Lamentations 1|Lamentations 1 ⏮]] | [[25 Lamentations 4|Lamentations 4 ◀]] | [[Lamentations]] | [[26 Ezekiel 1|▶ Ezekiel 1]] | [[25 Lamentations 5|⏭ Lamentations 5|]]
 
 ###### 1
 ``` verse
@@ -90,5 +90,5 @@
 25 5 22 
 ```
 
-###### [[25 Lamentations 1|Lamentations 1 ⏮]] | [[25 Lamentations 4|Lamentations 4 ◀]] | [[Lamentations]] | [[25 Ezekiel 1|▶ Ezekiel 1]] | [[25 Lamentations 5|⏭ Lamentations 5|]]
+###### [[25 Lamentations 1|Lamentations 1 ⏮]] | [[25 Lamentations 4|Lamentations 4 ◀]] | [[Lamentations]] | [[26 Ezekiel 1|▶ Ezekiel 1]] | [[25 Lamentations 5|⏭ Lamentations 5|]]
 

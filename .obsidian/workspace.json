@@ -43,7 +43,427 @@
                   "title": "Bible",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Bible.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":8},\"to\":{\"line\":13,\"ch\":8}},\"scroll\":7}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":9},\"to\":{\"line\":13,\"ch\":9}}}"
+                },
+                {
+                  "title": "29 Joel 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/29 Joel/29 Joel 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "28 Hosea 14",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/28 Hosea/28 Hosea 14.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":90},\"to\":{\"line\":1,\"ch\":90}}}"
+                },
+                {
+                  "title": "28 Hosea 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/28 Hosea/28 Hosea 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":48,\"ch\":120},\"to\":{\"line\":48,\"ch\":120}}}"
+                },
+                {
+                  "title": "27 Daniel 12",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/27 Daniel/27 Daniel 12.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":98},\"to\":{\"line\":1,\"ch\":98}},\"scroll\":0}"
+                },
+                {
+                  "title": "27 Daniel 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/27 Daniel/27 Daniel 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":88,\"ch\":132},\"to\":{\"line\":88,\"ch\":132}},\"scroll\":47.26569812079668}"
+                },
+                {
+                  "title": "26 Ezekiel 48",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/26 Ezekiel/26 Ezekiel 48.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":103},\"to\":{\"line\":1,\"ch\":103}},\"scroll\":0}"
+                },
+                {
+                  "title": "26 Ezekiel 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/26 Ezekiel/26 Ezekiel 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":116,\"ch\":148},\"to\":{\"line\":116,\"ch\":148}},\"scroll\":79.12921722877512}"
+                },
+                {
+                  "title": "25 Lamentations 5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/25 Lamentations/25 Lamentations 5.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":128},\"to\":{\"line\":1,\"ch\":128}},\"scroll\":0}"
+                },
+                {
+                  "title": "25 Lamentations 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/25 Lamentations/25 Lamentations 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":92,\"ch\":177},\"to\":{\"line\":92,\"ch\":177}},\"scroll\":57.51187133705201}"
+                },
+                {
+                  "title": "24 Jeremiah 52",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/24 Jeremiah/24 Jeremiah 52.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":140,\"ch\":120},\"to\":{\"line\":140,\"ch\":120}},\"scroll\":101.73125095853092}"
+                },
+                {
+                  "title": "24 Jeremiah 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/24 Jeremiah/24 Jeremiah 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":80,\"ch\":145},\"to\":{\"line\":80,\"ch\":145}}}"
+                },
+                {
+                  "title": "23 Isaiah 66",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/23 Isaiah/23 Isaiah 66.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":102},\"to\":{\"line\":1,\"ch\":102}},\"scroll\":0}"
+                },
+                {
+                  "title": "23 Isaiah 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/23 Isaiah/23 Isaiah 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":128,\"ch\":144},\"to\":{\"line\":128,\"ch\":144}},\"scroll\":87.2664220132222}"
+                },
+                {
+                  "title": "22 Song of Solomon 8",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/22 Song of Solomon/22 Song of Solomon 8.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":142},\"to\":{\"line\":1,\"ch\":142}}}"
+                },
+                {
+                  "title": "22 Song of Solomon 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/22 Song of Solomon/22 Song of Solomon 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":72,\"ch\":199},\"to\":{\"line\":72,\"ch\":199}}}"
+                },
+                {
+                  "title": "21 Ecclesiastes 12",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/21 Ecclesiastes/21 Ecclesiastes 12.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":146},\"to\":{\"line\":1,\"ch\":146}}}"
+                },
+                {
+                  "title": "21 Ecclesiastes 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/21 Ecclesiastes/21 Ecclesiastes 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":76,\"ch\":178},\"to\":{\"line\":76,\"ch\":178}}}"
+                },
+                {
+                  "title": "20 Proverbs 31",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/20 Proverbs/20 Proverbs 31.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":120},\"to\":{\"line\":1,\"ch\":120}},\"scroll\":0}"
+                },
+                {
+                  "title": "20 Proverbs 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/20 Proverbs/20 Proverbs 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":136,\"ch\":145},\"to\":{\"line\":136,\"ch\":145}},\"scroll\":95.26424535122352}"
+                },
+                {
+                  "title": "19 Psalm 150",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 150.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":101},\"to\":{\"line\":1,\"ch\":101}}}"
+                },
+                {
+                  "title": "19 Psalm 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":117},\"to\":{\"line\":28,\"ch\":117}}}"
+                },
+                {
+                  "title": "18 Job 42",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 42.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":82},\"to\":{\"line\":1,\"ch\":82}},\"scroll\":0}"
+                },
+                {
+                  "title": "18 Job 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/18 Job/18 Job 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":92,\"ch\":109},\"to\":{\"line\":92,\"ch\":109}},\"scroll\":56.023743097959226}"
+                },
+                {
+                  "title": "17 Esther 10",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/17 Esther/17 Esther 10.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":93},\"to\":{\"line\":1,\"ch\":93}},\"scroll\":0}"
+                },
+                {
+                  "title": "17 Esther 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/17 Esther/17 Esther 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":92,\"ch\":135},\"to\":{\"line\":92,\"ch\":135}},\"scroll\":58.98374451646137}"
+                },
+                {
+                  "title": "16 Nehemiah 13",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/16 Nehemiah/16 Nehemiah 13.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":128,\"ch\":109},\"to\":{\"line\":128,\"ch\":109}},\"scroll\":78.78250028239354}"
+                },
+                {
+                  "title": "16 Nehemiah 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/16 Nehemiah/16 Nehemiah 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":48,\"ch\":141},\"to\":{\"line\":48,\"ch\":141}},\"scroll\":0}"
+                },
+                {
+                  "title": "15 Ezra 10",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/15 Ezra/15 Ezra 10.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":180,\"ch\":89},\"to\":{\"line\":180,\"ch\":89}},\"scroll\":139.26496838209212}"
+                },
+                {
+                  "title": "15 Ezra 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/15 Ezra/15 Ezra 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":128},\"to\":{\"line\":1,\"ch\":128}}}"
+                },
+                {
+                  "title": "14 2 Chronicles 36",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 36.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":126},\"to\":{\"line\":1,\"ch\":126}},\"scroll\":0}"
+                },
+                {
+                  "title": "14 2 Chronicles 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/14 2 Chronicles/14 2 Chronicles 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":72,\"ch\":185},\"to\":{\"line\":72,\"ch\":185}},\"scroll\":35.98911078218783}"
+                },
+                {
+                  "title": "13 1 Chronicles 29",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/13 1 Chronicles/13 1 Chronicles 29.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":140},\"to\":{\"line\":1,\"ch\":140}},\"scroll\":0}"
+                },
+                {
+                  "title": "13 1 Chronicles 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/13 1 Chronicles/13 1 Chronicles 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":220,\"ch\":169},\"to\":{\"line\":220,\"ch\":169}},\"scroll\":179.26570027468895}"
+                },
+                {
+                  "title": "12 2 Kings 25",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/12 2 Kings/12 2 Kings 25.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":114},\"to\":{\"line\":1,\"ch\":114}},\"scroll\":0}"
+                },
+                {
+                  "title": "12 2 Kings 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/12 2 Kings/12 2 Kings 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":76,\"ch\":137},\"to\":{\"line\":76,\"ch\":137}},\"scroll\":41.49937491951166}"
+                },
+                {
+                  "title": "11 1 Kings 22",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/11 1 Kings/11 1 Kings 22.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":107},\"to\":{\"line\":1,\"ch\":107}},\"scroll\":0}"
+                },
+                {
+                  "title": "11 1 Kings 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/11 1 Kings/11 1 Kings 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":216,\"ch\":141},\"to\":{\"line\":216,\"ch\":141}},\"scroll\":179.1379256614234}"
+                },
+                {
+                  "title": "10 2 Samuel 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/10 2 Samuel/10 2 Samuel 24.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":113},\"to\":{\"line\":1,\"ch\":113}},\"scroll\":0}"
+                },
+                {
+                  "title": "10 2 Samuel 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/10 2 Samuel/10 2 Samuel 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":112,\"ch\":146},\"to\":{\"line\":112,\"ch\":146}},\"scroll\":71.25916431933435}"
+                },
+                {
+                  "title": "09 1 Samuel 31",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/09 1 Samuel/09 1 Samuel 31.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":114},\"to\":{\"line\":1,\"ch\":114}},\"scroll\":0}"
+                },
+                {
+                  "title": "09 1 Samuel 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/09 1 Samuel/09 1 Samuel 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":116,\"ch\":137},\"to\":{\"line\":116,\"ch\":137}},\"scroll\":79.11760264158272}"
+                },
+                {
+                  "title": "08 Ruth 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/08 Ruth/08 Ruth 4.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":92},\"to\":{\"line\":1,\"ch\":92}},\"scroll\":0}"
+                },
+                {
+                  "title": "08 Ruth 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/08 Ruth/08 Ruth 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":92,\"ch\":114},\"to\":{\"line\":92,\"ch\":114}},\"scroll\":53.733750114882426}"
+                },
+                {
+                  "title": "07 Judges 21",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/07 Judges/07 Judges 21.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":97},\"to\":{\"line\":1,\"ch\":97}},\"scroll\":0}"
+                },
+                {
+                  "title": "07 Judges 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/07 Judges/07 Judges 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":148,\"ch\":131},\"to\":{\"line\":148,\"ch\":131}},\"scroll\":109.70749758208257}"
+                },
+                {
+                  "title": "06 Joshua 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/06 Joshua/06 Joshua 24.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":100},\"to\":{\"line\":1,\"ch\":100}},\"scroll\":0}"
+                },
+                {
+                  "title": "06 Joshua 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/06 Joshua/06 Joshua 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":76,\"ch\":138},\"to\":{\"line\":76,\"ch\":138}},\"scroll\":39.99963709992066}"
+                },
+                {
+                  "title": "05 Deuteronomy 34",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 34.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":123},\"to\":{\"line\":1,\"ch\":123}},\"scroll\":0}"
+                },
+                {
+                  "title": "05 Deuteronomy 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":188,\"ch\":166},\"to\":{\"line\":188,\"ch\":166}},\"scroll\":148.4612526037956}"
+                },
+                {
+                  "title": "04 Numbers 36",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/04 Numbers/04 Numbers 36.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":56,\"ch\":115},\"to\":{\"line\":56,\"ch\":115}},\"scroll\":0}"
+                },
+                {
+                  "title": "04 Numbers 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/04 Numbers/04 Numbers 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":220,\"ch\":140},\"to\":{\"line\":220,\"ch\":140}},\"scroll\":180.43124238252693}"
+                },
+                {
+                  "title": "03 Leviticus 27",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/03 Leviticus/03 Leviticus 27.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":140,\"ch\":117},\"to\":{\"line\":140,\"ch\":117}},\"scroll\":93.30999216786192}"
+                },
+                {
+                  "title": "03 Leviticus 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/03 Leviticus/03 Leviticus 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":72,\"ch\":150},\"to\":{\"line\":72,\"ch\":150}},\"scroll\":0}"
+                },
+                {
+                  "title": "02 Exodus 40",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/02 Exodus/02 Exodus 40.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":156,\"ch\":107},\"to\":{\"line\":156,\"ch\":107}},\"scroll\":116.2237491449604}"
+                },
+                {
+                  "title": "02 Exodus 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/02 Exodus/02 Exodus 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":92,\"ch\":132},\"to\":{\"line\":92,\"ch\":132}},\"scroll\":51.25299329487179}"
+                },
+                {
+                  "title": "01 Genesis 50",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/01 Genesis/01 Genesis 50.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":108,\"ch\":104},\"to\":{\"line\":108,\"ch\":104}},\"scroll\":68.22625084444323}"
+                },
+                {
+                  "title": "01 Genesis 5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/01 Genesis/01 Genesis 5.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":132,\"ch\":136},\"to\":{\"line\":132,\"ch\":136}},\"scroll\":91.25372087968407}"
+                },
+                {
+                  "title": "01 Genesis 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/01 Genesis/01 Genesis 4.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":103},\"to\":{\"line\":1,\"ch\":103}}}"
+                },
+                {
+                  "title": "01 Genesis 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/01 Genesis/01 Genesis 3.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":103},\"to\":{\"line\":1,\"ch\":103}}}"
+                },
+                {
+                  "title": "01 Genesis 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/01 Genesis/01 Genesis 2.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":104},\"to\":{\"line\":1,\"ch\":104}}}"
+                },
+                {
+                  "title": "01 Genesis 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/01 Genesis/01 Genesis 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":110},\"to\":{\"line\":1,\"ch\":110}},\"scroll\":0}"
+                },
+                {
+                  "title": "66 Revelation 22",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/66 Revelation/66 Revelation 22.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":88,\"ch\":117},\"to\":{\"line\":88,\"ch\":117}},\"scroll\":48.47124838149117}"
+                },
+                {
+                  "title": "01 Genesis 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/01 Genesis/01 Genesis 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":128,\"ch\":66},\"to\":{\"line\":128,\"ch\":66}},\"scroll\":91.1259504511235}"
+                },
+                {
+                  "title": "66 Revelation 22",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/66 Revelation/66 Revelation 22.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":119},\"to\":{\"line\":1,\"ch\":119}}}"
+                },
+                {
+                  "title": "66 Revelation 21",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/66 Revelation/66 Revelation 21.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":125},\"to\":{\"line\":1,\"ch\":125}}}"
+                },
+                {
+                  "title": "66 Revelation 20",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/66 Revelation/66 Revelation 20.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":128},\"to\":{\"line\":1,\"ch\":128}}}"
+                },
+                {
+                  "title": "66 Revelation 19",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/66 Revelation/66 Revelation 19.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":128},\"to\":{\"line\":1,\"ch\":128}}}"
+                },
+                {
+                  "title": "66 Revelation 18",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/66 Revelation/66 Revelation 18.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":123},\"to\":{\"line\":1,\"ch\":123}}}"
+                },
+                {
+                  "title": "Revelation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Revelation.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Bible",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Bible.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":77,\"ch\":12},\"to\":{\"line\":77,\"ch\":12}},\"scroll\":54.99259268012274}"
                 },
                 {
                   "title": "000 Home",
@@ -433,35 +853,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eb49dceec3166315",
+  "active": "906e16441557290c",
   "lastOpenFiles": [
     "Bible/Bible.md",
-    "Bible/Genesis.md",
-    "000 Home.md",
-    "Bible/66 Revelation/66 Revelation 22.md",
-    "Bible/66 Revelation/66 Revelation 21.md",
-    "Bible/66 Revelation/66 Revelation 20.md",
-    "Bible/66 Revelation/66 Revelation 19.md",
-    "Bible/66 Revelation/66 Revelation 18.md",
-    "Bible/66 Revelation/66 Revelation 17.md",
-    "Bible/66 Revelation/66 Revelation 16.md",
-    "Bible/66 Revelation/66 Revelation 15.md",
-    "Bible/66 Revelation/66 Revelation 14.md",
-    "Bible/66 Revelation/66 Revelation 13.md",
-    "Bible/66 Revelation/66 Revelation 12.md",
-    "Bible/66 Revelation/66 Revelation 11.md",
-    "Bible/66 Revelation/66 Revelation 10.md",
-    "Bible/66 Revelation/66 Revelation 9.md",
-    "Bible/66 Revelation/66 Revelation 8.md",
-    "Bible/66 Revelation/66 Revelation 7.md",
-    "Bible/66 Revelation/66 Revelation 6.md",
-    "Bible/66 Revelation/66 Revelation 5.md",
-    "Bible/66 Revelation/66 Revelation 4.md",
-    "Bible/66 Revelation/66 Revelation 3.md",
-    "Bible/66 Revelation/66 Revelation 2.md",
-    "Bible/66 Revelation/66 Revelation 1.md",
+    "Bible/Exodus.md",
+    "Bible/29 Joel/29 Joel 1.md",
+    "Bible/28 Hosea/28 Hosea 14.md",
+    "Bible/28 Hosea/28 Hosea 1.md",
+    "Bible/27 Daniel/27 Daniel 12.md",
+    "Bible/27 Daniel/27 Daniel 1.md",
+    "Bible/26 Ezekiel/26 Ezekiel 48.md",
+    "Bible/26 Ezekiel/26 Ezekiel 1.md",
+    "Bible/25 Lamentations/25 Lamentations 5.md",
+    "Bible/25 Lamentations/25 Lamentations 1.md",
+    "Bible/24 Jeremiah/24 Jeremiah 52.md",
+    "Bible/24 Jeremiah/24 Jeremiah 1.md",
+    "Bible/23 Isaiah/23 Isaiah 66.md",
+    "Bible/23 Isaiah/23 Isaiah 1.md",
+    "Bible/22 Song of Solomon/22 Song of Solomon 8.md",
+    "Bible/22 Song of Solomon/22 Song of Solomon 1.md",
+    "Bible/21 Ecclesiastes/21 Ecclesiastes 12.md",
+    "Bible/21 Ecclesiastes/21 Ecclesiastes 1.md",
+    "Bible/20 Proverbs/20 Proverbs 31.md",
+    "Bible/20 Proverbs/20 Proverbs 1.md",
+    "Bible/19 Psalm/19 Psalm 150.md",
+    "Bible/19 Psalm/19 Psalm 1.md",
+    "Bible/18 Job/18 Job 42.md",
+    "Bible/18 Job/18 Job 1.md",
+    "Bible/17 Esther/17 Esther 10.md",
     "Bible/66 Revelation",
-    "Bible/65 Jude/65 Jude 1.md",
     "Bible/65 Jude",
     "Bible/64 3 John",
     "Bible/63 2 John",

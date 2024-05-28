@@ -1,5 +1,5 @@
 
-###### [[10 2 Samuel 1|2 Samuel 1 ⏮]] | [[10 1 Samuel 31|1 Samuel 31 ◀]] | [[2 Samuel]] | [[10 2 Samuel 2|▶ 2 Samuel 2]] | [[10 2 Samuel 24|⏭ 2 Samuel 24|]]
+###### [[10 2 Samuel 1|2 Samuel 1 ⏮]] | [[09 1 Samuel 31|1 Samuel 31 ◀]] | [[2 Samuel]] | [[10 2 Samuel 2|▶ 2 Samuel 2]] | [[10 2 Samuel 24|⏭ 2 Samuel 24|]]
 
 ###### 1
 ``` verse
@@ -110,5 +110,5 @@
 10 1 27 
 ```
 
-###### [[10 2 Samuel 1|2 Samuel 1 ⏮]] | [[10 1 Samuel 31|1 Samuel 31 ◀]] | [[2 Samuel]] | [[10 2 Samuel 2|▶ 2 Samuel 2]] | [[10 2 Samuel 24|⏭ 2 Samuel 24|]]
+###### [[10 2 Samuel 1|2 Samuel 1 ⏮]] | [[09 1 Samuel 31|1 Samuel 31 ◀]] | [[2 Samuel]] | [[10 2 Samuel 2|▶ 2 Samuel 2]] | [[10 2 Samuel 24|⏭ 2 Samuel 24|]]
 

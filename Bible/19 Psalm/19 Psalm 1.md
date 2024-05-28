@@ -1,5 +1,5 @@
 
-###### [[19 Psalm 1|Psalm 1 ⏮]] | [[19 Job 42|Job 42 ◀]] | [[Psalm]] | [[19 Psalm 2|▶ Psalm 2]] | [[19 Psalm 150|⏭ Psalm 150|]]
+###### [[19 Psalm 1|Psalm 1 ⏮]] | [[18 Job 42|Job 42 ◀]] | [[Psalm]] | [[19 Psalm 2|▶ Psalm 2]] | [[19 Psalm 150|⏭ Psalm 150|]]
 
 ###### 1
 ``` verse
@@ -26,5 +26,5 @@
 19 1 6 
 ```
 
-###### [[19 Psalm 1|Psalm 1 ⏮]] | [[19 Job 42|Job 42 ◀]] | [[Psalm]] | [[19 Psalm 2|▶ Psalm 2]] | [[19 Psalm 150|⏭ Psalm 150|]]
+###### [[19 Psalm 1|Psalm 1 ⏮]] | [[18 Job 42|Job 42 ◀]] | [[Psalm]] | [[19 Psalm 2|▶ Psalm 2]] | [[19 Psalm 150|⏭ Psalm 150|]]
 

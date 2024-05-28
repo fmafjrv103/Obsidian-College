@@ -1,5 +1,5 @@
 
-###### [[15 Ezra 1|Ezra 1 ⏮]] | [[15 2 Chronicles 36|2 Chronicles 36 ◀]] | [[Ezra]] | [[15 Ezra 2|▶ Ezra 2]] | [[15 Ezra 10|⏭ Ezra 10|]]
+###### [[15 Ezra 1|Ezra 1 ⏮]] | [[14 2 Chronicles 36|2 Chronicles 36 ◀]] | [[Ezra]] | [[15 Ezra 2|▶ Ezra 2]] | [[15 Ezra 10|⏭ Ezra 10|]]
 
 ###### 1
 ``` verse
@@ -46,5 +46,5 @@
 15 1 11 
 ```
 
-###### [[15 Ezra 1|Ezra 1 ⏮]] | [[15 2 Chronicles 36|2 Chronicles 36 ◀]] | [[Ezra]] | [[15 Ezra 2|▶ Ezra 2]] | [[15 Ezra 10|⏭ Ezra 10|]]
+###### [[15 Ezra 1|Ezra 1 ⏮]] | [[14 2 Chronicles 36|2 Chronicles 36 ◀]] | [[Ezra]] | [[15 Ezra 2|▶ Ezra 2]] | [[15 Ezra 10|⏭ Ezra 10|]]
 

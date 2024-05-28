@@ -1,5 +1,5 @@
 
-###### [[04 Numbers 1|Numbers 1 ⏮]] | [[04 Numbers 35|Numbers 35 ◀]] | [[Numbers]] | [[04 Deuteronomy 1|▶ Deuteronomy 1]] | [[04 Numbers 36|⏭ Numbers 36|]]
+###### [[04 Numbers 1|Numbers 1 ⏮]] | [[04 Numbers 35|Numbers 35 ◀]] | [[Numbers]] | [[05 Deuteronomy 1|▶ Deuteronomy 1]] | [[04 Numbers 36|⏭ Numbers 36|]]
 
 ###### 1
 ``` verse
@@ -54,5 +54,5 @@
 4 36 13 
 ```
 
-###### [[04 Numbers 1|Numbers 1 ⏮]] | [[04 Numbers 35|Numbers 35 ◀]] | [[Numbers]] | [[04 Deuteronomy 1|▶ Deuteronomy 1]] | [[04 Numbers 36|⏭ Numbers 36|]]
+###### [[04 Numbers 1|Numbers 1 ⏮]] | [[04 Numbers 35|Numbers 35 ◀]] | [[Numbers]] | [[05 Deuteronomy 1|▶ Deuteronomy 1]] | [[04 Numbers 36|⏭ Numbers 36|]]
 
