@@ -5,7 +5,7 @@
   "livePreview": true,
   "promptDelete": false,
   "vimMode": false,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "foldHeading": false,
   "foldIndent": false,
   "showUnsupportedFiles": true,
