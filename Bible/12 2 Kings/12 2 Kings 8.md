@@ -1,3 +1,9 @@
+---
+date: 2024-05-28 11:42:21
+tags:
+  - bible
+---
+___
 
 ###### [[12 2 Kings 1|2 Kings 1 ⏮]] | [[12 2 Kings 7|2 Kings 7 ◀]] | [[2 Kings]] | [[12 2 Kings 9|▶ 2 Kings 9]] | [[12 2 Kings 25|⏭ 2 Kings 25|]]
 

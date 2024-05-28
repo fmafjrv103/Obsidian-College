@@ -20,7 +20,7 @@ Despite some criticisms of the Dewey Decimal System, it's an excellent, pre-buil
 	- [[Stoicism MOC]]
 - **200s - Spirituality & Religion**
 	- [[Witchcraft MOC]]
-	- [[Bible]]
+	- [[Bible|Bible MOC]]
 - **300s - Social Sciences (People living/working in Society, Law, Gov, Corps, Groups)**
 	- [[Rhetoric MOC]]
 - **400s - Language**
@@ -50,7 +50,7 @@ Despite some criticisms of the Dewey Decimal System, it's an excellent, pre-buil
 	- [[Literature MOC]]
 	- [[Books MOC]]
 - **900s - History & Biography & Geography**
-	- [[Ancient Culture MOC]] - Greek, Roman
+	- [[Ancient Culture MOC]] - Greek, Roman, Norse
 	- [[History MOC]]
 
 Note: There’s a reason this MOC is called interests and not Dewey. It isn’t about the whole decimal system; it’s about your interests. We’re just using Dewey’s basic outline as a fixed _spatial constellation_ upon which to easily add dots of new interests to it.

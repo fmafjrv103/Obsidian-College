@@ -1,0 +1,27 @@
+---
+tag: 📚Book books
+title: "The Poppy War"
+subtitle: "A Novel"
+author: [R. F. Kuang]
+category: [Fiction]
+publisher: HarperCollins
+publish: 2018-05-01
+total: 594
+isbn: 0062662597 9780062662590
+cover: http://books.google.com/books/content?id=c74wDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+description: “I have no doubt this will end up being the best fantasy debut of the year [...] I have absolutely no doubt that [Kuang’s] name will be up there with the likes of Robin Hobb and N.K. Jemisin.” -- Booknest A Library Journal, Paste Magazine, Vulture, BookBub, and ENTROPY Best Books pick! Washington Post "5 Best Science Fiction and Fantasy Novel" pick! A Bustle "30 Best Fiction Books" pick! A brilliantly imaginative talent makes her exciting debut with this epic historical military fantasy, inspired by the bloody history of China’s twentieth century and filled with treachery and magic, in the tradition of Ken Liu’s Grace of Kings and N.K. Jemisin’s Inheritance Trilogy. When Rin aced the Keju—the Empire-wide test to find the most talented youth to learn at the Academies—it was a shock to everyone: to the test officials, who couldn’t believe a war orphan from Rooster Province could pass without cheating; to Rin’s guardians, who believed they’d finally be able to marry her off and further their criminal enterprise; and to Rin herself, who realized she was finally free of the servitude and despair that had made up her daily existence. That she got into Sinegard—the most elite military school in Nikan—was even more surprising. But surprises aren’t always good. Because being a dark-skinned peasant girl from the south is not an easy thing at Sinegard. Targeted from the outset by rival classmates for her color, poverty, and gender, Rin discovers she possesses a lethal, unearthly power—an aptitude for the nearly-mythical art of shamanism. Exploring the depths of her gift with the help of a seemingly insane teacher and psychoactive substances, Rin learns that gods long thought dead are very much alive—and that mastering control over those powers could mean more than just surviving school. For while the Nikara Empire is at peace, the Federation of Mugen still lurks across a narrow sea. The militarily advanced Federation occupied Nikan for decades after the First Poppy War, and only barely lost the continent in the Second. And while most of the people are complacent to go about their lives, a few are aware that a Third Poppy War is just a spark away . . . Rin’s shamanic powers may be the only way to save her people. But as she finds out more about the god that has chosen her, the vengeful Phoenix, she fears that winning the war may cost her humanity . . . and that it may already be too late.
+status: unread
+owned: yes
+reference: no
+created: 2024-05-28 11:45:57
+updated: 2024-05-28 11:45:57
+favorite: Pending
+---
+
+![|150](http://books.google.com/books/content?id=c74wDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+
+# The Poppy War
+“I have no doubt this will end up being the best fantasy debut of the year [...] I have absolutely no doubt that [Kuang’s] name will be up there with the likes of Robin Hobb and N.K. Jemisin.” -- Booknest A Library Journal, Paste Magazine, Vulture, BookBub, and ENTROPY Best Books pick! Washington Post "5 Best Science Fiction and Fantasy Novel" pick! A Bustle "30 Best Fiction Books" pick! A brilliantly imaginative talent makes her exciting debut with this epic historical military fantasy, inspired by the bloody history of China’s twentieth century and filled with treachery and magic, in the tradition of Ken Liu’s Grace of Kings and N.K. Jemisin’s Inheritance Trilogy. When Rin aced the Keju—the Empire-wide test to find the most talented youth to learn at the Academies—it was a shock to everyone: to the test officials, who couldn’t believe a war orphan from Rooster Province could pass without cheating; to Rin’s guardians, who believed they’d finally be able to marry her off and further their criminal enterprise; and to Rin herself, who realized she was finally free of the servitude and despair that had made up her daily existence. That she got into Sinegard—the most elite military school in Nikan—was even more surprising. But surprises aren’t always good. Because being a dark-skinned peasant girl from the south is not an easy thing at Sinegard. Targeted from the outset by rival classmates for her color, poverty, and gender, Rin discovers she possesses a lethal, unearthly power—an aptitude for the nearly-mythical art of shamanism. Exploring the depths of her gift with the help of a seemingly insane teacher and psychoactive substances, Rin learns that gods long thought dead are very much alive—and that mastering control over those powers could mean more than just surviving school. For while the Nikara Empire is at peace, the Federation of Mugen still lurks across a narrow sea. The militarily advanced Federation occupied Nikan for decades after the First Poppy War, and only barely lost the continent in the Second. And while most of the people are complacent to go about their lives, a few are aware that a Third Poppy War is just a spark away . . . Rin’s shamanic powers may be the only way to save her people. But as she finds out more about the god that has chosen her, the vengeful Phoenix, she fears that winning the war may cost her humanity . . . and that it may already be too late.
+
+---
+Links: [[Books MOC]]

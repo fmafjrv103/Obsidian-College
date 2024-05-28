@@ -1,3 +1,9 @@
+---
+date: 2024-05-28 11:43:57
+tags:
+  - bible
+---
+___
 
 ###### [[13 1 Chronicles 1|1 Chronicles 1 ⏮]] | [[13 1 Chronicles 6|1 Chronicles 6 ◀]] | [[1 Chronicles]] | [[13 1 Chronicles 8|▶ 1 Chronicles 8]] | [[13 1 Chronicles 29|⏭ 1 Chronicles 29|]]
 
