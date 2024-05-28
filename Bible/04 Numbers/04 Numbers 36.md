@@ -1,3 +1,9 @@
+---
+date: 2024-05-28 03:01:17
+tags:
+  - bible
+---
+___
 
 ###### [[04 Numbers 1|Numbers 1 ⏮]] | [[04 Numbers 35|Numbers 35 ◀]] | [[Numbers]] | [[05 Deuteronomy 1|▶ Deuteronomy 1]] | [[04 Numbers 36|⏭ Numbers 36|]]
 

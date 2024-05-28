@@ -1,3 +1,9 @@
+---
+date: 2024-05-28 03:05:02
+tags:
+  - bible
+---
+___
 
 ###### [[05 Deuteronomy 1|Deuteronomy 1 ⏮]] | [[05 Deuteronomy 16|Deuteronomy 16 ◀]] | [[Deuteronomy]] | [[05 Deuteronomy 18|▶ Deuteronomy 18]] | [[05 Deuteronomy 34|⏭ Deuteronomy 34|]]
 

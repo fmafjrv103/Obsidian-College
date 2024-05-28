@@ -1,3 +1,9 @@
+---
+date: 2024-05-28 03:09:26
+tags:
+  - bible
+---
+___
 
 ###### [[06 Joshua 1|Joshua 1 ⏮]] | [[06 Joshua 4|Joshua 4 ◀]] | [[Joshua]] | [[06 Joshua 6|▶ Joshua 6]] | [[06 Joshua 24|⏭ Joshua 24|]]
 

@@ -1,3 +1,9 @@
+---
+date: 2024-05-28 03:01:03
+tags:
+  - bible
+---
+___
 
 ###### [[04 Numbers 1|Numbers 1 ⏮]] | [[04 Numbers 31|Numbers 31 ◀]] | [[Numbers]] | [[04 Numbers 33|▶ Numbers 33]] | [[04 Numbers 36|⏭ Numbers 36|]]
 

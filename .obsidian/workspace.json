@@ -40,6 +40,348 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "06 Joshua 5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/06 Joshua/06 Joshua 5.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":99},\"to\":{\"line\":7,\"ch\":99}}}"
+                },
+                {
+                  "title": "06 Joshua 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/06 Joshua/06 Joshua 4.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":99},\"to\":{\"line\":7,\"ch\":99}}}"
+                },
+                {
+                  "title": "06 Joshua 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/06 Joshua/06 Joshua 3.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":99},\"to\":{\"line\":7,\"ch\":99}}}"
+                },
+                {
+                  "title": "06 Joshua 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/06 Joshua/06 Joshua 2.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":99},\"to\":{\"line\":7,\"ch\":99}}}"
+                },
+                {
+                  "title": "06 Joshua 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/06 Joshua/06 Joshua 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":113},\"to\":{\"line\":7,\"ch\":113}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 34",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 34.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":122},\"to\":{\"line\":7,\"ch\":122}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 33",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 33.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":128},\"to\":{\"line\":7,\"ch\":128}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 32",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 32.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":128},\"to\":{\"line\":7,\"ch\":128}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 31",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 31.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":128},\"to\":{\"line\":7,\"ch\":128}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 30",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 30.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":128},\"to\":{\"line\":7,\"ch\":128}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 29",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 29.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":128},\"to\":{\"line\":7,\"ch\":128}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 28",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 28.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":128},\"to\":{\"line\":7,\"ch\":128}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 27",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 27.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":128},\"to\":{\"line\":7,\"ch\":128}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 26",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 26.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":128},\"to\":{\"line\":7,\"ch\":128}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 25",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 25.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":128},\"to\":{\"line\":7,\"ch\":128}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 24.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":128},\"to\":{\"line\":7,\"ch\":128}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 23.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":128},\"to\":{\"line\":7,\"ch\":128}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 22",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 22.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":129},\"to\":{\"line\":7,\"ch\":129}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 21",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 21.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":128},\"to\":{\"line\":7,\"ch\":128}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 20",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 20.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":128},\"to\":{\"line\":7,\"ch\":128}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 19",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 19.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":129},\"to\":{\"line\":7,\"ch\":129}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 18",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 18.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":129},\"to\":{\"line\":7,\"ch\":129}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 17",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 17.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":128},\"to\":{\"line\":7,\"ch\":128}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 16",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 16.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":129},\"to\":{\"line\":7,\"ch\":129}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 15",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 15.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":128},\"to\":{\"line\":7,\"ch\":128}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 14",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 14.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":128},\"to\":{\"line\":7,\"ch\":128}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 13",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 13.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":129},\"to\":{\"line\":7,\"ch\":129}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 12",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 12.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":129},\"to\":{\"line\":7,\"ch\":129}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 11",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 11.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":128},\"to\":{\"line\":7,\"ch\":128}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 10",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 10.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":127},\"to\":{\"line\":7,\"ch\":127}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 9",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 9.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":127},\"to\":{\"line\":7,\"ch\":127}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 8",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 8.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":126},\"to\":{\"line\":7,\"ch\":126}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 7.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":126},\"to\":{\"line\":7,\"ch\":126}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 6",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 6.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":126},\"to\":{\"line\":7,\"ch\":126}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 5.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":126},\"to\":{\"line\":7,\"ch\":126}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 4.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":126},\"to\":{\"line\":7,\"ch\":126}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 3.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":126},\"to\":{\"line\":7,\"ch\":126}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 2.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":127},\"to\":{\"line\":7,\"ch\":127}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":123},\"to\":{\"line\":7,\"ch\":123}}}"
+                },
+                {
+                  "title": "04 Numbers 36",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/04 Numbers/04 Numbers 36.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":109},\"to\":{\"line\":7,\"ch\":109}}}"
+                },
+                {
+                  "title": "04 Numbers 35",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/04 Numbers/04 Numbers 35.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":106},\"to\":{\"line\":7,\"ch\":106}}}"
+                },
+                {
+                  "title": "04 Numbers 34",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/04 Numbers/04 Numbers 34.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":106},\"to\":{\"line\":7,\"ch\":106}}}"
+                },
+                {
+                  "title": "04 Numbers 33",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/04 Numbers/04 Numbers 33.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":106},\"to\":{\"line\":7,\"ch\":106}}}"
+                },
+                {
+                  "title": "04 Numbers 32",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/04 Numbers/04 Numbers 32.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":106},\"to\":{\"line\":7,\"ch\":106}}}"
+                },
+                {
+                  "title": "04 Numbers 31",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/04 Numbers/04 Numbers 31.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":106},\"to\":{\"line\":7,\"ch\":106}}}"
+                },
+                {
+                  "title": "04 Numbers 30",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/04 Numbers/04 Numbers 30.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":106},\"to\":{\"line\":7,\"ch\":106}}}"
+                },
+                {
+                  "title": "04 Numbers 29",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/04 Numbers/04 Numbers 29.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":106},\"to\":{\"line\":7,\"ch\":106}}}"
+                },
+                {
+                  "title": "04 Numbers 28",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/04 Numbers/04 Numbers 28.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":106},\"to\":{\"line\":7,\"ch\":106}}}"
+                },
+                {
+                  "title": "04 Numbers 27",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/04 Numbers/04 Numbers 27.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":106},\"to\":{\"line\":7,\"ch\":106}}}"
+                },
+                {
+                  "title": "04 Numbers 26",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/04 Numbers/04 Numbers 26.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":106},\"to\":{\"line\":7,\"ch\":106}}}"
+                },
+                {
+                  "title": "04 Numbers 25",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/04 Numbers/04 Numbers 25.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":106},\"to\":{\"line\":7,\"ch\":106}}}"
+                },
+                {
+                  "title": "04 Numbers 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/04 Numbers/04 Numbers 24.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":105},\"to\":{\"line\":7,\"ch\":105}}}"
+                },
+                {
+                  "title": "04 Numbers 23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/04 Numbers/04 Numbers 23.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":105},\"to\":{\"line\":7,\"ch\":105}}}"
+                },
+                {
+                  "title": "04 Numbers 22",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/04 Numbers/04 Numbers 22.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":105},\"to\":{\"line\":7,\"ch\":105}}}"
+                },
+                {
+                  "title": "04 Numbers 21",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/04 Numbers/04 Numbers 21.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":105},\"to\":{\"line\":7,\"ch\":105}}}"
+                },
+                {
+                  "title": "04 Numbers 20",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/04 Numbers/04 Numbers 20.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":105},\"to\":{\"line\":7,\"ch\":105}}}"
+                },
+                {
+                  "title": "04 Numbers 19",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/04 Numbers/04 Numbers 19.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":105},\"to\":{\"line\":7,\"ch\":105}}}"
+                },
+                {
                   "title": "04 Numbers 18",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/04 Numbers/04 Numbers 18.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -1736,15 +2078,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/04 Numbers/04 Numbers 19.md",
+                "file": "Bible/06 Joshua/06 Joshua 6.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -2004,7 +2345,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bible/04 Numbers/04 Numbers 19.md",
+                "file": "000 Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -2104,34 +2445,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "906e16441557290c",
+  "active": "7d1ec5781e03eba8",
   "lastOpenFiles": [
-    "Bible/04 Numbers/04 Numbers 18.md",
-    "000 Home.md",
-    "Bible/04 Numbers/04 Numbers 17.md",
-    "Bible/04 Numbers/04 Numbers 16.md",
-    "Bible/04 Numbers/04 Numbers 15.md",
-    "Bible/04 Numbers/04 Numbers 14.md",
-    "Bible/04 Numbers/04 Numbers 13.md",
-    "Bible/04 Numbers/04 Numbers 12.md",
-    "Bible/04 Numbers/04 Numbers 11.md",
-    "Bible/04 Numbers/04 Numbers 10.md",
-    "Bible/04 Numbers/04 Numbers 9.md",
-    "Bible/04 Numbers/04 Numbers 8.md",
-    "Bible/04 Numbers/04 Numbers 7.md",
-    "Bible/04 Numbers/04 Numbers 6.md",
-    "Bible/04 Numbers/04 Numbers 5.md",
-    "Bible/04 Numbers/04 Numbers 4.md",
-    "Bible/04 Numbers/04 Numbers 3.md",
-    "Bible/04 Numbers/04 Numbers 2.md",
-    "Bible/04 Numbers/04 Numbers 1.md",
-    "Bible/03 Leviticus/03 Leviticus 27.md",
-    "Bible/03 Leviticus/03 Leviticus 26.md",
-    "Bible/03 Leviticus/03 Leviticus 25.md",
-    "Bible/03 Leviticus/03 Leviticus 24.md",
-    "Bible/03 Leviticus/03 Leviticus 23.md",
-    "Bible/03 Leviticus/03 Leviticus 22.md",
-    "Bible/03 Leviticus/03 Leviticus 21.md",
+    "Bible/06 Joshua/06 Joshua 6.md",
+    "Bible/06 Joshua/06 Joshua 5.md",
+    "Bible/06 Joshua/06 Joshua 4.md",
+    "Bible/06 Joshua/06 Joshua 3.md",
+    "Bible/06 Joshua/06 Joshua 2.md",
+    "Bible/06 Joshua/06 Joshua 1.md",
+    "Bible/05 Deuteronomy/05 Deuteronomy 34.md",
+    "Bible/05 Deuteronomy/05 Deuteronomy 33.md",
+    "Bible/05 Deuteronomy/05 Deuteronomy 32.md",
+    "Bible/05 Deuteronomy/05 Deuteronomy 31.md",
+    "Bible/05 Deuteronomy/05 Deuteronomy 30.md",
+    "Bible/05 Deuteronomy/05 Deuteronomy 29.md",
+    "Bible/05 Deuteronomy/05 Deuteronomy 28.md",
+    "Bible/05 Deuteronomy/05 Deuteronomy 27.md",
+    "Bible/05 Deuteronomy/05 Deuteronomy 26.md",
+    "Bible/05 Deuteronomy/05 Deuteronomy 25.md",
+    "Bible/05 Deuteronomy/05 Deuteronomy 24.md",
+    "Bible/05 Deuteronomy/05 Deuteronomy 23.md",
+    "Bible/05 Deuteronomy/05 Deuteronomy 22.md",
+    "Bible/05 Deuteronomy/05 Deuteronomy 21.md",
+    "Bible/05 Deuteronomy/05 Deuteronomy 20.md",
+    "Bible/05 Deuteronomy/05 Deuteronomy 19.md",
+    "Bible/05 Deuteronomy/05 Deuteronomy 18.md",
+    "Bible/05 Deuteronomy/05 Deuteronomy 17.md",
+    "Bible/05 Deuteronomy/05 Deuteronomy 16.md",
+    "Bible/05 Deuteronomy/05 Deuteronomy 15.md",
     "Bible/66 Revelation",
     "Bible/65 Jude",
     "Bible/64 3 John",

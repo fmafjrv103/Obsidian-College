@@ -1,3 +1,9 @@
+---
+date: 2024-05-28 03:08:56
+tags:
+  - bible
+---
+___
 
 ###### [[06 Joshua 1|Joshua 1 ⏮]] | [[05 Deuteronomy 34|Deuteronomy 34 ◀]] | [[Joshua]] | [[06 Joshua 2|▶ Joshua 2]] | [[06 Joshua 24|⏭ Joshua 24|]]
 
