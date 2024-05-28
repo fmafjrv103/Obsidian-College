@@ -1,3 +1,9 @@
+---
+date: 2024-05-28 11:12:30
+tags:
+  - bible
+---
+___
 
 ###### [[07 Judges 1|Judges 1 ⏮]] | [[06 Joshua 24|Joshua 24 ◀]] | [[Judges]] | [[07 Judges 2|▶ Judges 2]] | [[07 Judges 21|⏭ Judges 21|]]
 

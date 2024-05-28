@@ -1,3 +1,9 @@
+---
+date: 2024-05-28 11:13:17
+tags:
+  - bible
+---
+___
 
 ###### [[07 Judges 1|Judges 1 ⏮]] | [[07 Judges 14|Judges 14 ◀]] | [[Judges]] | [[07 Judges 16|▶ Judges 16]] | [[07 Judges 21|⏭ Judges 21|]]
 

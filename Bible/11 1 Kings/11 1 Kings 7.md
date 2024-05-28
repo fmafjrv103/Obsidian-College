@@ -1,3 +1,9 @@
+---
+date: 2024-05-28 11:36:03
+tags:
+  - bible
+---
+___
 
 ###### [[11 1 Kings 1|1 Kings 1 ⏮]] | [[11 1 Kings 6|1 Kings 6 ◀]] | [[1 Kings]] | [[11 1 Kings 8|▶ 1 Kings 8]] | [[11 1 Kings 22|⏭ 1 Kings 22|]]
 

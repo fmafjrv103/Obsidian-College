@@ -15,7 +15,7 @@ links: [[000 Home|Home]]
 >_” Maybe you’ll come up with something new, maybe you’ll become the next Da Vinci and people will be taking notes on you”_ — Chris Pomeroy
 # Home Categories
 - 000s - [[000 Home|Home]], [[005 Active MOC|Active Notes]], and the following Maps of Content (MOCs):
-- 010s - [[010 Notes MOC|Notes]]
+- 010s - [[010 Notes MOC|Notes]] 
 - 020s - [[020 School MOC|School]]
 - 030s - [[030 People MOC|People]], [[035 Places MOC|Places]]
 - 040s - [[040 Interests MOC|Interests]]

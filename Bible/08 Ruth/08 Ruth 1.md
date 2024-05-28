@@ -1,3 +1,9 @@
+---
+date: 2024-05-28 11:13:45
+tags:
+  - bible
+---
+___
 
 ###### [[08 Ruth 1|Ruth 1 ⏮]] | [[07 Judges 21|Judges 21 ◀]] | [[Ruth]] | [[08 Ruth 2|▶ Ruth 2]] | [[08 Ruth 4|⏭ Ruth 4|]]
 

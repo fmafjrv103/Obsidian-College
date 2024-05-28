@@ -1,3 +1,9 @@
+---
+date: 2024-05-28 11:14:45
+tags:
+  - bible
+---
+___
 
 ###### [[09 1 Samuel 1|1 Samuel 1 ⏮]] | [[09 1 Samuel 12|1 Samuel 12 ◀]] | [[1 Samuel]] | [[09 1 Samuel 14|▶ 1 Samuel 14]] | [[09 1 Samuel 31|⏭ 1 Samuel 31|]]
 

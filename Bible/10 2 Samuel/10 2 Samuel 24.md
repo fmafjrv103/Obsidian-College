@@ -1,3 +1,9 @@
+---
+date: 2024-05-28 11:21:10
+tags:
+  - bible
+---
+___
 
 ###### [[10 2 Samuel 1|2 Samuel 1 ⏮]] | [[10 2 Samuel 23|2 Samuel 23 ◀]] | [[2 Samuel]] | [[11 1 Kings 1|▶ 1 Kings 1]] | [[10 2 Samuel 24|⏭ 2 Samuel 24|]]
 

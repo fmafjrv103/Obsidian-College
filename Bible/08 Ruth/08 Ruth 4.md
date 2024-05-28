@@ -1,3 +1,9 @@
+---
+date: 2024-05-28 11:14:00
+tags:
+  - bible
+---
+___
 
 ###### [[08 Ruth 1|Ruth 1 ⏮]] | [[08 Ruth 3|Ruth 3 ◀]] | [[Ruth]] | [[09 1 Samuel 1|▶ 1 Samuel 1]] | [[08 Ruth 4|⏭ Ruth 4|]]
 
