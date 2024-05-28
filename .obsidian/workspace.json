@@ -40,6 +40,432 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "66 Revelation 22",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/66 Revelation/66 Revelation 22.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":122},\"to\":{\"line\":1,\"ch\":122}}}"
+                },
+                {
+                  "title": "01 Genesis 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/01 Genesis/01 Genesis 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":62},\"to\":{\"line\":1,\"ch\":62}}}"
+                },
+                {
+                  "title": "01 Genesis 50",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/01 Genesis/01 Genesis 50.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":26},\"to\":{\"line\":1,\"ch\":26}}}"
+                },
+                {
+                  "title": "02 Exodus 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/02 Exodus/02 Exodus 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":55},\"to\":{\"line\":1,\"ch\":55}}}"
+                },
+                {
+                  "title": "02 Exodus 40",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/02 Exodus/02 Exodus 40.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":25},\"to\":{\"line\":1,\"ch\":25}}}"
+                },
+                {
+                  "title": "03 Leviticus 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/03 Leviticus/03 Leviticus 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":60},\"to\":{\"line\":1,\"ch\":60}}}"
+                },
+                {
+                  "title": "03 Leviticus 27",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/03 Leviticus/03 Leviticus 27.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":30},\"to\":{\"line\":1,\"ch\":30}}}"
+                },
+                {
+                  "title": "04 Numbers 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/04 Numbers/04 Numbers 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":64},\"to\":{\"line\":1,\"ch\":64}}}"
+                },
+                {
+                  "title": "04 Numbers 36",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/04 Numbers/04 Numbers 36.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":27},\"to\":{\"line\":1,\"ch\":27}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":63},\"to\":{\"line\":1,\"ch\":63}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 34",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 34.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":32},\"to\":{\"line\":1,\"ch\":32}}}"
+                },
+                {
+                  "title": "06 Joshua 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/06 Joshua/06 Joshua 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":58},\"to\":{\"line\":1,\"ch\":58}}}"
+                },
+                {
+                  "title": "06 Joshua 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/06 Joshua/06 Joshua 24.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":26},\"to\":{\"line\":1,\"ch\":26}}}"
+                },
+                {
+                  "title": "07 Judges 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/07 Judges/07 Judges 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":53},\"to\":{\"line\":1,\"ch\":53}}}"
+                },
+                {
+                  "title": "07 Judges 21",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/07 Judges/07 Judges 21.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":23},\"to\":{\"line\":1,\"ch\":23}}}"
+                },
+                {
+                  "title": "08 Ruth 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/08 Ruth/08 Ruth 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":50},\"to\":{\"line\":1,\"ch\":50}}}"
+                },
+                {
+                  "title": "08 Ruth 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/08 Ruth/08 Ruth 4.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":21},\"to\":{\"line\":1,\"ch\":21}}}"
+                },
+                {
+                  "title": "09 1 Samuel 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/09 1 Samuel/09 1 Samuel 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":54},\"to\":{\"line\":1,\"ch\":54}}}"
+                },
+                {
+                  "title": "08 Ruth 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/08 Ruth/08 Ruth 4.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":90},\"to\":{\"line\":1,\"ch\":90}}}"
+                },
+                {
+                  "title": "08 Ruth 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/08 Ruth/08 Ruth 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":112},\"to\":{\"line\":1,\"ch\":112}}}"
+                },
+                {
+                  "title": "07 Judges 21",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/07 Judges/07 Judges 21.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":98},\"to\":{\"line\":1,\"ch\":98}}}"
+                },
+                {
+                  "title": "07 Judges 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/07 Judges/07 Judges 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":129},\"to\":{\"line\":1,\"ch\":129}}}"
+                },
+                {
+                  "title": "06 Joshua 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/06 Joshua/06 Joshua 24.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":100},\"to\":{\"line\":1,\"ch\":100}}}"
+                },
+                {
+                  "title": "06 Joshua 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/06 Joshua/06 Joshua 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":140},\"to\":{\"line\":1,\"ch\":140}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 34",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 34.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":123},\"to\":{\"line\":1,\"ch\":123}}}"
+                },
+                {
+                  "title": "05 Deuteronomy 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/05 Deuteronomy/05 Deuteronomy 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":160},\"to\":{\"line\":1,\"ch\":160}}}"
+                },
+                {
+                  "title": "04 Numbers 36",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/04 Numbers/04 Numbers 36.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":110},\"to\":{\"line\":1,\"ch\":110}}}"
+                },
+                {
+                  "title": "04 Numbers 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/04 Numbers/04 Numbers 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":138},\"to\":{\"line\":1,\"ch\":138}}}"
+                },
+                {
+                  "title": "03 Leviticus 27",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/03 Leviticus/03 Leviticus 27.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":114},\"to\":{\"line\":1,\"ch\":114}}}"
+                },
+                {
+                  "title": "03 Leviticus 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/03 Leviticus/03 Leviticus 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":146},\"to\":{\"line\":1,\"ch\":146}}}"
+                },
+                {
+                  "title": "02 Exodus 40",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/02 Exodus/02 Exodus 40.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":104},\"to\":{\"line\":1,\"ch\":104}}}"
+                },
+                {
+                  "title": "02 Exodus 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/02 Exodus/02 Exodus 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":132},\"to\":{\"line\":1,\"ch\":132}}}"
+                },
+                {
+                  "title": "01 Genesis 50",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/01 Genesis/01 Genesis 50.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":104},\"to\":{\"line\":1,\"ch\":104}}}"
+                },
+                {
+                  "title": "01 Genesis 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/01 Genesis/01 Genesis 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":143},\"to\":{\"line\":1,\"ch\":143}}}"
+                },
+                {
+                  "title": "Genesis",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Genesis.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":11},\"to\":{\"line\":8,\"ch\":11}}}"
+                },
+                {
+                  "title": "Bible",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Bible.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":7},\"to\":{\"line\":13,\"ch\":7}}}"
+                },
+                {
+                  "title": "Ruth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Ruth.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Judges",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Judges.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":41},\"to\":{\"line\":7,\"ch\":41}}}"
+                },
+                {
+                  "title": "Joshua",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Joshua.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":54},\"to\":{\"line\":7,\"ch\":54}}}"
+                },
+                {
+                  "title": "Bible",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Bible.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":8},\"to\":{\"line\":18,\"ch\":8}}}"
+                },
+                {
+                  "title": "Bible Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Bible Template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":6},\"to\":{\"line\":2,\"ch\":6}}}"
+                },
+                {
+                  "title": "Joshua",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Joshua.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Bible",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Bible.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":8},\"to\":{\"line\":18,\"ch\":8}}}"
+                },
+                {
+                  "title": "Bible Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Bible Template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":7},\"to\":{\"line\":2,\"ch\":7}}}"
+                },
+                {
+                  "title": "Joshua",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Joshua.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Deuteronomy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Deuteronomy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":45},\"to\":{\"line\":7,\"ch\":45}}}"
+                },
+                {
+                  "title": "Bible",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Bible.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":9},\"to\":{\"line\":17,\"ch\":9}}}"
+                },
+                {
+                  "title": "Bible Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Bible Template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":25},\"to\":{\"line\":6,\"ch\":25}}}"
+                },
+                {
+                  "title": "Deuteronomy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Deuteronomy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":25},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Bible",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Bible.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":8},\"to\":{\"line\":17,\"ch\":8}}}"
+                },
+                {
+                  "title": "Bible Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Bible Template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Regular Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Regular Template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Bible Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Bible Template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Deuteronomy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Deuteronomy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":25},\"to\":{\"line\":7,\"ch\":25}}}"
+                },
+                {
+                  "title": "Numbers",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Numbers.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":55},\"to\":{\"line\":7,\"ch\":55}}}"
+                },
+                {
+                  "title": "Leviticus",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Leviticus.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":45},\"to\":{\"line\":7,\"ch\":45}}}"
+                },
+                {
+                  "title": "Exodus",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Exodus.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":48},\"to\":{\"line\":7,\"ch\":48}}}"
+                },
+                {
+                  "title": "Genesis",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Genesis.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":50},\"to\":{\"line\":7,\"ch\":50}}}"
+                },
+                {
+                  "title": "Exodus",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Exodus.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":23},\"to\":{\"line\":6,\"ch\":23}}}"
+                },
+                {
+                  "title": "Leviticus",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Leviticus.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":22},\"to\":{\"line\":6,\"ch\":22}}}"
+                },
+                {
+                  "title": "Numbers",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Numbers.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":25},\"to\":{\"line\":6,\"ch\":25}}}"
+                },
+                {
+                  "title": "Leviticus",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Leviticus.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":44},\"to\":{\"line\":6,\"ch\":44}}}"
+                },
+                {
+                  "title": "Exodus",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Exodus.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":49},\"to\":{\"line\":6,\"ch\":49}}}"
+                },
+                {
+                  "title": "Leviticus",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Leviticus.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":20},\"to\":{\"line\":6,\"ch\":20}}}"
+                },
+                {
+                  "title": "Bible",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Bible.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":9},\"to\":{\"line\":15,\"ch\":9}}}"
+                },
+                {
+                  "title": "Regular Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Regular Template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Leviticus",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Leviticus.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Exodus",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Exodus.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":48},\"to\":{\"line\":6,\"ch\":48}}}"
+                },
+                {
+                  "title": "Genesis",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Genesis.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":51},\"to\":{\"line\":6,\"ch\":51}}}"
+                },
+                {
+                  "title": "Exodus",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Exodus.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":21},\"to\":{\"line\":6,\"ch\":21}}}"
+                },
+                {
+                  "title": "Genesis",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Genesis.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":46},\"to\":{\"line\":6,\"ch\":46}}}"
+                },
+                {
                   "title": "Bible",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Bible.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -500,7 +926,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/Genesis.md",
+                "file": "Bible/01 Genesis/01 Genesis 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -585,8 +1011,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 513.5,
-    "collapsed": true
+    "width": 513.5
   },
   "right": {
     "id": "f90594313b89809e",
@@ -708,6 +1133,15 @@
           {
             "id": "b07368cc8250ad6d",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {}
@@ -760,7 +1194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bible/Genesis.md",
+                "file": "Bible/01 Genesis/01 Genesis 1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -855,32 +1289,32 @@
   },
   "active": "906e16441557290c",
   "lastOpenFiles": [
+    "Bible/66 Revelation/66 Revelation 22.md",
+    "Bible/01 Genesis/01 Genesis 1.md",
+    "Bible/01 Genesis/01 Genesis 50.md",
+    "Bible/02 Exodus/02 Exodus 1.md",
+    "Bible/02 Exodus/02 Exodus 40.md",
+    "Bible/03 Leviticus/03 Leviticus 1.md",
+    "Bible/03 Leviticus/03 Leviticus 27.md",
+    "Bible/04 Numbers/04 Numbers 1.md",
+    "Bible/04 Numbers/04 Numbers 36.md",
+    "Bible/05 Deuteronomy/05 Deuteronomy 1.md",
+    "Bible/05 Deuteronomy/05 Deuteronomy 34.md",
+    "Bible/06 Joshua/06 Joshua 1.md",
+    "Bible/06 Joshua/06 Joshua 24.md",
+    "Bible/07 Judges/07 Judges 1.md",
+    "Bible/07 Judges/07 Judges 21.md",
+    "Bible/08 Ruth/08 Ruth 1.md",
+    "Bible/08 Ruth/08 Ruth 4.md",
+    "Bible/09 1 Samuel/09 1 Samuel 1.md",
+    "Bible/Genesis.md",
     "Bible/Bible.md",
-    "Bible/Exodus.md",
-    "Bible/29 Joel/29 Joel 1.md",
-    "Bible/28 Hosea/28 Hosea 14.md",
-    "Bible/28 Hosea/28 Hosea 1.md",
-    "Bible/27 Daniel/27 Daniel 12.md",
-    "Bible/27 Daniel/27 Daniel 1.md",
-    "Bible/26 Ezekiel/26 Ezekiel 48.md",
-    "Bible/26 Ezekiel/26 Ezekiel 1.md",
-    "Bible/25 Lamentations/25 Lamentations 5.md",
-    "Bible/25 Lamentations/25 Lamentations 1.md",
-    "Bible/24 Jeremiah/24 Jeremiah 52.md",
-    "Bible/24 Jeremiah/24 Jeremiah 1.md",
-    "Bible/23 Isaiah/23 Isaiah 66.md",
-    "Bible/23 Isaiah/23 Isaiah 1.md",
-    "Bible/22 Song of Solomon/22 Song of Solomon 8.md",
-    "Bible/22 Song of Solomon/22 Song of Solomon 1.md",
-    "Bible/21 Ecclesiastes/21 Ecclesiastes 12.md",
-    "Bible/21 Ecclesiastes/21 Ecclesiastes 1.md",
-    "Bible/20 Proverbs/20 Proverbs 31.md",
-    "Bible/20 Proverbs/20 Proverbs 1.md",
-    "Bible/19 Psalm/19 Psalm 150.md",
-    "Bible/19 Psalm/19 Psalm 1.md",
-    "Bible/18 Job/18 Job 42.md",
-    "Bible/18 Job/18 Job 1.md",
-    "Bible/17 Esther/17 Esther 10.md",
+    "Bible/Ruth.md",
+    "Bible/Judges.md",
+    "Bible/Joshua.md",
+    "Templates/Bible Template.md",
+    "Bible/Deuteronomy.md",
+    "Templates/Regular Template.md",
     "Bible/66 Revelation",
     "Bible/65 Jude",
     "Bible/64 3 John",

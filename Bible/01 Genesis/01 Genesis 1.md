@@ -1,4 +1,9 @@
-
+---
+date: 2024-05-28 02:27:43
+tags:
+  - bible
+---
+___
 ###### [[01 Genesis 1|Genesis 1 ⏮]] | [[66 Revelation 22|Revelation 22 ◀]] | [[Genesis]] | [[01 Genesis 2|▶ Genesis 2]] | [[01 Genesis 50|⏭ Genesis 50|]]
 
 ###### 1

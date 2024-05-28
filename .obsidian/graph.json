@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 350012
       }
+    },
+    {
+      "query": "tag:#bible",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
     }
   ],
   "collapse-display": false,
@@ -60,6 +67,6 @@
   "repelStrength": 10.1921841229044,
   "linkStrength": 0.693498452012384,
   "linkDistance": 313,
-  "scale": 0.055247012890115736,
+  "scale": 0.04682346673345867,
   "close": true
 }
