@@ -1,3 +1,9 @@
+---
+date: 2024-05-28 13:55:42
+tags:
+  - bible
+---
+___
 
 ###### [[19 Psalm 1|Psalm 1 ⏮]] | [[19 Psalm 34|Psalm 34 ◀]] | [[Psalm]] | [[19 Psalm 36|▶ Psalm 36]] | [[19 Psalm 150|⏭ Psalm 150|]]
 
