@@ -4,12 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bb0a44a81e18853b",
+        "id": "39689b0a2259a1e1",
         "type": "tabs",
         "children": [
           {
-            "id": "744ca78ac579cadb",
+            "id": "405b6df75aac253e",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "markdown",
               "state": {
@@ -131,6 +140,15 @@
           {
             "id": "41f689c7aa5a6299",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "Timer",
               "state": {}
@@ -151,60 +169,34 @@
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
-          },
-          {
-            "id": "69f8023a2a0e27e6",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "000 Home.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "fb54a7274fbd26f0",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "000 Home.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "d6596d5e5b431d94",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
-          },
-          {
-            "id": "d12640698c41630f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "000 Home.md"
-              }
-            }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "be49819afffadbc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53a91095c0f3296c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
       },
       {
         "id": "ef395338d2a8fa7a",
@@ -323,8 +315,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "744ca78ac579cadb",
+  "active": "405b6df75aac253e",
   "lastOpenFiles": [
+    "Bible/19 Psalm/19 Psalm 135.md",
+    "000 Home.md",
     "Bible/19 Psalm/19 Psalm 119.md",
     "Bible/19 Psalm/19 Psalm 120.md",
     "Bible/19 Psalm/19 Psalm 121.md",
@@ -341,7 +335,6 @@
     "Bible/19 Psalm/19 Psalm 132.md",
     "Bible/19 Psalm/19 Psalm 133.md",
     "Bible/19 Psalm/19 Psalm 134.md",
-    "Bible/19 Psalm/19 Psalm 135.md",
     "Bible/19 Psalm/19 Psalm 136.md",
     "Bible/19 Psalm/19 Psalm 137.md",
     "Bible/19 Psalm/19 Psalm 138.md",
@@ -350,7 +343,6 @@
     "Bible/19 Psalm/19 Psalm 141.md",
     "Bible/19 Psalm/19 Psalm 142.md",
     "Bible/19 Psalm/19 Psalm 143.md",
-    "Bible/19 Psalm/19 Psalm 144.md",
     "Bible/66 Revelation",
     "Bible/65 Jude",
     "Bible/64 3 John",
