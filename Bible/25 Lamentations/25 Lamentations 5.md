@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:09:06
+tags:
+  - bible
+---
+___
 
 ###### [[25 Lamentations 1|Lamentations 1 ⏮]] | [[25 Lamentations 4|Lamentations 4 ◀]] | [[Lamentations]] | [[26 Ezekiel 1|▶ Ezekiel 1]] | [[25 Lamentations 5|⏭ Lamentations 5|]]
 

@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:03:14
+tags:
+  - bible
+---
+___
 
 ###### [[23 Isaiah 1|Isaiah 1 ⏮]] | [[23 Isaiah 33|Isaiah 33 ◀]] | [[Isaiah]] | [[23 Isaiah 35|▶ Isaiah 35]] | [[23 Isaiah 66|⏭ Isaiah 66|]]
 

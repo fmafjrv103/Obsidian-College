@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:07:27
+tags:
+  - bible
+---
+___
 
 ###### [[24 Jeremiah 1|Jeremiah 1 ⏮]] | [[24 Jeremiah 37|Jeremiah 37 ◀]] | [[Jeremiah]] | [[24 Jeremiah 39|▶ Jeremiah 39]] | [[24 Jeremiah 52|⏭ Jeremiah 52|]]
 

@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:06:56
+tags:
+  - bible
+---
+___
 
 ###### [[24 Jeremiah 1|Jeremiah 1 ⏮]] | [[24 Jeremiah 24|Jeremiah 24 ◀]] | [[Jeremiah]] | [[24 Jeremiah 26|▶ Jeremiah 26]] | [[24 Jeremiah 52|⏭ Jeremiah 52|]]
 

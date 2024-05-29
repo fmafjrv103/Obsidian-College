@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:08:40
+tags:
+  - bible
+---
+___
 
 ###### [[25 Lamentations 1|Lamentations 1 ⏮]] | [[25 Lamentations 1|Lamentations 1 ◀]] | [[Lamentations]] | [[25 Lamentations 3|▶ Lamentations 3]] | [[25 Lamentations 5|⏭ Lamentations 5|]]
 

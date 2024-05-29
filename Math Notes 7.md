@@ -5,6 +5,7 @@ tags:
   - notes
   - complete
 complete: Yes
+completeDate: 2024-03-28
 ---
 Links: [[Math MOC]]
 

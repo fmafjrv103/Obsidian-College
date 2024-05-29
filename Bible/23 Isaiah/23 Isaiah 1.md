@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:01:36
+tags:
+  - bible
+---
+___
 
 ###### [[23 Isaiah 1|Isaiah 1 ⏮]] | [[22 Song of Solomon 8|Song of Solomon 8 ◀]] | [[Isaiah]] | [[23 Isaiah 2|▶ Isaiah 2]] | [[23 Isaiah 66|⏭ Isaiah 66|]]
 

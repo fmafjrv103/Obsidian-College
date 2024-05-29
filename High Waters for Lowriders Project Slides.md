@@ -5,6 +5,7 @@ tags:
   - complete
   - projects
 complete: Yes
+completeDate: 2024-03-17
 ---
 Links: [[High Waters for Lowriders]]
 
