@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:15:08
+tags:
+  - bible
+---
+___
 
 ###### [[31 Obadiah 1|Obadiah 1 ⏮]] | [[30 Amos 9|Amos 9 ◀]] | [[Obadiah]] | [[32 Jonah 1|▶ Jonah 1]] | [[31 Obadiah 1|⏭ Obadiah 1|]]
 

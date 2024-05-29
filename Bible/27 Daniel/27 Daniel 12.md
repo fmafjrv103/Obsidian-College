@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:12:33
+tags:
+  - bible
+---
+___
 
 ###### [[27 Daniel 1|Daniel 1 ⏮]] | [[27 Daniel 11|Daniel 11 ◀]] | [[Daniel]] | [[28 Hosea 1|▶ Hosea 1]] | [[27 Daniel 12|⏭ Daniel 12|]]
 

@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:27:10
+tags:
+  - bible
+---
+___
 
 ###### [[48 Galatians 1|Galatians 1 ⏮]] | [[48 Galatians 5|Galatians 5 ◀]] | [[Galatians]] | [[49 Ephesians 1|▶ Ephesians 1]] | [[48 Galatians 6|⏭ Galatians 6|]]
 

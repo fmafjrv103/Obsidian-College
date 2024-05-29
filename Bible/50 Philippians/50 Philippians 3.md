@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:27:46
+tags:
+  - bible
+---
+___
 
 ###### [[50 Philippians 1|Philippians 1 ⏮]] | [[50 Philippians 2|Philippians 2 ◀]] | [[Philippians]] | [[50 Philippians 4|▶ Philippians 4]] | [[50 Philippians 4|⏭ Philippians 4|]]
 

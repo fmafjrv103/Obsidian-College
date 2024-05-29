@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:12:02
+tags:
+  - bible
+---
+___
 
 ###### [[27 Daniel 1|Daniel 1 ⏮]] | [[26 Ezekiel 48|Ezekiel 48 ◀]] | [[Daniel]] | [[27 Daniel 2|▶ Daniel 2]] | [[27 Daniel 12|⏭ Daniel 12|]]
 

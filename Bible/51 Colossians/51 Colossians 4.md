@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:28:05
+tags:
+  - bible
+---
+___
 
 ###### [[51 Colossians 1|Colossians 1 ⏮]] | [[51 Colossians 3|Colossians 3 ◀]] | [[Colossians]] | [[52 1 Thessalonians 1|▶ 1 Thessalonians 1]] | [[51 Colossians 4|⏭ Colossians 4|]]
 

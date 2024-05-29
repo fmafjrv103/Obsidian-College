@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:20:47
+tags:
+  - bible
+---
+___
 
 ###### [[42 Luke 1|Luke 1 ⏮]] | [[42 Luke 5|Luke 5 ◀]] | [[Luke]] | [[42 Luke 7|▶ Luke 7]] | [[42 Luke 24|⏭ Luke 24|]]
 

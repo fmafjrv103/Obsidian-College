@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:16:22
+tags:
+  - bible
+---
+___
 
 ###### [[35 Habakkuk 1|Habakkuk 1 ⏮]] | [[34 Nahum 3|Nahum 3 ◀]] | [[Habakkuk]] | [[35 Habakkuk 2|▶ Habakkuk 2]] | [[35 Habakkuk 3|⏭ Habakkuk 3|]]
 

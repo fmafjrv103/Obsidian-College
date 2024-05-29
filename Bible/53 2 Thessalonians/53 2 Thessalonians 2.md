@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:28:35
+tags:
+  - bible
+---
+___
 
 ###### [[53 2 Thessalonians 1|2 Thessalonians 1 ⏮]] | [[53 2 Thessalonians 1|2 Thessalonians 1 ◀]] | [[2 Thessalonians]] | [[53 2 Thessalonians 3|▶ 2 Thessalonians 3]] | [[53 2 Thessalonians 3|⏭ 2 Thessalonians 3|]]
 

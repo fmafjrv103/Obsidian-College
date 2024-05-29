@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:16:33
+tags:
+  - bible
+---
+___
 
 ###### [[36 Zephaniah 1|Zephaniah 1 ⏮]] | [[36 Zephaniah 1|Zephaniah 1 ◀]] | [[Zephaniah]] | [[36 Zephaniah 3|▶ Zephaniah 3]] | [[36 Zephaniah 3|⏭ Zephaniah 3|]]
 

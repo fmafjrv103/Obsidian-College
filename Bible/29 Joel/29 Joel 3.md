@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:14:43
+tags:
+  - bible
+---
+___
 
 ###### [[29 Joel 1|Joel 1 ⏮]] | [[29 Joel 2|Joel 2 ◀]] | [[Joel]] | [[30 Amos 1|▶ Amos 1]] | [[29 Joel 3|⏭ Joel 3|]]
 

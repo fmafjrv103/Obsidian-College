@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:26:27
+tags:
+  - bible
+---
+___
 
 ###### [[47 2 Corinthians 1|2 Corinthians 1 ⏮]] | [[47 2 Corinthians 6|2 Corinthians 6 ◀]] | [[2 Corinthians]] | [[47 2 Corinthians 8|▶ 2 Corinthians 8]] | [[47 2 Corinthians 13|⏭ 2 Corinthians 13|]]
 

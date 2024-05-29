@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:29:09
+tags:
+  - bible
+---
+___
 
 ###### [[56 Titus 1|Titus 1 ⏮]] | [[55 2 Timothy 4|2 Timothy 4 ◀]] | [[Titus]] | [[56 Titus 2|▶ Titus 2]] | [[56 Titus 3|⏭ Titus 3|]]
 

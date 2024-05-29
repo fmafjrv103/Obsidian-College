@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:23:35
+tags:
+  - bible
+---
+___
 
 ###### [[44 Acts 1|Acts 1 ⏮]] | [[44 Acts 6|Acts 6 ◀]] | [[Acts]] | [[44 Acts 8|▶ Acts 8]] | [[44 Acts 28|⏭ Acts 28|]]
 

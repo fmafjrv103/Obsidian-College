@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:17:31
+tags:
+  - bible
+---
+___
 
 ###### [[38 Zechariah 1|Zechariah 1 ⏮]] | [[38 Zechariah 10|Zechariah 10 ◀]] | [[Zechariah]] | [[38 Zechariah 12|▶ Zechariah 12]] | [[38 Zechariah 14|⏭ Zechariah 14|]]
 

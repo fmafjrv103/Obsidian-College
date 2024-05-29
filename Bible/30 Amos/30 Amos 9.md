@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:15:06
+tags:
+  - bible
+---
+___
 
 ###### [[30 Amos 1|Amos 1 ⏮]] | [[30 Amos 8|Amos 8 ◀]] | [[Amos]] | [[31 Obadiah 1|▶ Obadiah 1]] | [[30 Amos 9|⏭ Amos 9|]]
 

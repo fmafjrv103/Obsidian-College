@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:11:47
+tags:
+  - bible
+---
+___
 
 ###### [[26 Ezekiel 1|Ezekiel 1 ⏮]] | [[26 Ezekiel 41|Ezekiel 41 ◀]] | [[Ezekiel]] | [[26 Ezekiel 43|▶ Ezekiel 43]] | [[26 Ezekiel 48|⏭ Ezekiel 48|]]
 

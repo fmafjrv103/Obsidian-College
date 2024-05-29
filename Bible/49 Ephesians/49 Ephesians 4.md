@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:27:26
+tags:
+  - bible
+---
+___
 
 ###### [[49 Ephesians 1|Ephesians 1 ⏮]] | [[49 Ephesians 3|Ephesians 3 ◀]] | [[Ephesians]] | [[49 Ephesians 5|▶ Ephesians 5]] | [[49 Ephesians 6|⏭ Ephesians 6|]]
 

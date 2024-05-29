@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:22:24
+tags:
+  - bible
+---
+___
 
 ###### [[43 John 1|John 1 ⏮]] | [[43 John 2|John 2 ◀]] | [[John]] | [[43 John 4|▶ John 4]] | [[43 John 21|⏭ John 21|]]
 

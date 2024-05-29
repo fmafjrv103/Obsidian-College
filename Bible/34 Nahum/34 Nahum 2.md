@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:16:16
+tags:
+  - bible
+---
+___
 
 ###### [[34 Nahum 1|Nahum 1 ⏮]] | [[34 Nahum 1|Nahum 1 ◀]] | [[Nahum]] | [[34 Nahum 3|▶ Nahum 3]] | [[34 Nahum 3|⏭ Nahum 3|]]
 

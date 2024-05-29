@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 16:26:15
+tags:
+  - bible
+---
+___
 
 ###### [[58 Hebrews 1|Hebrews 1 ⏮]] | [[58 Hebrews 11|Hebrews 11 ◀]] | [[Hebrews]] | [[58 Hebrews 13|▶ Hebrews 13]] | [[58 Hebrews 13|⏭ Hebrews 13|]]
 

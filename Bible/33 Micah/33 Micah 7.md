@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:16:10
+tags:
+  - bible
+---
+___
 
 ###### [[33 Micah 1|Micah 1 ⏮]] | [[33 Micah 6|Micah 6 ◀]] | [[Micah]] | [[34 Nahum 1|▶ Nahum 1]] | [[33 Micah 7|⏭ Micah 7|]]
 

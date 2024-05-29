@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 16:27:32
+tags:
+  - bible
+---
+___
 
 ###### [[60 1 Peter 1|1 Peter 1 ⏮]] | [[60 1 Peter 2|1 Peter 2 ◀]] | [[1 Peter]] | [[60 1 Peter 4|▶ 1 Peter 4]] | [[60 1 Peter 5|⏭ 1 Peter 5|]]
 

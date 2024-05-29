@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:16:46
+tags:
+  - bible
+---
+___
 
 ###### [[37 Haggai 1|Haggai 1 ⏮]] | [[37 Haggai 1|Haggai 1 ◀]] | [[Haggai]] | [[38 Zechariah 1|▶ Zechariah 1]] | [[37 Haggai 2|⏭ Haggai 2|]]
 

@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:29:23
+tags:
+  - bible
+---
+___
 
 ###### [[58 Hebrews 1|Hebrews 1 ⏮]] | [[57 Philemon 1|Philemon 1 ◀]] | [[Hebrews]] | [[58 Hebrews 2|▶ Hebrews 2]] | [[58 Hebrews 13|⏭ Hebrews 13|]]
 

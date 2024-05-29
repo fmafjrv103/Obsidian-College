@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:19:32
+tags:
+  - bible
+---
+___
 
 ###### [[41 Mark 1|Mark 1 ⏮]] | [[41 Mark 4|Mark 4 ◀]] | [[Mark]] | [[41 Mark 6|▶ Mark 6]] | [[41 Mark 16|⏭ Mark 16|]]
 

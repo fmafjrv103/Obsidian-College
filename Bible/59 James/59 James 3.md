@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 16:27:04
+tags:
+  - bible
+---
+___
 
 ###### [[59 James 1|James 1 ⏮]] | [[59 James 2|James 2 ◀]] | [[James]] | [[59 James 4|▶ James 4]] | [[59 James 5|⏭ James 5|]]
 

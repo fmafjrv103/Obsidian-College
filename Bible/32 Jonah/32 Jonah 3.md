@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:15:21
+tags:
+  - bible
+---
+___
 
 ###### [[32 Jonah 1|Jonah 1 ⏮]] | [[32 Jonah 2|Jonah 2 ◀]] | [[Jonah]] | [[32 Jonah 4|▶ Jonah 4]] | [[32 Jonah 4|⏭ Jonah 4|]]
 

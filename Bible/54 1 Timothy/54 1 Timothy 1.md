@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:28:41
+tags:
+  - bible
+---
+___
 
 ###### [[54 1 Timothy 1|1 Timothy 1 ⏮]] | [[53 2 Thessalonians 3|2 Thessalonians 3 ◀]] | [[1 Timothy]] | [[54 1 Timothy 2|▶ 1 Timothy 2]] | [[54 1 Timothy 6|⏭ 1 Timothy 6|]]
 

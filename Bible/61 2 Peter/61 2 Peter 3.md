@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 16:27:53
+tags:
+  - bible
+---
+___
 
 ###### [[61 2 Peter 1|2 Peter 1 ⏮]] | [[61 2 Peter 2|2 Peter 2 ◀]] | [[2 Peter]] | [[62 1 John 1|▶ 1 John 1]] | [[61 2 Peter 3|⏭ 2 Peter 3|]]
 

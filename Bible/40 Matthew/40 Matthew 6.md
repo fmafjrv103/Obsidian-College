@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:18:19
+tags:
+  - bible
+---
+___
 
 ###### [[40 Matthew 1|Matthew 1 ⏮]] | [[40 Matthew 5|Matthew 5 ◀]] | [[Matthew]] | [[40 Matthew 7|▶ Matthew 7]] | [[40 Matthew 28|⏭ Matthew 28|]]
 

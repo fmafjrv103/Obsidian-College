@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:17:52
+tags:
+  - bible
+---
+___
 
 ###### [[39 Malachi 1|Malachi 1 ⏮]] | [[39 Malachi 3|Malachi 3 ◀]] | [[Malachi]] | [[40 Matthew 1|▶ Matthew 1]] | [[39 Malachi 4|⏭ Malachi 4|]]
 

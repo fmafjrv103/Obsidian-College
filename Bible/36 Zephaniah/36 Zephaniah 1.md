@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:16:30
+tags:
+  - bible
+---
+___
 
 ###### [[36 Zephaniah 1|Zephaniah 1 ⏮]] | [[35 Habakkuk 3|Habakkuk 3 ◀]] | [[Zephaniah]] | [[36 Zephaniah 2|▶ Zephaniah 2]] | [[36 Zephaniah 3|⏭ Zephaniah 3|]]
 

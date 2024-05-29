@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:25:05
+tags:
+  - bible
+---
+___
 
 ###### [[45 Romans 1|Romans 1 ⏮]] | [[45 Romans 9|Romans 9 ◀]] | [[Romans]] | [[45 Romans 11|▶ Romans 11]] | [[45 Romans 16|⏭ Romans 16|]]
 

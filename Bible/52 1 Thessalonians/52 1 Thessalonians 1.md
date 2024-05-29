@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:28:09
+tags:
+  - bible
+---
+___
 
 ###### [[52 1 Thessalonians 1|1 Thessalonians 1 ⏮]] | [[51 Colossians 4|Colossians 4 ◀]] | [[1 Thessalonians]] | [[52 1 Thessalonians 2|▶ 1 Thessalonians 2]] | [[52 1 Thessalonians 5|⏭ 1 Thessalonians 5|]]
 

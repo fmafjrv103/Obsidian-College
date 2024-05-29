@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:12:28
+tags:
+  - bible
+---
+___
 
 ###### [[27 Daniel 1|Daniel 1 ⏮]] | [[27 Daniel 9|Daniel 9 ◀]] | [[Daniel]] | [[27 Daniel 11|▶ Daniel 11]] | [[27 Daniel 12|⏭ Daniel 12|]]
 

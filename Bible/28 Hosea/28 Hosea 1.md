@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:13:45
+tags:
+  - bible
+---
+___
 
 ###### [[28 Hosea 1|Hosea 1 ⏮]] | [[27 Daniel 12|Daniel 12 ◀]] | [[Hosea]] | [[28 Hosea 2|▶ Hosea 2]] | [[28 Hosea 14|⏭ Hosea 14|]]
 

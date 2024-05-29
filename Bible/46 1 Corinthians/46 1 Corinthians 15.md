@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:26:06
+tags:
+  - bible
+---
+___
 
 ###### [[46 1 Corinthians 1|1 Corinthians 1 ⏮]] | [[46 1 Corinthians 14|1 Corinthians 14 ◀]] | [[1 Corinthians]] | [[46 1 Corinthians 16|▶ 1 Corinthians 16]] | [[46 1 Corinthians 16|⏭ 1 Corinthians 16|]]
 

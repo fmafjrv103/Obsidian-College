@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:16:24
+tags:
+  - bible
+---
+___
 
 ###### [[35 Habakkuk 1|Habakkuk 1 ⏮]] | [[35 Habakkuk 1|Habakkuk 1 ◀]] | [[Habakkuk]] | [[35 Habakkuk 3|▶ Habakkuk 3]] | [[35 Habakkuk 3|⏭ Habakkuk 3|]]
 

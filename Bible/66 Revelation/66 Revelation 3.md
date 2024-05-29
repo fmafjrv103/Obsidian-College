@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 16:28:45
+tags:
+  - bible
+---
+___
 
 ###### [[66 Revelation 1|Revelation 1 ⏮]] | [[66 Revelation 2|Revelation 2 ◀]] | [[Revelation]] | [[66 Revelation 4|▶ Revelation 4]] | [[66 Revelation 22|⏭ Revelation 22|]]
 

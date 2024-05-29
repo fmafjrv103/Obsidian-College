@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:16:19
+tags:
+  - bible
+---
+___
 
 ###### [[34 Nahum 1|Nahum 1 ⏮]] | [[34 Nahum 2|Nahum 2 ◀]] | [[Nahum]] | [[35 Habakkuk 1|▶ Habakkuk 1]] | [[34 Nahum 3|⏭ Nahum 3|]]
 

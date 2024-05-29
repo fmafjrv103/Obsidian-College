@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 16:28:35
+tags:
+  - bible
+---
+___
 
 ###### [[65 Jude 1|Jude 1 ⏮]] | [[64 3 John 1|3 John 1 ◀]] | [[Jude]] | [[66 Revelation 1|▶ Revelation 1]] | [[65 Jude 1|⏭ Jude 1|]]
 

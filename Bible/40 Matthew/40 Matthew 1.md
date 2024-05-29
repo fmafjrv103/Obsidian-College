@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:17:55
+tags:
+  - bible
+---
+___
 
 ###### [[40 Matthew 1|Matthew 1 ⏮]] | [[39 Malachi 4|Malachi 4 ◀]] | [[Matthew]] | [[40 Matthew 2|▶ Matthew 2]] | [[40 Matthew 28|⏭ Matthew 28|]]
 

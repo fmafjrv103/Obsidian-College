@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:16:03
+tags:
+  - bible
+---
+___
 
 ###### [[33 Micah 1|Micah 1 ⏮]] | [[33 Micah 3|Micah 3 ◀]] | [[Micah]] | [[33 Micah 5|▶ Micah 5]] | [[33 Micah 7|⏭ Micah 7|]]
 

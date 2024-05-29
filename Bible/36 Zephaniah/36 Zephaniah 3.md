@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:16:37
+tags:
+  - bible
+---
+___
 
 ###### [[36 Zephaniah 1|Zephaniah 1 ⏮]] | [[36 Zephaniah 2|Zephaniah 2 ◀]] | [[Zephaniah]] | [[37 Haggai 1|▶ Haggai 1]] | [[36 Zephaniah 3|⏭ Zephaniah 3|]]
 

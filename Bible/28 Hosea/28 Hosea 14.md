@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:14:33
+tags:
+  - bible
+---
+___
 
 ###### [[28 Hosea 1|Hosea 1 ⏮]] | [[28 Hosea 13|Hosea 13 ◀]] | [[Hosea]] | [[29 Joel 1|▶ Joel 1]] | [[28 Hosea 14|⏭ Hosea 14|]]
 

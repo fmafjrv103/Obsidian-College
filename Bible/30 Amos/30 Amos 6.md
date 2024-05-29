@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:14:57
+tags:
+  - bible
+---
+___
 
 ###### [[30 Amos 1|Amos 1 ⏮]] | [[30 Amos 5|Amos 5 ◀]] | [[Amos]] | [[30 Amos 7|▶ Amos 7]] | [[30 Amos 9|⏭ Amos 9|]]
 

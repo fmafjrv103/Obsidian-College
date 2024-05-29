@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:24:41
+tags:
+  - bible
+---
+___
 
 ###### [[45 Romans 1|Romans 1 ⏮]] | [[44 Acts 28|Acts 28 ◀]] | [[Romans]] | [[45 Romans 2|▶ Romans 2]] | [[45 Romans 16|⏭ Romans 16|]]
 

@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 15:14:45
+tags:
+  - bible
+---
+___
 
 ###### [[30 Amos 1|Amos 1 ⏮]] | [[29 Joel 3|Joel 3 ◀]] | [[Amos]] | [[30 Amos 2|▶ Amos 2]] | [[30 Amos 9|⏭ Amos 9|]]
 
