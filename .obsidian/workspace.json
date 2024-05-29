@@ -16,13 +16,1015 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Taking deep breaths",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Taking deep breaths.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "201906191603 On Emotional Agility - Steven Pressfield",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"201906191603 On Emotional Agility - Steven Pressfield.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "201903261548 On Attitude - Teddy Roosevelt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"201903261548 On Attitude - Teddy Roosevelt.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "PKM Ways to Structure Digital Notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"PKM Ways to Structure Digital Notes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":3},\"to\":{\"line\":22,\"ch\":3}},\"scroll\":0}"
+                },
+                {
+                  "title": "202404071655",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"202404071655.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "23 Isaiah 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/23 Isaiah/23 Isaiah 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "23 Isaiah 66",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/23 Isaiah/23 Isaiah 66.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":27},\"to\":{\"line\":1,\"ch\":27}}}"
+                },
+                {
+                  "title": "23 Isaiah 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/23 Isaiah/23 Isaiah 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":147},\"to\":{\"line\":1,\"ch\":147}}}"
+                },
+                {
+                  "title": "22 Song of Solomon 8",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/22 Song of Solomon/22 Song of Solomon 8.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":144},\"to\":{\"line\":7,\"ch\":144}}}"
+                },
+                {
+                  "title": "22 Song of Solomon 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/22 Song of Solomon/22 Song of Solomon 7.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":156},\"to\":{\"line\":7,\"ch\":156}}}"
+                },
+                {
+                  "title": "22 Song of Solomon 6",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/22 Song of Solomon/22 Song of Solomon 6.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":156},\"to\":{\"line\":7,\"ch\":156}}}"
+                },
+                {
+                  "title": "22 Song of Solomon 5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/22 Song of Solomon/22 Song of Solomon 5.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":156},\"to\":{\"line\":7,\"ch\":156}}}"
+                },
+                {
+                  "title": "22 Song of Solomon 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/22 Song of Solomon/22 Song of Solomon 4.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":156},\"to\":{\"line\":7,\"ch\":156}}}"
+                },
+                {
+                  "title": "22 Song of Solomon 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/22 Song of Solomon/22 Song of Solomon 3.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":154},\"to\":{\"line\":7,\"ch\":154}}}"
+                },
+                {
+                  "title": "22 Song of Solomon 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/22 Song of Solomon/22 Song of Solomon 2.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":155},\"to\":{\"line\":7,\"ch\":155}}}"
+                },
+                {
+                  "title": "22 Song of Solomon 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/22 Song of Solomon/22 Song of Solomon 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":154},\"to\":{\"line\":7,\"ch\":154}}}"
+                },
+                {
+                  "title": "21 Ecclesiastes 12",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/21 Ecclesiastes/21 Ecclesiastes 12.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":136},\"to\":{\"line\":7,\"ch\":136}}}"
+                },
+                {
+                  "title": "21 Ecclesiastes 11",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/21 Ecclesiastes/21 Ecclesiastes 11.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":131},\"to\":{\"line\":7,\"ch\":131}}}"
+                },
+                {
+                  "title": "21 Ecclesiastes 10",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/21 Ecclesiastes/21 Ecclesiastes 10.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":130},\"to\":{\"line\":7,\"ch\":130}}}"
+                },
+                {
+                  "title": "21 Ecclesiastes 9",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/21 Ecclesiastes/21 Ecclesiastes 9.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":130},\"to\":{\"line\":7,\"ch\":130}}}"
+                },
+                {
+                  "title": "21 Ecclesiastes 8",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/21 Ecclesiastes/21 Ecclesiastes 8.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":129},\"to\":{\"line\":7,\"ch\":129}}}"
+                },
+                {
+                  "title": "21 Ecclesiastes 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/21 Ecclesiastes/21 Ecclesiastes 7.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":129},\"to\":{\"line\":7,\"ch\":129}}}"
+                },
+                {
+                  "title": "21 Ecclesiastes 6",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/21 Ecclesiastes/21 Ecclesiastes 6.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":129},\"to\":{\"line\":7,\"ch\":129}}}"
+                },
+                {
+                  "title": "21 Ecclesiastes 5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/21 Ecclesiastes/21 Ecclesiastes 5.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":129},\"to\":{\"line\":7,\"ch\":129}}}"
+                },
+                {
+                  "title": "21 Ecclesiastes 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/21 Ecclesiastes/21 Ecclesiastes 4.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":129},\"to\":{\"line\":7,\"ch\":129}}}"
+                },
+                {
+                  "title": "21 Ecclesiastes 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/21 Ecclesiastes/21 Ecclesiastes 3.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":129},\"to\":{\"line\":7,\"ch\":129}}}"
+                },
+                {
+                  "title": "21 Ecclesiastes 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/21 Ecclesiastes/21 Ecclesiastes 2.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":129},\"to\":{\"line\":7,\"ch\":129}}}"
+                },
+                {
+                  "title": "21 Ecclesiastes 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/21 Ecclesiastes/21 Ecclesiastes 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":125},\"to\":{\"line\":7,\"ch\":125}}}"
+                },
+                {
+                  "title": "20 Proverbs 31",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/20 Proverbs/20 Proverbs 31.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":120},\"to\":{\"line\":7,\"ch\":120}}}"
+                },
+                {
+                  "title": "20 Proverbs 30",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/20 Proverbs/20 Proverbs 30.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":116},\"to\":{\"line\":7,\"ch\":116}}}"
+                },
+                {
+                  "title": "20 Proverbs 29",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/20 Proverbs/20 Proverbs 29.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":116},\"to\":{\"line\":7,\"ch\":116}}}"
+                },
+                {
+                  "title": "20 Proverbs 28",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/20 Proverbs/20 Proverbs 28.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":116},\"to\":{\"line\":7,\"ch\":116}}}"
+                },
+                {
+                  "title": "20 Proverbs 27",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/20 Proverbs/20 Proverbs 27.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":114},\"to\":{\"line\":7,\"ch\":114}}}"
+                },
+                {
+                  "title": "20 Proverbs 26",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/20 Proverbs/20 Proverbs 26.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":114},\"to\":{\"line\":7,\"ch\":114}}}"
+                },
+                {
+                  "title": "20 Proverbs 25",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/20 Proverbs/20 Proverbs 25.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":114},\"to\":{\"line\":7,\"ch\":114}}}"
+                },
+                {
+                  "title": "20 Proverbs 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/20 Proverbs/20 Proverbs 24.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":114},\"to\":{\"line\":7,\"ch\":114}}}"
+                },
+                {
+                  "title": "20 Proverbs 23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/20 Proverbs/20 Proverbs 23.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":114},\"to\":{\"line\":7,\"ch\":114}}}"
+                },
+                {
+                  "title": "20 Proverbs 22",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/20 Proverbs/20 Proverbs 22.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":114},\"to\":{\"line\":7,\"ch\":114}}}"
+                },
+                {
+                  "title": "20 Proverbs 21",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/20 Proverbs/20 Proverbs 21.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":114},\"to\":{\"line\":7,\"ch\":114}}}"
+                },
+                {
+                  "title": "20 Proverbs 20",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/20 Proverbs/20 Proverbs 20.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":114},\"to\":{\"line\":7,\"ch\":114}}}"
+                },
+                {
+                  "title": "20 Proverbs 19",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/20 Proverbs/20 Proverbs 19.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":114},\"to\":{\"line\":7,\"ch\":114}}}"
+                },
+                {
+                  "title": "20 Proverbs 18",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/20 Proverbs/20 Proverbs 18.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":114},\"to\":{\"line\":8,\"ch\":114}}}"
+                },
+                {
+                  "title": "20 Proverbs 17",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/20 Proverbs/20 Proverbs 17.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":115},\"to\":{\"line\":7,\"ch\":115}}}"
+                },
+                {
+                  "title": "20 Proverbs 18",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/20 Proverbs/20 Proverbs 18.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":62},\"to\":{\"line\":8,\"ch\":62}}}"
+                },
+                {
+                  "title": "20 Proverbs 17",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/20 Proverbs/20 Proverbs 17.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":113},\"to\":{\"line\":7,\"ch\":113}}}"
+                },
+                {
+                  "title": "20 Proverbs 16",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/20 Proverbs/20 Proverbs 16.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":113},\"to\":{\"line\":7,\"ch\":113}}}"
+                },
+                {
+                  "title": "20 Proverbs 15",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/20 Proverbs/20 Proverbs 15.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":113},\"to\":{\"line\":7,\"ch\":113}}}"
+                },
+                {
+                  "title": "20 Proverbs 14",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/20 Proverbs/20 Proverbs 14.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":113},\"to\":{\"line\":7,\"ch\":113}}}"
+                },
+                {
+                  "title": "20 Proverbs 13",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/20 Proverbs/20 Proverbs 13.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":113},\"to\":{\"line\":7,\"ch\":113}}}"
+                },
+                {
+                  "title": "20 Proverbs 12",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/20 Proverbs/20 Proverbs 12.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":114},\"to\":{\"line\":7,\"ch\":114}}}"
+                },
+                {
+                  "title": "20 Proverbs 11",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/20 Proverbs/20 Proverbs 11.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":113},\"to\":{\"line\":7,\"ch\":113}}}"
+                },
+                {
+                  "title": "20 Proverbs 10",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/20 Proverbs/20 Proverbs 10.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":112},\"to\":{\"line\":7,\"ch\":112}}}"
+                },
+                {
+                  "title": "20 Proverbs 9",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/20 Proverbs/20 Proverbs 9.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":112},\"to\":{\"line\":7,\"ch\":112}}}"
+                },
+                {
+                  "title": "20 Proverbs 8",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/20 Proverbs/20 Proverbs 8.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":112},\"to\":{\"line\":7,\"ch\":112}}}"
+                },
+                {
+                  "title": "20 Proverbs 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/20 Proverbs/20 Proverbs 7.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":111},\"to\":{\"line\":7,\"ch\":111}}}"
+                },
+                {
+                  "title": "20 Proverbs 6",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/20 Proverbs/20 Proverbs 6.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":111},\"to\":{\"line\":7,\"ch\":111}}}"
+                },
+                {
+                  "title": "20 Proverbs 5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/20 Proverbs/20 Proverbs 5.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":111},\"to\":{\"line\":7,\"ch\":111}}}"
+                },
+                {
+                  "title": "20 Proverbs 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/20 Proverbs/20 Proverbs 4.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":111},\"to\":{\"line\":7,\"ch\":111}}}"
+                },
+                {
+                  "title": "20 Proverbs 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/20 Proverbs/20 Proverbs 3.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":111},\"to\":{\"line\":7,\"ch\":111}}}"
+                },
+                {
+                  "title": "20 Proverbs 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/20 Proverbs/20 Proverbs 2.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":112},\"to\":{\"line\":7,\"ch\":112}}}"
+                },
+                {
+                  "title": "20 Proverbs 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/20 Proverbs/20 Proverbs 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":110},\"to\":{\"line\":7,\"ch\":110}}}"
+                },
+                {
+                  "title": "19 Psalm 150",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 150.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":101},\"to\":{\"line\":7,\"ch\":101}}}"
+                },
+                {
+                  "title": "19 Psalm 53",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 53.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":125},\"to\":{\"line\":7,\"ch\":125}}}"
+                },
+                {
+                  "title": "19 Psalm 54",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 54.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 55",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 55.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 56",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 56.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 57",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 57.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 58",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 58.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 59",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 59.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 60",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 60.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 61",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 61.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 62",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 62.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 63",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 63.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 64",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 64.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 65",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 65.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 66",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 66.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 67",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 67.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 68",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 68.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 69",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 69.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 70",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 70.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 71",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 71.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 72",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 72.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 73",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 73.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 74",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 74.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 75",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 75.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 76",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 76.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 77",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 77.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 78",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 78.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 79",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 79.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 80",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 80.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 81",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 81.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 82",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 82.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 83",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 83.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 84",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 84.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 85",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 85.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 86",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 86.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 87",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 87.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 88",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 88.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 89",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 89.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 90",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 90.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 91",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 91.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 92",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 92.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 93",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 93.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 94",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 94.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 95",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 95.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 96",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 96.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 97",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 97.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 98",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 98.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 99",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 99.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 100",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 100.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 101",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 101.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":54},\"to\":{\"line\":7,\"ch\":54}}}"
+                },
+                {
+                  "title": "19 Psalm 102",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 102.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":54},\"to\":{\"line\":7,\"ch\":54}}}"
+                },
+                {
+                  "title": "19 Psalm 103",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 103.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":54},\"to\":{\"line\":7,\"ch\":54}}}"
+                },
+                {
+                  "title": "19 Psalm 104",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 104.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":54},\"to\":{\"line\":7,\"ch\":54}}}"
+                },
+                {
+                  "title": "19 Psalm 105",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 105.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":54},\"to\":{\"line\":7,\"ch\":54}}}"
+                },
+                {
+                  "title": "19 Psalm 106",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 106.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":54},\"to\":{\"line\":7,\"ch\":54}}}"
+                },
+                {
+                  "title": "19 Psalm 107",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 107.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":54},\"to\":{\"line\":7,\"ch\":54}}}"
+                },
+                {
+                  "title": "19 Psalm 108",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 108.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":54},\"to\":{\"line\":7,\"ch\":54}}}"
+                },
+                {
+                  "title": "19 Psalm 109",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 109.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":54},\"to\":{\"line\":7,\"ch\":54}}}"
+                },
+                {
+                  "title": "19 Psalm 110",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 110.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":54},\"to\":{\"line\":7,\"ch\":54}}}"
+                },
+                {
+                  "title": "19 Psalm 111",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 111.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 112",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 112.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 113",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 113.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 114",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 114.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 115",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 115.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 116",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 116.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 117",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 117.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":53},\"to\":{\"line\":7,\"ch\":53}}}"
+                },
+                {
+                  "title": "19 Psalm 118",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 118.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":56},\"to\":{\"line\":7,\"ch\":56}}}"
+                },
+                {
+                  "title": "19 Psalm 117",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 117.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":99},\"to\":{\"line\":1,\"ch\":99}}}"
+                },
+                {
+                  "title": "19 Psalm 116",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 116.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":99},\"to\":{\"line\":1,\"ch\":99}}}"
+                },
+                {
+                  "title": "19 Psalm 115",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 115.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":99},\"to\":{\"line\":1,\"ch\":99}}}"
+                },
+                {
+                  "title": "19 Psalm 114",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 114.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":99},\"to\":{\"line\":1,\"ch\":99}}}"
+                },
+                {
+                  "title": "19 Psalm 115",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 115.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":57},\"to\":{\"line\":1,\"ch\":57}}}"
+                },
+                {
+                  "title": "19 Psalm 116",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 116.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":57},\"to\":{\"line\":1,\"ch\":57}}}"
+                },
+                {
+                  "title": "19 Psalm 117",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 117.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":57},\"to\":{\"line\":12,\"ch\":57}}}"
+                },
+                {
+                  "title": "19 Psalm 118",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 118.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":57},\"to\":{\"line\":7,\"ch\":57}}}"
+                },
+                {
+                  "title": "19 Psalm 119",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 119.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":57},\"to\":{\"line\":7,\"ch\":57}}}"
+                },
+                {
+                  "title": "19 Psalm 120",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 120.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":57},\"to\":{\"line\":7,\"ch\":57}}}"
+                },
+                {
+                  "title": "19 Psalm 121",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 121.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":57},\"to\":{\"line\":7,\"ch\":57}}}"
+                },
+                {
+                  "title": "19 Psalm 122",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 122.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":57},\"to\":{\"line\":7,\"ch\":57}}}"
+                },
+                {
+                  "title": "19 Psalm 123",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 123.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":57},\"to\":{\"line\":7,\"ch\":57}}}"
+                },
+                {
+                  "title": "19 Psalm 124",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 124.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":57},\"to\":{\"line\":7,\"ch\":57}}}"
+                },
+                {
+                  "title": "19 Psalm 125",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 125.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":57},\"to\":{\"line\":7,\"ch\":57}}}"
+                },
+                {
+                  "title": "19 Psalm 126",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 126.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":57},\"to\":{\"line\":7,\"ch\":57}}}"
+                },
+                {
+                  "title": "19 Psalm 127",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 127.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":57},\"to\":{\"line\":7,\"ch\":57}}}"
+                },
+                {
+                  "title": "19 Psalm 128",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 128.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":57},\"to\":{\"line\":7,\"ch\":57}}}"
+                },
+                {
+                  "title": "19 Psalm 129",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 129.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":57},\"to\":{\"line\":7,\"ch\":57}}}"
+                },
+                {
+                  "title": "19 Psalm 130",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 130.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":57},\"to\":{\"line\":7,\"ch\":57}}}"
+                },
+                {
+                  "title": "19 Psalm 131",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 131.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":57},\"to\":{\"line\":7,\"ch\":57}}}"
+                },
+                {
+                  "title": "19 Psalm 132",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 132.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":57},\"to\":{\"line\":7,\"ch\":57}}}"
+                },
+                {
+                  "title": "19 Psalm 133",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 133.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":57},\"to\":{\"line\":7,\"ch\":57}}}"
+                },
+                {
+                  "title": "19 Psalm 134",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 134.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":57},\"to\":{\"line\":7,\"ch\":57}}}"
+                },
+                {
+                  "title": "19 Psalm 135",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 135.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":57},\"to\":{\"line\":7,\"ch\":57}}}"
+                },
+                {
+                  "title": "19 Psalm 136",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 136.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":57},\"to\":{\"line\":7,\"ch\":57}}}"
+                },
+                {
+                  "title": "19 Psalm 137",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 137.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":57},\"to\":{\"line\":7,\"ch\":57}}}"
+                },
+                {
+                  "title": "19 Psalm 138",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 138.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":57},\"to\":{\"line\":7,\"ch\":57}}}"
+                },
+                {
+                  "title": "19 Psalm 139",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 139.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":57},\"to\":{\"line\":7,\"ch\":57}}}"
+                },
+                {
+                  "title": "19 Psalm 140",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 140.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":57},\"to\":{\"line\":7,\"ch\":57}}}"
+                },
+                {
+                  "title": "19 Psalm 141",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 141.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":57},\"to\":{\"line\":7,\"ch\":57}}}"
+                },
+                {
+                  "title": "19 Psalm 142",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 142.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":57},\"to\":{\"line\":7,\"ch\":57}}}"
+                },
+                {
+                  "title": "19 Psalm 143",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 143.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":57},\"to\":{\"line\":7,\"ch\":57}}}"
+                },
+                {
+                  "title": "19 Psalm 144",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 144.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":57},\"to\":{\"line\":7,\"ch\":57}}}"
+                },
+                {
+                  "title": "19 Psalm 145",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 145.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":57},\"to\":{\"line\":7,\"ch\":57}}}"
+                },
+                {
+                  "title": "19 Psalm 146",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 146.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":57},\"to\":{\"line\":7,\"ch\":57}}}"
+                },
+                {
+                  "title": "19 Psalm 147",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 147.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":57},\"to\":{\"line\":7,\"ch\":57}}}"
+                },
+                {
+                  "title": "19 Psalm 148",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/19 Psalm/19 Psalm 148.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":57},\"to\":{\"line\":7,\"ch\":57}}}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Home.md",
+                "file": "201903251530 Poem - Don't Quit - Edgar A. Guest.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -217,7 +1219,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -312,37 +1313,38 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "timer:Open timer": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "405b6df75aac253e",
+  "active": "53a91095c0f3296c",
   "lastOpenFiles": [
-    "Bible/19 Psalm/19 Psalm 135.md",
-    "000 Home.md",
-    "Bible/19 Psalm/19 Psalm 119.md",
-    "Bible/19 Psalm/19 Psalm 120.md",
-    "Bible/19 Psalm/19 Psalm 121.md",
-    "Bible/19 Psalm/19 Psalm 122.md",
-    "Bible/19 Psalm/19 Psalm 123.md",
-    "Bible/19 Psalm/19 Psalm 124.md",
-    "Bible/19 Psalm/19 Psalm 125.md",
-    "Bible/19 Psalm/19 Psalm 126.md",
-    "Bible/19 Psalm/19 Psalm 127.md",
-    "Bible/19 Psalm/19 Psalm 128.md",
-    "Bible/19 Psalm/19 Psalm 129.md",
-    "Bible/19 Psalm/19 Psalm 130.md",
-    "Bible/19 Psalm/19 Psalm 131.md",
-    "Bible/19 Psalm/19 Psalm 132.md",
-    "Bible/19 Psalm/19 Psalm 133.md",
-    "Bible/19 Psalm/19 Psalm 134.md",
-    "Bible/19 Psalm/19 Psalm 136.md",
-    "Bible/19 Psalm/19 Psalm 137.md",
-    "Bible/19 Psalm/19 Psalm 138.md",
-    "Bible/19 Psalm/19 Psalm 139.md",
-    "Bible/19 Psalm/19 Psalm 140.md",
-    "Bible/19 Psalm/19 Psalm 141.md",
-    "Bible/19 Psalm/19 Psalm 142.md",
-    "Bible/19 Psalm/19 Psalm 143.md",
+    "201903251530 Poem - Don't Quit - Edgar A. Guest.md",
+    "Taking deep breaths.md",
+    "201906191603 On Emotional Agility - Steven Pressfield.md",
+    "201903261548 On Attitude - Teddy Roosevelt.md",
+    "PKM Ways to Structure Digital Notes.md",
+    "202404071655.md",
+    "Bible/23 Isaiah/23 Isaiah 1.md",
+    "Bible/23 Isaiah/23 Isaiah 66.md",
+    "Bible/22 Song of Solomon/22 Song of Solomon 8.md",
+    "Bible/22 Song of Solomon/22 Song of Solomon 7.md",
+    "Bible/22 Song of Solomon/22 Song of Solomon 6.md",
+    "Bible/22 Song of Solomon/22 Song of Solomon 5.md",
+    "Bible/22 Song of Solomon/22 Song of Solomon 4.md",
+    "Bible/22 Song of Solomon/22 Song of Solomon 3.md",
+    "Bible/22 Song of Solomon/22 Song of Solomon 2.md",
+    "Bible/22 Song of Solomon/22 Song of Solomon 1.md",
+    "Bible/22 Song of Solomon/Song of Solomon.md",
+    "Bible/21 Ecclesiastes/21 Ecclesiastes 12.md",
+    "Bible/21 Ecclesiastes/21 Ecclesiastes 11.md",
+    "Bible/21 Ecclesiastes/21 Ecclesiastes 10.md",
+    "Bible/21 Ecclesiastes/21 Ecclesiastes 9.md",
+    "Bible/21 Ecclesiastes/21 Ecclesiastes 8.md",
+    "Bible/21 Ecclesiastes/21 Ecclesiastes 7.md",
+    "Bible/21 Ecclesiastes/21 Ecclesiastes 6.md",
+    "Bible/21 Ecclesiastes/21 Ecclesiastes 5.md",
+    "Bible/21 Ecclesiastes/21 Ecclesiastes 4.md",
     "Bible/66 Revelation",
     "Bible/65 Jude",
     "Bible/64 3 John",

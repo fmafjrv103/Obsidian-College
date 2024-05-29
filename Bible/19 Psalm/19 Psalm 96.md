@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 01:18:04
+tags:
+  - bible
+---
+___
 
 ###### [[19 Psalm 1|Psalm 1 ⏮]] | [[19 Psalm 95|Psalm 95 ◀]] | [[Psalm]] | [[19 Psalm 97|▶ Psalm 97]] | [[19 Psalm 150|⏭ Psalm 150|]]
 

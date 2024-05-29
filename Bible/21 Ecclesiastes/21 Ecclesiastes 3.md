@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 01:22:38
+tags:
+  - bible
+---
+___
 
 ###### [[21 Ecclesiastes 1|Ecclesiastes 1 ⏮]] | [[21 Ecclesiastes 2|Ecclesiastes 2 ◀]] | [[Ecclesiastes]] | [[21 Ecclesiastes 4|▶ Ecclesiastes 4]] | [[21 Ecclesiastes 12|⏭ Ecclesiastes 12|]]
 

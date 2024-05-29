@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 01:23:00
+tags:
+  - bible
+---
+___
 
 ###### [[21 Ecclesiastes 1|Ecclesiastes 1 ⏮]] | [[21 Ecclesiastes 11|Ecclesiastes 11 ◀]] | [[Ecclesiastes]] | [[22 Song of Solomon 1|▶ Song of Solomon 1]] | [[21 Ecclesiastes 12|⏭ Ecclesiastes 12|]]
 

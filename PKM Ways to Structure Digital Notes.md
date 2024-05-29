@@ -18,9 +18,9 @@
             - future-proofs your notes
                 - improves ability to retrieve the info you added long ago
             - improves understanding of material
-
-
-
+			
+			
+			
         - Figuring out what structures will work best for you—both for now and for your Future Self
             - what problems are you trying to solve?
                 - this is about use cases

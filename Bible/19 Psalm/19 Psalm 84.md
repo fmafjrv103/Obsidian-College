@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 01:18:37
+tags:
+  - bible
+---
+___
 
 ###### [[19 Psalm 1|Psalm 1 ⏮]] | [[19 Psalm 83|Psalm 83 ◀]] | [[Psalm]] | [[19 Psalm 85|▶ Psalm 85]] | [[19 Psalm 150|⏭ Psalm 150|]]
 

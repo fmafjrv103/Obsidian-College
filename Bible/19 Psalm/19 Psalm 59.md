@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 01:19:41
+tags:
+  - bible
+---
+___
 
 ###### [[19 Psalm 1|Psalm 1 ⏮]] | [[19 Psalm 58|Psalm 58 ◀]] | [[Psalm]] | [[19 Psalm 60|▶ Psalm 60]] | [[19 Psalm 150|⏭ Psalm 150|]]
 

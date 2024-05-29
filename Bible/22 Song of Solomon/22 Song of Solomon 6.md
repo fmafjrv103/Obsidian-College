@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 01:25:01
+tags:
+  - bible
+---
+___
 
 ###### [[22 Song of Solomon 1|Song of Solomon 1 ⏮]] | [[22 Song of Solomon 5|Song of Solomon 5 ◀]] | [[Song of Solomon]] | [[22 Song of Solomon 7|▶ Song of Solomon 7]] | [[22 Song of Solomon 8|⏭ Song of Solomon 8|]]
 

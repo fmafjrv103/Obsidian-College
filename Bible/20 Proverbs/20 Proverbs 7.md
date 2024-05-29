@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 01:21:17
+tags:
+  - bible
+---
+___
 
 ###### [[20 Proverbs 1|Proverbs 1 ⏮]] | [[20 Proverbs 6|Proverbs 6 ◀]] | [[Proverbs]] | [[20 Proverbs 8|▶ Proverbs 8]] | [[20 Proverbs 31|⏭ Proverbs 31|]]
 

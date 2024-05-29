@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 01:23:04
+tags:
+  - bible
+---
+___
 
 ###### [[22 Song of Solomon 1|Song of Solomon 1 ⏮]] | [[21 Ecclesiastes 12|Ecclesiastes 12 ◀]] | [[Song of Solomon]] | [[22 Song of Solomon 2|▶ Song of Solomon 2]] | [[22 Song of Solomon 8|⏭ Song of Solomon 8|]]
 

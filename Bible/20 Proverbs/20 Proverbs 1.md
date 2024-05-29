@@ -1,3 +1,9 @@
+---
+date: 2024-05-29 01:20:55
+tags:
+  - bible
+---
+___
 
 ###### [[20 Proverbs 1|Proverbs 1 ⏮]] | [[19 Psalm 150|Psalm 150 ◀]] | [[Proverbs]] | [[20 Proverbs 2|▶ Proverbs 2]] | [[20 Proverbs 31|⏭ Proverbs 31|]]
 
