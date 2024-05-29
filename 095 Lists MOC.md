@@ -12,7 +12,7 @@ Quickly see a list of Powerful Reminders spanning different domains to confident
 
 # All Lists
 ## Top of Mind Lists
-
+- [ ] Finish Bible MOC
 ## Figuring Out Life Stuff
 - 
 ## Mind Stuff

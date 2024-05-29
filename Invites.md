@@ -4,6 +4,7 @@ tags:
   - graduation
   - lists
   - tasks
+  - complete
 ---
 Links: [[Graduation|Graduation]], [[095 Lists MOC|Lists MOC]]
 ___

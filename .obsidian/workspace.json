@@ -18,6 +18,96 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":68},\"to\":{\"line\":25,\"ch\":68}},\"scroll\":5}"
+                },
+                {
+                  "title": "010 Notes MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"010 Notes MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":21},\"to\":{\"line\":6,\"ch\":21}},\"scroll\":6}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":27},\"to\":{\"line\":17,\"ch\":27}},\"scroll\":12.684534141701082}"
+                },
+                {
+                  "title": "Graduation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Graduation.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":20},\"to\":{\"line\":8,\"ch\":20}}}"
+                },
+                {
+                  "title": "Invites",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Invites.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":25},\"to\":{\"line\":8,\"ch\":25}},\"scroll\":7}"
+                },
+                {
+                  "title": "Graduation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Graduation.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":8},\"to\":{\"line\":11,\"ch\":8}},\"scroll\":8}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":30.962290626749606}"
+                },
+                {
+                  "title": "090 PKM MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"090 PKM MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":20},\"to\":{\"line\":6,\"ch\":20}},\"scroll\":6}"
+                },
+                {
+                  "title": "040 Interests MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":23},\"to\":{\"line\":15,\"ch\":23}},\"scroll\":6}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":35},\"to\":{\"line\":20,\"ch\":35}}}"
+                },
+                {
+                  "title": "070 Journal MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"070 Journal MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":20},\"to\":{\"line\":6,\"ch\":20}}}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":32},\"to\":{\"line\":23,\"ch\":32}}}"
+                },
+                {
+                  "title": "060 Writings MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"060 Writings MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":19},\"to\":{\"line\":6,\"ch\":19}},\"scroll\":6}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":34},\"to\":{\"line\":22,\"ch\":34}},\"scroll\":5}"
+                },
+                {
+                  "title": "201903251530 Poem - Don't Quit - Edgar A. Guest",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"201903251530 Poem - Don't Quit - Edgar A. Guest.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Taking deep breaths",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Taking deep breaths.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -1024,7 +1114,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "201903251530 Poem - Don't Quit - Edgar A. Guest.md",
+                "file": "095 Lists MOC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -1219,6 +1309,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "095 Lists MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -1317,8 +1408,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "53a91095c0f3296c",
+  "active": "405b6df75aac253e",
   "lastOpenFiles": [
+    "000 Home.md",
+    "010 Notes MOC.md",
+    "Math Notes 1.md",
+    "Autofocus.md",
+    "Pomodoro technique.md",
+    "Time tracking.md",
+    "Graduation.md",
+    "202404081306 Job.md",
+    "Invites.md",
+    "090 PKM MOC.md",
+    "040 Interests MOC.md",
+    "070 Journal MOC.md",
+    "060 Writings MOC.md",
     "201903251530 Poem - Don't Quit - Edgar A. Guest.md",
     "Taking deep breaths.md",
     "201906191603 On Emotional Agility - Steven Pressfield.md",
@@ -1332,19 +1436,6 @@
     "Bible/22 Song of Solomon/22 Song of Solomon 6.md",
     "Bible/22 Song of Solomon/22 Song of Solomon 5.md",
     "Bible/22 Song of Solomon/22 Song of Solomon 4.md",
-    "Bible/22 Song of Solomon/22 Song of Solomon 3.md",
-    "Bible/22 Song of Solomon/22 Song of Solomon 2.md",
-    "Bible/22 Song of Solomon/22 Song of Solomon 1.md",
-    "Bible/22 Song of Solomon/Song of Solomon.md",
-    "Bible/21 Ecclesiastes/21 Ecclesiastes 12.md",
-    "Bible/21 Ecclesiastes/21 Ecclesiastes 11.md",
-    "Bible/21 Ecclesiastes/21 Ecclesiastes 10.md",
-    "Bible/21 Ecclesiastes/21 Ecclesiastes 9.md",
-    "Bible/21 Ecclesiastes/21 Ecclesiastes 8.md",
-    "Bible/21 Ecclesiastes/21 Ecclesiastes 7.md",
-    "Bible/21 Ecclesiastes/21 Ecclesiastes 6.md",
-    "Bible/21 Ecclesiastes/21 Ecclesiastes 5.md",
-    "Bible/21 Ecclesiastes/21 Ecclesiastes 4.md",
     "Bible/66 Revelation",
     "Bible/65 Jude",
     "Bible/64 3 John",

@@ -4,6 +4,7 @@ tags:
   - notes
   - complete
 complete: Yes
+completeDate: 2024-03-20
 ---
 Links: [[202403200202 Time Management|Time Management]]
 
