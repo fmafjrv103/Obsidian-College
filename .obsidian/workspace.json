@@ -16,44 +16,32 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "090 PKM MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"090 PKM MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":20},\"to\":{\"line\":32,\"ch\":20}},\"scroll\":8.325042132307313}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":31},\"to\":{\"line\":25,\"ch\":31}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Home.md",
+                "file": "NetLogo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "9d237568d7b1bf43",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "000 Home",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,6 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "NetLogo.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -339,11 +328,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9d237568d7b1bf43",
+  "active": "405b6df75aac253e",
   "lastOpenFiles": [
+    "090 PKM MOC.md",
     "000 Home.md",
     "NetLogo.md",
-    "090 PKM MOC.md",
     "Bible/Revelation.md",
     "Bible/66 Revelation/66 Revelation 22.md",
     "Bible/66 Revelation/66 Revelation 21.md",
