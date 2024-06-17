@@ -10,21 +10,6 @@
           {
             "id": "405b6df75aac253e",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Revelation",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Revelation.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                }
-              ]
-            },
             "state": {
               "type": "markdown",
               "state": {
@@ -51,15 +36,6 @@
           {
             "id": "f7426e4777903a91",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "file-explorer",
               "state": {
@@ -70,15 +46,6 @@
           {
             "id": "457ac2530ca9e28a",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "search",
               "state": {
@@ -94,15 +61,6 @@
           {
             "id": "a1ac65b1bd389c68",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "bookmarks",
               "state": {}
@@ -126,15 +84,6 @@
           {
             "id": "60b5fc560fd7613b",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "tag",
               "state": {
@@ -146,15 +95,6 @@
           {
             "id": "41f689c7aa5a6299",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "Timer",
               "state": {}
@@ -163,15 +103,6 @@
           {
             "id": "86471d568725bf4f",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "online.tokuhirom.obsidian-pomodoro-plugin",
               "state": {}
@@ -180,15 +111,6 @@
           {
             "id": "89e3bb96beb15046",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {}
@@ -197,15 +119,6 @@
           {
             "id": "b576a02bc9c64e28",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "backlink",
               "state": {
@@ -223,15 +136,6 @@
           {
             "id": "a42a2781d15e5373",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "outgoing-link",
               "state": {
@@ -244,15 +148,6 @@
           {
             "id": "a298c5e702cbd738",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "all-properties",
               "state": {
@@ -265,15 +160,6 @@
           {
             "id": "860180e1a6169ffa",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "outline",
               "state": {
@@ -291,15 +177,6 @@
           {
             "id": "53a91095c0f3296c",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "pinned": true,
             "state": {
               "type": "graph",
@@ -316,15 +193,6 @@
           {
             "id": "eb49dceec3166315",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "localgraph",
               "state": {
@@ -415,16 +283,7 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "zk-prefixer:Create new unique note": false,
-      "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false,
-      "obsidian-book-search-plugin:Create new book note": false,
-      "excel:Create Excel File": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "timer:Open timer": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "405b6df75aac253e",
