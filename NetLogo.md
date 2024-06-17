@@ -20,4 +20,3 @@ ___
 Primary and Dual trying to find eachother
 
 Least action path
-$A=\frac{a}{w}$
