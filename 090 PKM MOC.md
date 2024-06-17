@@ -30,6 +30,7 @@ List of Best Practices for PKM
     - 003 Systems
     - 004 Data processing and computer science
     - 005 Computer programming, programs, and data
+	    - [[NetLogo|Net Logo]]
     - 006 Special computer methods (e.g. AI, multimedia, VR)
 	    - [[Regular Template|Templates]]
     - 007–009 Unassigned
