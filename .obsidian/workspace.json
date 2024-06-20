@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Cognitive Bias",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cognitive Bias.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":61},\"to\":{\"line\":23,\"ch\":61}},\"scroll\":12.031535041337236}"
+                },
+                {
                   "title": "090 PKM MOC",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"090 PKM MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -82,7 +88,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cognitive Bias.md",
+                "file": "111 Editing Manual MOC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -263,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cognitive Bias.md",
+                "file": "111 Editing Manual MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cognitive Bias.md",
+                "file": "111 Editing Manual MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -331,7 +337,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cognitive Bias.md"
+                "file": "111 Editing Manual MOC.md"
               }
             }
           }
@@ -382,7 +388,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cognitive Bias.md",
+                "file": "111 Editing Manual MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -483,6 +489,7 @@
   },
   "active": "7176ed168d554155",
   "lastOpenFiles": [
+    "Cognitive Bias.md",
     "Media/Cognitive-Bias.jpg",
     "090 PKM MOC.md",
     "000 Home.md",
@@ -528,7 +535,6 @@
     "DND.SRD.Wiki-master/RE&.logo.png",
     "Media/DND.SRD.Wiki-master/RE&.logo.png",
     "Media/Pasted image 20240330231528.png",
-    "Media/Pasted image 20240330231528 1.png",
     "Untitled.canvas"
   ]
 }

@@ -1,5 +1,5 @@
-tags: #editingmanual #editing 
-editing: [[111 Editing Manual MOC|Editing Manual MOC]], [[Editing Manual TOC]]
+tags: #editingmanual #editing #MOC
+editing:[[000 Home|Home]], [[111 Editing Manual MOC|Editing Manual MOC]], [[Editing Manual TOC]]
 
 ---
 # Editing Manual MOC
