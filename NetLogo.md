@@ -8,7 +8,7 @@ tags:
 Links: 
 ___
 #  Agent Based Modeling
-- Turtles or Lagrogion - MIT based on robot turtle that had a pens on them
+- Turtles or Lagrogion - MIT word based on robot turtle that had a pens on them that drew on a paper floor.
 - Patches - pixels that can react and communicate with its neighbor's
 - Link or Edge - Graph or Network
 
