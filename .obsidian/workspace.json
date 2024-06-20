@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "111 Editing Manual MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"111 Editing Manual MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":26},\"to\":{\"line\":1,\"ch\":26}},\"scroll\":0}"
+                },
+                {
                   "title": "Cognitive Bias",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cognitive Bias.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -88,7 +94,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "111 Editing Manual MOC.md",
+                "file": "000 Home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -269,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "111 Editing Manual MOC.md",
+                "file": "000 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +301,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "111 Editing Manual MOC.md",
+                "file": "000 Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -337,7 +343,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "111 Editing Manual MOC.md"
+                "file": "000 Home.md"
               }
             }
           }
@@ -388,7 +394,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "111 Editing Manual MOC.md",
+                "file": "000 Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -489,6 +495,7 @@
   },
   "active": "7176ed168d554155",
   "lastOpenFiles": [
+    "111 Editing Manual MOC.md",
     "Cognitive Bias.md",
     "Media/Cognitive-Bias.jpg",
     "090 PKM MOC.md",
@@ -515,7 +522,6 @@
     "Bible/66 Revelation/66 Revelation 9.md",
     "Bible/66 Revelation/66 Revelation 8.md",
     "Bible/66 Revelation/66 Revelation 7.md",
-    "Bible/66 Revelation/66 Revelation 6.md",
     "Bible/66 Revelation",
     "Bible/65 Jude",
     "Bible/64 3 John",
