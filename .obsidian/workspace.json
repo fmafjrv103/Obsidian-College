@@ -8,12 +8,81 @@
         "type": "tabs",
         "children": [
           {
-            "id": "405b6df75aac253e",
+            "id": "7176ed168d554155",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "090 PKM MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"090 PKM MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":181,\"ch\":18},\"to\":{\"line\":181,\"ch\":18}},\"scroll\":159.603934365484}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":37},\"to\":{\"line\":25,\"ch\":37}},\"scroll\":5.609434614822446}"
+                },
+                {
+                  "title": "Bible",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Bible.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":20},\"to\":{\"line\":7,\"ch\":20}}}"
+                },
+                {
+                  "title": "Isaiah",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/22 Song of Solomon/Isaiah.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "title": "Song of Solomon",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/22 Song of Solomon/Song of Solomon.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":55},\"to\":{\"line\":7,\"ch\":55}}}"
+                },
+                {
+                  "title": "Isaiah",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/22 Song of Solomon/Isaiah.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":37},\"to\":{\"line\":7,\"ch\":37}}}"
+                },
+                {
+                  "title": "Song of Solomon",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/22 Song of Solomon/Song of Solomon.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":55},\"to\":{\"line\":7,\"ch\":55}},\"scroll\":5}"
+                },
+                {
+                  "title": "Bible",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Bible.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":14},\"to\":{\"line\":34,\"ch\":14}},\"scroll\":17.152247168061635}"
+                },
+                {
+                  "title": "IMF START",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"IMF START.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":66,\"ch\":496},\"to\":{\"line\":66,\"ch\":496}},\"scroll\":34.146013799678535}"
+                }
+              ]
+            },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NetLogo.md",
+                "file": "Cognitive Bias.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,6 +105,15 @@
           {
             "id": "f7426e4777903a91",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "file-explorer",
               "state": {
@@ -46,6 +124,15 @@
           {
             "id": "457ac2530ca9e28a",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "search",
               "state": {
@@ -61,6 +148,15 @@
           {
             "id": "a1ac65b1bd389c68",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "bookmarks",
               "state": {}
@@ -84,6 +180,15 @@
           {
             "id": "60b5fc560fd7613b",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "tag",
               "state": {
@@ -95,6 +200,15 @@
           {
             "id": "41f689c7aa5a6299",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "Timer",
               "state": {}
@@ -103,6 +217,15 @@
           {
             "id": "86471d568725bf4f",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "online.tokuhirom.obsidian-pomodoro-plugin",
               "state": {}
@@ -111,6 +234,15 @@
           {
             "id": "89e3bb96beb15046",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {}
@@ -119,10 +251,19 @@
           {
             "id": "898d5b8861af70eb",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NetLogo.md",
+                "file": "Cognitive Bias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,10 +277,19 @@
           {
             "id": "12da4c5e71213892",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NetLogo.md",
+                "file": "Cognitive Bias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,6 +298,15 @@
           {
             "id": "74fc0325a54949a7",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "all-properties",
               "state": {
@@ -160,10 +319,19 @@
           {
             "id": "f0e5d82ea6daacf1",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "outline",
               "state": {
-                "file": "NetLogo.md"
+                "file": "Cognitive Bias.md"
               }
             }
           }
@@ -177,6 +345,15 @@
           {
             "id": "53a91095c0f3296c",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "pinned": true,
             "state": {
               "type": "graph",
@@ -193,10 +370,19 @@
           {
             "id": "eb49dceec3166315",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NetLogo.md",
+                "file": "Cognitive Bias.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -290,13 +476,20 @@
       "excel:Create Excel File": false,
       "templater-obsidian:Templater": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "timer:Open timer": false
+      "timer:Open timer": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "405b6df75aac253e",
+  "active": "7176ed168d554155",
   "lastOpenFiles": [
+    "Media/Cognitive-Bias.jpg",
     "090 PKM MOC.md",
     "000 Home.md",
+    "Bible/Bible.md",
+    "Bible/22 Song of Solomon/Isaiah.md",
+    "Bible/22 Song of Solomon/Song of Solomon.md",
+    "IMF START.md",
     "NetLogo.md",
     "Bible/Revelation.md",
     "Bible/66 Revelation/66 Revelation 22.md",
@@ -316,11 +509,6 @@
     "Bible/66 Revelation/66 Revelation 8.md",
     "Bible/66 Revelation/66 Revelation 7.md",
     "Bible/66 Revelation/66 Revelation 6.md",
-    "Bible/66 Revelation/66 Revelation 5.md",
-    "Bible/66 Revelation/66 Revelation 4.md",
-    "Bible/66 Revelation/66 Revelation 3.md",
-    "Bible/66 Revelation/66 Revelation 2.md",
-    "Bible/66 Revelation/66 Revelation 1.md",
     "Bible/66 Revelation",
     "Bible/65 Jude",
     "Bible/64 3 John",

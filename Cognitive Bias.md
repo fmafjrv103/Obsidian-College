@@ -10,5 +10,15 @@ Links: [[Psychology MOC]]
 
 ---
 
+![[Cognitive-Bias.jpg]]
+___
 
----
+- [[Anchoring Effect]] #ShortTermismBias   
+- [[Availability Heuristic]] #FailureToEstimateBias 
+- [[Bandwaggon Effect]] #SocialBias 
+- [[Belief Bias]] #FailureToEstimateBias 
+- [[Blind Spot Bias]] #SocialBias 
+- [[Clustering Illusion]] #FailureToEstimateBias 
+- [[Confirmation Bias]] #FailureToEstimateBias 
+- [[Courtesy Bias]] #SocialBias 
+- [[Endowment Effect]] #FinancialBias #FailureToEstimateBias  
