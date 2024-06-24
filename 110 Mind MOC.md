@@ -1,5 +1,5 @@
 Tags: #MOC, #mind 
-links: [[000 Home|Home]], [[110 Mind MOC| Mind]], [[Concepts MOC|Concepts]], [[115 Body MOC|Body]]
+Links: [[000 Home|Home]], [[110 Mind MOC| Mind]], [[Concepts MOC|Concepts]], [[115 Body MOC|Body]]
 
 ---
 # Mind TOC

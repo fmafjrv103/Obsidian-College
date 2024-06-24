@@ -18,6 +18,30 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Positive Feedback Loop",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Positive Feedback Loop.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":184},\"to\":{\"line\":8,\"ch\":184}}}"
+                },
+                {
+                  "title": "Flow",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Flow.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":131},\"to\":{\"line\":4,\"ch\":131}},\"scroll\":0}"
+                },
+                {
+                  "title": "Concepts MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Concepts MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":7},\"to\":{\"line\":10,\"ch\":7}},\"scroll\":0.6965948960218142}"
+                },
+                {
+                  "title": "110 Mind MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"110 Mind MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":9},\"to\":{\"line\":13,\"ch\":9}},\"scroll\":0.921302910168492}"
+                },
+                {
                   "title": "000 Home",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -124,7 +148,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "110 Mind MOC.md",
+                "file": "000 Home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -305,7 +329,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "110 Mind MOC.md",
+                "file": "000 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "110 Mind MOC.md",
+                "file": "000 Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -373,7 +397,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "110 Mind MOC.md"
+                "file": "000 Home.md"
               }
             }
           }
@@ -424,7 +448,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "110 Mind MOC.md",
+                "file": "000 Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -480,8 +504,8 @@
                       }
                     }
                   ],
-                  "collapse-display": true,
-                  "showArrow": false,
+                  "collapse-display": false,
+                  "showArrow": true,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
@@ -525,6 +549,10 @@
   },
   "active": "7176ed168d554155",
   "lastOpenFiles": [
+    "Positive Feedback Loop.md",
+    "Flow.md",
+    "Concepts MOC.md",
+    "110 Mind MOC.md",
     "000 Home.md",
     "Obsidian Plug-Ins.md",
     "Obsidian MOC.md",
@@ -548,10 +576,6 @@
     "Bible/66 Revelation/66 Revelation 17.md",
     "Bible/66 Revelation/66 Revelation 16.md",
     "Bible/66 Revelation/66 Revelation 15.md",
-    "Bible/66 Revelation/66 Revelation 14.md",
-    "Bible/66 Revelation/66 Revelation 13.md",
-    "Bible/66 Revelation/66 Revelation 12.md",
-    "Bible/66 Revelation/66 Revelation 11.md",
     "Bible/66 Revelation",
     "Bible/65 Jude",
     "Bible/64 3 John",
