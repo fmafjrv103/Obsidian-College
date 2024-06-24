@@ -18,6 +18,36 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":26},\"to\":{\"line\":27,\"ch\":26}}}"
+                },
+                {
+                  "title": "Obsidian Plug-Ins",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Obsidian Plug-Ins.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":14},\"to\":{\"line\":17,\"ch\":14}}}"
+                },
+                {
+                  "title": "Obsidian MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Obsidian MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":35},\"to\":{\"line\":10,\"ch\":35}},\"scroll\":5}"
+                },
+                {
+                  "title": "040 Interests MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":12},\"to\":{\"line\":39,\"ch\":12}},\"scroll\":9.576234794745941}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":37},\"to\":{\"line\":20,\"ch\":37}},\"scroll\":5}"
+                },
+                {
                   "title": "111 Editing Manual MOC",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"111 Editing Manual MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -94,7 +124,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Home.md",
+                "file": "110 Mind MOC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -275,7 +305,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Home.md",
+                "file": "110 Mind MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +331,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Home.md",
+                "file": "110 Mind MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -343,7 +373,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Home.md"
+                "file": "110 Mind MOC.md"
               }
             }
           }
@@ -394,7 +424,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Home.md",
+                "file": "110 Mind MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -484,22 +514,26 @@
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
-      "obsidian-book-search-plugin:Create new book note": false,
       "excel:Create Excel File": false,
       "templater-obsidian:Templater": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "timer:Open timer": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-book-search-plugin:Create new book note": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "7176ed168d554155",
   "lastOpenFiles": [
+    "000 Home.md",
+    "Obsidian Plug-Ins.md",
+    "Obsidian MOC.md",
+    "040 Interests MOC.md",
+    "Latin Language MOC.md",
     "111 Editing Manual MOC.md",
     "Cognitive Bias.md",
     "Media/Cognitive-Bias.jpg",
     "090 PKM MOC.md",
-    "000 Home.md",
     "Bible/Bible.md",
     "Bible/22 Song of Solomon/Isaiah.md",
     "Bible/22 Song of Solomon/Song of Solomon.md",
@@ -518,10 +552,6 @@
     "Bible/66 Revelation/66 Revelation 13.md",
     "Bible/66 Revelation/66 Revelation 12.md",
     "Bible/66 Revelation/66 Revelation 11.md",
-    "Bible/66 Revelation/66 Revelation 10.md",
-    "Bible/66 Revelation/66 Revelation 9.md",
-    "Bible/66 Revelation/66 Revelation 8.md",
-    "Bible/66 Revelation/66 Revelation 7.md",
     "Bible/66 Revelation",
     "Bible/65 Jude",
     "Bible/64 3 John",

@@ -13,9 +13,9 @@ links: [[095 Lists MOC|Lists MOC]]
 - Advanced Tables
 - Annotator
 - Banners
-- Book Search
+- [[Book Search]]
 - Charts
-- Dataview
+- [[Dataview]]
 - Homepage
 - Icons Shortcodes
 - Iconize
