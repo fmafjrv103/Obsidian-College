@@ -8,27 +8,87 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7176ed168d554155",
+            "id": "405b6df75aac253e",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Bible",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bible/Bible.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":7}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
                 },
                 {
+                  "title": "Anchoring Effect",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Anchoring Effect.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":167},\"to\":{\"line\":10,\"ch\":167}},\"scroll\":7}"
+                },
+                {
+                  "title": "Cognitive Bias",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cognitive Bias.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":18},\"to\":{\"line\":15,\"ch\":18}},\"scroll\":12.141820484098767}"
+                },
+                {
+                  "title": "090 PKM MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"090 PKM MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":181,\"ch\":18},\"to\":{\"line\":181,\"ch\":18}},\"scroll\":171.7703125}"
+                },
+                {
+                  "title": "202403312230 Know Your Chronotype. It Will Chang Your Life",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"202403312230 Know Your Chronotype. It Will Chang Your Life.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
+                {
+                  "title": "Youtube MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Youtube MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":100},\"to\":{\"line\":10,\"ch\":100}},\"scroll\":6}"
+                },
+                {
+                  "title": "Learning Conceptually",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Learning Conceptually.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":11.778835978835978}"
+                },
+                {
+                  "title": "202403312237 How to Learn Insanely Difficult Subjects Easily",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"202403312237 How to Learn Insanely Difficult Subjects Easily.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":6}"
+                },
+                {
+                  "title": "Witchcraft MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Witchcraft MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":6}"
+                },
+                {
+                  "title": "040 Interests MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":16},\"to\":{\"line\":21,\"ch\":16}},\"scroll\":6}"
+                },
+                {
                   "title": "000 Home",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":5}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":35},\"to\":{\"line\":20,\"ch\":35}},\"scroll\":14.466222426470589}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Animal Farm and 1984 Nineteen Eighty-Four - George Orwell.md",
+                "file": "Cognitive Bias.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -108,8 +168,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,15 +223,6 @@
           {
             "id": "86471d568725bf4f",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "online.tokuhirom.obsidian-pomodoro-plugin",
               "state": {}
@@ -181,105 +231,9 @@
           {
             "id": "89e3bb96beb15046",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {}
-            }
-          },
-          {
-            "id": "898d5b8861af70eb",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Animal Farm and 1984 Nineteen Eighty-Four - George Orwell.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "12da4c5e71213892",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Animal Farm and 1984 Nineteen Eighty-Four - George Orwell.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "74fc0325a54949a7",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
-          },
-          {
-            "id": "f0e5d82ea6daacf1",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Animal Farm and 1984 Nineteen Eighty-Four - George Orwell.md"
-              }
             }
           }
         ],
@@ -329,7 +283,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Animal Farm and 1984 Nineteen Eighty-Four - George Orwell.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -385,8 +338,8 @@
                       }
                     }
                   ],
-                  "collapse-display": false,
-                  "showArrow": true,
+                  "collapse-display": true,
+                  "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
@@ -409,27 +362,37 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "excel:Create Excel File": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": true,
       "canvas:Create new canvas": false,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
       "zk-prefixer:Create new unique note": false,
       "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "excel:Create Excel File": false,
-      "templater-obsidian:Templater": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "timer:Open timer": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "homepage:Open homepage": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "457ac2530ca9e28a",
+  "active": "53a91095c0f3296c",
   "lastOpenFiles": [
+    "Cognitive Bias.md",
+    "Bible/Bible.md",
+    "Anchoring Effect.md",
+    "090 PKM MOC.md",
+    "202403312230 Know Your Chronotype. It Will Chang Your Life.md",
+    "Youtube MOC.md",
+    "Learning Conceptually.md",
+    "202403312237 How to Learn Insanely Difficult Subjects Easily.md",
+    "Witchcraft MOC.md",
+    "040 Interests MOC.md",
     "000 Home.md",
     "Animal Farm and 1984 Nineteen Eighty-Four - George Orwell.md",
     "Positive Feedback Loop.md",
@@ -438,25 +401,15 @@
     "110 Mind MOC.md",
     "Obsidian Plug-Ins.md",
     "Obsidian MOC.md",
-    "040 Interests MOC.md",
     "Latin Language MOC.md",
     "111 Editing Manual MOC.md",
-    "Cognitive Bias.md",
     "Media/Cognitive-Bias.jpg",
-    "090 PKM MOC.md",
-    "Bible/Bible.md",
     "Bible/22 Song of Solomon/Isaiah.md",
     "Bible/22 Song of Solomon/Song of Solomon.md",
     "IMF START.md",
     "NetLogo.md",
     "Bible/Revelation.md",
     "Bible/66 Revelation/66 Revelation 22.md",
-    "Bible/66 Revelation/66 Revelation 21.md",
-    "Bible/66 Revelation/66 Revelation 20.md",
-    "Bible/66 Revelation/66 Revelation 19.md",
-    "Bible/66 Revelation/66 Revelation 18.md",
-    "Bible/66 Revelation/66 Revelation 17.md",
-    "Bible/66 Revelation/66 Revelation 16.md",
     "Bible/66 Revelation",
     "Bible/65 Jude",
     "Bible/64 3 John",
