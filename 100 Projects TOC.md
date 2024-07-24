@@ -24,9 +24,6 @@ where contains(complete, "No")
 list from #project and #complete 
 ```
 # Dusty Projects
-```dataview
-LIST
-FROM #projects and -#home
-```
+- [[Mars Odyssey]]
 
 ---
