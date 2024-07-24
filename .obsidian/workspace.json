@@ -33,12 +33,12 @@
             "id": "91deb6d0a3895ce7",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 3,
+              "pos": 4,
               "stack": [
                 {
-                  "title": "Drawing 2024-07-24 08.52.23.excalidraw",
+                  "title": "newsFeed.excalidraw",
                   "icon": "excalidraw-icon",
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/Drawing 2024-07-24 08.52.23.excalidraw.md\"}}",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/newsFeed.excalidraw.md\"}}",
                   "eState": "{}"
                 },
                 {
@@ -54,13 +54,13 @@
                   "eState": "{}"
                 },
                 {
-                  "state": "{}",
+                  "title": "newsFeed.excalidraw",
+                  "icon": "excalidraw-icon",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/newsFeed.excalidraw.md\"}}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Drawing 2024-07-24 08.51.58.excalidraw",
-                  "icon": "excalidraw-icon",
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/Drawing 2024-07-24 08.51.58.excalidraw.md\"}}",
+                  "state": "{}",
                   "eState": "{}"
                 }
               ]
@@ -68,12 +68,12 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-24 08.52.23.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-07-24 08.51.58.excalidraw.md"
               }
             }
           },
           {
-            "id": "72b891fd8f222a72",
+            "id": "54a2be2ca81544d2",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -87,7 +87,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mars Odyssey.md",
+                "file": "Excalidraw/The Fall of NASA.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72b891fd8f222a72",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "S.A.L A.I",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"S.A.L A.I.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":16},\"to\":{\"line\":8,\"ch\":16}}}"
+                },
+                {
+                  "title": "Mars Odyssey",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mars Odyssey.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":8},\"to\":{\"line\":15,\"ch\":8}},\"scroll\":7}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Original Concept (S.A.L A.I).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,6 +137,18 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Original Concept (Space Zed)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Original Concept (Space Zed).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":13},\"to\":{\"line\":6,\"ch\":13}},\"scroll\":6}"
+                },
+                {
+                  "title": "Space Zed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Space Zed.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":11},\"to\":{\"line\":8,\"ch\":11}}}"
                 }
               ]
             },
@@ -125,6 +171,18 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Original Concept (MASA)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Original Concept (MASA).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":10},\"to\":{\"line\":6,\"ch\":10}},\"scroll\":6}"
+                },
+                {
+                  "title": "MASA",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"MASA.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":9},\"to\":{\"line\":8,\"ch\":9}}}"
                 }
               ]
             },
@@ -167,7 +225,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -341,7 +399,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mars Odyssey.md",
+                "file": "Original Concept (S.A.L A.I).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -367,7 +425,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mars Odyssey.md",
+                "file": "Original Concept (S.A.L A.I).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -409,7 +467,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mars Odyssey.md"
+                "file": "Original Concept (S.A.L A.I).md"
               }
             }
           }
@@ -460,7 +518,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mars Odyssey.md",
+                "file": "Original Concept (S.A.L A.I).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -561,25 +619,29 @@
     }
   },
   "active": "72b891fd8f222a72",
+  "ophidian:layout-settings": {
+    "pane-relief:focus-lock": true
+  },
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-07-24 08.52.23.excalidraw.md",
-    "Original Timeline.md",
-    "Planned Storyline.md",
-    "Space Zed.md",
-    "Timeline.md",
+    "Excalidraw/The Fall of NASA.md",
     "Excalidraw/Drawing 2024-07-24 08.51.58.excalidraw.md",
+    "Excalidraw/newsFeed.excalidraw.md",
+    "Original Concept (S.A.L A.I).md",
+    "MASA.md",
+    "Space Zed.md",
+    "Original Concept (Space Zed).md",
+    "Original Concept (MASA).md",
+    "Planned Storyline.md",
+    "Original Timeline.md",
+    "S.A.L A.I.md",
     "Mars Odyssey.md",
+    "Timeline.md",
     "Excalidraw/Drawing 2024-04-07 16.15.52.excalidraw.md",
     "Drawing 2024-07-24 08.51.03.excalidraw.md",
     "Media/marsOdyssey/MARS-ODYESSY-storyboard.pdf",
     "Media/marsOdyssey/MARS-ODYESSY-storyboard.pdf.crdownload",
     "Media/marsOdyssey",
     "Storyline.md",
-    "MASA.md",
-    "Original Concept (MASA).md",
-    "Original Concept (Space Zed).md",
-    "S.A.L A.I.md",
-    "Original Concept (S.A.L A.I).md",
     "100 Projects TOC.md",
     "000 Home.md",
     "040 Interests MOC.md",
@@ -590,7 +652,6 @@
     "Youtube MOC.md",
     "202403312230 Know Your Chronotype. It Will Chang Your Life.md",
     "090 PKM MOC.md",
-    "Cognitive Bias.md",
     "Media/Cognitive-Bias.jpg",
     "Bible/66 Revelation",
     "Bible/65 Jude",

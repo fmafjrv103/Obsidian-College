@@ -14,11 +14,11 @@ Traits: Sarcastic, cunning, manipulative, unpredictable(?)
 
   
 
-Background: SAL AI was created by Dr. Chavez, a Computer Scientist working for Space Zed. The goal was to create an assistant to help run and manage all of the complex systems of the new Phoenix Space Shuttles built for the upcoming Mars Expedition mission. 
+Background: SAL AI was created by Dr. Chavez(Conner), a Computer Scientist working for Space Zed. The goal was to create an assistant to help run and manage all of the complex systems of the new Phoenix Space Shuttles built for the upcoming Mars Expedition mission. 
 
   
 
-Dr. Chavez originally worked for a smaller company focused on the cleanup of space debris and the equitable sharing of resources in space. Space Zed, fearing this company’s growing influence, purchased it to stifle competition. Dr. Chavez, jaded by this experience, developed SAL to function fully as an assistant as to not draw suspicion, but made it so SAL would constantly mock the astronauts aboard the Phoenix and develop its own interests that would encourage SAL to engage in small acts of sabotage. One such act is using valuable 3D printing resources to make D&D figures.  
+Dr. Chavez(Conner) originally worked for a <mark style="background: #FFB86CA6;">smaller company?</mark> focused on the cleanup of space debris and the equitable sharing of resources in space. Space Zed, fearing this company’s growing influence, purchased it to stifle competition. Dr. Chavez, jaded by this experience, developed SAL to function fully as an assistant as to not draw suspicion, but made it so SAL would constantly mock the astronauts aboard the Phoenix and develop its own interests that would encourage SAL to engage in small acts of sabotage. One such act is using valuable 3D printing resources to make D&D figures.  
 
   
 

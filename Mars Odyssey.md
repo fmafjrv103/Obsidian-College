@@ -15,3 +15,4 @@ With this game they can explore a world in the near future and become apart of t
 - [[Space Zed]]
 - [[S.A.L A.I]]
 - [[Storyline]]
+![[newsFeed.excalidraw|100%]]

@@ -7,4 +7,7 @@ tags:
 Links: [[Mars Odyssey]]
 ___
 [[Original Concept (MASA)]]
-___
+# About
+### Mission Statement
+
+### Vision 
