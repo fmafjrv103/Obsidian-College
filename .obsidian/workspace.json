@@ -148,6 +148,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "MASA",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"MASA.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
                   "title": "Original Concept (MASA)",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Original Concept (MASA).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -164,7 +170,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-07 16.15.52.excalidraw.md"
+                "file": "Excalidraw/Timeline.excalidraw.md"
               }
             }
           }
@@ -343,7 +349,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-07 16.15.52.excalidraw.md",
+                "file": "Excalidraw/Timeline.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -369,7 +375,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-07 16.15.52.excalidraw.md",
+                "file": "Excalidraw/Timeline.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -411,7 +417,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-07 16.15.52.excalidraw.md"
+                "file": "Excalidraw/Timeline.excalidraw.md"
               }
             }
           }
@@ -462,7 +468,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-07 16.15.52.excalidraw.md",
+                "file": "Excalidraw/Timeline.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -567,8 +573,9 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Original Concept (MASA).md",
     "MASA.md",
+    "Original Concept (MASA).md",
+    "Excalidraw/Drawing 2024-04-07 16.15.52.excalidraw.md",
     "Mars Odyssey.md",
     "Workshop Slides.md",
     "Timeline.md",
@@ -579,7 +586,6 @@
     "Storyline.md",
     "Space Zed.md",
     "Dr. Alan Tusk.md",
-    "Excalidraw/Drawing 2024-04-07 16.15.52.excalidraw.md",
     "Original Concept (S.A.L A.I).md",
     "S.A.L A.I.md",
     "Original Timeline.md",
