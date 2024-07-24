@@ -141,113 +141,11 @@
             "id": "23f4fe7b4a2b087f",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Drawing 2024-04-07 16.15.52.excalidraw",
-                  "icon": "excalidraw-icon",
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/Drawing 2024-04-07 16.15.52.excalidraw.md\"}}",
-                  "eState": "{}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Space Zed",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Space Zed.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":19},\"to\":{\"line\":14,\"ch\":19}}}"
-                },
-                {
-                  "title": "Mars Odyssey",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mars Odyssey.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":7},\"to\":{\"line\":14,\"ch\":7}}}"
-                },
-                {
-                  "title": "Storyline",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Storyline.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":13},\"to\":{\"line\":6,\"ch\":13}},\"scroll\":6}"
-                },
-                {
-                  "title": "Mars Odyssey",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mars Odyssey.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":6},\"to\":{\"line\":16,\"ch\":6}},\"scroll\":7}"
-                },
-                {
-                  "title": "100 Projects TOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"100 Projects TOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":9.36111111111111}"
-                },
-                {
-                  "title": "000 Home",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":59},\"to\":{\"line\":26,\"ch\":59}},\"scroll\":5.51771653543307}"
-                },
-                {
-                  "title": "Timeline.excalidraw",
-                  "icon": "excalidraw-icon",
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/Timeline.excalidraw.md\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "newsFeed.excalidraw",
-                  "icon": "excalidraw-icon",
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/newsFeed.excalidraw.md\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Mars Odyssey",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mars Odyssey.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "Timeline",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Timeline.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "Mars Odyssey",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mars Odyssey.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":7}"
-                },
-                {
-                  "title": "Workshop Slides",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Workshop Slides.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":23},\"to\":{\"line\":6,\"ch\":23}},\"scroll\":7.185185185185185}"
-                },
-                {
-                  "title": "Mars Odyssey",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mars Odyssey.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":16},\"to\":{\"line\":17,\"ch\":16}},\"scroll\":14.5234375}"
-                },
-                {
-                  "title": "MASA",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"MASA.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":13},\"to\":{\"line\":6,\"ch\":13}},\"scroll\":6}"
-                },
-                {
-                  "title": "Original Concept (MASA)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Original Concept (MASA).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":11},\"to\":{\"line\":6,\"ch\":11}},\"scroll\":6}"
-                },
-                {
-                  "title": "MASA",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"MASA.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":15},\"to\":{\"line\":8,\"ch\":15}}}"
                 },
                 {
                   "title": "Original Concept (MASA)",
@@ -259,17 +157,14 @@
                   "title": "MASA",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"MASA.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":9},\"to\":{\"line\":8,\"ch\":9}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":9},\"to\":{\"line\":8,\"ch\":9}},\"scroll\":6}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Dr. Alan Tusk.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/Drawing 2024-04-07 16.15.52.excalidraw.md"
               }
             }
           }
@@ -448,7 +343,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dr. Alan Tusk.md",
+                "file": "Excalidraw/Drawing 2024-04-07 16.15.52.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -474,7 +369,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dr. Alan Tusk.md",
+                "file": "Excalidraw/Drawing 2024-04-07 16.15.52.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -516,7 +411,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dr. Alan Tusk.md"
+                "file": "Excalidraw/Drawing 2024-04-07 16.15.52.excalidraw.md"
               }
             }
           }
@@ -567,7 +462,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dr. Alan Tusk.md",
+                "file": "Excalidraw/Drawing 2024-04-07 16.15.52.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -672,24 +567,24 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-04-07 16.15.52.excalidraw.md",
-    "Original Concept (S.A.L A.I).md",
+    "Original Concept (MASA).md",
+    "MASA.md",
+    "Mars Odyssey.md",
+    "Workshop Slides.md",
+    "Timeline.md",
     "Excalidraw/newsFeed.excalidraw.md",
     "Excalidraw/Timeline.excalidraw.md",
-    "S.A.L A.I.md",
-    "Mars Odyssey.md",
-    "Timeline.md",
-    "Original Timeline.md",
-    "Workshop Slides.md",
-    "MASA.md",
-    "Original Concept (MASA).md",
-    "Storyline.md",
-    "Planned Storyline.md",
-    "Space Zed.md",
-    "Original Concept (Space Zed).md",
-    "Dr. Alan Tusk.md",
-    "100 Projects TOC.md",
     "000 Home.md",
+    "100 Projects TOC.md",
+    "Storyline.md",
+    "Space Zed.md",
+    "Dr. Alan Tusk.md",
+    "Excalidraw/Drawing 2024-04-07 16.15.52.excalidraw.md",
+    "Original Concept (S.A.L A.I).md",
+    "S.A.L A.I.md",
+    "Original Timeline.md",
+    "Planned Storyline.md",
+    "Original Concept (Space Zed).md",
     "Media/marsOdyssey/Mars Slides for Workshop (1).pdf",
     "Excalidraw/The Fall of NASA.md",
     "Drawing 2024-07-24 08.51.03.excalidraw.md",
