@@ -95,6 +95,54 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Dr. Alan Tusk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dr. Alan Tusk.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":21},\"to\":{\"line\":9,\"ch\":21}}}"
+                },
+                {
+                  "title": "Space Zed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Space Zed.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":19},\"to\":{\"line\":14,\"ch\":19}}}"
+                },
+                {
+                  "title": "Mars Odyssey",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mars Odyssey.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":7},\"to\":{\"line\":14,\"ch\":7}}}"
+                },
+                {
+                  "title": "Storyline",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Storyline.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":13},\"to\":{\"line\":6,\"ch\":13}},\"scroll\":6}"
+                },
+                {
+                  "title": "Mars Odyssey",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mars Odyssey.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":6},\"to\":{\"line\":16,\"ch\":6}},\"scroll\":7}"
+                },
+                {
+                  "title": "100 Projects TOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"100 Projects TOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":9.36111111111111}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":59},\"to\":{\"line\":26,\"ch\":59}},\"scroll\":5.51771653543307}"
+                },
+                {
+                  "title": "Timeline.excalidraw",
+                  "icon": "excalidraw-icon",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/Timeline.excalidraw.md\"}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "newsFeed.excalidraw",
                   "icon": "excalidraw-icon",
                   "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/newsFeed.excalidraw.md\"}}",
@@ -165,12 +213,12 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Timeline.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-04-07 16.15.52.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -247,7 +295,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 513.5
+    "width": 513.5,
+    "collapsed": true
   },
   "right": {
     "id": "f90594313b89809e",
@@ -343,7 +392,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Timeline.excalidraw.md",
+                "file": "Original Concept (S.A.L A.I).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -369,7 +418,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Timeline.excalidraw.md",
+                "file": "Original Concept (S.A.L A.I).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -411,7 +460,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Timeline.excalidraw.md"
+                "file": "Original Concept (S.A.L A.I).md"
               }
             }
           }
@@ -462,7 +511,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Timeline.excalidraw.md",
+                "file": "Original Concept (S.A.L A.I).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -538,7 +587,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 512.5
+    "width": 512.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -561,35 +611,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23f4fe7b4a2b087f",
+  "active": "72b891fd8f222a72",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Excalidraw/newsFeed.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-07 16.15.52.excalidraw.md",
+    "Dr. Alan Tusk.md",
+    "Space Zed.md",
     "Mars Odyssey.md",
+    "Storyline.md",
+    "Planned Storyline.md",
+    "Excalidraw/Timeline.excalidraw.md",
+    "Original Concept (S.A.L A.I).md",
+    "100 Projects TOC.md",
+    "000 Home.md",
+    "Excalidraw/newsFeed.excalidraw.md",
     "Timeline.md",
     "Workshop Slides.md",
     "MASA.md",
     "Original Concept (MASA).md",
-    "Excalidraw/Timeline.excalidraw.md",
     "Media/marsOdyssey/Mars Slides for Workshop (1).pdf",
-    "Storyline.md",
-    "Planned Storyline.md",
-    "Space Zed.md",
-    "Dr. Alan Tusk.md",
     "Original Concept (Space Zed).md",
-    "Original Concept (S.A.L A.I).md",
     "Excalidraw/The Fall of NASA.md",
     "Original Timeline.md",
     "S.A.L A.I.md",
-    "Excalidraw/Drawing 2024-04-07 16.15.52.excalidraw.md",
     "Drawing 2024-07-24 08.51.03.excalidraw.md",
     "Media/marsOdyssey/MARS-ODYESSY-storyboard.pdf",
     "Media/marsOdyssey/MARS-ODYESSY-storyboard.pdf.crdownload",
     "Media/marsOdyssey",
-    "100 Projects TOC.md",
-    "000 Home.md",
     "040 Interests MOC.md",
     "005 Active MOC.md",
     "Witchcraft MOC.md",
