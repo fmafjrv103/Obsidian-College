@@ -10,6 +10,15 @@
           {
             "id": "405b6df75aac253e",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "markdown",
               "state": {
@@ -21,18 +30,60 @@
             }
           },
           {
-            "id": "81e4aae74ef1700a",
+            "id": "91deb6d0a3895ce7",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 4,
+              "stack": [
+                {
+                  "title": "Drawing 2024-07-24 08.52.23.excalidraw",
+                  "icon": "excalidraw-icon",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/Drawing 2024-07-24 08.52.23.excalidraw.md\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Drawing 2024-04-07 16.15.52.excalidraw",
+                  "icon": "excalidraw-icon",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/Drawing 2024-04-07 16.15.52.excalidraw.md\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Drawing 2024-07-24 08.51.58.excalidraw",
+                  "icon": "excalidraw-icon",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/Drawing 2024-07-24 08.51.58.excalidraw.md\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Drawing 2024-07-24 08.52.23.excalidraw",
+                  "icon": "excalidraw-icon",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/Drawing 2024-07-24 08.52.23.excalidraw.md\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
-              "type": "release-notes",
+              "type": "excalidraw",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "Excalidraw/Drawing 2024-07-24 08.51.58.excalidraw.md"
               }
             }
           },
           {
             "id": "72b891fd8f222a72",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "markdown",
               "state": {
@@ -46,6 +97,15 @@
           {
             "id": "58814ff23fe3b178",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "markdown",
               "state": {
@@ -59,6 +119,15 @@
           {
             "id": "23f4fe7b4a2b087f",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "markdown",
               "state": {
@@ -72,6 +141,15 @@
           {
             "id": "128b1d656c1e9196",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "markdown",
               "state": {
@@ -82,8 +160,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,6 +176,15 @@
           {
             "id": "f7426e4777903a91",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "file-explorer",
               "state": {
@@ -109,6 +195,15 @@
           {
             "id": "457ac2530ca9e28a",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "search",
               "state": {
@@ -124,17 +219,26 @@
           {
             "id": "a1ac65b1bd389c68",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 513.5
+    "width": 513.5,
+    "collapsed": true
   },
   "right": {
     "id": "f90594313b89809e",
@@ -147,6 +251,15 @@
           {
             "id": "60b5fc560fd7613b",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "tag",
               "state": {
@@ -158,6 +271,15 @@
           {
             "id": "41f689c7aa5a6299",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "Timer",
               "state": {}
@@ -166,6 +288,15 @@
           {
             "id": "86471d568725bf4f",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "online.tokuhirom.obsidian-pomodoro-plugin",
               "state": {}
@@ -174,6 +305,15 @@
           {
             "id": "89e3bb96beb15046",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {}
@@ -182,6 +322,15 @@
           {
             "id": "1d314933527a4a79",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "backlink",
               "state": {
@@ -199,6 +348,15 @@
           {
             "id": "11893659abe95c10",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "outgoing-link",
               "state": {
@@ -211,6 +369,15 @@
           {
             "id": "ae35cad39f43c0a4",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "all-properties",
               "state": {
@@ -223,6 +390,15 @@
           {
             "id": "66b536a261a88819",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "outline",
               "state": {
@@ -240,6 +416,15 @@
           {
             "id": "53a91095c0f3296c",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "pinned": true,
             "state": {
               "type": "graph",
@@ -256,6 +441,15 @@
           {
             "id": "eb49dceec3166315",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "localgraph",
               "state": {
@@ -335,7 +529,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 637.5
+    "width": 637.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -346,17 +541,30 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "zk-prefixer:Create new unique note": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "excel:Create Excel File": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "timer:Open timer": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "81e4aae74ef1700a",
+  "active": "405b6df75aac253e",
   "lastOpenFiles": [
+    "Mars Odyssey.md",
+    "Excalidraw/Drawing 2024-07-24 08.51.58.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-24 08.52.23.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-07 16.15.52.excalidraw.md",
+    "Planned Storyline.md",
+    "Drawing 2024-07-24 08.51.03.excalidraw.md",
     "Media/marsOdyssey/MARS-ODYESSY-storyboard.pdf",
     "Media/marsOdyssey/MARS-ODYESSY-storyboard.pdf.crdownload",
     "Media/marsOdyssey",
     "Storyline.md",
-    "Planned Storyline.md",
-    "Mars Odyssey.md",
     "MASA.md",
     "Original Concept (MASA).md",
     "Space Zed.md",
@@ -376,9 +584,6 @@
     "090 PKM MOC.md",
     "Cognitive Bias.md",
     "Anchoring Effect.md",
-    "Bible/Bible.md",
-    "Animal Farm and 1984 Nineteen Eighty-Four - George Orwell.md",
-    "Positive Feedback Loop.md",
     "Media/Cognitive-Bias.jpg",
     "Bible/66 Revelation",
     "Bible/65 Jude",
@@ -387,7 +592,6 @@
     "Bible/62 1 John",
     "Bible/61 2 Peter",
     "Bible/60 1 Peter",
-    "Bible/59 James",
     "Media/Pasted image 20240425123432.png",
     "Media/dragon-size-chart-3-1small.jpg",
     "Media/a9y8f7f48bc51.jpg",
