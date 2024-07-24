@@ -8,3 +8,5 @@ tags:
 Links: [[Space Zed]]
 ___
 Founder of Space Zed 
+
+## Traits
