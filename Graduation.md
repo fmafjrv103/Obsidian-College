@@ -8,7 +8,7 @@ tags:
 complete: Yes
 completeDate: 2024-05-29
 ---
-Links: [[000 Home|Home]], [[095 Lists MOC|Lists]], [[100 Projects MOC|Projects MOC]]
+Links: [[000 Home|Home]], [[095 Lists MOC|Lists]], [[100 Projects TOC|Projects MOC]]
 
 ---
 - [[Invites]]

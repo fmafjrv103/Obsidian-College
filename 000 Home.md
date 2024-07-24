@@ -24,7 +24,7 @@ links: [[000 Home|Home]]
 - 070s - [[070 Journal MOC|Journals]]
 - 080s - [[080 Goals MOC|Goals]] and [[085 Finances MOC|Finances]]
 - 090s - [[090 PKM MOC|Knowledge Management]] and [[095 Lists MOC|Lists]]
-- 100s - [[100 Ideas MOC|Ideas]] and [[100 Projects MOC|Projects]]
+- 100s - [[100 Ideas MOC|Ideas]] and [[100 Projects TOC|Projects]]
 - 110s - [[110 Mind MOC|Mind]] and [[115 Body MOC|Body]]
 # Tags Categories
 - 000s - #maps #TOM #active #unsorted #curate, #tasks, #faves
@@ -64,6 +64,6 @@ Limit 5
 ```
 
 ##### Front Matter Templates for Commonly Used MOCs
-links: [[000 Home|Home]], [[005 Active MOC|Active]], [[110 Mind MOC| Mind]], [[Concepts MOC|Concepts]], [[115 Body MOC|Body]], [[030 People MOC|People]], [[035 Places MOC|Places]], [[040 Interests MOC|Interests]], [[050 Quotes MOC|Quotes]], [[055 Figures MOC|Figures]], [[060 Writings MOC|Writings]], [[070 Journal MOC|Journal ]], [[080 Goals MOC|Goals]], [[085 Finances MOC|Finances]], [[090 PKM MOC|PKM]], [[095 Lists MOC|Lists]], [[100 Ideas MOC| Ideas]], [[100 Projects MOC|Projects]] — [[IMF START]]
+links: [[000 Home|Home]], [[005 Active MOC|Active]], [[110 Mind MOC| Mind]], [[Concepts MOC|Concepts]], [[115 Body MOC|Body]], [[030 People MOC|People]], [[035 Places MOC|Places]], [[040 Interests MOC|Interests]], [[050 Quotes MOC|Quotes]], [[055 Figures MOC|Figures]], [[060 Writings MOC|Writings]], [[070 Journal MOC|Journal ]], [[080 Goals MOC|Goals]], [[085 Finances MOC|Finances]], [[090 PKM MOC|PKM]], [[095 Lists MOC|Lists]], [[100 Ideas MOC| Ideas]], [[100 Projects TOC|Projects]] — [[IMF START]]
 
 ---

@@ -1,8 +1,8 @@
 ---
 date: 2024-03-17 19:38
 tags:
-  - MOC
   - projects
+  - "#TOC"
 ---
 Links: [[000 Home|Home]]
 
@@ -24,6 +24,9 @@ where contains(complete, "No")
 list from #project and #complete 
 ```
 # Dusty Projects
-*These projects may have already bit the dust. I'm just keeping track of them here.*
+```dataview
+LIST
+FROM #projects and -#home
+```
 
 ---

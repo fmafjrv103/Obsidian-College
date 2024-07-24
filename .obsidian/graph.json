@@ -11,14 +11,14 @@
       "query": "tag:#MOC  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16774912
       }
     },
     {
       "query": "tag:#Home  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 65518
       }
     },
     {
@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 5395168
       }
+    },
+    {
+      "query": "tag:#TOC",
+      "color": {
+        "a": 1,
+        "rgb": 65310
+      }
     }
   ],
   "collapse-display": false,
@@ -68,5 +75,5 @@
   "linkStrength": 0.693498452012384,
   "linkDistance": 313,
   "scale": 0.05528066528724928,
-  "close": true
+  "close": false
 }

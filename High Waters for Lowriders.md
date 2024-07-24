@@ -4,7 +4,7 @@ tags:
   - project
   - complete
 ---
-Links: [[000 Home|Home]], [[100 Projects MOC|Projects MOC]]
+Links: [[000 Home|Home]], [[100 Projects TOC|Projects MOC]]
 
 ---
 # Description

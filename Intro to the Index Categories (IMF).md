@@ -15,7 +15,7 @@ Your Index Categories are just your main categories of personal knowledge. They 
 070s -  [[070 Journal MOC|Journals]]
 080s - [[080 Goals MOC|Goals]] and [[085 Finances MOC|Finances]]
 090s - [[090 PKM MOC|Knowledge Management]] and [[095 Lists MOC|Lists]]
-100s - [[100 Ideas MOC|Ideas]] and [[100 Projects MOC|Projects]]
+100s - [[100 Ideas MOC|Ideas]] and [[100 Projects TOC|Projects]]
 
 ---
 Want to set up your own index categories? When you're ready, check out [[Setting up your Index Categories (IMF)]] for some perspective.

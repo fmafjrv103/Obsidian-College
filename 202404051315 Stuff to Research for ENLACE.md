@@ -4,7 +4,7 @@ tags:
   - project
   - notes
 ---
-Links: [[100 Projects MOC]]
+Links: [[100 Projects TOC]]
 
 ---
 - Shelters in ABQ
