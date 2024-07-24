@@ -33,7 +33,7 @@
             "id": "91deb6d0a3895ce7",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 4,
+              "pos": 3,
               "stack": [
                 {
                   "title": "Drawing 2024-07-24 08.52.23.excalidraw",
@@ -54,13 +54,13 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Drawing 2024-07-24 08.52.23.excalidraw",
-                  "icon": "excalidraw-icon",
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/Drawing 2024-07-24 08.52.23.excalidraw.md\"}}",
+                  "state": "{}",
                   "eState": "{}"
                 },
                 {
-                  "state": "{}",
+                  "title": "Drawing 2024-07-24 08.51.58.excalidraw",
+                  "icon": "excalidraw-icon",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/Drawing 2024-07-24 08.51.58.excalidraw.md\"}}",
                   "eState": "{}"
                 }
               ]
@@ -68,7 +68,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-24 08.51.58.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-07-24 08.52.23.excalidraw.md"
               }
             }
           },
@@ -147,20 +147,27 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Timeline",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Timeline.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":15},\"to\":{\"line\":8,\"ch\":15}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timeline.md",
+                "file": "Original Timeline.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -334,7 +341,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planned Storyline.md",
+                "file": "Mars Odyssey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -360,7 +367,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planned Storyline.md",
+                "file": "Mars Odyssey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -402,7 +409,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planned Storyline.md"
+                "file": "Mars Odyssey.md"
               }
             }
           }
@@ -453,7 +460,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Planned Storyline.md",
+                "file": "Mars Odyssey.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -553,13 +560,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "405b6df75aac253e",
+  "active": "72b891fd8f222a72",
   "lastOpenFiles": [
-    "Mars Odyssey.md",
-    "Excalidraw/Drawing 2024-07-24 08.51.58.excalidraw.md",
     "Excalidraw/Drawing 2024-07-24 08.52.23.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-07 16.15.52.excalidraw.md",
+    "Original Timeline.md",
     "Planned Storyline.md",
+    "Space Zed.md",
+    "Timeline.md",
+    "Excalidraw/Drawing 2024-07-24 08.51.58.excalidraw.md",
+    "Mars Odyssey.md",
+    "Excalidraw/Drawing 2024-04-07 16.15.52.excalidraw.md",
     "Drawing 2024-07-24 08.51.03.excalidraw.md",
     "Media/marsOdyssey/MARS-ODYESSY-storyboard.pdf",
     "Media/marsOdyssey/MARS-ODYESSY-storyboard.pdf.crdownload",
@@ -567,11 +577,9 @@
     "Storyline.md",
     "MASA.md",
     "Original Concept (MASA).md",
-    "Space Zed.md",
     "Original Concept (Space Zed).md",
     "S.A.L A.I.md",
     "Original Concept (S.A.L A.I).md",
-    "Timeline.md",
     "100 Projects TOC.md",
     "000 Home.md",
     "040 Interests MOC.md",
@@ -583,7 +591,6 @@
     "202403312230 Know Your Chronotype. It Will Chang Your Life.md",
     "090 PKM MOC.md",
     "Cognitive Bias.md",
-    "Anchoring Effect.md",
     "Media/Cognitive-Bias.jpg",
     "Bible/66 Revelation",
     "Bible/65 Jude",
