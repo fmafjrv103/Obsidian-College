@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "72b891fd8f222a72",
+            "id": "23f4fe7b4a2b087f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,133 +18,21 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "S.A.L A.I",
+                  "title": "040 Interests MOC",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"S.A.L A.I.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":20},\"to\":{\"line\":8,\"ch\":20}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":16},\"to\":{\"line\":21,\"ch\":16}},\"scroll\":10.063078703703704}"
                 },
                 {
-                  "title": "Mars Odyssey",
+                  "title": "000 Home",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mars Odyssey.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":8},\"to\":{\"line\":15,\"ch\":8}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":34},\"to\":{\"line\":20,\"ch\":34}},\"scroll\":10.309072093825456}"
                 },
                 {
-                  "title": "Timeline",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Timeline.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":16},\"to\":{\"line\":6,\"ch\":16}}}"
-                },
-                {
-                  "title": "Original Timeline",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Original Timeline.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":12},\"to\":{\"line\":6,\"ch\":12}},\"scroll\":6}"
-                },
-                {
-                  "title": "Timeline",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Timeline.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":8},\"to\":{\"line\":8,\"ch\":8}},\"scroll\":6}"
-                },
-                {
-                  "title": "Mars Odyssey",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mars Odyssey.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":8},\"to\":{\"line\":12,\"ch\":8}}}"
-                },
-                {
-                  "title": "Workshop Slides",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Workshop Slides.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":11},\"to\":{\"line\":6,\"ch\":11}}}"
-                },
-                {
-                  "title": "Mars Odyssey",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mars Odyssey.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":15},\"to\":{\"line\":17,\"ch\":15}},\"scroll\":7}"
-                },
-                {
-                  "title": "MASA",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"MASA.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":11},\"to\":{\"line\":6,\"ch\":11}}}"
-                },
-                {
-                  "title": "Original Concept (MASA)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Original Concept (MASA).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":10},\"to\":{\"line\":6,\"ch\":10}},\"scroll\":6}"
-                },
-                {
-                  "title": "MASA",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"MASA.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":14},\"to\":{\"line\":8,\"ch\":14}}}"
-                },
-                {
-                  "title": "Mars Odyssey",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mars Odyssey.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":6},\"to\":{\"line\":13,\"ch\":6}}}"
-                },
-                {
-                  "title": "Storyline",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Storyline.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":16},\"to\":{\"line\":6,\"ch\":16}}}"
-                },
-                {
-                  "title": "Planned Storyline",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Planned Storyline.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":13},\"to\":{\"line\":6,\"ch\":13}},\"scroll\":6}"
-                },
-                {
-                  "title": "Storyline",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Storyline.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":8},\"to\":{\"line\":8,\"ch\":8}},\"scroll\":6}"
-                },
-                {
-                  "title": "Mars Odyssey",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mars Odyssey.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":10},\"to\":{\"line\":16,\"ch\":10}},\"scroll\":7}"
-                },
-                {
-                  "title": "Space Zed",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Space Zed.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":14},\"to\":{\"line\":6,\"ch\":14}},\"scroll\":6}"
-                },
-                {
-                  "title": "Mars Odyssey",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mars Odyssey.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":7},\"to\":{\"line\":14,\"ch\":7}},\"scroll\":7}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Original Concept (S.A.L A.I).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23f4fe7b4a2b087f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
+                  "title": "Timeline.excalidraw",
+                  "icon": "excalidraw-icon",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/Timeline.excalidraw.md\"}}",
                   "eState": "{}"
                 },
                 {
@@ -168,14 +56,16 @@
               ]
             },
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Timeline.excalidraw.md"
+                "file": "Witchcraft MOC.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -349,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Timeline.excalidraw.md",
+                "file": "Witchcraft MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -375,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Timeline.excalidraw.md",
+                "file": "Witchcraft MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -417,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Timeline.excalidraw.md"
+                "file": "Witchcraft MOC.md"
               }
             }
           }
@@ -468,7 +358,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Timeline.excalidraw.md",
+                "file": "Witchcraft MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -544,8 +434,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 512.5,
-    "collapsed": true
+    "width": 512.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -573,6 +462,9 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "040 Interests MOC.md",
+    "000 Home.md",
+    "Excalidraw/Timeline.excalidraw.md",
     "MASA.md",
     "Original Concept (MASA).md",
     "Excalidraw/Drawing 2024-04-07 16.15.52.excalidraw.md",
@@ -580,8 +472,6 @@
     "Workshop Slides.md",
     "Timeline.md",
     "Excalidraw/newsFeed.excalidraw.md",
-    "Excalidraw/Timeline.excalidraw.md",
-    "000 Home.md",
     "100 Projects TOC.md",
     "Storyline.md",
     "Space Zed.md",
@@ -597,7 +487,6 @@
     "Media/marsOdyssey/MARS-ODYESSY-storyboard.pdf",
     "Media/marsOdyssey/MARS-ODYESSY-storyboard.pdf.crdownload",
     "Media/marsOdyssey",
-    "040 Interests MOC.md",
     "005 Active MOC.md",
     "Witchcraft MOC.md",
     "202403312237 How to Learn Insanely Difficult Subjects Easily.md",

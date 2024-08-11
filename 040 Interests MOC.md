@@ -20,7 +20,6 @@ Despite some criticisms of the Dewey Decimal System, it's an excellent, pre-buil
 	- [[Stoicism MOC]]
 - **200s - Spirituality & Religion**
 	- [[Witchcraft MOC]]
-	- [[Bible|Bible MOC]]
 - **300s - Social Sciences (People living/working in Society, Law, Gov, Corps, Groups)**
 	- [[Rhetoric MOC]]
 - **400s - Language**
