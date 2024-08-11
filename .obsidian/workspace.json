@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "39689b0a2259a1e1",
+        "id": "6c38d8bb265254c9",
         "type": "tabs",
         "children": [
           {
-            "id": "23f4fe7b4a2b087f",
+            "id": "8de66fdecec8ff5a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,47 +18,29 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Computer MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Computer MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":5},\"to\":{\"line\":12,\"ch\":5}},\"scroll\":6}"
+                },
+                {
                   "title": "040 Interests MOC",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":16},\"to\":{\"line\":21,\"ch\":16}},\"scroll\":10.063078703703704}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":14},\"to\":{\"line\":36,\"ch\":14}},\"scroll\":20.056770833333335}"
                 },
                 {
                   "title": "000 Home",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":34},\"to\":{\"line\":20,\"ch\":34}},\"scroll\":10.309072093825456}"
-                },
-                {
-                  "title": "Timeline.excalidraw",
-                  "icon": "excalidraw-icon",
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/Timeline.excalidraw.md\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "MASA",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"MASA.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "Original Concept (MASA)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Original Concept (MASA).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":10},\"to\":{\"line\":6,\"ch\":10}},\"scroll\":6}"
-                },
-                {
-                  "title": "MASA",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"MASA.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":9},\"to\":{\"line\":8,\"ch\":9}},\"scroll\":6}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":33},\"to\":{\"line\":20,\"ch\":33}},\"scroll\":11.951967592592592}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Witchcraft MOC.md",
+                "file": "OS(Operating Systems).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -239,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Witchcraft MOC.md",
+                "file": "OS(Operating Systems).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Witchcraft MOC.md",
+                "file": "OS(Operating Systems).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Witchcraft MOC.md"
+                "file": "OS(Operating Systems).md"
               }
             }
           }
@@ -358,7 +340,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Witchcraft MOC.md",
+                "file": "OS(Operating Systems).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -457,13 +439,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23f4fe7b4a2b087f",
+  "active": "8de66fdecec8ff5a",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Computer MOC.md",
+    "OS(Operating Systems).md",
     "040 Interests MOC.md",
     "000 Home.md",
+    "Witchcraft MOC.md",
     "Excalidraw/Timeline.excalidraw.md",
     "MASA.md",
     "Original Concept (MASA).md",
@@ -488,10 +473,7 @@
     "Media/marsOdyssey/MARS-ODYESSY-storyboard.pdf.crdownload",
     "Media/marsOdyssey",
     "005 Active MOC.md",
-    "Witchcraft MOC.md",
     "202403312237 How to Learn Insanely Difficult Subjects Easily.md",
-    "Learning Conceptually.md",
-    "Youtube MOC.md",
     "Media/Cognitive-Bias.jpg",
     "Bible/66 Revelation",
     "Bible/65 Jude",
