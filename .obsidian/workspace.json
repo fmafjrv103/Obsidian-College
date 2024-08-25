@@ -11,17 +11,17 @@
             "id": "8de66fdecec8ff5a",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "000 Home",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":40,\"ch\":14},\"to\":{\"line\":40,\"ch\":14}},\"scroll\":48.51724732666437}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "MWE 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"MWE 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":4}"
                 },
                 {
                   "title": "Essays MOC",
@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MWE 1.md",
+                "file": "000 Home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -245,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MWE 1.md",
+                "file": "000 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MWE 1.md",
+                "file": "000 Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,7 +313,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MWE 1.md"
+                "file": "000 Home.md"
               }
             }
           }
@@ -364,7 +364,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MWE 1.md",
+                "file": "000 Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -465,8 +465,8 @@
   },
   "active": "8de66fdecec8ff5a",
   "lastOpenFiles": [
-    "000 Home.md",
     "MWE 1.md",
+    "000 Home.md",
     "Essays MOC.md",
     "060 Writings MOC.md",
     "DND.SRD.Wiki-master/Spells/Spell List.md",
