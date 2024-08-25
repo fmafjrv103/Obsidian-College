@@ -10,10 +10,61 @@
           {
             "id": "8de66fdecec8ff5a",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":40,\"ch\":14},\"to\":{\"line\":40,\"ch\":14}},\"scroll\":48.51724732666437}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Essays MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Essays MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":5},\"to\":{\"line\":9,\"ch\":5}}}"
+                },
+                {
+                  "title": "060 Writings MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"060 Writings MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":9},\"to\":{\"line\":13,\"ch\":9}},\"scroll\":6}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":31},\"to\":{\"line\":22,\"ch\":31}},\"scroll\":12.651295731707316}"
+                },
+                {
+                  "title": "Spell List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Spells/Spell List.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":17},\"to\":{\"line\":22,\"ch\":17}},\"scroll\":6}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "OS(Operating Systems)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"OS(Operating Systems).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                }
+              ]
+            },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS(Operating Systems).md",
+                "file": "MWE 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,6 +87,15 @@
           {
             "id": "f7426e4777903a91",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "file-explorer",
               "state": {
@@ -46,6 +106,15 @@
           {
             "id": "457ac2530ca9e28a",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "search",
               "state": {
@@ -61,6 +130,15 @@
           {
             "id": "a1ac65b1bd389c68",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "bookmarks",
               "state": {}
@@ -84,6 +162,15 @@
           {
             "id": "60b5fc560fd7613b",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "tag",
               "state": {
@@ -95,6 +182,15 @@
           {
             "id": "41f689c7aa5a6299",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "Timer",
               "state": {}
@@ -103,6 +199,15 @@
           {
             "id": "86471d568725bf4f",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "online.tokuhirom.obsidian-pomodoro-plugin",
               "state": {}
@@ -111,6 +216,15 @@
           {
             "id": "89e3bb96beb15046",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {}
@@ -119,10 +233,19 @@
           {
             "id": "1d314933527a4a79",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS(Operating Systems).md",
+                "file": "MWE 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,10 +259,19 @@
           {
             "id": "11893659abe95c10",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS(Operating Systems).md",
+                "file": "MWE 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,6 +280,15 @@
           {
             "id": "ae35cad39f43c0a4",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "all-properties",
               "state": {
@@ -160,10 +301,19 @@
           {
             "id": "66b536a261a88819",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS(Operating Systems).md"
+                "file": "MWE 1.md"
               }
             }
           }
@@ -177,6 +327,15 @@
           {
             "id": "53a91095c0f3296c",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "pinned": true,
             "state": {
               "type": "graph",
@@ -193,10 +352,19 @@
           {
             "id": "eb49dceec3166315",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "OS(Operating Systems).md",
+                "file": "MWE 1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -283,15 +451,31 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "zk-prefixer:Create new unique note": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "excel:Create Excel File": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "timer:Open timer": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "8de66fdecec8ff5a",
   "lastOpenFiles": [
-    "Computer MOC.md",
-    "OS(Operating Systems).md",
-    "040 Interests MOC.md",
     "000 Home.md",
+    "MWE 1.md",
+    "Essays MOC.md",
+    "060 Writings MOC.md",
+    "DND.SRD.Wiki-master/Spells/Spell List.md",
+    "DND.SRD.Wiki-master/Spells/Prestidigitation.md",
+    "DND.SRD.Wiki-master/Spells/Vicious Mockery.md",
+    "DND.SRD.Wiki-master/Spells/Dancing Lights.md",
+    "OS(Operating Systems).md",
+    "Computer MOC.md",
+    "040 Interests MOC.md",
     "Witchcraft MOC.md",
     "Excalidraw/Timeline.excalidraw.md",
     "MASA.md",
@@ -307,17 +491,10 @@
     "Dr. Alan Tusk.md",
     "Original Concept (S.A.L A.I).md",
     "S.A.L A.I.md",
-    "Original Timeline.md",
-    "Planned Storyline.md",
-    "Original Concept (Space Zed).md",
     "Media/marsOdyssey/Mars Slides for Workshop (1).pdf",
-    "Excalidraw/The Fall of NASA.md",
-    "Drawing 2024-07-24 08.51.03.excalidraw.md",
     "Media/marsOdyssey/MARS-ODYESSY-storyboard.pdf",
     "Media/marsOdyssey/MARS-ODYESSY-storyboard.pdf.crdownload",
     "Media/marsOdyssey",
-    "005 Active MOC.md",
-    "202403312237 How to Learn Insanely Difficult Subjects Easily.md",
     "Media/Cognitive-Bias.jpg",
     "Bible/66 Revelation",
     "Bible/65 Jude",
