@@ -11,6 +11,82 @@
             "id": "8de66fdecec8ff5a",
             "type": "leaf",
             "pane-relief:history-v1": {
+              "pos": 3,
+              "stack": [
+                {
+                  "title": "Stoicism TOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Stoicism TOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":6},\"to\":{\"line\":0,\"ch\":6}}}"
+                },
+                {
+                  "title": "Stoicism MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Stoicism MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":6},\"to\":{\"line\":0,\"ch\":6}}}"
+                },
+                {
+                  "title": "Stoicism TOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Stoicism TOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":7},\"to\":{\"line\":0,\"ch\":7}}}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Dewey Decimal System",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dewey Decimal System.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":206,\"ch\":10},\"to\":{\"line\":206,\"ch\":10}},\"scroll\":190.74010416666667}"
+                },
+                {
+                  "title": "Contextual Lenses",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Contextual Lenses.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":21},\"to\":{\"line\":10,\"ch\":21}},\"scroll\":0.7538976787157871}"
+                },
+                {
+                  "title": "090 PKM MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"090 PKM MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":225,\"ch\":10},\"to\":{\"line\":225,\"ch\":10}},\"scroll\":209.73697916666666}"
+                },
+                {
+                  "title": "Stoicism MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Stoicism MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "040 Interests MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":15},\"to\":{\"line\":19,\"ch\":15}},\"scroll\":7.685185185185185}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Four Virtues.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e28ad5370c03e44f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
@@ -20,16 +96,12 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000 Home.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "swar8080/AVAILABLE_PLUGIN_UPDATES",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,7 +148,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:MOC",
+                "query": "tag:#stoicism",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,23 +244,6 @@
             }
           },
           {
-            "id": "89e3bb96beb15046",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
             "id": "1d314933527a4a79",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -203,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Home.md",
+                "file": "Four Virtues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +284,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Home.md",
+                "file": "Four Virtues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,8 +326,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Home.md"
+                "file": "Four Virtues.md"
               }
+            }
+          },
+          {
+            "id": "e64794a63c98decc",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
             }
           }
         ],
@@ -322,7 +385,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Home.md",
+                "file": "Four Virtues.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -421,10 +484,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8de66fdecec8ff5a",
+  "active": "e28ad5370c03e44f",
   "lastOpenFiles": [
-    "MWE 1.md",
+    "Stoicism TOC.md",
+    "Stoicism MOC.md",
+    "Four Virtues.md",
+    "Dewey Decimal System.md",
+    "Contextual Lenses.md",
+    "090 PKM MOC.md",
+    "040 Interests MOC.md",
     "000 Home.md",
+    "MWE 1.md",
     "Essays MOC.md",
     "060 Writings MOC.md",
     "DND.SRD.Wiki-master/Spells/Spell List.md",
@@ -433,7 +503,6 @@
     "DND.SRD.Wiki-master/Spells/Dancing Lights.md",
     "OS(Operating Systems).md",
     "Computer MOC.md",
-    "040 Interests MOC.md",
     "Witchcraft MOC.md",
     "Excalidraw/Timeline.excalidraw.md",
     "MASA.md",
@@ -443,12 +512,6 @@
     "Workshop Slides.md",
     "Timeline.md",
     "Excalidraw/newsFeed.excalidraw.md",
-    "100 Projects TOC.md",
-    "Storyline.md",
-    "Space Zed.md",
-    "Dr. Alan Tusk.md",
-    "Original Concept (S.A.L A.I).md",
-    "S.A.L A.I.md",
     "Media/marsOdyssey/Mars Slides for Workshop (1).pdf",
     "Media/marsOdyssey/MARS-ODYESSY-storyboard.pdf",
     "Media/marsOdyssey/MARS-ODYESSY-storyboard.pdf.crdownload",
