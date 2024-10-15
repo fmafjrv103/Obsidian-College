@@ -1,4 +1,5 @@
 {
+  "position": "RIGHT",
   "showFudgeIcon": false,
   "rollLinksForTags": true,
   "copyContentButton": true,
@@ -22,7 +23,6 @@
   "textColor": "#ffffff",
   "textFont": "Arial",
   "showLeafOnStartup": true,
-  "showDice": true,
   "displayAsEmbed": true,
   "round": "None",
   "initialDisplay": "Roll",
@@ -73,6 +73,43 @@
   "showRenderNotice": true,
   "diceModTemplateFolders": {},
   "replaceDiceModInLivePreview": true,
-  "version": "11.0.5",
-  "viewResults": []
+  "version": "11.3.2",
+  "viewResults": [
+    {
+      "result": 10,
+      "original": "2d4+1d20",
+      "resultText": "[2, 4]+[4]",
+      "timestamp": 1728851073566,
+      "id": "C-_hVg4cdg5f"
+    },
+    {
+      "result": 6,
+      "original": "2d4+1d20",
+      "resultText": "[1, 1]+[4]",
+      "timestamp": 1728851087992,
+      "id": "t8aFTXnMDYXC"
+    },
+    {
+      "result": 1072,
+      "original": "100d20",
+      "resultText": "[11, 3, 16, 6, 20, 8, 6, 19, 6, 11, 20, 16, 7, 14, 2, 11, 10, 17, 17, 4, 5, 3, 19, 11, 17, 5, 5, 9, 18, 5, 3, 4, 1, 19, 6, 6, 10, 11, 18, 18, 19, 4, 15, 3, 18, 10, 4, 1, 12, 9, 11, 17, 15, 6, 16, 10, 13, 1, 5, 1, 11, 9, 20, 10, 8, 9, 1, 7, 11, 20, 11, 1, 13, 16, 14, 18, 10, 10, 5, 14, 15, 19, 17, 15, 10, 9, 9, 17, 17, 15, 11, 9, 14, 19, 3, 16, 13, 10, 8, 1]",
+      "timestamp": 1728851106744,
+      "id": "oZ8jJDx44oKL"
+    },
+    {
+      "result": 12,
+      "original": "1d20kl",
+      "resultText": "[12]",
+      "timestamp": 1728851142727,
+      "id": "jaGVH6cPfHqd"
+    },
+    {
+      "result": 1,
+      "original": "100d20kl",
+      "resultText": "[8d, 17d, 4d, 20d, 13d, 2d, 3d, 13d, 2d, 6d, 13d, 14d, 14d, 13d, 10d, 11d, 7d, 18d, 2d, 10d, 14d, 20d, 10d, 5d, 7d, 4d, 9d, 4d, 8d, 1, 13d, 11d, 2d, 9d, 2d, 17d, 4d, 20d, 3d, 6d, 20d, 18d, 4d, 1d, 9d, 16d, 17d, 16d, 2d, 16d, 10d, 19d, 6d, 20d, 9d, 9d, 4d, 16d, 7d, 1d, 8d, 6d, 16d, 10d, 20d, 8d, 17d, 10d, 18d, 20d, 7d, 15d, 11d, 3d, 18d, 2d, 8d, 14d, 1d, 18d, 12d, 9d, 12d, 6d, 6d, 3d, 8d, 6d, 7d, 15d, 11d, 2d, 16d, 12d, 20d, 3d, 13d, 20d, 10d, 15d]",
+      "timestamp": 1728851165095,
+      "id": "BeKZJ06nIqV3"
+    }
+  ],
+  "showDice": true
 }

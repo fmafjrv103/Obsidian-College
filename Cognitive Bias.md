@@ -6,7 +6,7 @@ tags:
   - active
 complete: No
 ---
-Links: [[Psychology MOC]]
+-Links: [[Psychology MOC]]
 
 ---
 
@@ -22,3 +22,11 @@ ___
 - [[Confirmation Bias]] #FailureToEstimateBias 
 - [[Courtesy Bias]] #SocialBias 
 - [[Endowment Effect]] #FinancialBias #FailureToEstimateBias  
+- [[Gamblers Fallacy]] #FailureToEstimateBias 
+- [[Hyperbolic Discounting]] #FinancialBias #ShortTermismBias 
+- [[Illusion of Validity]] #ShortTermismBias 
+- [[Ostrich Effect]] #FinancialBias #FailureToEstimateBias 
+- [[Reactive Devaluation]] #SocialBias 
+- [[Risk Compensation]] #FailureToEstimateBias 
+- [[Status Quo Bias]] #ShortTermismBias 
+- [[Stereotyping]] #SocialBias 

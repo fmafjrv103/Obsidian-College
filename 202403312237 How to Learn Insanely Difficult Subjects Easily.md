@@ -4,7 +4,7 @@ tags:
   - videos
   - youtube
 ---
-Links: [[Youtube MOC]]
+Links: [[Youtube MOC|Youtube]]
 ___
 ![Link](https://youtu.be/yG7z8XtZGMk?si=slMhXGrBO8qLamVP)
 ___

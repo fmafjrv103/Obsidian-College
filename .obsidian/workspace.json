@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "833ef6360d63d1eb",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "6c38d8bb265254c9",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "8de66fdecec8ff5a",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,77 +18,110 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "DND MOC",
+                  "title": "Math MOC",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":68,\"ch\":43},\"to\":{\"line\":68,\"ch\":43}},\"scroll\":62.18385650224215}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":8}"
                 },
                 {
-                  "title": "001 Magic Items MOC",
+                  "title": "Books MOC",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND.SRD.Wiki-master/Treasure (Alt)/001 Magic Items MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":7}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Books MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
                 },
                 {
-                  "title": "010 Notes MOC",
+                  "title": "Revelations - Melissa de la Cruz",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"010 Notes MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":21.59000633401365}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Revelations - Melissa de la Cruz.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":23}"
+                },
+                {
+                  "title": "Books MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Books MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Math MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
                 },
                 {
                   "title": "000 Home",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":27},\"to\":{\"line\":17,\"ch\":27}},\"scroll\":12.114710365853659}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
                 },
                 {
-                  "title": "Four Virtues",
+                  "title": "DND MOC",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Four Virtues.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":243},\"to\":{\"line\":1,\"ch\":243}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
                 },
                 {
-                  "title": "Dewey Decimal System",
+                  "title": "Session 0 Checklist",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dewey Decimal System.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":206,\"ch\":10},\"to\":{\"line\":206,\"ch\":10}},\"scroll\":190.74010416666667}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session 0 Checklist.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
                 },
                 {
-                  "title": "Contextual Lenses",
+                  "title": "DND MOC",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Contextual Lenses.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":21},\"to\":{\"line\":10,\"ch\":21}},\"scroll\":0.7538976787157871}"
-                },
-                {
-                  "title": "090 PKM MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"090 PKM MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":225,\"ch\":10},\"to\":{\"line\":225,\"ch\":10}},\"scroll\":209.73697916666666}"
-                },
-                {
-                  "title": "Stoicism MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Stoicism MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
                 },
                 {
                   "title": "040 Interests MOC",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":15},\"to\":{\"line\":19,\"ch\":15}},\"scroll\":7.685185185185185}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Math MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":8}"
+                },
+                {
+                  "title": "202410141359 Math Notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"202410141359 Math Notes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":6}"
+                },
+                {
+                  "title": "Math MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":8}"
+                },
+                {
+                  "title": "Aldus PageMaker",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Aldus PageMaker.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Letraset sheets",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Letraset sheets.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
                 },
                 {
                   "title": "000 Home",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Media/D&D 5E - Player's Handbook.pdf"
+                "file": "202410150924 Math Notes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -139,7 +172,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#stoicism",
+                "query": "kits",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,7 +198,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -235,7 +269,41 @@
             }
           },
           {
-            "id": "1d314933527a4a79",
+            "id": "89e3bb96beb15046",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "1b36d7107ce29184",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {}
+            }
+          },
+          {
+            "id": "3a99820e1cab1ade",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -249,7 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media/D&D 5E - Player's Handbook.pdf",
+                "file": "202410150924 Math Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +329,7 @@
             }
           },
           {
-            "id": "11893659abe95c10",
+            "id": "24355427c00203af",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -275,14 +343,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Media/D&D 5E - Player's Handbook.pdf",
+                "file": "202410150924 Math Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ae35cad39f43c0a4",
+            "id": "2c5c7615e95910f1",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -303,7 +371,7 @@
             }
           },
           {
-            "id": "66b536a261a88819",
+            "id": "8dd2e07a385c74c0",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -317,29 +385,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media/D&D 5E - Player's Handbook.pdf"
+                "file": "202410150924 Math Notes.md"
               }
-            }
-          },
-          {
-            "id": "e64794a63c98decc",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "be49819afffadbc4",
@@ -385,7 +436,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Media/D&D 5E - Player's Handbook.pdf",
+                "file": "202410150924 Math Notes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -461,58 +512,61 @@
       }
     ],
     "direction": "horizontal",
-    "width": 512.5
+    "width": 637.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "excel:Create Excel File": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": true,
       "canvas:Create new canvas": false,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
       "zk-prefixer:Create new unique note": false,
       "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "excel:Create Excel File": false,
-      "templater-obsidian:Templater": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "timer:Open timer": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "8de66fdecec8ff5a",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "DND MOC.md",
-    "DND.SRD.Wiki-master/Treasure (Alt)/001 Magic Items MOC.md",
-    "010 Notes MOC.md",
-    "Time blocking.md",
+    "Math MOC.md",
+    "202410150924 Math Notes.md",
+    "Books MOC.md",
+    "Revelations - Melissa de la Cruz.md",
     "000 Home.md",
-    "Four Virtues.md",
-    "Stoicism TOC.md",
-    "Stoicism MOC.md",
-    "Dewey Decimal System.md",
-    "Contextual Lenses.md",
-    "090 PKM MOC.md",
+    "DND MOC.md",
+    "Session 0 Checklist.md",
+    "DND.SRD.Wiki-master/Gamemastering/Conditions.md",
     "040 Interests MOC.md",
-    "MWE 1.md",
-    "Essays MOC.md",
-    "060 Writings MOC.md",
-    "DND.SRD.Wiki-master/Spells/Spell List.md",
-    "DND.SRD.Wiki-master/Spells/Prestidigitation.md",
-    "DND.SRD.Wiki-master/Spells/Vicious Mockery.md",
-    "DND.SRD.Wiki-master/Spells/Dancing Lights.md",
-    "OS(Operating Systems).md",
-    "Computer MOC.md",
-    "Witchcraft MOC.md",
-    "Excalidraw/Timeline.excalidraw.md",
-    "MASA.md",
-    "Original Concept (MASA).md",
-    "Excalidraw/Drawing 2024-04-07 16.15.52.excalidraw.md",
+    "090 PKM MOC.md",
+    "Dataview MOC.md",
+    "202410141359 Math Notes.md",
+    "Aldus PageMaker.md",
+    "Letraset sheets.md",
+    "Learning Conceptually.md",
+    "202403312237 How to Learn Insanely Difficult Subjects Easily.md",
+    "Kitsune Club.md",
+    "Tora Club.md",
+    "Kuma Club.md",
+    "Youtube MOC.md",
+    "Match Day Trials.md",
+    "202403312235 What Brian Type Do You Have.md",
+    "085 Finances MOC.md",
+    "Tax Ledger.sheet.md",
+    "Programs.md",
+    "Mastering  Obsidian.md",
+    "Media/D&D 5E - Monster Manual.pdf",
+    "Media/D&D 5e - DM Guide.pdf",
+    "Media/D&D 5E - Player's Handbook.pdf",
     "Media/marsOdyssey/Mars Slides for Workshop (1).pdf",
     "Media/marsOdyssey/MARS-ODYESSY-storyboard.pdf",
     "Media/marsOdyssey/MARS-ODYESSY-storyboard.pdf.crdownload",
@@ -521,9 +575,6 @@
     "Bible/66 Revelation",
     "Bible/65 Jude",
     "Bible/64 3 John",
-    "Bible/63 2 John",
-    "Bible/62 1 John",
-    "Bible/61 2 Peter",
     "Media/Pasted image 20240425123432.png",
     "Media/dragon-size-chart-3-1small.jpg",
     "Media/a9y8f7f48bc51.jpg",
