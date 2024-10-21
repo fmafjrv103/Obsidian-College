@@ -20,109 +20,33 @@
                 {
                   "title": "Math MOC",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":8}"
-                },
-                {
-                  "title": "Books MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Books MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "Revelations - Melissa de la Cruz",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Revelations - Melissa de la Cruz.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":23}"
-                },
-                {
-                  "title": "Books MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Books MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "Math MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
-                },
-                {
-                  "title": "000 Home",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "DND MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "Session 0 Checklist",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session 0 Checklist.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "DND MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Math MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":10.481481306183333}"
                 },
                 {
                   "title": "040 Interests MOC",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "Math MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":8}"
-                },
-                {
-                  "title": "202410141359 Math Notes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"202410141359 Math Notes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":6}"
-                },
-                {
-                  "title": "Math MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":8}"
-                },
-                {
-                  "title": "Aldus PageMaker",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Aldus PageMaker.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "Letraset sheets",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Letraset sheets.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"040 Interests MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":8},\"to\":{\"line\":33,\"ch\":8}},\"scroll\":6}"
                 },
                 {
                   "title": "000 Home",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"000 Home\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":32},\"to\":{\"line\":20,\"ch\":32}},\"scroll\":5}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202410150924 Math Notes.md",
+                "file": "202410211404 Math Notes Pre-calc 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "202410211404 Math Notes Pre-calc 1"
             }
           }
         ]
@@ -154,7 +78,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -178,7 +104,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -195,16 +123,16 @@
             },
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 513.5,
-    "collapsed": true
+    "width": 513.5
   },
   "right": {
     "id": "f90594313b89809e",
@@ -231,7 +159,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -248,7 +178,9 @@
             },
             "state": {
               "type": "Timer",
-              "state": {}
+              "state": {},
+              "icon": "alarm-clock",
+              "title": "Timer"
             }
           },
           {
@@ -265,7 +197,9 @@
             },
             "state": {
               "type": "online.tokuhirom.obsidian-pomodoro-plugin",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Pomodoro timer"
             }
           },
           {
@@ -282,7 +216,9 @@
             },
             "state": {
               "type": "DICE_ROLLER_VIEW",
-              "state": {}
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           },
           {
@@ -299,7 +235,9 @@
             },
             "state": {
               "type": "fantasy-statblocks-creature-pane",
-              "state": {}
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
             }
           },
           {
@@ -317,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202410150924 Math Notes.md",
+                "file": "202404181229 Math Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +263,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 202404181229 Math Notes"
             }
           },
           {
@@ -343,10 +283,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202410150924 Math Notes.md",
+                "file": "202404181229 Math Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 202404181229 Math Notes"
             }
           },
           {
@@ -367,7 +309,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -385,12 +329,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202410150924 Math Notes.md"
-              }
+                "file": "202404181229 Math Notes.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 202404181229 Math Notes"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "be49819afffadbc4",
@@ -412,7 +358,9 @@
             "state": {
               "type": "graph",
               "state": {},
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -436,7 +384,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "202410150924 Math Notes.md",
+                "file": "202410211404 Math Notes Pre-calc 1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -502,10 +450,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6745774057693148,
+                  "scale": 0.31861260531575075,
                   "close": true
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of 202410211404 Math Notes Pre-calc 1"
             }
           }
         ]
@@ -538,52 +488,52 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Media/Pasted image 20241021141827.png",
+    "Media/Pasted image 20241021141716.png",
     "Math MOC.md",
-    "202410150924 Math Notes.md",
-    "Books MOC.md",
-    "Revelations - Melissa de la Cruz.md",
-    "000 Home.md",
-    "DND MOC.md",
-    "Session 0 Checklist.md",
-    "DND.SRD.Wiki-master/Gamemastering/Conditions.md",
+    "202410211404 Math Notes Pre-calc 1.md",
     "040 Interests MOC.md",
-    "090 PKM MOC.md",
-    "Dataview MOC.md",
+    "000 Home.md",
+    "202404181229 Math Notes.md",
+    "202410071354 MATH1240 Mid-Term Review.md",
     "202410141359 Math Notes.md",
-    "Aldus PageMaker.md",
-    "Letraset sheets.md",
-    "Learning Conceptually.md",
-    "202403312237 How to Learn Insanely Difficult Subjects Easily.md",
-    "Kitsune Club.md",
-    "Tora Club.md",
-    "Kuma Club.md",
-    "Youtube MOC.md",
-    "Match Day Trials.md",
-    "202403312235 What Brian Type Do You Have.md",
-    "085 Finances MOC.md",
-    "Tax Ledger.sheet.md",
-    "Programs.md",
-    "Mastering  Obsidian.md",
-    "Media/D&D 5E - Monster Manual.pdf",
-    "Media/D&D 5e - DM Guide.pdf",
-    "Media/D&D 5E - Player's Handbook.pdf",
-    "Media/marsOdyssey/Mars Slides for Workshop (1).pdf",
-    "Media/marsOdyssey/MARS-ODYESSY-storyboard.pdf",
-    "Media/marsOdyssey/MARS-ODYESSY-storyboard.pdf.crdownload",
-    "Media/marsOdyssey",
-    "Media/Cognitive-Bias.jpg",
-    "Bible/66 Revelation",
-    "Bible/65 Jude",
-    "Bible/64 3 John",
-    "Media/Pasted image 20240425123432.png",
-    "Media/dragon-size-chart-3-1small.jpg",
-    "Media/a9y8f7f48bc51.jpg",
-    "Media/DND Maps/The Impireal City of Hiley.png",
-    "Media/456029-How_To.jpg",
-    "Media/Focus Checklist.png",
-    "DND.SRD.Wiki-master/RE&.logo.png",
-    "Media/DND.SRD.Wiki-master/RE&.logo.png",
-    "Media/Pasted image 20240330231528.png",
+    "202404231230 Math Notes.md",
+    "202410161357 Math Notes.md",
+    "202410181400 Math Notes Pre-Calc.md",
+    "Excel 2024-10-18 14.23.52.sheet.md",
+    "202410171104 Keeping my Scholarships.md",
+    "202410170929 Math Notes Trig.md",
+    "202410150924 Math Notes.md",
+    "DND.SRD.Wiki-master/Monsters (Alt)/Creatures A-C.md",
+    "DND/456029-Optional_Sheet_SPELL_SHEET-A_EDITABLE.pdf",
+    "DND/fmafjrv10376846_89481450.pdf",
+    "DND/456029-Optional_Sheet_ABILITY_SHEET_FILLABLE.pdf",
+    "DND/dmg-2022-12-06_10-50am/DM's Guild Creator Resource - Enemies, Foes, and Friends 2/WotC-FR_PlayersGuideToFaerun_piratetelepathy.jpg",
+    "DND/dmg-2022-12-06_10-50am/DM's Guild Creator Resource - Enemies, Foes, and Friends 2/MonsterManual3-whitemonsters2.jpg",
+    "DND/dmg-2022-12-06_10-50am/DM's Guild Creator Resource - Enemies, Foes, and Friends 2/WotC-4e_MM_dragonborn.jpg",
+    "DND/dmg-2022-12-06_10-50am/DM's Guild Creator Resource - Enemies, Foes, and Friends 2/WotC-FR_PlayersGuideToFaerun_snekfriend.jpg",
+    "DND/dmg-2022-12-06_10-50am/DM's Guild Creator Resource - Enemies, Foes, and Friends 2/MonsterManual2_necrobros.jpg",
+    "DND/dmg-2022-12-06_10-50am/DM's Guild Creator Resource - Enemies, Foes, and Friends 2/ElderEvils_creepyglow.jpg",
+    "DND/dmg-2022-12-06_10-50am/DM's Guild Creator Resource - Enemies, Foes, and Friends 2/BookVileDarkness.lunch.jpg",
+    "DND/dmg-2022-12-06_10-50am/DM's Guild Creator Resource - Enemies, Foes, and Friends 2/WotC-4e_OpenGrave_necroelf.jpg",
+    "DND/dmg-2022-12-06_10-50am/DM's Guild Creator Resource - Enemies, Foes, and Friends 2/ElderEvils_monster.jpg",
+    "DND/dmg-2022-12-06_10-49am/Graphic Sets/_DS_Store",
+    "DND/dmg-2022-12-06_10-49am/Graphic Sets/Graveyard Fence",
+    "DND/dmg-2022-12-06_10-49am/Graphic Sets/Cloud Blades",
+    "DND/dmg-2022-12-06_10-49am/Graphic Sets/Arcane Roots",
+    "DND/dmg-2022-12-06_10-49am/Graphic Sets",
+    "DND/dmg-2022-12-06_10-49am/Blank Maps",
+    "DND.SRD.Wiki-master/Monsters/Awakened Shrub (Creature).md",
+    "DND.SRD.Wiki-master/Monsters/Ape (Creature).md",
+    "DND.SRD.Wiki-master/Monsters/Monsters.md",
+    "DND MOC.md",
+    "Party Configuration.md",
+    "DND/dmg-2022-12-06_12-38pm/1453821-Core_5e_Knowledge_-_Quick_Reference_PDF.pdf",
+    "202404111228 Math Notes.md",
+    "DND/DnD/README.md",
+    "202404091231 Math Notes 10.md",
+    "202404021232 Math Notes 9.md",
+    "Math Notes 7.md",
     "Untitled.canvas"
   ]
 }
