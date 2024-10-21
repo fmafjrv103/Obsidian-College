@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "202410211404 Math Notes Pre-calc 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"202410211404 Math Notes Pre-calc 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202410211404 Math Notes Pre-calc 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":17.7997462520119}"
+                },
+                {
                   "title": "Math MOC",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Math MOC\"}",
@@ -40,13 +46,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202410211404 Math Notes Pre-calc 1.md",
+                "file": "202410211443 Gameplan for Pre-Calc.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202410211404 Math Notes Pre-calc 1"
+              "title": "202410211443 Gameplan for Pre-Calc"
             }
           }
         ]
@@ -132,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 513.5
+    "width": 513.5,
+    "collapsed": true
   },
   "right": {
     "id": "f90594313b89809e",
@@ -384,7 +391,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "202410211404 Math Notes Pre-calc 1.md",
+                "file": "202410211443 Gameplan for Pre-Calc.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -455,7 +462,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202410211404 Math Notes Pre-calc 1"
+              "title": "Graph of 202410211443 Gameplan for Pre-Calc"
             }
           }
         ]
@@ -488,10 +495,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "202410211404 Math Notes Pre-calc 1.md",
+    "202410211443 Gameplan for Pre-Calc.md",
     "Media/Pasted image 20241021141827.png",
     "Media/Pasted image 20241021141716.png",
     "Math MOC.md",
-    "202410211404 Math Notes Pre-calc 1.md",
     "040 Interests MOC.md",
     "000 Home.md",
     "202404181229 Math Notes.md",
@@ -516,7 +524,6 @@
     "DND/dmg-2022-12-06_10-50am/DM's Guild Creator Resource - Enemies, Foes, and Friends 2/ElderEvils_creepyglow.jpg",
     "DND/dmg-2022-12-06_10-50am/DM's Guild Creator Resource - Enemies, Foes, and Friends 2/BookVileDarkness.lunch.jpg",
     "DND/dmg-2022-12-06_10-50am/DM's Guild Creator Resource - Enemies, Foes, and Friends 2/WotC-4e_OpenGrave_necroelf.jpg",
-    "DND/dmg-2022-12-06_10-50am/DM's Guild Creator Resource - Enemies, Foes, and Friends 2/ElderEvils_monster.jpg",
     "DND/dmg-2022-12-06_10-49am/Graphic Sets/_DS_Store",
     "DND/dmg-2022-12-06_10-49am/Graphic Sets/Graveyard Fence",
     "DND/dmg-2022-12-06_10-49am/Graphic Sets/Cloud Blades",
