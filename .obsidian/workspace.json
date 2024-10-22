@@ -69,6 +69,30 @@
                   "title": "Math MOC",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Math MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":18.85757542304982}"
+                },
+                {
+                  "title": "040 Interests MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"040 Interests MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":12},\"to\":{\"line\":33,\"ch\":12}},\"scroll\":6}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"000 Home\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":34},\"to\":{\"line\":20,\"ch\":34}}}"
+                },
+                {
+                  "title": "202410211404 Math Notes Pre-calc 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"202410211404 Math Notes Pre-calc 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202410211404 Math Notes Pre-calc 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":6}"
+                },
+                {
+                  "title": "Math MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Math MOC\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":10.481481306183333}"
                 },
                 {
@@ -100,13 +124,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202410211404 Math Notes Pre-calc 1.md",
+                "file": "202410170929 Math Notes Trig.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202410211404 Math Notes Pre-calc 1"
+              "title": "202410170929 Math Notes Trig"
             }
           }
         ],
@@ -446,7 +470,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "202410211404 Math Notes Pre-calc 1.md",
+                "file": "202410170929 Math Notes Trig.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -517,15 +541,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202410211404 Math Notes Pre-calc 1"
+              "title": "Graph of 202410170929 Math Notes Trig"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 637.5,
-    "collapsed": true
+    "width": 637.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -552,10 +575,11 @@
   "active": "c13172736d82fa1d",
   "lastOpenFiles": [
     "Math MOC.md",
-    "202410211404 Math Notes Pre-calc 1.md",
-    "202410211443 Gameplan for Pre-Calc.md",
+    "202410170929 Math Notes Trig.md",
     "040 Interests MOC.md",
     "000 Home.md",
+    "202410211404 Math Notes Pre-calc 1.md",
+    "202410211443 Gameplan for Pre-Calc.md",
     "Media/Pasted image 20241021141827.png",
     "Media/Pasted image 20241021141716.png",
     "202404181229 Math Notes.md",
@@ -566,7 +590,6 @@
     "202410181400 Math Notes Pre-Calc.md",
     "Excel 2024-10-18 14.23.52.sheet.md",
     "202410171104 Keeping my Scholarships.md",
-    "202410170929 Math Notes Trig.md",
     "202410150924 Math Notes.md",
     "DND.SRD.Wiki-master/Monsters (Alt)/Creatures A-C.md",
     "DND/456029-Optional_Sheet_SPELL_SHEET-A_EDITABLE.pdf",
