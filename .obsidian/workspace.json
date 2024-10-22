@@ -54,6 +54,48 @@
               "icon": "lucide-file",
               "title": "202410211443 Gameplan for Pre-Calc"
             }
+          },
+          {
+            "id": "c13172736d82fa1d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Math MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Math MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":17.039700285432637}"
+                },
+                {
+                  "title": "040 Interests MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"040 Interests MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":9},\"to\":{\"line\":33,\"ch\":9}},\"scroll\":6}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"000 Home\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":34},\"to\":{\"line\":20,\"ch\":34}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202410211404 Math Notes Pre-calc 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202410211404 Math Notes Pre-calc 1"
+            }
           }
         ]
       }
@@ -469,7 +511,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 637.5
+    "width": 637.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -496,12 +539,12 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "202410211404 Math Notes Pre-calc 1.md",
-    "202410211443 Gameplan for Pre-Calc.md",
-    "Media/Pasted image 20241021141827.png",
-    "Media/Pasted image 20241021141716.png",
     "Math MOC.md",
     "040 Interests MOC.md",
     "000 Home.md",
+    "202410211443 Gameplan for Pre-Calc.md",
+    "Media/Pasted image 20241021141827.png",
+    "Media/Pasted image 20241021141716.png",
     "202404181229 Math Notes.md",
     "202410071354 MATH1240 Mid-Term Review.md",
     "202410141359 Math Notes.md",
