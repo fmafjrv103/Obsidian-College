@@ -66,6 +66,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "202410170929 Math Notes Trig",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"202410170929 Math Notes Trig.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202410170929 Math Notes Trig\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":1},\"to\":{\"line\":38,\"ch\":1}},\"scroll\":6}"
+                },
+                {
                   "title": "Math MOC",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Math MOC\"}",
@@ -124,13 +130,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202410170929 Math Notes Trig.md",
+                "file": "202410220931 Trig 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202410170929 Math Notes Trig"
+              "title": "202410220931 Trig 1"
             }
           }
         ],
@@ -470,7 +476,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "202410170929 Math Notes Trig.md",
+                "file": "202410220931 Trig 1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -541,7 +547,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202410170929 Math Notes Trig"
+              "title": "Graph of 202410220931 Trig 1"
             }
           }
         ]
@@ -574,8 +580,9 @@
   },
   "active": "c13172736d82fa1d",
   "lastOpenFiles": [
-    "Math MOC.md",
     "202410170929 Math Notes Trig.md",
+    "202410220931 Trig 1.md",
+    "Math MOC.md",
     "040 Interests MOC.md",
     "000 Home.md",
     "202410211404 Math Notes Pre-calc 1.md",
@@ -619,7 +626,6 @@
     "DND/DnD/README.md",
     "202404091231 Math Notes 10.md",
     "202404021232 Math Notes 9.md",
-    "Math Notes 7.md",
     "Untitled.canvas"
   ]
 }

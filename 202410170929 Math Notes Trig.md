@@ -33,9 +33,10 @@ $\begin{align} \sec2x&= \frac{\sec^{2}x}{2-\sec^{2}x} \\ &= \frac{\frac{1}{\cos^
 # Half-Angle
 
 $\sin \frac{u}{2}=\textpm\sqrt{ \frac{1-\cos{u}}{2}}$
+$\begin{align*}\cos \frac{u}{2}&= \textpm\sqrt{ \frac{1+\cos{u}}{2}}\end{align*}$
 
 4. Use the half-angle formula, find the exact value of $\cos22.5\degree$
-
+ 
 $\cos22.5\degree=\cos \frac{45\degree}{2}=\textpm\sqrt{ \frac{1+\cos45\degree}{2}}=\textpm\sqrt{ \frac{1+\frac{\sqrt{2}}{2}}{2}}=\textpm\sqrt{ \frac{2+\sqrt{2}}{4}}$
 
 5. If the $\sin x= \frac{-\sqrt{5}}{3}, \pi\leq x\leq \frac{3\pi}{2}$
