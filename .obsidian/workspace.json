@@ -66,6 +66,54 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Math MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Math MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":8}"
+                },
+                {
+                  "title": "040 Interests MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"040 Interests MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":11},\"to\":{\"line\":33,\"ch\":11}}}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"000 Home\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":32},\"to\":{\"line\":20,\"ch\":32}},\"scroll\":5}"
+                },
+                {
+                  "title": "LaTeX",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"LaTeX.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"LaTeX\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":97,\"ch\":17},\"to\":{\"line\":97,\"ch\":17}},\"scroll\":85.20047768225687}"
+                },
+                {
+                  "title": "Obsidian MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Obsidian MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Obsidian MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":7},\"to\":{\"line\":12,\"ch\":7}},\"scroll\":5}"
+                },
+                {
+                  "title": "040 Interests MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"040 Interests MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":13},\"to\":{\"line\":38,\"ch\":13}},\"scroll\":11.320675016944671}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"000 Home\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":36},\"to\":{\"line\":20,\"ch\":36}}}"
+                },
+                {
+                  "title": "202410220931 Trig 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"202410220931 Trig 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202410220931 Trig 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":4}"
+                },
+                {
                   "title": "202410170929 Math Notes Trig",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"202410170929 Math Notes Trig.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202410170929 Math Notes Trig\"}",
@@ -580,11 +628,13 @@
   },
   "active": "c13172736d82fa1d",
   "lastOpenFiles": [
-    "202410170929 Math Notes Trig.md",
-    "202410220931 Trig 1.md",
     "Math MOC.md",
     "040 Interests MOC.md",
     "000 Home.md",
+    "LaTeX.md",
+    "Obsidian MOC.md",
+    "202410220931 Trig 1.md",
+    "202410170929 Math Notes Trig.md",
     "202410211404 Math Notes Pre-calc 1.md",
     "202410211443 Gameplan for Pre-Calc.md",
     "Media/Pasted image 20241021141827.png",
@@ -624,8 +674,6 @@
     "DND/dmg-2022-12-06_12-38pm/1453821-Core_5e_Knowledge_-_Quick_Reference_PDF.pdf",
     "202404111228 Math Notes.md",
     "DND/DnD/README.md",
-    "202404091231 Math Notes 10.md",
-    "202404021232 Math Notes 9.md",
     "Untitled.canvas"
   ]
 }
