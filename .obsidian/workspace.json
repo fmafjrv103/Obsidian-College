@@ -66,6 +66,126 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "DND MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"DND MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":83,\"ch\":22},\"to\":{\"line\":83,\"ch\":22}},\"scroll\":59.35929612085983}"
+                },
+                {
+                  "title": "040 Interests MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"040 Interests MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":10},\"to\":{\"line\":46,\"ch\":10}},\"scroll\":10.363888820797332}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"000 Home\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":36},\"to\":{\"line\":20,\"ch\":36}}}"
+                },
+                {
+                  "title": "Kuma Club",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Kuma Club.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Kuma Club\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":45},\"to\":{\"line\":11,\"ch\":45}},\"scroll\":7}"
+                },
+                {
+                  "title": "Learning Conceptually",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Learning Conceptually.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Learning Conceptually\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":9},\"to\":{\"line\":36,\"ch\":9}},\"scroll\":18.220082271088955}"
+                },
+                {
+                  "title": "Tora Club",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tora Club.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Tora Club\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":18},\"to\":{\"line\":7,\"ch\":18}},\"scroll\":7}"
+                },
+                {
+                  "title": "Learning Conceptually",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Learning Conceptually.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Learning Conceptually\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":7},\"to\":{\"line\":24,\"ch\":7}},\"scroll\":12.481713436713685}"
+                },
+                {
+                  "title": "202403312237 How to Learn Insanely Difficult Subjects Easily",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"202403312237 How to Learn Insanely Difficult Subjects Easily.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202403312237 How to Learn Insanely Difficult Subjects Easily\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Youtube MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Youtube MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Youtube MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "202403312230 Know Your Chronotype. It Will Chang Your Life",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"202403312230 Know Your Chronotype. It Will Chang Your Life.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202403312230 Know Your Chronotype. It Will Chang Your Life\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Youtube MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Youtube MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Youtube MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":97},\"to\":{\"line\":10,\"ch\":97}},\"scroll\":6}"
+                },
+                {
+                  "title": "040 Interests MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"040 Interests MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":14},\"to\":{\"line\":45,\"ch\":14}},\"scroll\":15.167080191407754}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"000 Home\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":33},\"to\":{\"line\":20,\"ch\":33}}}"
+                },
+                {
+                  "title": "060 Writings MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"060 Writings MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"060 Writings MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":20},\"to\":{\"line\":6,\"ch\":20}},\"scroll\":6}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"000 Home\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":33},\"to\":{\"line\":22,\"ch\":33}},\"scroll\":5.311826413722772}"
+                },
+                {
+                  "title": "Index Front Matter",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Index Front Matter.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Index Front Matter\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Monsters Art",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Monsters Art.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Monsters Art\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":31},\"to\":{\"line\":1,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "DND MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"DND MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":83,\"ch\":22},\"to\":{\"line\":83,\"ch\":22}},\"scroll\":66.57579673283011}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"000 Home\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":9.348611665753142}"
+                },
+                {
+                  "title": "202410220931 Trig 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"202410220931 Trig 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202410220931 Trig 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":12.846368128574982}"
+                },
+                {
                   "title": "Math MOC",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Math MOC\"}",
@@ -178,13 +298,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202410220931 Trig 1.md",
+                "file": "Monsters Art.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202410220931 Trig 1"
+              "title": "Monsters Art"
             }
           }
         ],
@@ -524,7 +644,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "202410220931 Trig 1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -533,7 +652,7 @@
                   "localForelinks": true,
                   "localInterlinks": true,
                   "showTags": false,
-                  "showAttachments": false,
+                  "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": false,
                   "colorGroups": [
@@ -595,7 +714,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202410220931 Trig 1"
+              "title": "Graph view"
             }
           }
         ]
@@ -626,14 +745,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c13172736d82fa1d",
+  "active": "53a91095c0f3296c",
   "lastOpenFiles": [
-    "Math MOC.md",
+    "Monsters Art.md",
+    "DND MOC.md",
     "040 Interests MOC.md",
     "000 Home.md",
+    "Kuma Club.md",
+    "Learning Conceptually.md",
+    "Tora Club.md",
+    "202403312237 How to Learn Insanely Difficult Subjects Easily.md",
+    "Youtube MOC.md",
+    "202403312230 Know Your Chronotype. It Will Chang Your Life.md",
+    "060 Writings MOC.md",
+    "Index Front Matter.md",
+    "202410220931 Trig 1.md",
+    "Math MOC.md",
     "LaTeX.md",
     "Obsidian MOC.md",
-    "202410220931 Trig 1.md",
     "202410170929 Math Notes Trig.md",
     "202410211404 Math Notes Pre-calc 1.md",
     "202410211443 Gameplan for Pre-Calc.md",
@@ -646,9 +775,6 @@
     "202410161357 Math Notes.md",
     "202410181400 Math Notes Pre-Calc.md",
     "Excel 2024-10-18 14.23.52.sheet.md",
-    "202410171104 Keeping my Scholarships.md",
-    "202410150924 Math Notes.md",
-    "DND.SRD.Wiki-master/Monsters (Alt)/Creatures A-C.md",
     "DND/456029-Optional_Sheet_SPELL_SHEET-A_EDITABLE.pdf",
     "DND/fmafjrv10376846_89481450.pdf",
     "DND/456029-Optional_Sheet_ABILITY_SHEET_FILLABLE.pdf",
@@ -666,14 +792,7 @@
     "DND/dmg-2022-12-06_10-49am/Graphic Sets/Arcane Roots",
     "DND/dmg-2022-12-06_10-49am/Graphic Sets",
     "DND/dmg-2022-12-06_10-49am/Blank Maps",
-    "DND.SRD.Wiki-master/Monsters/Awakened Shrub (Creature).md",
-    "DND.SRD.Wiki-master/Monsters/Ape (Creature).md",
-    "DND.SRD.Wiki-master/Monsters/Monsters.md",
-    "DND MOC.md",
-    "Party Configuration.md",
     "DND/dmg-2022-12-06_12-38pm/1453821-Core_5e_Knowledge_-_Quick_Reference_PDF.pdf",
-    "202404111228 Math Notes.md",
-    "DND/DnD/README.md",
     "Untitled.canvas"
   ]
 }

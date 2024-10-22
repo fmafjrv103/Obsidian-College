@@ -81,7 +81,9 @@ Links: [[040 Interests MOC|Interests]]
 - [[1549348-Grimlores_Grimoire_v2.11.1.pdf|Grimlores Grimoire]]
 - [[1453821-Core_5e_Knowledge_-_Quick_Reference_PDF.pdf|Quick Reference]]
 # Art
-
+- [[Monsters Art|Monsters]]
+- [[NPCs Art|NPC]]
+- [[Characters]]
 
 ---
 #### Legal
