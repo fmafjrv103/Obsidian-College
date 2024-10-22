@@ -97,7 +97,8 @@
               "title": "202410211404 Math Notes Pre-calc 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -433,7 +434,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "202410211443 Gameplan for Pre-Calc.md",
+                "file": "202410211404 Math Notes Pre-calc 1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -504,7 +505,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202410211443 Gameplan for Pre-Calc"
+              "title": "Graph of 202410211404 Math Notes Pre-calc 1"
             }
           }
         ]
@@ -536,13 +537,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c13172736d82fa1d",
   "lastOpenFiles": [
+    "202410211443 Gameplan for Pre-Calc.md",
     "202410211404 Math Notes Pre-calc 1.md",
     "Math MOC.md",
     "040 Interests MOC.md",
     "000 Home.md",
-    "202410211443 Gameplan for Pre-Calc.md",
     "Media/Pasted image 20241021141827.png",
     "Media/Pasted image 20241021141716.png",
     "202404181229 Math Notes.md",

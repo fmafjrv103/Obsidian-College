@@ -16,11 +16,11 @@ $\begin{align} \log_{a}a^{x}&=x\\a^{\log_{a}x}&=x \end{align}$
 
 ![[Pasted image 20241021141716.png]]
 ![[Pasted image 20241021141827.png]]
-$\begin{align*} \log_{a}1&=0\\\ln e&=1\\\log_{a}a^{x}&=x\\\log_{a}0&\not\\\log_{a}-2&\not\\\log_{a}(BC)&=\log_{a}B+\log_{a}C\\\log_{a}\left( \frac{B}{C}\right)&=\log_{a}B-\log_{a}C\\\log_{a}(B^{C})&=C\log_{a}B \end{align*}$
+$\begin{align*} \log_{a}1&=0\\\ln e&=1\\\log_{a}a^{x}&=x\\\log_{a}0&\nexists\\\log_{a}-2&\nexists\\\log_{a}(BC)&=\log_{a}B+\log_{a}C\\\log_{a}\left( \frac{B}{C}\right)&=\log_{a}B-\log_{a}C\\\log_{a}(B^{C})&=C\log_{a}B \end{align*}$
 
 $\begin{align*}\ln \frac{5}{7t^{2}}&=\ln 5-\ln(7t^2)\\&=\ln5-(\ln7+\ln t^{2)}\\&=\ln5-\ln7-\ln t^2\end{align*}$
 
-$\begin{align*} \log\nsqrt{3}{x^{2}+4}&=\log(x^{2}+4)^{ \frac{1}{3}}\\&= \frac{1}{3}\log(x^{2}+4) \end{align*}$
+$\begin{align*} \log\sqrt{3}{x^{2}+4}&=\log(x^{2}+4)^{ \frac{1}{3}}\\&= \frac{1}{3}\log(x^{2}+4) \end{align*}$
 $\begin{align*} \ln(\ln e^{e^{20}})&=\ln e^{20}=20 \end{align*}$
 $\begin{align*} 3\ln2+2\ln x- \frac{1}{2}\ln(x+4)&= \ln2^{3}+\ln x^{2}-\ln\sqrt{x+4}\\&= \ln \frac{2^{3}x^{2}}{\sqrt{x+4}}  \end{align*}$
 $\begin{align*}\log_{b}C&= y\\ b^{\log_{b}^{c}}&= b^{y}\\C&= b^{y}\end{align*}$
