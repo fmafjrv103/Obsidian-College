@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "202410211404 Math Notes Pre-calc 1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"202410211404 Math Notes Pre-calc 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202410211404 Math Notes Pre-calc 1\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":17.7997462520119}"
-                },
-                {
-                  "title": "Math MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Math MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":10.481481306183333}"
-                },
-                {
-                  "title": "040 Interests MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"040 Interests MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":8},\"to\":{\"line\":33,\"ch\":8}},\"scroll\":6}"
-                },
-                {
-                  "title": "000 Home",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"000 Home\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":32},\"to\":{\"line\":20,\"ch\":32}},\"scroll\":5}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202410211443 Gameplan for Pre-Calc.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "202410211443 Gameplan for Pre-Calc"
-            }
-          },
-          {
             "id": "c13172736d82fa1d",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -64,6 +16,36 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Math MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Math MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":13.067560224504405}"
+                },
+                {
+                  "title": "040 Interests MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"040 Interests MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":10},\"to\":{\"line\":33,\"ch\":10}},\"scroll\":15.564595694241687}"
+                },
+                {
+                  "title": "000 Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"000 Home\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":37},\"to\":{\"line\":20,\"ch\":37}}}"
+                },
+                {
+                  "title": "Index Front Matter",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Index Front Matter.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Index Front Matter\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Monsters Art",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Monsters Art.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Monsters Art\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":7.448642601097622}"
                 },
                 {
                   "title": "DND MOC",
@@ -298,17 +280,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monsters Art.md",
+                "file": "202410211404 Math Notes Pre-calc 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monsters Art"
+              "title": "202410211404 Math Notes Pre-calc 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -644,6 +625,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "202410211404 Math Notes Pre-calc 1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -714,7 +696,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 202410211404 Math Notes Pre-calc 1"
             }
           }
         ]
@@ -745,12 +727,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "53a91095c0f3296c",
+  "active": "c13172736d82fa1d",
   "lastOpenFiles": [
-    "Monsters Art.md",
-    "DND MOC.md",
+    "Math MOC.md",
     "040 Interests MOC.md",
     "000 Home.md",
+    "Index Front Matter.md",
+    "Monsters Art.md",
+    "DND MOC.md",
     "Kuma Club.md",
     "Learning Conceptually.md",
     "Tora Club.md",
@@ -758,9 +742,7 @@
     "Youtube MOC.md",
     "202403312230 Know Your Chronotype. It Will Chang Your Life.md",
     "060 Writings MOC.md",
-    "Index Front Matter.md",
     "202410220931 Trig 1.md",
-    "Math MOC.md",
     "LaTeX.md",
     "Obsidian MOC.md",
     "202410170929 Math Notes Trig.md",
