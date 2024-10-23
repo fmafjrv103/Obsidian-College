@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "DND MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"DND MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":83,\"ch\":20},\"to\":{\"line\":83,\"ch\":20}},\"scroll\":64.78695338866724}"
+                },
+                {
+                  "title": "202410211404 Math Notes Pre-calc 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"202410211404 Math Notes Pre-calc 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202410211404 Math Notes Pre-calc 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":6}"
+                },
+                {
                   "title": "Math MOC",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Math MOC\"}",
@@ -280,13 +292,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202410211404 Math Notes Pre-calc 1.md",
+                "file": "Monsters Art.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202410211404 Math Notes Pre-calc 1"
+              "title": "Monsters Art"
             }
           }
         ]
@@ -625,7 +637,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "202410211404 Math Notes Pre-calc 1.md",
+                "file": "Monsters Art.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -696,7 +708,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202410211404 Math Notes Pre-calc 1"
+              "title": "Graph of Monsters Art"
             }
           }
         ]
@@ -729,12 +741,13 @@
   },
   "active": "c13172736d82fa1d",
   "lastOpenFiles": [
+    "DND MOC.md",
+    "202410211404 Math Notes Pre-calc 1.md",
     "Math MOC.md",
     "040 Interests MOC.md",
     "000 Home.md",
     "Index Front Matter.md",
     "Monsters Art.md",
-    "DND MOC.md",
     "Kuma Club.md",
     "Learning Conceptually.md",
     "Tora Club.md",
@@ -746,7 +759,6 @@
     "LaTeX.md",
     "Obsidian MOC.md",
     "202410170929 Math Notes Trig.md",
-    "202410211404 Math Notes Pre-calc 1.md",
     "202410211443 Gameplan for Pre-Calc.md",
     "Media/Pasted image 20241021141827.png",
     "Media/Pasted image 20241021141716.png",

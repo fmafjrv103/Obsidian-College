@@ -1,3 +1,10 @@
+---
+date: 2024-10-23 13:16:51
+tags:
+---
+Links: 
+___
+
 ![[MonsterManual.allteeth.jpg|inlL|100%]]![[MonsterManual.angel.jpg|inl|500]]![[MonsterManual.allteeth3.jpg|inlR|100%]]
 ![[MonsterManual.allteeth2.jpg|inlL|100%]]![[MonsterManual.allseeing.jpg|inlM|500]]![[MonsterManual3-ape.jpg|inlR|100%]]
 
