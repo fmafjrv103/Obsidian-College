@@ -11,11 +11,29 @@
             "id": "c13172736d82fa1d",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "MonsManV_bluecarapace",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-50am/DM's Guild Creator Resource - Creatures 2/MonsManV_bluecarapace.jpg\"},\"icon\":\"lucide-image\",\"title\":\"MonsManV_bluecarapace\"}",
+                  "eState": "{}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "DND MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"DND MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":83,\"ch\":22},\"to\":{\"line\":83,\"ch\":22}},\"scroll\":74.23478055935621}"
+                },
+                {
+                  "title": "202410231417 Math Notes Pre-Calc 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"202410231417 Math Notes Pre-Calc 2.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202410231417 Math Notes Pre-Calc 2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":0},\"to\":{\"line\":24,\"ch\":0}},\"scroll\":18.90341192683337}"
                 },
                 {
                   "title": "Monsters Art",
@@ -298,13 +316,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202410231417 Math Notes Pre-Calc 2.md",
+                "file": "Monsters Art.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202410231417 Math Notes Pre-Calc 2"
+              "title": "Monsters Art"
             }
           }
         ]
@@ -390,8 +408,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 513.5,
-    "collapsed": true
+    "width": 513.5
   },
   "right": {
     "id": "f90594313b89809e",
@@ -595,7 +612,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "be49819afffadbc4",
@@ -643,7 +660,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "202410231417 Math Notes Pre-Calc 2.md",
+                "file": "Monsters Art.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -714,14 +731,15 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202410231417 Math Notes Pre-Calc 2"
+              "title": "Graph of Monsters Art"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 547.5
+    "width": 547.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -747,11 +765,13 @@
   },
   "active": "c13172736d82fa1d",
   "lastOpenFiles": [
+    "DND/dmg-2022-12-06_10-50am/DM's Guild Creator Resource - Creatures 2/MonsManV_bluecarapace.jpg",
+    "Monsters Art.md",
+    "DND/dmg-2022-12-06_10-50am/DM's Guild Creator Resource - Creatures 2/MonsManV_reptile.jpg",
+    "DND MOC.md",
+    "202410231417 Math Notes Pre-Calc 2.md",
     "Media/Pasted image 20241023143319.png",
     "Media/Pasted image 20241023143145.png",
-    "Monsters Art.md",
-    "202410231417 Math Notes Pre-Calc 2.md",
-    "DND MOC.md",
     "202410211404 Math Notes Pre-calc 1.md",
     "Math MOC.md",
     "040 Interests MOC.md",
@@ -784,8 +804,6 @@
     "DND/dmg-2022-12-06_10-50am/DM's Guild Creator Resource - Enemies, Foes, and Friends 2/WotC-4e_MM_dragonborn.jpg",
     "DND/dmg-2022-12-06_10-50am/DM's Guild Creator Resource - Enemies, Foes, and Friends 2/WotC-FR_PlayersGuideToFaerun_snekfriend.jpg",
     "DND/dmg-2022-12-06_10-50am/DM's Guild Creator Resource - Enemies, Foes, and Friends 2/MonsterManual2_necrobros.jpg",
-    "DND/dmg-2022-12-06_10-50am/DM's Guild Creator Resource - Enemies, Foes, and Friends 2/ElderEvils_creepyglow.jpg",
-    "DND/dmg-2022-12-06_10-50am/DM's Guild Creator Resource - Enemies, Foes, and Friends 2/BookVileDarkness.lunch.jpg",
     "DND/dmg-2022-12-06_10-49am/Graphic Sets/_DS_Store",
     "DND/dmg-2022-12-06_10-49am/Graphic Sets/Graveyard Fence",
     "DND/dmg-2022-12-06_10-49am/Graphic Sets/Cloud Blades",
