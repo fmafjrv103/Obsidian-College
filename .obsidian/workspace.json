@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6d1b06881d6e4ab6",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,77 +18,413 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "202410251405 Math Notes Pre-Calc 3",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"202410251405 Math Notes Pre-Calc 3.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202410251405 Math Notes Pre-Calc 3\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":339},\"to\":{\"line\":18,\"ch\":339}},\"scroll\":6}"
-                },
-                {
-                  "title": "Math MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Math MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":13.764377212247448}"
-                },
-                {
-                  "title": "040 Interests MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"040 Interests MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":8},\"to\":{\"line\":33,\"ch\":8}},\"scroll\":13.082638416810324}"
-                },
-                {
-                  "title": "000 Home",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"000 Home\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":33},\"to\":{\"line\":20,\"ch\":33}},\"scroll\":5.874058752232234}"
-                },
-                {
-                  "title": "BookVileDarkness.allies",
+                  "title": "WotC-4e_OpenGrave_ghostlytentacles",
                   "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-50am/DM's Guild Creator Resource - Enemies, Foes, and Friends 2/BookVileDarkness.allies.jpg\"},\"icon\":\"lucide-image\",\"title\":\"BookVileDarkness.allies\"}",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-53am/DM's Guild Creator Resource - Undead 4/WotC-4e_OpenGrave_ghostlytentacles.jpg\"},\"icon\":\"lucide-image\",\"title\":\"WotC-4e_OpenGrave_ghostlytentacles\"}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Monsters Art",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Monsters Art.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Monsters Art\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":7.9967466921509205}"
+                  "title": "WotC-4e_OpenGrave_ghost",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-53am/DM's Guild Creator Resource - Undead 4/WotC-4e_OpenGrave_ghost.jpg\"},\"icon\":\"lucide-image\",\"title\":\"WotC-4e_OpenGrave_ghost\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "WotC-4e_OpenGrave_drowned",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-53am/DM's Guild Creator Resource - Undead 4/WotC-4e_OpenGrave_drowned.jpg\"},\"icon\":\"lucide-image\",\"title\":\"WotC-4e_OpenGrave_drowned\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "WotC-FiendFolio_crystal",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-53am/DM's Guild Creator Resource - Treasures/WotC-FiendFolio_crystal.jpg\"},\"icon\":\"lucide-image\",\"title\":\"WotC-FiendFolio_crystal\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "WotC-FiendFolio_bones",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-53am/DM's Guild Creator Resource - Treasures/WotC-FiendFolio_bones.jpg\"},\"icon\":\"lucide-image\",\"title\":\"WotC-FiendFolio_bones\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "WotC-Draconomicon-dragonteethstaff",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-53am/DM's Guild Creator Resource - Treasures/WotC-Draconomicon-dragonteethstaff.jpg\"},\"icon\":\"lucide-image\",\"title\":\"WotC-Draconomicon-dragonteethstaff\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "WotC-Draconomicon-dragonstaff",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-53am/DM's Guild Creator Resource - Treasures/WotC-Draconomicon-dragonstaff.jpg\"},\"icon\":\"lucide-image\",\"title\":\"WotC-Draconomicon-dragonstaff\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "WotC-Draconomicon-dragonring",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-53am/DM's Guild Creator Resource - Treasures/WotC-Draconomicon-dragonring.jpg\"},\"icon\":\"lucide-image\",\"title\":\"WotC-Draconomicon-dragonring\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "WotC-Draconomicon-dragonfingerpiece",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-53am/DM's Guild Creator Resource - Treasures/WotC-Draconomicon-dragonfingerpiece.jpg\"},\"icon\":\"lucide-image\",\"title\":\"WotC-Draconomicon-dragonfingerpiece\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "WotC-Draconomicon-dragoncloak",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-53am/DM's Guild Creator Resource - Treasures/WotC-Draconomicon-dragoncloak.jpg\"},\"icon\":\"lucide-image\",\"title\":\"WotC-Draconomicon-dragoncloak\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "WotC-Draconomicon-dragonbook",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-53am/DM's Guild Creator Resource - Treasures/WotC-Draconomicon-dragonbook.jpg\"},\"icon\":\"lucide-image\",\"title\":\"WotC-Draconomicon-dragonbook\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "treasure2",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-53am/DM's Guild Creator Resource - Treasures/treasure2.jpg\"},\"icon\":\"lucide-image\",\"title\":\"treasure2\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "MonsterManual3-faketreasure",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-53am/DM's Guild Creator Resource - Treasures/MonsterManual3-faketreasure.jpg\"},\"icon\":\"lucide-image\",\"title\":\"MonsterManual3-faketreasure\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "MonsterManual.fivedragons",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-53am/DM's Guild Creator Resource - Treasures/MonsterManual.fivedragons.jpg\"},\"icon\":\"lucide-image\",\"title\":\"MonsterManual.fivedragons\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "BookVileDarkness.tome",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-53am/DM's Guild Creator Resource - Treasures/BookVileDarkness.tome.jpg\"},\"icon\":\"lucide-image\",\"title\":\"BookVileDarkness.tome\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "BookVileDarkness.pigsticker",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-53am/DM's Guild Creator Resource - Treasures/BookVileDarkness.pigsticker.jpg\"},\"icon\":\"lucide-image\",\"title\":\"BookVileDarkness.pigsticker\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Forgotten_Realms_Style_Guide",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-52am/Forgotten_Realms_Style_Guide.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"Forgotten_Realms_Style_Guide\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Fool's Fortune",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-52am/DMs GUILD MAPS/Fool's Fortune.jpg\"},\"icon\":\"lucide-image\",\"title\":\"Fool's Fortune\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Fire Knives Hideout",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-52am/DMs GUILD MAPS/Fire Knives Hideout.jpg\"},\"icon\":\"lucide-image\",\"title\":\"Fire Knives Hideout\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Dungeon of the Screaming Well",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-52am/DMs GUILD MAPS/Dungeon of the Screaming Well.jpg\"},\"icon\":\"lucide-image\",\"title\":\"Dungeon of the Screaming Well\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Crypt of the Bitter Duke",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-52am/DMs GUILD MAPS/Crypt of the Bitter Duke.jpg\"},\"icon\":\"lucide-image\",\"title\":\"Crypt of the Bitter Duke\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Cave of the Laughing Oracle",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-52am/DMs GUILD MAPS/Cave of the Laughing Oracle.jpg\"},\"icon\":\"lucide-image\",\"title\":\"Cave of the Laughing Oracle\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Bleak Graveyard",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-52am/DMs GUILD MAPS/Bleak Graveyard.jpg\"},\"icon\":\"lucide-image\",\"title\":\"Bleak Graveyard\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "WotC-FiendFolio_bots",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-52am/DM's Guild Creator Resource - Machina/WotC-FiendFolio_bots.jpg\"},\"icon\":\"lucide-image\",\"title\":\"WotC-FiendFolio_bots\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "MonsterManual2_mechs2",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-52am/DM's Guild Creator Resource - Machina/MonsterManual2_mechs2.jpg\"},\"icon\":\"lucide-image\",\"title\":\"MonsterManual2_mechs2\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "MonsterManual2_machina2",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-52am/DM's Guild Creator Resource - Machina/MonsterManual2_machina2.jpg\"},\"icon\":\"lucide-image\",\"title\":\"MonsterManual2_machina2\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "MonsterManual2_machina",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-52am/DM's Guild Creator Resource - Machina/MonsterManual2_machina.jpg\"},\"icon\":\"lucide-image\",\"title\":\"MonsterManual2_machina\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "mech2",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-52am/DM's Guild Creator Resource - Machina/mech2.jpg\"},\"icon\":\"lucide-image\",\"title\":\"mech2\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "MonsterManual.dragonsinthesky",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-52am/DM's Guild Creator Resource - Locations/MonsterManual.dragonsinthesky.jpg\"},\"icon\":\"lucide-image\",\"title\":\"MonsterManual.dragonsinthesky\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "MonsterManual.crypt",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-52am/DM's Guild Creator Resource - Locations/MonsterManual.crypt.jpg\"},\"icon\":\"lucide-image\",\"title\":\"MonsterManual.crypt\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "LibrisMortis_wraith3",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-52am/DM's Guild Creator Resource - Locations/LibrisMortis_wraith3.jpg\"},\"icon\":\"lucide-image\",\"title\":\"LibrisMortis_wraith3\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "LibrisMortis_graves",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-52am/DM's Guild Creator Resource - Locations/LibrisMortis_graves.jpg\"},\"icon\":\"lucide-image\",\"title\":\"LibrisMortis_graves\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "armorgiant",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-51am/scenesandsymbols/armorgiant.jpg\"},\"icon\":\"lucide-image\",\"title\":\"armorgiant\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "armor",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-51am/scenesandsymbols/armor.jpg\"},\"icon\":\"lucide-image\",\"title\":\"armor\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "altissa",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-51am/scenesandsymbols/altissa.jpg\"},\"icon\":\"lucide-image\",\"title\":\"altissa\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "airfight",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-51am/scenesandsymbols/airfight.jpg\"},\"icon\":\"lucide-image\",\"title\":\"airfight\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "building",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-51am/maps/building.jpg\"},\"icon\":\"lucide-image\",\"title\":\"building\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "breland",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-51am/maps/breland.jpg\"},\"icon\":\"lucide-image\",\"title\":\"breland\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "babyrinth",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-51am/maps/babyrinth.jpg\"},\"icon\":\"lucide-image\",\"title\":\"babyrinth\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "argo",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-51am/maps/argo.jpg\"},\"icon\":\"lucide-image\",\"title\":\"argo\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "beholder",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-51am/heroesandvillains/beholder.jpg\"},\"icon\":\"lucide-image\",\"title\":\"beholder\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "beepbop",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-51am/heroesandvillains/beepbop.jpg\"},\"icon\":\"lucide-image\",\"title\":\"beepbop\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "balcony",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-51am/heroesandvillains/balcony.jpg\"},\"icon\":\"lucide-image\",\"title\":\"balcony\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "back",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-51am/heroesandvillains/back.jpg\"},\"icon\":\"lucide-image\",\"title\":\"back\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "armorarmy",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-51am/heroesandvillains/armorarmy.jpg\"},\"icon\":\"lucide-image\",\"title\":\"armorarmy\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "archer2",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-51am/heroesandvillains/archer2.jpg\"},\"icon\":\"lucide-image\",\"title\":\"archer2\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "archer",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-51am/heroesandvillains/archer.jpg\"},\"icon\":\"lucide-image\",\"title\":\"archer\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "angel",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-51am/heroesandvillains/angel.jpg\"},\"icon\":\"lucide-image\",\"title\":\"angel\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "amp",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-51am/heroesandvillains/amp.jpg\"},\"icon\":\"lucide-image\",\"title\":\"amp\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "altar",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-51am/heroesandvillains/altar.jpg\"},\"icon\":\"lucide-image\",\"title\":\"altar\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "pageNumber",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-49am/Graphic Sets/Graveyard Fence/pageNumber.png\"},\"icon\":\"lucide-image\",\"title\":\"pageNumber\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "halfPageDivideB",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-49am/Graphic Sets/Graveyard Fence/halfPageDivideB.png\"},\"icon\":\"lucide-image\",\"title\":\"halfPageDivideB\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "halfPageDivideA",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-49am/Graphic Sets/Graveyard Fence/halfPageDivideA.png\"},\"icon\":\"lucide-image\",\"title\":\"halfPageDivideA\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "fullPageDivide",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-49am/Graphic Sets/Graveyard Fence/fullPageDivide.png\"},\"icon\":\"lucide-image\",\"title\":\"fullPageDivide\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "pageNumberB",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-49am/Graphic Sets/Cloud Blades/pageNumberB.png\"},\"icon\":\"lucide-image\",\"title\":\"pageNumberB\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "halfPageDivide",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-49am/Graphic Sets/Cloud Blades/halfPageDivide.png\"},\"icon\":\"lucide-image\",\"title\":\"halfPageDivide\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "fullPageDivide",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-49am/Graphic Sets/Cloud Blades/fullPageDivide.png\"},\"icon\":\"lucide-image\",\"title\":\"fullPageDivide\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "pageNumberB",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-49am/Graphic Sets/Arcane Roots/pageNumberB.png\"},\"icon\":\"lucide-image\",\"title\":\"pageNumberB\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "pageNumberA",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-49am/Graphic Sets/Arcane Roots/pageNumberA.png\"},\"icon\":\"lucide-image\",\"title\":\"pageNumberA\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "halfPageDivide",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-49am/Graphic Sets/Arcane Roots/halfPageDivide.png\"},\"icon\":\"lucide-image\",\"title\":\"halfPageDivide\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "fullPageDivide",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DND/dmg-2022-12-06_10-49am/Graphic Sets/Arcane Roots/fullPageDivide.png\"},\"icon\":\"lucide-image\",\"title\":\"fullPageDivide\"}",
+                  "eState": "{}"
                 },
                 {
                   "title": "DND MOC",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"DND MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":83,\"ch\":21},\"to\":{\"line\":83,\"ch\":21}},\"scroll\":61.26210882769858}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":74.23478055935621}"
                 },
                 {
-                  "title": "Math MOC",
+                  "title": "Monsters Art",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Math MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":18.627317607804272}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Monsters Art.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Monsters Art\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":14},\"to\":{\"line\":5,\"ch\":14}},\"scroll\":5}"
+                },
+                {
+                  "title": "DND MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DND MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"DND MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":83,\"ch\":20},\"to\":{\"line\":83,\"ch\":20}},\"scroll\":54.212419705761285}"
                 },
                 {
                   "title": "040 Interests MOC",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"040 Interests MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"040 Interests MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":8},\"to\":{\"line\":33,\"ch\":8}},\"scroll\":6}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":10},\"to\":{\"line\":46,\"ch\":10}},\"scroll\":13.082638416810324}"
                 },
                 {
                   "title": "000 Home",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"000 Home\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":34},\"to\":{\"line\":20,\"ch\":34}},\"scroll\":5.401594561836432}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":35},\"to\":{\"line\":20,\"ch\":35}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Home.md",
+                "file": "DND.SRD.Wiki-master/Characterizations/Alignment.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "000 Home"
+              "title": "Alignment"
             }
           }
         ]
@@ -174,8 +510,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 513.5,
-    "collapsed": true
+    "width": 513.5
   },
   "right": {
     "id": "f90594313b89809e",
@@ -379,7 +714,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "be49819afffadbc4",
@@ -427,7 +762,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -498,7 +832,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 000 Home"
+              "title": "Graph view"
             }
           }
         ]
@@ -529,24 +863,39 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6d1b06881d6e4ab6",
+  "active": "53a91095c0f3296c",
   "lastOpenFiles": [
-    "202410251405 Math Notes Pre-Calc 3.md",
-    "Math MOC.md",
+    "DND/dmg-2024-10-26_05-40pm/DMsGuild_Promo_Graphics/DMsGuild_New_Wide.png",
+    "DND/dmg-2024-10-26_05-40pm/DMsGuild_Promo_Graphics/DMsGuild_Coming_Soon.png",
+    "DND/dmg-2024-10-26_05-40pm/DMsGuild_Promo_Graphics/DMsGuild_ComingSoon_Tall.png",
+    "DND/dmg-2024-10-26_05-40pm/DMsGuild_Promo_Graphics/DMsGuild_ComingSoon_Insta.png",
+    "DND/dmg-2024-10-26_05-40pm/DMsGuild_Promo_Graphics/DMsGuild_Available_Long.png",
+    "DND/dmg-2024-10-26_05-40pm/DMsGuild_Promo_Graphics/DMsGuild_AvailableNow (Instagram Post).png",
+    "DND/dmg-2024-10-26_05-40pm/DMsGuild_Promo_Graphics",
+    "DND/dmg-2024-10-26_05-40pm/3665454-5e_Milestones_sheets.pdf",
+    "DND/dmg-2024-10-26_05-40pm/1855262-Urban_random_encounters.pdf",
+    "DND/dmg-2024-10-26_05-40pm/1630695-puzzle_-_avurian_planetarium.pdf",
+    "DND/dmg-2024-10-26_05-40pm/793463-UniqueCompanions_Set1.pdf",
+    "DND/dmg-2024-10-26_05-40pm/DMsGuild_Promo_Graphics.zip",
+    "DND/dmg-2024-10-26_05-40pm",
+    "DND/dmg-2024-10-26_05-40pm.zip",
+    "DND/Unconfirmed 454935.crdownload",
+    "DND.SRD.Wiki-master/Characterizations/Alignment.md",
+    "DND/dmg-2022-12-06_10-53am/DM's Guild Creator Resource - Undead 4/WotC-4e_OpenGrave_ghostlytentacles.jpg",
+    "DND/dmg-2022-12-06_10-53am/DM's Guild Creator Resource - Undead 4/WotC-4e_OpenGrave_ghost.jpg",
+    "DND/dmg-2022-12-06_10-53am/DM's Guild Creator Resource - Undead 4/WotC-4e_OpenGrave_drowned.jpg",
+    "DND/dmg-2022-12-06_10-53am/DM's Guild Creator Resource - Treasures/WotC-FiendFolio_crystal.jpg",
+    "DND/dmg-2022-12-06_10-53am/DM's Guild Creator Resource - Treasures/WotC-FiendFolio_bones.jpg",
+    "DND/dmg-2022-12-06_10-52am/Forgotten_Realms_Style_Guide.pdf",
+    "DND MOC.md",
+    "Monsters Art.md",
     "040 Interests MOC.md",
     "000 Home.md",
-    "DND/dmg-2022-12-06_10-50am/DM's Guild Creator Resource - Enemies, Foes, and Friends 2/BookVileDarkness.allies.jpg",
-    "Monsters Art.md",
-    "DND/dmg-2022-12-06_10-50am/DM's Guild Creator Resource - Creatures 4/MonsterManual-slimyfrog.jpg",
-    "DND/dmg-2022-12-06_10-50am/DM's Guild Creator Resource - Creatures 2/MonsterManual.whips.jpg",
-    "DND/dmg-2022-12-06_10-50am/DM's Guild Creator Resource - Creatures 2/MonsManV_bluecarapace.jpg",
-    "DND MOC.md",
+    "202410251405 Math Notes Pre-Calc 3.md",
+    "Math MOC.md",
     "202410240929 Math Notes Trig 2.md",
     "Index Front Matter.md",
-    "DND/dmg-2022-12-06_10-50am/DM's Guild Creator Resource - Creatures 2/MonsManV_reptile.jpg",
     "202410231417 Math Notes Pre-Calc 2.md",
-    "Media/Pasted image 20241023143319.png",
-    "Media/Pasted image 20241023143145.png",
     "202410211404 Math Notes Pre-calc 1.md",
     "Kuma Club.md",
     "Learning Conceptually.md",
@@ -560,22 +909,8 @@
     "Obsidian MOC.md",
     "202410170929 Math Notes Trig.md",
     "202410211443 Gameplan for Pre-Calc.md",
-    "Media/Pasted image 20241021141827.png",
-    "Media/Pasted image 20241021141716.png",
     "202404181229 Math Notes.md",
     "202410071354 MATH1240 Mid-Term Review.md",
-    "202410141359 Math Notes.md",
-    "DND/456029-Optional_Sheet_SPELL_SHEET-A_EDITABLE.pdf",
-    "DND/fmafjrv10376846_89481450.pdf",
-    "DND/456029-Optional_Sheet_ABILITY_SHEET_FILLABLE.pdf",
-    "DND/dmg-2022-12-06_10-50am/DM's Guild Creator Resource - Enemies, Foes, and Friends 2/WotC-FR_PlayersGuideToFaerun_piratetelepathy.jpg",
-    "DND/dmg-2022-12-06_10-49am/Graphic Sets/_DS_Store",
-    "DND/dmg-2022-12-06_10-49am/Graphic Sets/Graveyard Fence",
-    "DND/dmg-2022-12-06_10-49am/Graphic Sets/Cloud Blades",
-    "DND/dmg-2022-12-06_10-49am/Graphic Sets/Arcane Roots",
-    "DND/dmg-2022-12-06_10-49am/Graphic Sets",
-    "DND/dmg-2022-12-06_10-49am/Blank Maps",
-    "DND/dmg-2022-12-06_12-38pm/1453821-Core_5e_Knowledge_-_Quick_Reference_PDF.pdf",
     "Untitled.canvas"
   ]
 }
